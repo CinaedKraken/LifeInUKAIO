@@ -15,21 +15,13 @@ export default function StudyIndexPage() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 w-full">
-      <div className="flex justify-between items-center mb-8">
-        <div>
-          <h1 className="text-3xl font-black text-gray-900">
-            {isEnglish ? "Study Guide" : "溫習指南"}
-          </h1>
-          <p className="text-sm text-gray-500 mt-1">
-            {isEnglish ? "Official syllabus key learning points" : "官方核心考點精華溫習"}
-          </p>
-        </div>
-        <button
-          onClick={toggleLanguage}
-          className="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-300 font-bold text-gray-700 bg-white hover:bg-gray-100 transition-colors shadow-xs cursor-pointer text-sm"
-        >
-          <span>EN / 繁</span>
-        </button>
+      <div className="mb-8">
+        <h1 className="text-3xl font-black text-gray-900">
+          {isEnglish ? "Study Guide" : "溫習指南"}
+        </h1>
+        <p className="text-sm text-gray-500 mt-1">
+          {isEnglish ? "Official syllabus key learning points" : "官方核心考點精華溫習"}
+        </p>
       </div>
 
       {/* THE 6TH SECTOR: Only revealed after the first content is flagged! */}

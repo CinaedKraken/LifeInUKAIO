@@ -5,6 +5,7 @@ import { MockTestSet, Progress } from "@/types";
 import BilingualText from "@/components/BilingualText";
 import ResultsClient from "./ResultsClient";
 import { calculateScore } from "@/utils/score";
+import { recordTestResults } from "@/utils/mistakes";
 
 import { safeGetItem, safeSetItem } from "@/utils/storage";
 
@@ -60,6 +61,9 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
     const progress = readProgress();
     progress[mockTest.setId] = { score: newScore, passed, answers };
     writeProgress(progress);
+
+    // Save failed questions to Mistakes Bank
+    recordTestResults(mockTest, answers);
   };
 
   const handleSelect = (optionId: string) => {

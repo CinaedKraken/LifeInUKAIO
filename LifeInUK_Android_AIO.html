@@ -1127,6 +1127,10 @@
         </button>
         
         <div class="card-header-tools">
+          <button id="btnClearFlagged" class="tool-btn hidden" onclick="confirmClearAllBookmarks()" title="Clear all bookmarks" style="color:var(--danger); border-color:var(--danger-border); background:var(--danger-bg);">
+            <span>🗑️</span>
+            <span id="txtClearFlagged" style="font-size:0.85rem;">Clear</span>
+          </button>
           <button id="btnShuffleStudy" class="tool-btn" onclick="toggleStudyShuffle()" title="Shuffle sequence">
             <span>🔀</span>
             <span id="txtShuffleStudy" style="font-size:0.85rem;">Order</span>
@@ -1147,6 +1151,15 @@
           <span id="studyCounter">1 / 112 ▾</span>
         </button>
         <span id="studySectorPill" style="font-size:0.85rem; color:var(--text-sub); font-weight:700;">Sector 1</span>
+      </div>
+
+      <!-- Content Jump Slider (Interactive scrubber) -->
+      <div class="study-slider-box" style="margin: 8px 0 12px 0; display: flex; align-items: center; gap: 10px; background: var(--card-bg); padding: 8px 14px; border-radius: 10px; border: 1px solid var(--border);">
+        <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-sub); white-space: nowrap;" id="txtJumpSliderLabel">Jump:</span>
+        <input type="range" id="studyInlineSlider" min="1" max="100" value="1"
+          style="flex: 1; accent-color: var(--primary); cursor: pointer; height: 6px;"
+          oninput="handleInlineStudySlider(this.value)">
+        <span id="studySliderValueBadge" style="font-size: 0.85rem; font-weight: 800; color: var(--primary); min-width: 48px; text-align: right;">1 / 100</span>
       </div>
 
       <div id="touchCardArea" class="flashcard-box">
@@ -1181,6 +1194,25 @@
         <div class="summary-card">
           <div class="summary-label" id="txtStatAvg">Avg Score</div>
           <div class="summary-val" id="statAvgScore">--</div>
+        </div>
+      </div>
+
+      <!-- Mistakes Bank Entry Card -->
+      <div id="mistakesBankCard" class="test-card" style="background: linear-gradient(135deg, var(--card-bg), var(--amber-bg)); border-color: var(--amber-border); margin-bottom: 14px;" onclick="openMistakesReview()">
+        <div style="display:flex; align-items:center; gap:14px;">
+          <span style="font-size:2.2rem;">📕</span>
+          <div>
+            <div class="test-info-title" style="display:flex; align-items:center; gap:8px;">
+              <span id="txtMistakesCardTitle">錯題溫習庫 (Mistakes Bank)</span>
+              <span class="test-status-badge badge-failed" id="mistakesBadgeCount" style="padding:2px 8px; font-size:0.8rem;">0 題</span>
+            </div>
+            <div class="test-info-sub" id="txtMistakesCardSub">自動收錄模擬考試答錯的題目，隨時重溫突破弱點</div>
+          </div>
+        </div>
+        <div style="flex-shrink:0;">
+          <button class="btn-header-tool" style="font-weight:700; color:var(--primary); padding:6px 12px;">
+            <span id="txtOpenMistakes">Review →</span>
+          </button>
         </div>
       </div>
 
@@ -1271,7 +1303,12 @@
           </button>
         </div>
 
-        <button class="btn-header-tool" onclick="retakeCurrentTest()">
+        <button id="btnClearAllMistakes" class="btn-header-tool hidden" onclick="confirmClearAllMistakes()" style="color:var(--danger); border-color:var(--danger-border); background:var(--danger-bg);">
+          <span>🗑️</span>
+          <span id="txtClearAllMistakes">Clear All</span>
+        </button>
+
+        <button id="btnRetakeReview" class="btn-header-tool" onclick="retakeCurrentTest()">
           <span>🔄</span>
           <span id="txtRetake">Retake</span>
         </button>
@@ -1530,10 +1567,16 @@
       safeText("txtStudyPrev", currentLang === "en" ? "Previous" : "上一個");
       safeText("txtStudyNext", currentLang === "en" ? "Next" : "下一個");
 
+      safeText("txtClearFlagged", currentLang === "en" ? "Clear" : "清空");
+      safeText("txtJumpSliderLabel", currentLang === "en" ? "Jump:" : "跳頁滑桿:");
+
       // Test Dashboard labels
       safeText("txtStatTotal", currentLang === "en" ? "Total Tests" : "總套數");
       safeText("txtStatPassed", currentLang === "en" ? "Passed" : "已及格套數");
       safeText("txtStatAvg", currentLang === "en" ? "Avg Score" : "平均分數");
+      safeText("txtMistakesCardTitle", currentLang === "en" ? "Mistakes Bank" : (currentLang === "zh" ? "錯題溫習庫" : "錯題溫習庫 (Mistakes Bank)"));
+      safeText("txtMistakesCardSub", currentLang === "en" ? "Review questions you missed during mock exams" : "自動收錄模擬考試答錯的題目，隨時重溫突破弱點");
+      safeText("txtOpenMistakes", currentLang === "en" ? "Review →" : "溫習 →");
       safeText("txtRandomExam", currentLang === "en" ? "Random 24-Q Official Exam" : "🎲 全題庫抽 24 題模擬考試");
       safeText("txtShuffleTestLabel", currentLang === "en" ? "🔀 Shuffle Questions" : "🔀 隨機題目順序");
 
@@ -1545,6 +1588,7 @@
 
       // Review labels
       safeText("txtBackToTests", currentLang === "en" ? "Back to Tests" : "返回試題目錄");
+      safeText("txtClearAllMistakes", currentLang === "en" ? "Clear All" : "清空錯題");
       safeText("txtRetake", currentLang === "en" ? "Retake" : "重新測驗");
     }
 
@@ -1650,7 +1694,12 @@
       if (flagged.length > 0) {
         html += `
           <div class="sector-card flagged-sector" onclick="openStudyChapter('flagged')">
-            <span class="sector-badge">★ Flagged (${flagged.length})</span>
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span class="sector-badge">★ Flagged (${flagged.length})</span>
+              <button class="btn-header-tool" style="color:var(--danger); font-size:0.8rem; padding:2px 8px; border-color:var(--danger-border); background:var(--card-bg);" onclick="event.stopPropagation(); confirmClearAllBookmarks();">
+                ${currentLang === 'en' ? '🗑️ Clear All' : '🗑️ 清空標記'}
+              </button>
+            </div>
             <div class="sector-title-en">★ Flagged • Bookmarked Question Bank</div>
             <div class="sector-title-zh">★ Flagged • 專屬難題庫</div>
             <div class="sector-meta">
@@ -1779,6 +1828,11 @@
       const point = list[targetIdx];
       const isBm = bookmarks.has(point.id);
 
+      // Flagged Sector Clear All Button
+      const isFlaggedSector = (activeChapterId === "flagged" || activeChapterId === 6);
+      const clearBtn = document.getElementById("btnClearFlagged");
+      if (clearBtn) clearBtn.classList.toggle("hidden", !isFlaggedSector);
+
       // Bookmark Button
       const bmBtn = document.getElementById("btnBookmark");
       bmBtn.classList.toggle("bookmarked", isBm);
@@ -1791,6 +1845,17 @@
       const pct = ((currentStudyIndex + 1) / total) * 100;
       document.getElementById("studyProgressBar").style.width = `${pct}%`;
       document.getElementById("studyCounter").textContent = `${currentStudyIndex + 1} / ${total} ▾`;
+
+      // Sync Inline Jump Slider
+      const inlineSlider = document.getElementById("studyInlineSlider");
+      if (inlineSlider) {
+        inlineSlider.max = total;
+        inlineSlider.value = currentStudyIndex + 1;
+      }
+      const sliderBadge = document.getElementById("studySliderValueBadge");
+      if (sliderBadge) {
+        sliderBadge.textContent = `${currentStudyIndex + 1} / ${total}`;
+      }
       
       const chapTitle = (activeChapterId === "flagged" || activeChapterId === 6)
         ? "★ Sector 6 (Flagged)" 
@@ -1809,6 +1874,32 @@
       // Prev / Next Buttons
       document.getElementById("btnStudyPrev").disabled = currentStudyIndex === 0;
       document.getElementById("btnStudyNext").disabled = currentStudyIndex === total - 1;
+    }
+
+    function handleInlineStudySlider(val) {
+      const target = parseInt(val) || 1;
+      const list = getActiveStudyList();
+      if (target >= 1 && target <= list.length) {
+        currentStudyIndex = target - 1;
+        renderStudyCard();
+      }
+    }
+
+    function confirmClearAllBookmarks() {
+      const count = bookmarks.size;
+      if (count === 0) return;
+      const msg = currentLang === "en" 
+        ? `Are you sure you want to clear all ${count} flagged question(s)?`
+        : `確定要清空全部 ${count} 題已標記的難題嗎？此操作無法還原。`;
+      if (confirm(msg)) {
+        bookmarks.clear();
+        storage.set("lifeinuk_bookmarks", JSON.stringify([]));
+        if (!document.getElementById("viewStudyCard").classList.contains("hidden")) {
+          showStudyIndex();
+        } else {
+          renderStudyIndex();
+        }
+      }
     }
 
     function navStudyStep(step) {
@@ -1902,6 +1993,53 @@
       storage.set("lifeinuk_test_shuffle", checked ? "true" : "false");
     }
 
+    function getSavedMistakes() {
+      try {
+        const raw = storage.get("lifeinuk_mistakes");
+        return raw ? JSON.parse(raw) : {};
+      } catch (e) {
+        return {};
+      }
+    }
+
+    function getMistakesCount() {
+      return Object.keys(getSavedMistakes()).length;
+    }
+
+    function openMistakesReview() {
+      savedTestDashboardScrollY = window.scrollY;
+      const savedMistakes = getSavedMistakes();
+      const mistakeItems = Object.values(savedMistakes);
+      if (mistakeItems.length === 0) {
+        alert(currentLang === "en" ? "No mistake records found! You have not failed any questions yet." : "目前尚無錯題記錄！模擬考試中答錯的題目會自動保存在此。");
+        return;
+      }
+
+      lastExamResult = {
+        testSet: {
+          setId: "mistakes_bank",
+          title: {
+            en: "Mistakes Bank Review",
+            zh: "錯題溫習庫集中複習"
+          }
+        },
+        questions: mistakeItems.map(m => m.question),
+        answers: mistakeItems.reduce((acc, m) => {
+          acc[m.question.id] = m.selectedAnswer;
+          return acc;
+        }, {}),
+        score: 0,
+        passed: false,
+        timeSpent: 0
+      };
+
+      currentReviewFilter = "all";
+      document.getElementById("viewTestDashboard").classList.add("hidden");
+      document.getElementById("viewTestReview").classList.remove("hidden");
+      window.scrollTo({ top: 0, behavior: "instant" });
+      renderReviewView();
+    }
+
     function renderTestDashboard() {
       const grid = document.getElementById("testSetGrid");
       const totalSets = rawMockTestsData.length;
@@ -1924,6 +2062,16 @@
       document.getElementById("statAvgScore").textContent = attemptedCount > 0 
         ? `${Math.round(totalScore / attemptedCount)} / 24`
         : "--";
+
+      // Update Mistakes Bank Card Badge
+      const mCount = getMistakesCount();
+      const badgeEl = document.getElementById("mistakesBadgeCount");
+      if (badgeEl) {
+        badgeEl.textContent = mCount > 0
+          ? (currentLang === "en" ? `${mCount} to Review` : `${mCount} 題待溫習`)
+          : (currentLang === "en" ? "0 Mistakes" : "無錯題");
+        badgeEl.className = mCount > 0 ? "test-status-badge badge-failed" : "test-status-badge badge-passed";
+      }
 
       // Render Test Cards
       let html = "";
@@ -2181,6 +2329,42 @@
         storage.set("lifeinuk_progress", JSON.stringify(testHistory));
       }
 
+      // Record mistakes to storage
+      try {
+        const currentMistakes = getSavedMistakes();
+        activeExamQuestions.forEach(q => {
+          const correctIds = q.options.filter(o => o.isCorrect).map(o => o.id);
+          const userChoice = examAnswers[q.id];
+          let isQCorrect = false;
+          if (correctIds.length === 1) {
+            if (userChoice === correctIds[0] || (Array.isArray(userChoice) && userChoice.length === 1 && userChoice[0] === correctIds[0])) {
+              isQCorrect = true;
+            }
+          } else {
+            if (Array.isArray(userChoice) && userChoice.length === correctIds.length && correctIds.every(id => userChoice.includes(id))) {
+              isQCorrect = true;
+            }
+          }
+
+          if (isQCorrect) {
+            if (currentMistakes[q.id.toString()]) {
+              delete currentMistakes[q.id.toString()];
+            }
+          } else {
+            currentMistakes[q.id.toString()] = {
+              questionId: q.id.toString(),
+              setId: activeTestSet ? activeTestSet.setId : 0,
+              question: q,
+              selectedAnswer: userChoice || null,
+              failedAt: new Date().toISOString()
+            };
+          }
+        });
+        storage.set("lifeinuk_mistakes", JSON.stringify(currentMistakes));
+      } catch (e) {
+        console.error("Failed to save mistakes", e);
+      }
+
       lastExamResult = {
         testSet: activeTestSet,
         questions: activeExamQuestions,
@@ -2234,20 +2418,40 @@
     /* ==================== TEST RESULTS & REVIEW CONTROLLER ==================== */
     function renderReviewView() {
       if (!lastExamResult) return;
-      const { score, passed, timeSpent } = lastExamResult;
+      const { score, passed, timeSpent, testSet, questions } = lastExamResult;
+      const isMistakesBank = testSet && testSet.setId === "mistakes_bank";
 
       const banner = document.getElementById("resultBanner");
-      banner.className = `result-banner ${passed ? 'result-pass' : 'result-fail'}`;
+      const btnClearAllMistakes = document.getElementById("btnClearAllMistakes");
+      const btnRetakeReview = document.getElementById("btnRetakeReview");
 
-      document.getElementById("resultStatusText").textContent = passed ? "PASS" : "FAIL";
-      document.getElementById("resultStatusSub").textContent = passed 
-        ? (currentLang === "en" ? "Congratulations! You passed the official 75% mark." : "恭喜及格！達到官方 75% 及格標準。")
-        : (currentLang === "en" ? "Needs 18/24 (75%) to pass. Keep practicing!" : "需要 18/24（75%）才及格。別氣餒，複習錯題後再試一次！");
+      if (isMistakesBank) {
+        banner.className = "result-banner result-fail";
+        document.getElementById("resultStatusText").textContent = currentLang === "en" ? "MISTAKES BANK" : "錯題溫習庫";
+        document.getElementById("resultStatusSub").textContent = currentLang === "en"
+          ? "Master and overcome your weak questions"
+          : "集中攻克歷史錯題，加深記憶";
+        document.getElementById("resultScoreChip").textContent = currentLang === "en"
+          ? `Total: ${questions.length} question(s)`
+          : `待溫習共 ${questions.length} 題`;
 
-      const m = Math.floor(timeSpent / 60);
-      const s = timeSpent % 60;
-      document.getElementById("resultScoreChip").textContent = 
-        `Score: ${score} / 24 (${Math.round((score / 24) * 100)}%) • Time: ${m}m ${s}s`;
+        if (btnClearAllMistakes) btnClearAllMistakes.classList.remove("hidden");
+        if (btnRetakeReview) btnRetakeReview.classList.add("hidden");
+      } else {
+        banner.className = `result-banner ${passed ? 'result-pass' : 'result-fail'}`;
+        document.getElementById("resultStatusText").textContent = passed ? "PASS" : "FAIL";
+        document.getElementById("resultStatusSub").textContent = passed 
+          ? (currentLang === "en" ? "Congratulations! You passed the official 75% mark." : "恭喜及格！達到官方 75% 及格標準。")
+          : (currentLang === "en" ? "Needs 18/24 (75%) to pass. Keep practicing!" : "需要 18/24（75%）才及格。別氣餒，複習錯題後再試一次！");
+
+        const m = Math.floor(timeSpent / 60);
+        const s = timeSpent % 60;
+        document.getElementById("resultScoreChip").textContent = 
+          `Score: ${score} / 24 (${Math.round((score / 24) * 100)}%) • Time: ${m}m ${s}s`;
+
+        if (btnClearAllMistakes) btnClearAllMistakes.classList.add("hidden");
+        if (btnRetakeReview) btnRetakeReview.classList.remove("hidden");
+      }
 
       renderReviewList();
     }
@@ -2261,7 +2465,8 @@
 
     function renderReviewList() {
       if (!lastExamResult) return;
-      const { questions, answers } = lastExamResult;
+      const { questions, answers, testSet } = lastExamResult;
+      const isMistakesBank = testSet && testSet.setId === "mistakes_bank";
       const listEl = document.getElementById("reviewQuestionsList");
 
       let mistakeCount = 0;
@@ -2309,11 +2514,20 @@
                 ${isCorrect ? '✓' : '✗'}
               </div>
               <div style="flex:1;">
-                <div style="font-size:0.85rem; font-weight:700; color:var(--text-sub); margin-bottom:4px;">
-                  Question ${idx + 1}
+                <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px;">
+                  <div>
+                    <div style="font-size:0.85rem; font-weight:700; color:var(--text-sub); margin-bottom:4px;">
+                      Question ${idx + 1}
+                    </div>
+                    <div class="question-title-en ${currentLang === 'zh' ? 'hidden' : ''}" style="font-size:1.15rem; margin-bottom:4px;">${q.question.en}</div>
+                    <div class="question-title-zh ${currentLang === 'en' ? 'hidden' : ''}" style="font-size:1rem; margin-bottom:8px;">${q.question.zh}</div>
+                  </div>
+                  ${isMistakesBank ? `
+                    <button class="btn-header-tool" style="color:var(--success); border-color:var(--success-border); font-size:0.8rem; padding:4px 10px; font-weight:700; flex-shrink:0;" onclick="masterMistake('${q.id}')">
+                      ✓ ${currentLang === 'en' ? 'Mastered' : '已掌握'}
+                    </button>
+                  ` : ''}
                 </div>
-                <div class="question-title-en ${currentLang === 'zh' ? 'hidden' : ''}" style="font-size:1.15rem; margin-bottom:4px;">${q.question.en}</div>
-                <div class="question-title-zh ${currentLang === 'en' ? 'hidden' : ''}" style="font-size:1rem; margin-bottom:8px;">${q.question.zh}</div>
               </div>
             </div>
 
@@ -2355,6 +2569,35 @@
           </div>
         `;
       }).join("");
+    }
+
+    function masterMistake(qId) {
+      const mistakes = getSavedMistakes();
+      if (mistakes[qId.toString()]) {
+        delete mistakes[qId.toString()];
+        storage.set("lifeinuk_mistakes", JSON.stringify(mistakes));
+      }
+      if (lastExamResult && lastExamResult.testSet && lastExamResult.testSet.setId === "mistakes_bank") {
+        lastExamResult.questions = lastExamResult.questions.filter(q => q.id.toString() !== qId.toString());
+        if (lastExamResult.questions.length === 0) {
+          alert(currentLang === "en" ? "Awesome! All mistakes have been mastered!" : "太棒了！所有錯題均已掌握！");
+          backToTestDashboard();
+          return;
+        }
+      }
+      renderReviewView();
+    }
+
+    function confirmClearAllMistakes() {
+      const count = getMistakesCount();
+      if (count === 0) return;
+      const msg = currentLang === "en"
+        ? `Are you sure you want to clear all ${count} mistake record(s)?`
+        : `確定要清空全部 ${count} 題錯題記錄嗎？此操作無法還原。`;
+      if (confirm(msg)) {
+        storage.set("lifeinuk_mistakes", JSON.stringify({}));
+        backToTestDashboard();
+      }
     }
 
     /* ==================== TOUCH & KEYBOARD EVENTS ==================== */

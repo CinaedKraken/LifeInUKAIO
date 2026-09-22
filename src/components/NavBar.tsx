@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useSettings } from "@/context/SettingsContext";
 
 export default function NavBar() {
-  const { showChinese, toggleChinese } = useSettings();
+  const { showChinese, toggleChinese, theme, toggleTheme } = useSettings();
   const [canInstall, setCanInstall] = useState(false);
 
   useEffect(() => {
@@ -21,16 +21,16 @@ export default function NavBar() {
   };
 
   return (
-    <header className="bg-white shadow-sm sticky top-0 z-10 w-full">
+    <header className="header-nav bg-white shadow-xs sticky top-0 z-10 w-full transition-colors border-b border-gray-200">
       <div className="max-w-4xl mx-auto px-4 py-3 sm:py-4 flex justify-between items-center gap-2">
         <Link href="/" prefetch={false} className="hover:opacity-75 transition-opacity mr-2 sm:mr-4 shrink-0" title="Back to Home">
-          <h1 className="text-lg sm:text-xl font-bold text-gray-900">Life in UK AIO</h1>
+          <h1 className="text-lg sm:text-xl font-bold header-title">Life in UK AIO</h1>
         </Link>
         <div className="flex-1 flex gap-3 sm:gap-4 px-1 sm:px-4 text-sm sm:text-base">
-          <Link href="/" prefetch={false} className="font-bold text-gray-700 hover:text-blue-600 transition-colors whitespace-nowrap">
+          <Link href="/" prefetch={false} className="font-bold nav-link transition-colors whitespace-nowrap">
             {showChinese ? "模擬考試" : "Tests"}
           </Link>
-          <Link href="/study" prefetch={false} className="font-bold text-gray-700 hover:text-blue-600 transition-colors whitespace-nowrap">
+          <Link href="/study" prefetch={false} className="font-bold nav-link transition-colors whitespace-nowrap">
             {showChinese ? "溫習指南" : "Study"}
           </Link>
         </div>
@@ -45,10 +45,23 @@ export default function NavBar() {
               <span>{showChinese ? "安裝" : "Install"}</span>
             </button>
           )}
+
+          {/* Dark / Light Mode Toggle Button */}
+          <button
+            onClick={toggleTheme}
+            className="min-h-[44px] w-[44px] rounded-lg border btn-tool text-base flex items-center justify-center transition-colors cursor-pointer"
+            aria-label="Toggle theme mode"
+            title={theme === "dark" ? "切換至淺色模式 (Switch to Light Mode)" : "切換至深色模式 (Switch to Dark Mode)"}
+          >
+            {theme === "dark" ? "☀️" : "🌙"}
+          </button>
+
+          {/* Language Toggle Button */}
           <button
             onClick={toggleChinese}
-            className="min-h-[44px] px-3 sm:px-4 rounded border border-gray-300 bg-gray-50 text-gray-800 font-medium hover:bg-gray-100 transition-colors cursor-pointer"
+            className="min-h-[44px] px-3 sm:px-4 rounded-lg border btn-tool font-bold text-sm transition-colors cursor-pointer"
             aria-label="Toggle language mode"
+            title="Toggle Language (A / 中)"
           >
             {showChinese ? "A / 中" : "A"}
           </button>

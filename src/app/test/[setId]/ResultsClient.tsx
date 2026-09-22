@@ -12,7 +12,23 @@ interface ResultsClientProps {
 }
 
 export default function ResultsClient({ mockTest, answers, score }: ResultsClientProps) {
+  const [filter, setFilter] = React.useState<"all" | "mistakes">("all");
   const passed = score >= 18;
+  const mistakesCount = mockTest.questions.length - score;
+
+  const isQuestionCorrect = (q: any) => {
+    const chosen = answers[q.id];
+    const correctOpts = q.options.filter((o: any) => o.isCorrect).map((o: any) => o.id);
+    if (correctOpts.length === 1) {
+      return chosen === correctOpts[0] || (Array.isArray(chosen) && chosen.length === 1 && chosen[0] === correctOpts[0]);
+    } else {
+      return Array.isArray(chosen) && chosen.length === correctOpts.length && correctOpts.every((opt: any) => chosen.includes(opt));
+    }
+  };
+
+  const displayedQuestions = filter === "mistakes"
+    ? mockTest.questions.filter((q) => !isQuestionCorrect(q))
+    : mockTest.questions;
 
   return (
     <div className="flex flex-col flex-1 pb-12">
@@ -30,19 +46,57 @@ export default function ResultsClient({ mockTest, answers, score }: ResultsClien
         </div>
       </div>
 
-      <div className="flex justify-between items-center mb-6">
-        <h2 className="text-2xl font-bold text-gray-900">Review Questions</h2>
-        <Link 
-          href="/"
-          prefetch={false}
-          className="min-h-[48px] px-6 rounded-lg border border-gray-300 font-bold text-gray-700 bg-white hover:bg-gray-100 flex items-center"
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-6">
+        <div>
+          <h2 className="text-2xl font-bold text-gray-900">Review Questions / 題目回顧</h2>
+          <p className="text-sm text-gray-500 mt-0.5">所有錯題已自動存入「錯題溫習庫」，可隨時複習鞏固</p>
+        </div>
+        <div className="flex gap-2 w-full sm:w-auto">
+          <Link 
+            href="/mistakes"
+            prefetch={false}
+            className="flex-1 sm:flex-initial min-h-[44px] px-4 rounded-lg bg-amber-500 hover:bg-amber-600 text-white font-bold text-sm flex items-center justify-center gap-1.5 shadow-xs transition-colors"
+          >
+            <span>📕</span>
+            <span>錯題本 Mistakes</span>
+          </Link>
+          <Link 
+            href="/"
+            prefetch={false}
+            className="flex-1 sm:flex-initial min-h-[44px] px-4 rounded-lg border border-gray-300 font-bold text-gray-700 bg-white hover:bg-gray-100 text-sm flex items-center justify-center transition-colors"
+          >
+            Dashboard
+          </Link>
+        </div>
+      </div>
+
+      {/* Filter Tabs */}
+      <div className="flex gap-2 p-1.5 bg-gray-100 rounded-xl mb-6 border border-gray-200">
+        <button
+          onClick={() => setFilter("all")}
+          className={`flex-1 py-2.5 rounded-lg font-bold text-sm transition-all cursor-pointer ${
+            filter === "all"
+              ? "bg-white shadow-xs text-gray-900"
+              : "text-gray-600 hover:text-gray-900"
+          }`}
         >
-          Back to Dashboard
-        </Link>
+          全部題目 All ({mockTest.questions.length})
+        </button>
+        <button
+          onClick={() => setFilter("mistakes")}
+          className={`flex-1 py-2.5 rounded-lg font-bold text-sm transition-all cursor-pointer flex items-center justify-center gap-1.5 ${
+            filter === "mistakes"
+              ? "bg-white shadow-xs text-red-600"
+              : "text-gray-600 hover:text-red-600"
+          }`}
+        >
+          <span>✗</span>
+          <span>只重溫錯題 Failed Only ({mistakesCount})</span>
+        </button>
       </div>
 
       <div className="flex flex-col gap-8">
-        {mockTest.questions.map((q) => {
+        {displayedQuestions.map((q) => {
           const chosen = answers[q.id];
           const correctOpts = q.options.filter((o) => o.isCorrect).map(o => o.id);
           

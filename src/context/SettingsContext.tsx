@@ -1,24 +1,34 @@
 "use client";
 
 import React, { createContext, useContext, useState, useEffect, ReactNode } from "react";
+import { safeGetItem, safeSetItem } from "@/utils/storage";
 
 interface SettingsContextType {
   showChinese: boolean;
   toggleChinese: () => void;
+  theme: "light" | "dark";
+  toggleTheme: () => void;
 }
 
 const SettingsContext = createContext<SettingsContextType | undefined>(undefined);
 
-import { safeGetItem, safeSetItem } from "@/utils/storage";
-
 export function SettingsProvider({ children }: { children: ReactNode }) {
   const [showChinese, setShowChinese] = useState<boolean>(true);
+  const [theme, setTheme] = useState<"light" | "dark">("light");
 
-  // Load from localStorage on mount, but never block rendering on it.
   useEffect(() => {
-    const saved = safeGetItem("lifeinuk_showChinese");
-    if (saved !== null) {
-      setShowChinese(saved === "true");
+    const savedLang = safeGetItem("lifeinuk_showChinese");
+    if (savedLang !== null) {
+      setShowChinese(savedLang === "true");
+    }
+
+    const savedTheme = safeGetItem("lifeinuk_theme") as "light" | "dark" | null;
+    const systemDark = typeof window !== "undefined" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const initialTheme = savedTheme || (systemDark ? "dark" : "light");
+    
+    setTheme(initialTheme);
+    if (typeof document !== "undefined") {
+      document.documentElement.setAttribute("data-theme", initialTheme);
     }
   }, []);
 
@@ -30,9 +40,19 @@ export function SettingsProvider({ children }: { children: ReactNode }) {
     });
   };
 
+  const toggleTheme = () => {
+    setTheme((prev) => {
+      const next = prev === "dark" ? "light" : "dark";
+      safeSetItem("lifeinuk_theme", next);
+      if (typeof document !== "undefined") {
+        document.documentElement.setAttribute("data-theme", next);
+      }
+      return next;
+    });
+  };
 
   return (
-    <SettingsContext.Provider value={{ showChinese, toggleChinese }}>
+    <SettingsContext.Provider value={{ showChinese, toggleChinese, theme, toggleTheme }}>
       {children}
     </SettingsContext.Provider>
   );
