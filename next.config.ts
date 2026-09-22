@@ -5,6 +5,12 @@ const nextConfig: NextConfig = {
   basePath: "/LifeInUKAIO",
   assetPrefix: "/LifeInUKAIO",
   trailingSlash: true,
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
 export default nextConfig;

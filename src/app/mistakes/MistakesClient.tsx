@@ -201,11 +201,6 @@ export default function MistakesClient() {
                     enClassName="text-xs sm:text-sm text-gray-800 leading-relaxed"
                     zhClassName="text-xs sm:text-sm text-gray-700 mt-1 leading-relaxed"
                   />
-                  {q.reference && (
-                    <div className="text-[11px] font-mono font-bold text-amber-800/80 mt-2">
-                      Reference: {q.reference}
-                    </div>
-                  )}
                 </div>
               )}
             </div>
