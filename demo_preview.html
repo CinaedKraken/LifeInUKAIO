@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Life in the UK - Study Guide Visual Demo & Prototype</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <style>
+    body {
+      background-color: #f3f4f6;
+      color: #111827;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang HK", "Microsoft JhengHei", sans-serif;
+    }
+    @keyframes pulse-border {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(245, 158, 11, 0.4); }
+      50% { box-shadow: 0 0 0 6px rgba(245, 158, 11, 0); }
+    }
+    .highlight-sector6 {
+      animation: pulse-border 2.5s infinite;
+    }
+  </style>
+</head>
+<body class="min-h-screen py-8 px-4">
+
+  <!-- Top Announcement Banner -->
+  <div class="max-w-4xl mx-auto mb-8 bg-white p-6 rounded-2xl shadow-sm border border-gray-200">
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+      <div>
+        <div class="inline-flex items-center gap-2 bg-amber-100 text-amber-900 text-xs font-black px-3 py-1 rounded-full uppercase tracking-wider mb-2">
+          ★ Progressive Reveal Feature Demo
+        </div>
+        <h1 class="text-2xl font-black text-gray-900">
+          6th Sector: Progressive Reveal & High-Impact Highlighting
+        </h1>
+        <p class="text-gray-600 text-sm mt-1">
+          <strong>New Rule</strong>: The <strong>6th Sector</strong> is hidden initially and will <strong>only be revealed after the first content is flagged</strong>!
+        </p>
+      </div>
+      <div class="flex items-center gap-2 shrink-0">
+        <button onclick="setTab('interactive')" id="tabInteractiveBtn" class="px-5 py-2.5 rounded-xl font-bold text-sm bg-gray-900 text-white shadow-sm cursor-pointer transition-all">
+          🎮 Interactive Prototype
+        </button>
+        <button onclick="setTab('visual')" id="tabVisualBtn" class="px-5 py-2.5 rounded-xl font-bold text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 cursor-pointer transition-all">
+          📱 Logic & Visual Spec
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- CONTAINER 1: INTERACTIVE PROTOTYPE -->
+  <div id="interactiveContainer" class="max-w-md mx-auto bg-[#f9fafb] rounded-3xl shadow-2xl border-4 border-gray-800 overflow-hidden min-h-[760px] flex flex-col transition-all">
+    
+    <!-- Phone Top Status Bar Mock -->
+    <div class="bg-gray-800 text-white text-[11px] font-bold px-6 py-1.5 flex justify-between items-center select-none">
+      <span>09:41</span>
+      <span>Life in the UK • 雙語溫習</span>
+      <span>100% 🔋</span>
+    </div>
+
+    <!-- App Nav Header -->
+    <header class="bg-white shadow-xs sticky top-0 z-30 px-4 py-3 border-b border-gray-100 flex justify-between items-center">
+      <div class="flex items-center gap-2">
+        <span class="text-lg font-black text-gray-900">Life in the UK</span>
+      </div>
+      <div class="flex items-center gap-2">
+        <button id="pResetFlagsBtn" onclick="resetAllFlags()" title="Reset all bookmarks to 0 to test initial state" class="px-2.5 py-1 rounded text-[11px] font-bold text-gray-500 hover:text-red-600 bg-gray-100 hover:bg-red-50 border border-gray-200 cursor-pointer">
+          Reset 0 Flags
+        </button>
+        <button id="pLangBtn" onclick="toggleLang()" class="min-h-[36px] px-3 rounded-lg border border-gray-300 bg-gray-50 text-xs font-bold text-gray-800 hover:bg-gray-100 cursor-pointer">
+          EN / 繁
+        </button>
+      </div>
+    </header>
+
+    <!-- SCREEN A: Study Guide Main Index -->
+    <div id="pScreenIndex" class="p-4 flex-1 flex flex-col">
+      <div class="mb-4">
+        <h2 class="text-2xl font-black text-gray-900" id="pIndexHeading">溫習指南</h2>
+        <p class="text-xs text-gray-500 mt-0.5">點擊任意單元開始溫習 • Tap any sector to review</p>
+      </div>
+
+      <!-- THE 6TH SECTOR: FLAGGED DIFFICULT POINTS (DYNAMICALLY REVEALED) -->
+      <div id="pSector6Container" class="mb-5 hidden transition-all duration-300">
+        <div 
+          onclick="openCardView('flagged')"
+          class="highlight-sector6 bg-gradient-to-r from-amber-500/15 via-orange-500/10 to-amber-500/10 border-2 border-amber-500 ring-2 ring-amber-400/40 rounded-2xl p-4.5 shadow-md hover:border-amber-600 hover:shadow-lg transition-all cursor-pointer group"
+        >
+          <div class="flex justify-between items-start">
+            <div class="flex items-center gap-3.5">
+              <div class="bg-gradient-to-br from-amber-500 to-orange-500 text-white font-black w-11 h-11 rounded-2xl flex items-center justify-center shrink-0 shadow-md text-xl group-hover:scale-110 transition-transform">
+                ★
+              </div>
+              <div>
+                <div class="flex items-center gap-1.5">
+                  <span class="text-[10px] font-black uppercase tracking-wider bg-amber-500 text-white px-2 py-0.5 rounded-full shadow-xs">
+                    ★ flagged • 專屬難題庫
+                  </span>
+                  <span class="text-[10px] font-bold text-amber-900 bg-amber-200/80 px-1.5 py-0.5 rounded-md animate-pulse">
+                    已解鎖 (Unlocked)
+                  </span>
+                </div>
+                <h3 class="text-base font-black text-gray-900 mt-1" id="pSector6Title">
+                  已標記難題庫 (Flagged Points)
+                </h3>
+                <p class="text-xs text-gray-600 mt-0.5">
+                  集中溫習已收藏之考點，點擊立即複習
+                </p>
+              </div>
+            </div>
+            <span id="pFlaggedTotalBadge" class="text-xs font-black text-amber-900 bg-white px-3 py-1.5 rounded-xl border border-amber-300 shrink-0 font-mono shadow-xs">
+              0 題
+            </span>
+          </div>
+
+          <div class="flex justify-between items-center text-xs font-bold text-amber-900/80 mt-3 mb-1">
+            <span>難題複習進度 (Review Progress)</span>
+            <span id="pSector6ProgressText" class="font-mono font-bold">0 / 0 (0%)</span>
+          </div>
+          <div class="w-full bg-amber-200/70 h-2.5 rounded-full overflow-hidden">
+            <div id="pSector6Bar" class="bg-gradient-to-r from-amber-500 to-orange-500 h-full transition-all duration-300" style="width: 0%;"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TIP BANNER (Shown ONLY when 0 cards are flagged) -->
+      <div id="pZeroFlagsTip" class="mb-5 p-3.5 bg-blue-50/70 border border-blue-200 rounded-2xl flex items-start gap-3">
+        <span class="text-xl">💡</span>
+        <div class="text-xs text-blue-900 leading-relaxed">
+          <p class="font-bold mb-0.5">如何解鎖專屬難題庫？</p>
+          <p class="text-blue-800/90">在任一單元溫習時，點擊卡片右上角的「<span class="font-bold text-amber-700">★ 標記難題</span>」，系統便會為您<span class="font-bold underline">自動解鎖第6單元專屬難題庫</span>！</p>
+        </div>
+      </div>
+
+      <!-- Regular Chapters 1 - 5 -->
+      <div class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-1">
+        Syllabus Chapters • 官方課程單元 (1 - 5)
+      </div>
+
+      <div class="flex flex-col gap-2.5" id="pChaptersList">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+
+
+    <!-- SCREEN B: Study Card Session (Previous / Next / Flag) -->
+    <div id="pScreenCard" class="p-4 flex-1 flex flex-col hidden">
+      
+      <!-- Card Sticky Top Bar -->
+      <div class="mb-4">
+        <button onclick="openIndexView()" class="text-blue-600 hover:text-blue-800 text-xs font-bold flex items-center gap-1 mb-2 cursor-pointer">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19 12H5M12 19l-7-7 7-7"/>
+          </svg>
+          <span id="pCardBackLabel">返回單元清單 (Back)</span>
+        </button>
+        <div class="flex justify-between items-center">
+          <h2 id="pCardTitle" class="text-base font-black text-gray-900 truncate">
+            Sector 1: The values and principles of the UK
+          </h2>
+          <span id="pCardProgressText" class="text-xs font-mono font-bold text-gray-600 ml-2 shrink-0">
+            1 / 3
+          </span>
+        </div>
+        <div class="w-full bg-gray-200 h-2 rounded-full overflow-hidden mt-2">
+          <div id="pCardBar" class="bg-blue-600 h-full transition-all duration-200" style="width: 33%;"></div>
+        </div>
+      </div>
+
+      <!-- Flashcard Body -->
+      <div class="bg-white border-2 border-gray-200 rounded-2xl p-5 shadow-xs flex-1 flex flex-col justify-between mb-4">
+        
+        <!-- Card Top: Sector Tag + Flag Button -->
+        <div class="flex justify-between items-center border-b border-gray-100 pb-3">
+          <span id="pCardBadge" class="text-[10px] font-black uppercase tracking-wider bg-blue-50 text-blue-800 px-2 py-0.5 rounded">
+            Sector 1 • 核心考點
+          </span>
+
+          <!-- Bookmark / Flag Button -->
+          <button 
+            id="pBookmarkToggleBtn" 
+            onclick="toggleBookmarkCurrent()" 
+            class="min-h-[38px] px-3.5 py-1 rounded-full border-2 transition-all flex items-center gap-1.5 text-xs font-bold cursor-pointer active:scale-95 shadow-xs"
+          >
+            <span id="pStarIcon">★</span>
+            <span id="pBookmarkText">標記難題 (Flag)</span>
+          </button>
+        </div>
+
+        <!-- Content Area -->
+        <div class="my-auto py-4">
+          <p id="pTextEn" class="text-base sm:text-lg font-bold text-gray-900 leading-snug">
+            English text...
+          </p>
+          <p id="pTextZh" class="text-sm sm:text-base text-gray-700 mt-3 pt-3 border-t border-gray-100 leading-relaxed">
+            中文翻譯...
+          </p>
+        </div>
+
+        <!-- Card Foot -->
+        <div class="pt-3 border-t border-gray-100 flex justify-between items-center text-[10px] text-gray-400 font-mono">
+          <span id="pCardPointId">Point ID: 1-1</span>
+          <span>Official Study Material</span>
+        </div>
+      </div>
+
+      <!-- DUAL BUTTON NAVIGATION: Previous & Next -->
+      <div class="flex items-center gap-3 pt-2">
+        <button 
+          id="pPrevBtn" 
+          onclick="stepCard(-1)"
+          class="flex-1 min-h-[50px] px-4 rounded-xl border-2 border-gray-300 bg-white text-gray-800 font-bold hover:bg-gray-100 disabled:opacity-30 disabled:cursor-not-allowed text-sm flex items-center justify-center gap-1.5 cursor-pointer active:scale-95 transition-all"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19 12H5M12 19l-7-7 7-7"/>
+          </svg>
+          <span id="pPrevBtnText">上一頁 (Prev)</span>
+        </button>
+
+        <button 
+          id="pNextBtn" 
+          onclick="stepCard(1)"
+          class="flex-1 min-h-[50px] px-4 rounded-xl bg-gray-900 text-white font-bold hover:bg-gray-800 text-sm flex items-center justify-center gap-1.5 cursor-pointer active:scale-95 transition-all shadow"
+        >
+          <span id="pNextBtnText">下一頁 (Next)</span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </button>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- CONTAINER 2: LOGIC & VISUAL SPEC -->
+  <div id="visualContainer" class="max-w-4xl mx-auto hidden grid grid-cols-1 md:grid-cols-2 gap-8">
+    
+    <!-- Visual Screen 1 -->
+    <div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-200">
+      <div class="inline-block bg-amber-100 text-amber-900 text-xs font-black px-2.5 py-1 rounded-md uppercase mb-3">
+        Condition 1: 0 Content Flagged (Initial State)
+      </div>
+      <h3 class="text-lg font-bold text-gray-900 mb-2">Sector 6 Hidden Initially</h3>
+      <ul class="text-sm text-gray-600 space-y-2.5 mb-4">
+        <li>🔒 <strong>Clean Initial View</strong>: When a candidate has not flagged any questions, the 6th sector is hidden to avoid clutter.</li>
+        <li>💡 <strong>Guiding Tip</strong>: A friendly banner informs the user how to unlock Sector 6 by tapping the star icon on difficult cards.</li>
+        <li>📚 <strong>Sectors 1 to 5</strong>: Displayed cleanly as the default study syllabus.</li>
+      </ul>
+      <div class="border border-amber-200 rounded-xl p-4 bg-amber-50 text-xs text-amber-900">
+        Try clicking the <strong>"Reset 0 Flags"</strong> button in the prototype header above to experience this clean initial state!
+      </div>
+    </div>
+
+    <!-- Visual Screen 2 -->
+    <div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-200">
+      <div class="inline-block bg-green-100 text-green-900 text-xs font-black px-2.5 py-1 rounded-md uppercase mb-3">
+        Condition 2: ≥ 1 Content Flagged (Unlocked State)
+      </div>
+      <h3 class="text-lg font-bold text-gray-900 mb-2">Sector 6 Revealed & Highlighted</h3>
+      <ul class="text-sm text-gray-600 space-y-2.5 mb-4">
+        <li>🔥 <strong>High-Impact Styling</strong>: Distinct golden border, subtle amber pulse animation, and vibrant gradient background.</li>
+        <li>⭐ <strong>Live Counters</strong>: Shows total flagged points across all chapters in one central hub.</li>
+        <li>🔄 <strong>One-Tap Review</strong>: Opens an aggregated flashcard session equipped with full <em>Previous / 上一頁</em> and <em>Next / 下一頁</em> navigation.</li>
+      </ul>
+      <div class="border border-green-200 rounded-xl p-4 bg-green-50 text-xs text-green-900">
+        Enter Sector 1 in the prototype, tap <strong>"標記難題 (Flag)"</strong>, and return to the main menu to see Sector 6 unlock!
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // Data Model
+    const demoData = [
+      {
+        chapterId: 1,
+        title: { en: "The values and principles of the UK", zh: "英國的價值觀和原則" },
+        points: [
+          {
+            id: "1-1",
+            en: "British values include democracy, the rule of law, individual liberty, and mutual respect and tolerance of those with different faiths and beliefs.",
+            zh: "英國的核心價值觀包括民主制度、法治精神、個人自由，以及對不同宗教與信仰人士的相互尊重與包容。",
+            isBookmarked: false
+          },
+          {
+            id: "1-2",
+            en: "In return for these rights, residents of the UK are expected to respect and obey the law, pay taxes, and look after themselves and their families.",
+            zh: "作為享有這些權利的相應責任，英國居民應遵守法律、依法納稅，並妥善照顧自己和家人。",
+            isBookmarked: false
+          },
+          {
+            id: "1-3",
+            en: "The UK offers freedom of speech, freedom from unfair discrimination, and a right to a fair trial under the law.",
+            zh: "英國保障言論自由、免受不公歧視的自由，以及享有依法接受公正審判的合法權利。",
+            isBookmarked: false
+          }
+        ]
+      },
+      {
+        chapterId: 2,
+        title: { en: "What is the UK", zh: "什麼是英國" },
+        points: [
+          {
+            id: "2-1",
+            en: "The UK is located in north-west Europe and consists of England, Scotland, Wales, and Northern Ireland.",
+            zh: "英國位於歐洲西北部，由英格蘭、蘇格蘭、威爾斯和北愛爾蘭四個部分組成。",
+            isBookmarked: false
+          },
+          {
+            id: "2-2",
+            en: "Great Britain refers only to England, Scotland, and Wales, and does not include Northern Ireland.",
+            zh: "「大不列顛（Great Britain）」僅指英格蘭、蘇格蘭和威爾斯，並不包括北愛爾蘭。",
+            isBookmarked: false
+          }
+        ]
+      },
+      {
+        chapterId: 3,
+        title: { en: "A long and illustrious history", zh: "悠久而輝煌的歷史" },
+        points: [
+          {
+            id: "3-1",
+            en: "In 1066, William the Conqueror from Normandy defeated King Harold at the Battle of Hastings.",
+            zh: "1066年，來自諾曼第的征服者威廉在黑斯廷斯戰役中擊敗了國王哈羅德，建立了諾曼王朝。",
+            isBookmarked: false
+          }
+        ]
+      },
+      {
+        chapterId: 4,
+        title: { en: "A modern, thriving society", zh: "現代繁榮的社會" },
+        points: [
+          {
+            id: "4-1",
+            en: "The UK is a constitutional monarchy and parliamentary democracy with a diverse multi-cultural population.",
+            zh: "英國是君主立憲制和議會民主制國家，擁有豐富多元的文化人口結構。",
+            isBookmarked: false
+          }
+        ]
+      },
+      {
+        chapterId: 5,
+        title: { en: "The UK Government, the law and your role", zh: "英國政府、法律和你的角色" },
+        points: [
+          {
+            id: "5-1",
+            en: "Members of Parliament (MPs) are elected using the First Past the Post system to represent their constituency.",
+            zh: "下議院議員（MPs）通過「簡單多數選制（First Past the Post）」選出，代表各自選區發聲。",
+            isBookmarked: false
+          }
+        ]
+      }
+    ];
+
+    // Seed: Start with 1 flagged item in Chapter 1 so Sector 6 is unlocked by default
+    demoData[0].points[0].isBookmarked = true;
+
+    // Progress state: tracking completed cards count per chapter
+    const userProgress = {
+      1: 1, // 1 of 3 reviewed
+      2: 0,
+      3: 0,
+      4: 0,
+      5: 0,
+      'flagged': 1 // 1 of flagged reviewed
+    };
+
+    let activeChapterId = 1;
+    let activePointIndex = 0;
+    let isZh = true;
+
+    function setTab(tab) {
+      if (tab === 'interactive') {
+        document.getElementById('interactiveContainer').classList.remove('hidden');
+        document.getElementById('visualContainer').classList.add('hidden');
+        document.getElementById('tabInteractiveBtn').className = "px-5 py-2.5 rounded-xl font-bold text-sm bg-gray-900 text-white shadow-sm cursor-pointer transition-all";
+        document.getElementById('tabVisualBtn').className = "px-5 py-2.5 rounded-xl font-bold text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 cursor-pointer transition-all";
+      } else {
+        document.getElementById('interactiveContainer').classList.add('hidden');
+        document.getElementById('visualContainer').classList.remove('hidden');
+        document.getElementById('tabVisualBtn').className = "px-5 py-2.5 rounded-xl font-bold text-sm bg-gray-900 text-white shadow-sm cursor-pointer transition-all";
+        document.getElementById('tabInteractiveBtn').className = "px-5 py-2.5 rounded-xl font-bold text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 cursor-pointer transition-all";
+      }
+    }
+
+    function getAllFlagged() {
+      const list = [];
+      demoData.forEach(c => {
+        c.points.forEach(p => {
+          if (p.isBookmarked) list.push({ ...p, chapterId: c.chapterId, chapterTitle: c.title });
+        });
+      });
+      return list;
+    }
+
+    function renderIndex() {
+      const flagged = getAllFlagged();
+      const flaggedCount = flagged.length;
+
+      const sector6Container = document.getElementById('pSector6Container');
+      const zeroFlagsTip = document.getElementById('pZeroFlagsTip');
+
+      // PROGRESSIVE REVEAL LOGIC:
+      // Sector 6 is ONLY revealed after at least 1 content is flagged!
+      if (flaggedCount > 0) {
+        sector6Container.classList.remove('hidden');
+        zeroFlagsTip.classList.add('hidden');
+        document.getElementById('pFlaggedTotalBadge').innerText = `${flaggedCount} 題難題`;
+
+        // Calculate and display Sector 6 Progress Bar
+        const flaggedReviewed = Math.min(userProgress['flagged'] || 0, flaggedCount);
+        const flaggedPct = Math.round((flaggedReviewed / flaggedCount) * 100);
+        document.getElementById('pSector6Bar').style.width = flaggedPct + "%";
+        document.getElementById('pSector6ProgressText').innerText = `${flaggedReviewed} / ${flaggedCount} (${flaggedPct}%)`;
+      } else {
+        sector6Container.classList.add('hidden');
+        zeroFlagsTip.classList.remove('hidden');
+      }
+
+      // Render regular chapters 1 - 5 with dynamic Progress Bars
+      const container = document.getElementById('pChaptersList');
+      container.innerHTML = '';
+
+      demoData.forEach(c => {
+        const total = c.points.length;
+        const currentReviewed = Math.min(userProgress[c.chapterId] || 0, total);
+        const progressPct = total > 0 ? Math.round((currentReviewed / total) * 100) : 0;
+        const flaggedInChap = c.points.filter(p => p.isBookmarked).length;
+
+        const div = document.createElement('div');
+        div.onclick = () => openCardView(c.chapterId);
+        div.className = "bg-white border-2 border-gray-200 rounded-2xl p-4 hover:border-blue-500 hover:shadow-md transition-all cursor-pointer group";
+        div.innerHTML = `
+          <div class="flex justify-between items-start mb-2">
+            <div class="flex items-center gap-3 min-w-0">
+              <div class="w-10 h-10 rounded-xl bg-blue-100 text-blue-900 font-black flex items-center justify-center shrink-0 text-base group-hover:bg-blue-600 group-hover:text-white transition-colors shadow-xs">
+                ${c.chapterId}
+              </div>
+              <div class="truncate">
+                <div class="flex items-center gap-1.5">
+                  <span class="text-[10px] font-black text-gray-400 uppercase tracking-wider">Sector ${c.chapterId}</span>
+                  ${flaggedInChap > 0 ? `<span class="text-[10px] font-black text-amber-800 bg-amber-100 border border-amber-300 px-1.5 py-0.2 rounded-full shadow-2xs">★ ${flaggedInChap} 難題</span>` : ''}
+                </div>
+                <h4 class="text-sm font-bold text-gray-900 truncate mt-0.5">
+                  ${isZh ? c.title.zh : c.title.en}
+                </h4>
+                ${isZh ? `<p class="text-[11px] text-gray-400 truncate">${c.title.en}</p>` : ''}
+              </div>
+            </div>
+            <div class="text-right shrink-0 ml-2">
+              <span class="text-xs font-bold text-gray-700 font-mono">${currentReviewed} / ${total}</span>
+              <span class="text-[11px] font-bold text-blue-600 ml-1">(${progressPct}%)</span>
+            </div>
+          </div>
+
+          <!-- Restored Progress Bar Function -->
+          <div class="w-full bg-gray-100 h-2 rounded-full overflow-hidden mt-3">
+            <div 
+              class="bg-blue-600 h-full transition-all duration-300 rounded-full" 
+              style="width: ${progressPct}%;"
+            ></div>
+          </div>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    function openIndexView() {
+      document.getElementById('pScreenCard').classList.add('hidden');
+      document.getElementById('pScreenIndex').classList.remove('hidden');
+      renderIndex();
+    }
+
+    function openCardView(chapId) {
+      activeChapterId = chapId;
+      // Start from the user's saved reading position if available
+      activePointIndex = 0;
+      document.getElementById('pScreenIndex').classList.add('hidden');
+      document.getElementById('pScreenCard').classList.remove('hidden');
+      renderCard();
+    }
+
+    function getActiveCards() {
+      if (activeChapterId === 'flagged') return getAllFlagged();
+      const c = demoData.find(x => x.chapterId === activeChapterId);
+      return c ? c.points : [];
+    }
+
+    function renderCard() {
+      const cards = getActiveCards();
+      const total = cards.length;
+
+      // Sync progress tracking
+      if (total > 0) {
+        userProgress[activeChapterId] = Math.max(userProgress[activeChapterId] || 0, activePointIndex + 1);
+      }
+
+      if (activeChapterId === 'flagged') {
+        document.getElementById('pCardTitle').innerText = isZh ? "Sector 6: 已標記難題庫" : "Sector 6: Flagged Points";
+        document.getElementById('pCardBadge').innerText = "Sector 6 • 難題複習";
+        document.getElementById('pCardBadge').className = "text-[10px] font-black uppercase tracking-wider bg-amber-100 text-amber-900 px-2 py-0.5 rounded";
+        document.getElementById('pCardBar').className = "bg-amber-500 h-full transition-all duration-300";
+      } else {
+        const c = demoData.find(x => x.chapterId === activeChapterId);
+        document.getElementById('pCardTitle').innerText = isZh ? `Sector ${c.chapterId}: ${c.title.zh}` : `Sector ${c.chapterId}: ${c.title.en}`;
+        document.getElementById('pCardBadge').innerText = `Sector ${c.chapterId} • 核心考點`;
+        document.getElementById('pCardBadge').className = "text-[10px] font-black uppercase tracking-wider bg-blue-50 text-blue-800 px-2 py-0.5 rounded";
+        document.getElementById('pCardBar').className = "bg-blue-600 h-full transition-all duration-300";
+      }
+
+      if (total === 0) {
+        document.getElementById('pTextEn').innerText = "No flagged points yet!";
+        document.getElementById('pTextZh').innerText = "此處目前沒有標記難題。在各單元學習時點擊「標記難題」即可加入！";
+        document.getElementById('pCardProgressText').innerText = "0 / 0";
+        document.getElementById('pCardBar').style.width = "0%";
+        document.getElementById('pPrevBtn').disabled = true;
+        document.getElementById('pNextBtn').disabled = true;
+        document.getElementById('pBookmarkToggleBtn').style.display = "none";
+        return;
+      }
+
+      document.getElementById('pBookmarkToggleBtn').style.display = "flex";
+
+      if (activePointIndex >= total) activePointIndex = total - 1;
+      if (activePointIndex < 0) activePointIndex = 0;
+
+      const p = cards[activePointIndex];
+
+      document.getElementById('pTextEn').innerText = p.en;
+      document.getElementById('pTextZh').innerText = p.zh;
+      document.getElementById('pTextZh').style.display = isZh ? "block" : "none";
+      document.getElementById('pCardPointId').innerText = `Point ID: ${p.id}`;
+
+      // Dynamic Card Progress Bar Calculation
+      const pct = Math.round(((activePointIndex + 1) / total) * 100);
+      document.getElementById('pCardBar').style.width = pct + "%";
+      document.getElementById('pCardProgressText').innerText = `${activePointIndex + 1} / ${total} (${pct}%)`;
+
+      // Dual Button States
+      document.getElementById('pPrevBtn').disabled = activePointIndex === 0;
+      const isEnd = activePointIndex === total - 1;
+      document.getElementById('pNextBtnText').innerText = isEnd 
+        ? (isZh ? "返回單元 (Done)" : "Done") 
+        : (isZh ? "下一頁 (Next)" : "Next");
+
+      // Bookmark Button Styling
+      const btn = document.getElementById('pBookmarkToggleBtn');
+      const text = document.getElementById('pBookmarkText');
+      const star = document.getElementById('pStarIcon');
+
+      if (p.isBookmarked) {
+        btn.className = "min-h-[38px] px-3.5 py-1 rounded-full border-2 border-amber-500 bg-amber-50 text-amber-950 transition-all flex items-center gap-1.5 text-xs font-bold cursor-pointer active:scale-95 shadow-xs";
+        star.className = "text-amber-500 font-black";
+        text.innerText = isZh ? "已標記難題 (Flagged)" : "Flagged";
+      } else {
+        btn.className = "min-h-[38px] px-3.5 py-1 rounded-full border border-gray-300 bg-white text-gray-600 hover:border-amber-400 hover:text-amber-600 transition-all flex items-center gap-1.5 text-xs font-bold cursor-pointer active:scale-95";
+        star.className = "text-gray-400";
+        text.innerText = isZh ? "標記難題 (Flag)" : "Flag";
+      }
+    }
+
+    function stepCard(dir) {
+      const cards = getActiveCards();
+      if (dir === -1 && activePointIndex > 0) {
+        activePointIndex--;
+        renderCard();
+      } else if (dir === 1) {
+        if (activePointIndex < cards.length - 1) {
+          activePointIndex++;
+          renderCard();
+        } else {
+          openIndexView();
+        }
+      }
+    }
+
+    function toggleBookmarkCurrent() {
+      const cards = getActiveCards();
+      const p = cards[activePointIndex];
+      p.isBookmarked = !p.isBookmarked;
+
+      demoData.forEach(c => {
+        const found = c.points.find(item => item.id === p.id);
+        if (found) found.isBookmarked = p.isBookmarked;
+      });
+
+      renderCard();
+    }
+
+    function resetAllFlags() {
+      demoData.forEach(c => {
+        c.points.forEach(p => p.isBookmarked = false);
+      });
+      userProgress['flagged'] = 0;
+      renderIndex();
+    }
+
+    function toggleLang() {
+      isZh = !isZh;
+      document.getElementById('pLangBtn').innerText = isZh ? "EN / 繁" : "ENG Only";
+      if (document.getElementById('pScreenIndex').classList.contains('hidden')) {
+        renderCard();
+      } else {
+        renderIndex();
+      }
+    }
+
+    renderIndex();
+  </script>
+</body>
+</html>

@@ -1,0 +1,1763 @@
+[
+  {
+    "question": {
+      "en": "How many members does a jury have in England, Wales and Northern Ireland?",
+      "zh": "在英格蘭、威爾斯和北愛爾蘭，陪審團有多少名成員？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "In England, Wales, and Northern Ireland, a jury has 12 members. In Scotland, it has 15 members.",
+      "zh": "在英格蘭、威爾斯和北愛爾蘭，陪審團有12名成員。在蘇格蘭則有15名成員。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "9",
+          "zh": "9"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "12",
+          "zh": "12"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "15",
+          "zh": "15"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "20",
+          "zh": "20"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two of the following religious communities celebrate Diwali?",
+      "zh": "下列哪兩個宗教群體慶祝排燈節（Diwali）？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Diwali is the Festival of Lights, celebrated by both Hindus and Sikhs.",
+      "zh": "排燈節是印度教徒和錫克教徒共同慶祝的光明節。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Buddhists",
+          "zh": "佛教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hindus",
+          "zh": "印度教徒"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Jews",
+          "zh": "猶太教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sikhs",
+          "zh": "錫克教徒"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is Good Friday?",
+      "zh": "耶穌受難日（Good Friday）是什麼日子？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Good Friday is the day when Jesus Christ died. Easter Sunday commemorates his rising from the dead.",
+      "zh": "耶穌受難日是紀念耶穌基督死亡的日子。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The day when Jesus Christ rose from the dead",
+          "zh": "耶穌基督從死裡復活的日子"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The day when Jesus Christ was born",
+          "zh": "耶穌基督誕生的日子"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The day when Jesus Christ died",
+          "zh": "耶穌基督受難（死亡）的日子"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The day when Jesus Christ became 30 years old",
+          "zh": "耶穌基督滿30歲的日子"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "St Patrick's day is a public holiday in Northern Ireland.",
+      "zh": "聖派翠克節（St Patrick's day）在北愛爾蘭是公眾假期。"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St Patrick's Day is the patron saint day of Ireland and is a public holiday in Northern Ireland, celebrated on 17 March.",
+      "zh": "聖派翠克節是北愛爾蘭的公眾假期，於3月17日慶祝。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which was the last successful foreign invasion of England that took place in 1066?",
+      "zh": "1066年發生的最後一次成功入侵英格蘭的外國戰役是哪一場？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Norman Conquest of 1066, led by William the Conqueror, was the last successful foreign invasion of England.",
+      "zh": "1066年由征服者威廉領導的諾曼第征服，是最後一次成功入侵英格蘭的戰役。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Viking invasion",
+          "zh": "維京人入侵"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Anglo-Saxon Conquest",
+          "zh": "盎格魯-撒克遜人征服"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Roman invasion",
+          "zh": "羅馬人入侵"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Norman Conquest",
+          "zh": "諾曼第征服"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where are the Crown Jewels kept?",
+      "zh": "英國王權之物（皇冠和權杖等）保存在哪裡？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Crown Jewels are kept at the Tower of London, where they can be viewed by the public.",
+      "zh": "王權之物保存在倫敦塔內，供公眾參觀。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "At the House of Commons",
+          "zh": "下議院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "At the Tower of London",
+          "zh": "倫敦塔"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "At Buckingham Palace",
+          "zh": "白金漢宮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "At Windsor Castle",
+          "zh": "溫莎城堡"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which sport can be traced back to the 15th century in Scotland?",
+      "zh": "哪項運動可以追溯到15世紀的蘇格蘭？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The modern game of golf can be traced back to 15th-century Scotland.",
+      "zh": "現代高爾夫球運動起源於15世紀的蘇格蘭。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Golf",
+          "zh": "高爾夫球"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Tennis",
+          "zh": "網球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Football",
+          "zh": "足球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Rugby",
+          "zh": "橄欖球"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was the first person in England to print books using a printing press?",
+      "zh": "誰是英格蘭第一位使用印刷機印製書籍的人？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "William Caxton was the first person in England to print books using a printing press.",
+      "zh": "威廉·卡克斯頓（William Caxton）是英格蘭第一個使用印刷機印書的人。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "William Shakespeare",
+          "zh": "威廉·莎士比亞"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "John Barbour",
+          "zh": "約翰·巴伯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Geoffrey Chaucer",
+          "zh": "傑弗里·喬叟"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "William Caxton",
+          "zh": "威廉·卡克斯頓"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which court deals with minor criminal cases in England, Wales and Northern Ireland?",
+      "zh": "在英格蘭、威爾斯和北愛爾蘭，哪個法院處理輕微的刑事案件？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Minor criminal cases in England, Wales and Northern Ireland are dealt with in a Magistrates' Court.",
+      "zh": "在英格蘭、威爾斯和北愛爾蘭，輕微刑事案件由裁判司署（Magistrates' Court）處理。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "High Court",
+          "zh": "高等法院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Justice of the Peace Court",
+          "zh": "治安推事法庭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Magistrates' Court",
+          "zh": "裁判司署"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Crown Court",
+          "zh": "刑事法庭"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What did the Scottish John Logie Baird develop?",
+      "zh": "蘇格蘭人約翰·洛吉·貝爾德（John Logie Baird）發明了什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "John Logie Baird was a Scottish engineer and inventor who developed the first working television.",
+      "zh": "約翰·洛吉·貝爾德是蘇格蘭工程師，他發明了世界上第一台可運作的電視。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Television",
+          "zh": "電視"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Radar",
+          "zh": "雷達"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Personal computer",
+          "zh": "個人電腦"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Radio",
+          "zh": "收音機"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is a fundamental principle of British life?",
+      "zh": "下列哪一項是英國生活的基本原則？"
+    },
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "The fundamental principles of British life include democracy, the rule of law, individual liberty, and tolerance of those with different faiths and beliefs.",
+      "zh": "英國生活的基本原則包括民主、法治、個人自由以及對不同宗教和信仰的寬容。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Communism",
+          "zh": "共產主義"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Intolerance",
+          "zh": "不寬容"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Individual liberty",
+          "zh": "個人自由"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Inequity",
+          "zh": "不公平"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Wales has its own established church.",
+      "zh": "威爾斯有自己的國教。"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Wales does not have an established church. Only England and Scotland have established churches.",
+      "zh": "威爾斯沒有官方的國教。只有英格蘭和蘇格蘭有國教。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How is New Year's Eve called in Scotland?",
+      "zh": "蘇格蘭的新年前夕（除夕）稱為什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "In Scotland, New Year's Eve is called Hogmanay.",
+      "zh": "在蘇格蘭，新年前夕被稱為 Hogmanay。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Vaisakhi",
+          "zh": "光明節 (Vaisakhi)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hannukah",
+          "zh": "光明節 (Hannukah)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Diwali",
+          "zh": "排燈節 (Diwali)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hogmanay",
+          "zh": "霍格曼內 (Hogmanay)"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Why did Henry VIII establish the church of England?",
+      "zh": "為什麼亨利八世要建立英格蘭國教會？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Henry VIII established the Church of England so he could divorce his first wife, Catherine of Aragon, which the Pope had refused to allow.",
+      "zh": "為了與他的第一任妻子阿拉貢的凱瑟琳離婚。教宗拒絕批准離婚，因此亨利八世脫離羅馬天主教會，建立了英格蘭教會。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To celebrate his wedding with Anne of Cleves",
+          "zh": "為了慶祝他與克萊沃的安妮結婚"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To have control over religious people",
+          "zh": "為了控制宗教人士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To establish a unique religion in England",
+          "zh": "為了在英格蘭建立一個獨特的宗教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To divorce his first wife, Catherine of Aragon",
+          "zh": "為了與他的第一任妻子阿拉貢的凱瑟琳離婚"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the long war that English kings fought with France in the middle ages?",
+      "zh": "中世紀英國國王與法國進行的長期戰爭稱為什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Hundred Years War was a long-running conflict between England and France that lasted 116 years.",
+      "zh": "百年戰爭是英格蘭和法國之間長達116年的衝突。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Crimean War",
+          "zh": "克里米亞戰爭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The First World War",
+          "zh": "第一次世界大戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Hundred Years War",
+          "zh": "百年戰爭"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Boer War",
+          "zh": "波耳戰爭"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was supported by clansmen from the Scottish highlands and raised and army in 1745?",
+      "zh": "1745年，誰在蘇格蘭高地氏族的支持下建立了一支軍隊？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Bonnie Prince Charlie (Charles Edward Stuart) was supported by Scottish Highlanders and raised an army in 1745 to reclaim the throne.",
+      "zh": "英俊王子查理。他於1745年在蘇格蘭高地人的支持下起兵，試圖奪回王位。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Bonnie Prince Charlie",
+          "zh": "英俊王子查理 (Bonnie Prince Charlie)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Robert Burns",
+          "zh": "羅伯特·彭斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Oliver Cromwell",
+          "zh": "奧立佛·克倫威爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Kenneth MacAlpin",
+          "zh": "肯尼思·麥克亞爾平"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "If you think someone is trying to persuade you to join an extremist or terrorist activity, who should you contact?",
+      "zh": "如果你認為有人試圖說服你加入極端主義或恐怖主義活動，你應該聯繫誰？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "You should contact your local police force if you suspect someone is trying to involve you in extremist or terrorist activities.",
+      "zh": "如果你懷疑有人試圖拉攏你參與極端或恐怖活動，應立即聯絡當地警方。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Home Office",
+          "zh": "內政部"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Your local police force",
+          "zh": "當地警察局"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Your local MP",
+          "zh": "當地國會議員 (MP)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Your family",
+          "zh": "你的家人"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "It is compulsory for 16 and 17-year-olds to join the National Citizen Service programme.",
+      "zh": "16和17歲的青少年必須強制參加國家公民服務 (NCS) 計畫。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The National Citizen Service (NCS) is an optional programme for 16 and 17-year-olds; it is not compulsory.",
+      "zh": "國家公民服務計畫是自願參加的，並非強制。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the tour guides that tell visitors stories about the Tower of London's history?",
+      "zh": "在倫敦塔向遊客講述歷史故事的導遊稱為什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Yeomen Warders, popularly known as Beefeaters, serve as tour guides at the Tower of London.",
+      "zh": "倫敦塔衛兵 (Beefeaters)。他們正式名稱為「御用侍從衛士」，負責在倫敦塔為遊客導覽。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Knights",
+          "zh": "騎士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Chartists",
+          "zh": "憲章派"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Suffragettes",
+          "zh": "婦女參政運動者"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Beefeaters",
+          "zh": "倫敦塔衛兵 (Beefeaters)"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two countries developed the Concorde, the world's only supersonic commercial airliner?",
+      "zh": "哪兩個國家共同開發了世界上唯一的超音速商用客機「協和號」？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Concorde was developed jointly by Britain and France and remains the world's only supersonic commercial airliner to have been in regular service.",
+      "zh": "協和號是由英國和法國合作研發的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Italy",
+          "zh": "義大利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Britain",
+          "zh": "英國"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Germany",
+          "zh": "德國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is Snowdonia located?",
+      "zh": "斯諾登尼亞 (Snowdonia) 位於哪裡？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Snowdonia is a mountainous national park located in Wales.",
+      "zh": "斯諾登尼亞是位於威爾斯的一個國家公園。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who wrote Sherlock Holmes?",
+      "zh": "誰寫了《福爾摩斯》？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Sir Arthur Conan Doyle was a Scottish writer who created the famous fictional detective Sherlock Holmes.",
+      "zh": "亞瑟·柯南·道爾爵士。他是蘇格蘭作家，創造了著名的虛構偵探福爾摩斯。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Evelyn Waugh",
+          "zh": "伊夫林·沃"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Kingsley Amis",
+          "zh": "金斯利·艾米斯爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Graham Greene",
+          "zh": "格雷厄姆·格林"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Arthur Conan Doyle",
+          "zh": "亞瑟·柯南·道爾爵士"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which country was invaded by Germany in 1939?",
+      "zh": "1939年德國入侵了哪個國家？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Germany invaded Poland in September 1939, which led Britain and France to declare war, starting the Second World War.",
+      "zh": "1939年德國入侵波蘭，引發了第二次世界大戰。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Austria",
+          "zh": "奧地利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Italy",
+          "zh": "義大利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Russia",
+          "zh": "俄羅斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Poland",
+          "zh": "波蘭"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who is the patron Saint of Wales?",
+      "zh": "威爾斯的守護神是誰？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St David is the patron saint of Wales, and St David's Day is celebrated on 1 March.",
+      "zh": "聖大衛。他是威爾斯的守護神，聖大衛日為3月1日。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St David",
+          "zh": "聖大衛"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St George",
+          "zh": "聖喬治"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Patrick",
+          "zh": "聖派翠克"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Andrew",
+          "zh": "聖安德魯"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Lake District is the largest national park of England.",
+      "zh": "湖區 (Lake District) 是英格蘭最大的國家公園。"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Lake District is the largest national park in England, known for its lakes and mountains.",
+      "zh": "正確。湖區是英格蘭面積最大的國家公園。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the area in London where famous theatres are located?",
+      "zh": "倫敦著名劇院林立的地區稱為什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The area in London famous for its concentration of theatres is known as Theatreland, located in the West End.",
+      "zh": "劇院區 (Theatreland)。倫敦西區的劇院聚集地被稱為「劇院區」。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Soho",
+          "zh": "蘇荷區 (Soho)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Theatreland",
+          "zh": "劇院區 (Theatreland)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Westminster",
+          "zh": "西敏寺 (Westminster)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hyde Park",
+          "zh": "海德公園"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two of the following are key roles of school governors?",
+      "zh": "以下哪兩項是學校校董 (school governors) 的主要職責？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "School governors are responsible for setting the strategic direction of the school and monitoring its performance.",
+      "zh": "校董會負責指導學校的長期發展及監督其表現。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Monitoring student's behaviour",
+          "zh": "監控學生的行為"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Monitoring and evaluating school performance",
+          "zh": "監控並評估學校的表現"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Setting the strategic direction of the school",
+          "zh": "設定學校的戰略方向"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Giving awards to the best students of the school",
+          "zh": "頒發獎項給學校最優秀的學生"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What led the American colonies to want their independence from Britain?",
+      "zh": "是什麼原因促使北美殖民地要求脫離英國獨立？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The American colonies demanded independence largely because the British government sought to impose taxes on them without allowing them representation in Parliament.",
+      "zh": "由於英國政府在沒有給予他們議會代表權的情況下對其徵稅，引發了美國獨立戰爭。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The British government wanted to control their borders",
+          "zh": "英國政府想控制他們的邊界"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "They were running out of resources",
+          "zh": "資源即將耗盡"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The British government wanted to tax them",
+          "zh": "英國政府想對他們徵稅"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "There were not enough jobs for the local people",
+          "zh": "當地人沒有足夠的工作機會"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When did the Black Death take place?",
+      "zh": "黑死病發生在什麼時候？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Black Death, a devastating plague, occurred in the Middle Ages (specifically in 1348).",
+      "zh": "黑死病是一場發生在1348年中世紀的毀滅性瘟疫。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Golden Age",
+          "zh": "黃金時代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Stone Age",
+          "zh": "石器時代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Middle Ages",
+          "zh": "中世紀"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Iron Age",
+          "zh": "鐵器時代"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was the leader of the suffragettes, the group that campaigned for women's rights to vote?",
+      "zh": "爭取婦女投票權的組織「婦女參政運動者」(suffragettes) 的領導人是誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Emmeline Pankhurst was the primary leader of the suffragette movement, which campaigned for women's right to vote.",
+      "zh": "埃米琳·潘克斯特。她是婦女參政運動的主要領導人。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Queen Victoria",
+          "zh": "維多利亞女王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Oliver Cromwell",
+          "zh": "奧立佛·克倫威爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Florence Nightingale",
+          "zh": "弗羅倫斯·南丁格爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Emmeline Pankhurst",
+          "zh": "埃米琳·潘克斯特"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Cardiff is the capital city of which country?",
+      "zh": "卡地夫 (Cardiff) 是哪個國家的首都？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Cardiff is the capital city of Wales.",
+      "zh": "卡地夫是威爾斯的首都。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ireland",
+          "zh": "愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "During the Great Depression in the 1930s which industry was badly affected?",
+      "zh": "在1930年代的大蕭條期間，哪個行業受到了嚴重打擊？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Traditional heavy industries, such as shipbuilding, were badly affected during the Great Depression of the 1930s.",
+      "zh": "傳統的重工業（如造船業）在大蕭條期間遭受了重創。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Housing construction",
+          "zh": "房屋建築"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Shipbuilding",
+          "zh": "造船業"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Automobile",
+          "zh": "汽車業"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Aviation",
+          "zh": "航空業"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was the first man in the world to run 1 mile in under 4 minutes?",
+      "zh": "世界上第一位在4分鐘內跑完1英里的人是誰？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Sir Roger Bannister was the first person to run a mile in under four minutes in 1954.",
+      "zh": "羅傑·班尼斯特爵士。他在1954年成為世界上第一個在4分鐘內跑完一英里的人。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Sir Chris Hoy",
+          "zh": "克里斯·霍伊爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Roger Bannister",
+          "zh": "羅傑·班尼斯特爵士"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "David Weir",
+          "zh": "大衛·威爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Mo Farah",
+          "zh": "莫·法拉"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which jubilee did Queen Elizabeth II celebrate in 2012?",
+      "zh": "伊莉莎白二世女王在2012年慶祝了哪個禧年？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Queen Elizabeth II celebrated her Diamond Jubilee in 2012, marking 60 years on the throne.",
+      "zh": "鑽禧。2012年，伊莉莎白二世女王慶祝了她登基60週年的鑽禧。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Golden Jubilee",
+          "zh": "金禧"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Silver Jubilee",
+          "zh": "銀禧"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Platinum Jubilee",
+          "zh": "白金禧"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Diamond Jubilee",
+          "zh": "鑽禧"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What was the last battle between Great Britain and France?",
+      "zh": "英國和法國之間的最後一場戰役是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Battle of Waterloo in 1815 was the last battle fought between Great Britain and France.",
+      "zh": "滑鐵盧戰役。1815年的滑鐵盧戰役是英法之間最後一次交鋒。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Battle of Trafalgar",
+          "zh": "特拉法加海戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Waterloo",
+          "zh": "滑鐵盧戰役"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Battle of Hastings",
+          "zh": "黑斯廷斯戰役"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Battle of Agincourt",
+          "zh": "阿金庫爾戰役"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which flower is associated with Wales?",
+      "zh": "哪種花與威爾斯有關？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The daffodil is the national flower associated with Wales.",
+      "zh": "水仙花。水仙花是威爾斯的國花。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Daffodil",
+          "zh": "水仙花"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Rose",
+          "zh": "玫瑰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Shamrock",
+          "zh": "三葉草"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Thistle",
+          "zh": "薊花"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "During the reign of Charles II parts of London were destroyed, what was the cause of this destruction?",
+      "zh": "在查理二世統治期間，倫敦的部分地區被摧毀了，造成這場破壞的原因是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Great Fire of London in 1666 destroyed large parts of the city during the reign of Charles II.",
+      "zh": "發生火災。1666年的倫敦大火在查理二世統治期間摧毀了倫敦的大部分地區。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A war",
+          "zh": "戰爭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A flood",
+          "zh": "洪水"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A fire",
+          "zh": "發生火災"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "An earthquake",
+          "zh": "地震"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How often are general elections held in the UK?",
+      "zh": "英國多久舉行一次大選？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "General elections in the UK are typically held at least every 5 years.",
+      "zh": "每5年。英國大選通常最多每5年舉行一次。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Every 3 years",
+          "zh": "每3年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every 4 years",
+          "zh": "每4年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every 5 years",
+          "zh": "每5年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Every 10 years",
+          "zh": "每10年"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Scotland has its own banknotes, which are valid everywhere in the UK.",
+      "zh": "蘇格蘭有自己的紙幣，這些紙幣在英國各地都有效。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Scotland and Northern Ireland have their own banknotes. They are valid forms of payment anywhere in the UK.",
+      "zh": "正確。蘇格蘭有自己發行的紙鈔，且在全英國皆為有效貨幣。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What charity works to preserve important buildings, coastline and countryside in the UK?",
+      "zh": "英國哪個慈善機構致力於保護重要的建築、海岸線和鄉村？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The National Trust is a UK charity that preserves historic buildings, coastlines, and the countryside.",
+      "zh": "The National Trust (國家信託)。該機構專門保護歷史建築、海岸線和自然景觀。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Shelter",
+          "zh": "Shelter (庇護所)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Age UK",
+          "zh": "Age UK (英國老年協會)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Crisis",
+          "zh": "Crisis (危機)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The National Trust",
+          "zh": "The National Trust (國家信託)"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Great Britain refers only to England, Wales and Scotland.",
+      "zh": "大不列顛 (Great Britain) 僅指英格蘭、威爾斯和蘇格蘭。"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Great Britain consists of England, Wales, and Scotland. It does not include Northern Ireland.",
+      "zh": "正確。大不列顛包含英格蘭、蘇格蘭和威爾斯，不包括北愛爾蘭。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was the tribal leader who fought against the Romans?",
+      "zh": "哪位部落領袖曾對抗羅馬人？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Boudicca was a tribal leader (queen of the Iceni) who led a major rebellion against the Romans in Britain.",
+      "zh": "布狄卡。她是愛西尼部落的女王，曾領導反抗羅馬統治的起義。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Cleopatra",
+          "zh": "克婁巴特拉"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Claudia",
+          "zh": "克勞迪婭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Boudicca",
+          "zh": "布狄卡 (Boudicca)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St Augustine",
+          "zh": "聖奧古斯丁"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was voted the greatest Briton of all time in 2002?",
+      "zh": "誰在2002年被票選為有史以來最偉大的英國人？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Winston Churchill, the Prime Minister during WWII, was voted the greatest Briton of all time in a 2002 poll.",
+      "zh": "溫斯頓·邱吉爾。他在二戰期間擔任首相，並於2002年獲選為最偉大的英國人。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Isaac Newton",
+          "zh": "艾薩克·牛頓"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Winston Churchill",
+          "zh": "溫斯頓·邱吉爾"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Alexander Fleming",
+          "zh": "亞歷山大·弗萊明"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Mo Farat",
+          "zh": "莫·法拉"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two houses form the UK Parliament?",
+      "zh": "英國議會由哪兩個議院組成？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The UK Parliament is made up of two houses: the House of Commons and the House of Lords.",
+      "zh": "英國國會由上議院和下議院這兩個議院所構成。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The House of Lords",
+          "zh": "上議院 (The House of Lords)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "House of Members",
+          "zh": "議員議院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "House of Commons",
+          "zh": "下議院 (House of Commons)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "House of Fraser",
+          "zh": "弗雷澤議院"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When did women get the right to vote at the same age as men?",
+      "zh": "女性何時獲得了與男性同等年齡的投票權？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Women were given the right to vote at the same age as men (21) in 1928.",
+      "zh": "1928年。女性在1928年獲得了與男性一樣（21歲）的投票權。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1918",
+          "zh": "1918"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1928",
+          "zh": "1928"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1938",
+          "zh": "1938"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1948",
+          "zh": "1948"
+        },
+        "isCorrect": false
+      }
+    ]
+  }
+]

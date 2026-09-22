@@ -1,0 +1,466 @@
+[
+  {
+    "question": "After the Act of Union, Scotland was no longer an independent country. In what TWO ways was it still separate from the rest of Great Britain?",
+    "options": [
+      {
+        "text": "It kept its Presbyterian Church",
+        "isCorrect": true
+      },
+      {
+        "text": "It kept its own army.",
+        "isCorrect": false
+      },
+      {
+        "text": "It kept its own educational system",
+        "isCorrect": true
+      },
+      {
+        "text": "Hadrian's Wall was rebuilt to secure the border.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How is the electoral register updated?",
+    "options": [
+      {
+        "text": "Eligible voters must phone their local councillor",
+        "isCorrect": false
+      },
+      {
+        "text": "Every household must request a registration form",
+        "isCorrect": false
+      },
+      {
+        "text": "Every household receives a phone call to enquire about eligible voter",
+        "isCorrect": false
+      },
+      {
+        "text": "Every household receives a registration form, which must be completed and",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "returned.x A snack made from flour, dried fruits and spices and served either hot or cold is which of the following?",
+    "options": [
+      {
+        "text": "An English muffin",
+        "isCorrect": false
+      },
+      {
+        "text": "A Welsh cake",
+        "isCorrect": true
+      },
+      {
+        "text": "A Scottish bun",
+        "isCorrect": false
+      },
+      {
+        "text": "An Irish pie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where does the UK Parliament sit?",
+    "options": [
+      {
+        "text": "The House of Lords",
+        "isCorrect": false
+      },
+      {
+        "text": "Downing Street",
+        "isCorrect": false
+      },
+      {
+        "text": "Westminster",
+        "isCorrect": true
+      },
+      {
+        "text": "Stormont",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How many people emigrated from the UK during Victoria's reign between 1853- 1913?",
+    "options": [
+      {
+        "text": "500 million",
+        "isCorrect": false
+      },
+      {
+        "text": "13 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "100,000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these is an accurate estimate of the number of casualties suffered by Britain in the First World War?",
+    "options": [
+      {
+        "text": "10 million",
+        "isCorrect": false
+      },
+      {
+        "text": "2 million",
+        "isCorrect": true
+      },
+      {
+        "text": "8 million",
+        "isCorrect": false
+      },
+      {
+        "text": "500,000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Queen Elizabeth II is the head of state for which TWO of the following?",
+    "options": [
+      {
+        "text": "The European Union",
+        "isCorrect": false
+      },
+      {
+        "text": "The United Kingdom",
+        "isCorrect": true
+      },
+      {
+        "text": "Many Commonwealth countries",
+        "isCorrect": true
+      },
+      {
+        "text": "Iceland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the common name for the Yeoman Warders at the Tower of London?",
+    "options": [
+      {
+        "text": "Beefeaters",
+        "isCorrect": true
+      },
+      {
+        "text": "Pikestaff",
+        "isCorrect": false
+      },
+      {
+        "text": "Queen's Men",
+        "isCorrect": false
+      },
+      {
+        "text": "Crown Guards",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Diwali is a religious celebration for which TWO religious groups?",
+    "options": [
+      {
+        "text": "Sikhs",
+        "isCorrect": true
+      },
+      {
+        "text": "Jews",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindus",
+        "isCorrect": true
+      },
+      {
+        "text": "Muslims",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Causing trouble whilst drinking in public can result in which TWO of the following from the police?",
+    "options": [
+      {
+        "text": "An award",
+        "isCorrect": false
+      },
+      {
+        "text": "Praise",
+        "isCorrect": false
+      },
+      {
+        "text": "A fine",
+        "isCorrect": true
+      },
+      {
+        "text": "Arrest",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      {
+        "text": "The jet engine and radar were developed in Britain in the 1950s.",
+        "isCorrect": false
+      },
+      {
+        "text": "The jet engine and radar were developed in Britain in the 1930s",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What happens at a polling station or polling place?",
+    "options": [
+      {
+        "text": "People take their driving test",
+        "isCorrect": false
+      },
+      {
+        "text": "The census is collected",
+        "isCorrect": false
+      },
+      {
+        "text": "Taxes are collected",
+        "isCorrect": false
+      },
+      {
+        "text": "People vote in elections",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Since which year has the UK had a fully democratic voting system.",
+    "options": [
+      {
+        "text": "1969",
+        "isCorrect": false
+      },
+      {
+        "text": "1918",
+        "isCorrect": false
+      },
+      {
+        "text": "1928",
+        "isCorrect": true
+      },
+      {
+        "text": "1889",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      {
+        "text": "Chequers is the Prime Minister's country house",
+        "isCorrect": true
+      },
+      {
+        "text": "Chequers is the Prime Minister's house in London.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which British novelist created the fictional detective, Sherlock Holmes?",
+    "options": [
+      {
+        "text": "Sir Arthur Conan Doyle",
+        "isCorrect": true
+      },
+      {
+        "text": "Robert Louis Stevenson",
+        "isCorrect": false
+      },
+      {
+        "text": "Evelyn Waugh",
+        "isCorrect": false
+      },
+      {
+        "text": "Graham Greene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "To apply to become a permanent resident or citizen of the UK, you will need to be able to do which TWO of the following?",
+    "options": [
+      {
+        "text": "Speak more than one language",
+        "isCorrect": false
+      },
+      {
+        "text": "Speak and read Welsh",
+        "isCorrect": false
+      },
+      {
+        "text": "Speak and read English",
+        "isCorrect": true
+      },
+      {
+        "text": "Have a good understanding of life in the UK",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is New Year's Eve called in Scotland?",
+    "options": [
+      {
+        "text": "Hagmanay",
+        "isCorrect": false
+      },
+      {
+        "text": "Hogmanay",
+        "isCorrect": true
+      },
+      {
+        "text": "Hugmanay",
+        "isCorrect": false
+      },
+      {
+        "text": "Hopmanay",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Battle of Boyne is celebrated with a bank holiday in which country?",
+    "options": [
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": true
+      },
+      {
+        "text": "Wales",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where did the Boer War take place?",
+    "options": [
+      {
+        "text": "Turkey",
+        "isCorrect": false
+      },
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "South Africa",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The Chancellor of the Exchequer is responsible for which area of government policy?",
+    "options": [
+      {
+        "text": "Health",
+        "isCorrect": false
+      },
+      {
+        "text": "Immigration",
+        "isCorrect": false
+      },
+      {
+        "text": "Economy",
+        "isCorrect": true
+      },
+      {
+        "text": "Education",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      {
+        "text": "Colonists in North America were well-educated and interested in ideas of",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "liberty.x",
+    "options": [
+      {
+        "text": "Colonists in North America were poorly-educated and uninterested in politics.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who did Henry VIII marry after the execution of Anne Boleyn?",
+    "options": [
+      {
+        "text": "Catherine Howard",
+        "isCorrect": false
+      },
+      {
+        "text": "Jane Seymour",
+        "isCorrect": true
+      },
+      {
+        "text": "Anne of Cleves",
+        "isCorrect": false
+      },
+      {
+        "text": "Catherine Parr",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What sport is played in the UEFA Champions League?",
+    "options": [
+      {
+        "text": "Cricket",
+        "isCorrect": false
+      },
+      {
+        "text": "Rugby",
+        "isCorrect": false
+      },
+      {
+        "text": "Tennis",
+        "isCorrect": false
+      },
+      {
+        "text": "Football",
+        "isCorrect": true
+      }
+    ]
+  }
+]

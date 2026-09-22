@@ -1,0 +1,43 @@
+import { MetadataRoute } from 'next'
+
+export const dynamic = "force-static";
+
+export default function manifest(): MetadataRoute.Manifest {
+  return {
+    name: 'Life in UK AIO - Bilingual Study Guide & Mock Tests',
+    short_name: 'Life in UK AIO',
+    description: 'Bilingual (EN/ZH) Mock Tests and Complete Study Guide for Life in the UK Citizenship Exam',
+    start_url: '/LifeInUKAIO/',
+    scope: '/LifeInUKAIO/',
+    display: 'standalone',
+    background_color: '#F9FAFB',
+    theme_color: '#111827',
+    orientation: 'portrait-primary',
+    icons: [
+      {
+        src: '/LifeInUKAIO/icons/icon-192.png',
+        sizes: '192x192',
+        type: 'image/png',
+        purpose: 'any'
+      },
+      {
+        src: '/LifeInUKAIO/icons/icon-512.png',
+        sizes: '512x512',
+        type: 'image/png',
+        purpose: 'any'
+      },
+      {
+        src: '/LifeInUKAIO/icons/icon-192-maskable.png',
+        sizes: '192x192',
+        type: 'image/png',
+        purpose: 'maskable'
+      },
+      {
+        src: '/LifeInUKAIO/icons/icon-512-maskable.png',
+        sizes: '512x512',
+        type: 'image/png',
+        purpose: 'maskable'
+      }
+    ]
+  }
+}

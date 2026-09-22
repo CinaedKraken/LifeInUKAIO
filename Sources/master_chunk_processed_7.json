@@ -1,0 +1,1735 @@
+[
+  {
+    "question": {
+      "en": "Where does 'the Fringe' festival take place?",
+      "zh": "「the Fringe」藝術節在哪裡舉行？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Edinburgh Festival Fringe (often referred to as 'the Fringe') is the world's largest arts festival, taking place in Edinburgh every August.",
+      "zh": "愛丁堡邊緣藝術節（Edinburgh Festival Fringe，通常簡稱為「the Fringe」）是全球最大的藝術節，於每年 8 月在愛丁堡舉行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Fraserburgh",
+          "zh": "弗雷澤堡（Fraserburgh）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Edinburgh",
+          "zh": "愛丁堡（Edinburgh）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Inverness",
+          "zh": "印威內斯（Inverness）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Andrews",
+          "zh": "聖安德魯斯（St Andrews）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How many members does the Welsh Assembly have?",
+      "zh": "威爾斯大會（Welsh Assembly）有多少名成員？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Welsh Parliament (formerly known as the Welsh Assembly) has 60 members.",
+      "zh": "威爾斯議會（前身為威爾斯議會大會）有 60 名成員。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "150",
+          "zh": "150"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "120",
+          "zh": "120"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "90",
+          "zh": "90"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "60",
+          "zh": "60"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The names or photographs of  young people found guilty of a crime can be published in newspapers or used by the media.",
+      "zh": "被判有罪的青少年的姓名或照片可以被報紙公布或被媒體使用。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "In England, Wales, and Northern Ireland, the names or photographs of young people under 18 who are found guilty of a crime cannot be published in newspapers or used by the media.",
+      "zh": "在英格蘭、威爾斯和北愛爾蘭，媒體或報紙不得公布被判有罪的 18 歲以下青少年的姓名或照片。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What was Edward Elgar famous for?",
+      "zh": "愛德華·艾爾加（Edward Elgar）以什麼聞名？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Edward Elgar was a famous English classical composer best known for his 'Pomp and Circumstance Marches'.",
+      "zh": "愛德華·艾爾加（Edward Elgar）是英國著名的古典音樂作曲家，最著名的作品是《威風凜凜進行曲》（Pomp and Circumstance Marches）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "He was a musician",
+          "zh": "他是一位音樂家"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "He was a tennis player",
+          "zh": "他是一位網球選手"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "He was a comedian",
+          "zh": "他是一位喜劇演員"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "He was an actor",
+          "zh": "他是一位演員"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is not a British banknote?",
+      "zh": "下列哪一項不是英鎊紙幣？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The standard British banknotes are £5, £10, £20, and £50. There is no £25 note.",
+      "zh": "標準的英鎊紙幣有 5 英鎊、10 英鎊、20 英鎊和 50 英鎊。沒有 25 英鎊的紙幣。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "£50",
+          "zh": "50 英鎊"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "£25",
+          "zh": "25 英鎊"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "£20",
+          "zh": "20 英鎊"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "£5",
+          "zh": "5 英鎊"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where does the Scottish Grand National take place?",
+      "zh": "蘇格蘭國家障礙大賽（Scottish Grand National）在哪裡舉行？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Scottish Grand National is a prestigious National Hunt horse race held at Ayr Racecourse.",
+      "zh": "蘇格蘭國家障礙大賽（Scottish Grand National）是一項享譽盛名的國家狩獵障礙馬賽，在艾爾馬場（Ayr Racecourse）舉行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Fife",
+          "zh": "法夫（Fife）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Edinburgh",
+          "zh": "愛丁堡（Edinburgh）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ayr",
+          "zh": "艾爾（Ayr）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St Andrews",
+          "zh": "聖安德魯斯（St Andrews）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When did the UK join the EU?",
+      "zh": "英國於何時加入歐盟（EU）？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The UK joined the European Economic Community (EEC), which later became the European Union (EU), in 1973.",
+      "zh": "英國於 1973 年加入歐洲經濟共同體（EEC，後來的歐盟 EU）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "In 1957",
+          "zh": "在 1957 年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "In 1973",
+          "zh": "在 1973 年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "In 1975",
+          "zh": "在 1975 年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "In 1964",
+          "zh": "在 1964 年"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "During the reign of Elizabeth I, a large fleet of ships was sent to England to conquer the country and to restore Catholicism, where did this fleet come from?",
+      "zh": "在伊麗莎白一世統治期間，一支大型船隊被派往英格蘭以征服該國並恢復天主教，這支船隊來自哪裡？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In 1588, Spain sent a large fleet of ships, known as the Spanish Armada, to conquer England and restore Catholicism, but it was defeated.",
+      "zh": "在 1588 年，西班牙派遣了一支被稱為「西班牙無敵艦隊」的大型船隊企圖征服英格蘭並恢復天主教，但最終被擊敗。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國（France）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Portugal",
+          "zh": "葡萄牙（Portugal）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Spain",
+          "zh": "西班牙（Spain）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Italy",
+          "zh": "義大利（Italy）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What did the Habeas Corpus Act introduce?",
+      "zh": "《人身保護法》（Habeas Corpus Act）引入了什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Habeas Corpus Act of 1679 introduced the right of a prisoner to a court hearing to determine the legality of their detention.",
+      "zh": "1679 年的《人身保護法》（Habeas Corpus Act）規定了囚犯有權獲得法庭聆訊，以決定其拘留是否合法。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "That every prisoner has a right to a court hearing",
+          "zh": "每個囚犯都有權獲得法庭聆訊"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A salary for members of Parliament (MPs)",
+          "zh": "國會議員（MPs）的薪水"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Financial help for the unemployed, old-age pensions and free school meals",
+          "zh": "失業財政援助、養老金和免費學校膳食"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Measures to improve the conditions of workers",
+          "zh": "改善工人工作條件的措施"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What did Emmeline Pankhurst fight for?",
+      "zh": "艾米琳·潘克斯特（Emmeline Pankhurst）爭取的是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Emmeline Pankhurst was a leader of the British suffragette movement, fighting for women's right to vote.",
+      "zh": "艾米琳·潘克斯特（Emmeline Pankhurst）是英國女性參政運動的領袖，致力於爭取女性的投票權。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The right to liberty and security",
+          "zh": "自由與安全的權利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The right for women to vote",
+          "zh": "女性的投票權"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Freedom of expression",
+          "zh": "言論自由"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The right to a fair trial",
+          "zh": "獲得公正審判的權利"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is 'the Proms'?",
+      "zh": "什麼是「逍遙音樂會」（the Proms）？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Proms is an eight-week summer season of daily orchestral classical music concerts held predominantly in the Royal Albert Hall.",
+      "zh": "逍遙音樂會（The Proms）是為期八週的夏季古典音樂節，每日都有管弦樂古典音樂會，主要在皇家阿爾伯特音樂廳（Royal Albert Hall）舉行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "An annual event that gives awards in a range of categories, such as best British group and best British solo artist",
+          "zh": "一年一度的頒獎盛事，為多個類別頒獎，如最佳英國組合和最佳英國獨唱歌手"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "An annual cultural festival which includes music, dance, art and original performances largely in Welsh",
+          "zh": "一年一度的文化節，主要以威爾斯語進行，包括音樂、舞蹈、藝術和原創表演"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "An eight-week summer season of daily orchestral classical music concerts",
+          "zh": "為期八週的夏季古典音樂節，每日都有管弦樂古典音樂會"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Light-hearted plays with music and comedy",
+          "zh": "帶有音樂和喜劇的輕鬆劇作（如童話劇）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What was Isaac Newton known for?",
+      "zh": "艾薩克·牛頓（Isaac Newton）以什麼聞名？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Sir Isaac Newton was a famous English physicist and mathematician who discovered the laws of gravity and motion.",
+      "zh": "艾薩克·牛頓爵士（Sir Isaac Newton）是著名的英國物理學家和數學家，他發現了重力和運動定律。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The discovery of insulin",
+          "zh": "發現胰島素"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The discovery of gravity",
+          "zh": "發現重力"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The discovery of penicillin",
+          "zh": "發現青黴素（盤尼西林）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The discovery of the steam power",
+          "zh": "發現蒸汽動力"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When did the WWI come to an end?",
+      "zh": "第一次世界大戰於何時結束？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "First World War came to an end on 11 November 1918, when an armistice was signed.",
+      "zh": "第一次世界大戰於 1918 年 11 月 11 日停戰協定簽署時結束。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "In 1922",
+          "zh": "在 1922 年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "In 1918",
+          "zh": "在 1918 年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "In 1945",
+          "zh": "在 1945 年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "In 1943",
+          "zh": "在 1943 年"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)?",
+      "zh": "誰在英格蘭北部建造了城牆以抵禦皮克特人（蘇格蘭人的祖先）？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Emperor Hadrian ordered the building of Hadrian's Wall in the north of England to protect the Roman province from the Picts.",
+      "zh": "羅馬皇帝哈德良（Emperor Hadrian）下令在英格蘭北部建造哈德良長城，以抵禦皮克特人（蘇格蘭人的祖先）入侵羅馬省份。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Boudicca",
+          "zh": "波迪卡（Boudicca）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Emperor Hadrian",
+          "zh": "哈德良皇帝（Emperor Hadrian）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Emperor Claudius",
+          "zh": "克勞狄斯皇帝（Emperor Claudius）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Julius Caesar",
+          "zh": "朱利葉斯·凱撒（Julius Caesar）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two universities participate in an annual rowing race that takes place on the River Thames?",
+      "zh": "哪兩所大學參加在泰晤士河上舉行的一年一度划船比賽？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The University of Oxford and the University of Cambridge compete in the famous annual Boat Race on the River Thames.",
+      "zh": "牛津大學（University of Oxford）和劍橋大學（University of Cambridge）在泰晤士河上進行一年一度著名的划船對抗賽（The Boat Race）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The University of Oxford",
+          "zh": "牛津大學（The University of Oxford）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The University of Cambridge",
+          "zh": "劍橋大學（The University of Cambridge）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The University of Manchester",
+          "zh": "曼徹斯特大學（The University of Manchester）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The University of Warwick",
+          "zh": "華威大學（The University of Warwick）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Does Britain have a written constitution?",
+      "zh": "英國有成文憲法嗎？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Britain does not have a single written constitution; instead, it has an unwritten (uncodified) constitution made up of multiple sources.",
+      "zh": "英國沒有單一的成文憲法；相反地，它擁有由多種來源組成的非成文（未編纂）憲法。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Yes",
+          "zh": "有"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "No",
+          "zh": "沒有"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is St Helena part of the UK?",
+      "zh": "聖赫勒拿（St Helena）是聯合王國（UK）的一部分嗎？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "St Helena is a British Overseas Territory, but it is not part of the United Kingdom itself.",
+      "zh": "聖赫勒拿（St Helena）是英國海外領土，但它本身不屬於聯合王國（UK）的一部分。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Yes",
+          "zh": "是"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "No",
+          "zh": "否"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is Theatreland?",
+      "zh": "「Theatreland」（劇院區）在哪裡？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "London's West End, also known as 'Theatreland', is famous for its concentration of large and historic commercial theatres.",
+      "zh": "倫敦西區（London's West End，也被稱為「Theatreland」）以其集中了許多大型且具歷史意義的商業劇院而聞名。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Docklands",
+          "zh": "碼頭區（Docklands）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "London's east end",
+          "zh": "倫敦東區（London's east end）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "London's west end",
+          "zh": "倫敦西區（London's west end）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "London's south end",
+          "zh": "倫敦南區（London's south end）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the UK currency?",
+      "zh": "英國貨幣的名稱是什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The official currency of the United Kingdom is the Pound Sterling (£).",
+      "zh": "聯合王國的官方貨幣是英鎊（Pound Sterling，符號為 £）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Euro",
+          "zh": "歐元（Euro）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Pound Sterling",
+          "zh": "英鎊（Pound Sterling）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Peso",
+          "zh": "披索（Peso）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Dollar",
+          "zh": "元/美金（Dollar）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What other name is given to Diwali?",
+      "zh": "排燈節（Diwali）還有什麼其他名稱？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Diwali is a Hindu and Sikh festival widely known as the 'Festival of Lights'.",
+      "zh": "排燈節（Diwali）是印度教和錫克教的節日，廣為人知的別名為「光明節」（Festival of Lights）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Festival of Lights",
+          "zh": "光明節（The Festival of Lights）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Ash Wednesday",
+          "zh": "大齋首日/灰週三（Ash Wednesday）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Good Friday",
+          "zh": "耶穌受難日（Good Friday）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Easter Monday",
+          "zh": "復活節星期一（Easter Monday）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the Enlightenment?",
+      "zh": "什麼是啟蒙運動（the Enlightenment）？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Enlightenment was an intellectual and philosophical movement in the 18th century that championed reason, science, and individual rights.",
+      "zh": "啟蒙運動（The Enlightenment）是 18 世紀的一場智力和哲學運動，倡導理性、科學和個人權利。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A period of total peace in England",
+          "zh": "英格蘭完全和平的時期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A period when new ideas about politics, philosophy and science were developed",
+          "zh": "關於政治、哲學和科學的新思想蓬勃發展的時期"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A period when England became the largest empire the world had ever seen",
+          "zh": "英格蘭成為世界上前所未有最大帝國的時期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A period of economic recovery after the Second World War",
+          "zh": "第二次世界大戰後經濟復甦的時期"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following charities helps the environment?",
+      "zh": "下列哪一個慈善機構致力於保護環境？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Friends of the Earth is an international environmental charity dedicated to protecting the natural world.",
+      "zh": "「地球之友」（Friends of the Earth）是一個致力於保護自然世界的國際環保慈善機構。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "NSPCC",
+          "zh": "英國國家防虐童協會（NSPCC）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Shelter",
+          "zh": "避難所（Shelter，幫助無家可歸者的慈善機構）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Friends of the Earth",
+          "zh": "地球之友（Friends of the Earth）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Crisis",
+          "zh": "危機（Crisis，幫助無家可歸者的慈善機構）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following was a crucial aerial battle fought between Germany and Britain during WWII?",
+      "zh": "下列哪一場是第二次世界大戰期間德國和英國之間進行的關鍵空中戰役？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Battle of Britain was a pivotal air campaign fought in the skies over the UK in the summer and autumn of 1940.",
+      "zh": "不列顛戰役（The Battle of Britain）是 1940 年夏秋期間在英國上空進行的一場關鍵性空中戰役。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Battle of Britain",
+          "zh": "不列顛戰役（The Battle of Britain）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Battle of Worcester",
+          "zh": "伍斯特戰役（The Battle of Worcester）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Dunbar",
+          "zh": "登巴戰役（The Battle of Dunbar）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Marston Moor",
+          "zh": "馬斯頓荒原戰役（The Battle of Marston Moor）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What was Margaret Thatcher famous for?",
+      "zh": "瑪格麗特·柴契爾（Margaret Thatcher）以什麼聞名？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Margaret Thatcher, the leader of the Conservative Party, became the UK's first female Prime Minister in 1979.",
+      "zh": "保守黨黨魁瑪格麗特·柴契爾（Margaret Thatcher）於 1979 年成為英國第一位女性首相。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "She fought for the right to vote for women",
+          "zh": "她爭取女性的投票權"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "She was the first woman Prime Minister of the UK",
+          "zh": "她是英國第一位女性首相"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "She set up the women's Franchise League",
+          "zh": "她創立了婦女選舉權聯盟"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "She was the founder of modern nursing",
+          "zh": "她是現代護理學的奠基人"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two languages combined to become one English language?",
+      "zh": "哪兩種語言融合成了一種英語？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Modern English developed from the fusion of Anglo-Saxon (Old English) and Norman French after the Norman Conquest.",
+      "zh": "現代英語是在諾曼征服後，由盎格魯-撒克遜語（古英語）和諾曼法語融合發展而來。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Latin",
+          "zh": "拉丁語（Latin）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Anglo-Saxon",
+          "zh": "盎格魯-撒克遜語（Anglo-Saxon）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Proto-Celtic",
+          "zh": "原始凱爾特語（Proto-Celtic）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Norman French",
+          "zh": "諾曼法語（Norman French）"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+      "zh": "依法，廣播和電視對政黨的報導必須保持平衡，因此必須給予不同觀點平等的發言時間。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Unlike newspapers, British radio and television broadcasters are legally required to provide balanced and impartial coverage of political parties.",
+      "zh": "與報紙不同，英國法律規定廣播和電視媒體對政黨的報導必須保持平衡與公正，並向相互競爭的觀點提供平等的發言時間。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where did the Spanish Armada come from?",
+      "zh": "西班牙無敵艦隊（Spanish Armada）來自哪裡？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Spanish Armada was a fleet of ships sent by King Philip II of Spain in 1588 to invade England.",
+      "zh": "西班牙無敵艦隊（Spanish Armada）是西班牙國王腓力二世於 1588 年派遣企圖入侵英格蘭的船隊。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國（France）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Spain",
+          "zh": "西班牙（Spain）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Italy",
+          "zh": "義大利（Italy）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "South America",
+          "zh": "南美洲（South America）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the War Memorial located in Whitehall?",
+      "zh": "位於白廳（Whitehall）的戰爭紀念碑名稱是什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Cenotaph, located in Whitehall, London, is the national war memorial where the annual Remembrance Day service is held.",
+      "zh": "和平紀念碑（Cenotaph）位於倫敦白廳（Whitehall），是英國的國家戰爭紀念碑，每年在此舉行國殤星期日紀念儀式。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Dumfries",
+          "zh": "達姆弗里斯（Dumfries）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Cenotaph",
+          "zh": "和平紀念碑（Cenotaph）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Royal Crescent",
+          "zh": "皇家新月（Royal Crescent）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The White Tower",
+          "zh": "白塔（The White Tower）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The UK government has never suspended the Northern Ireland Assembly.",
+      "zh": "英國政府從未暫停過北愛爾蘭議會（Northern Ireland Assembly）的運作。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The UK government has suspended the Northern Ireland Assembly on several occasions when the power-sharing agreement broke down.",
+      "zh": "在權力分享協議破裂時，英國政府曾多次暫停北愛爾蘭議會的運作。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who is responsible for the opening of the new parliamentary session each year?",
+      "zh": "誰負責主持每年新一屆國會會期的開幕大典？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Monarch (the Queen/King) is responsible for the formal State Opening of Parliament each year.",
+      "zh": "君主（女王或國王）負責主持每年一度的國會開幕大典（State Opening of Parliament）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Prime Minister",
+          "zh": "首相"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Speaker",
+          "zh": "議長"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Queen",
+          "zh": "女王"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Home Secretary",
+          "zh": "內政大臣"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When was the Domesday Book written?",
+      "zh": "《末日審判書》（Domesday Book）是在什麼事件之後撰寫的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Domesday Book was compiled in 1086 on the orders of King William the Conqueror, twenty years after the Norman Conquest.",
+      "zh": "《末日審判書》（Domesday Book）是征服者威廉國王於 1086 年下令編纂的，也就是在諾曼征服 20 年後。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "After the Viking invasion",
+          "zh": "維京人入侵之後"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "After the Norman conquest",
+          "zh": "諾曼征服之後"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "After the last Roman invasion",
+          "zh": "最後一次羅馬入侵之後"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "After the Anglo-Saxon invasion",
+          "zh": "盎格魯-撒克遜人入侵之後"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The Northern Ireland Assembly cannot make decisions on which two of the following issues?",
+      "zh": "北愛爾蘭議會（Northern Ireland Assembly）不能對以下哪兩項事務做出決定？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Certain matters such as immigration, defence, and foreign policy are reserved powers controlled by the UK Parliament, not devolved assemblies.",
+      "zh": "移民、國防和外交政策等某些事務屬於保留權力，由英國國會控制，而不屬於地方分權議會的權責範圍。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Immigration",
+          "zh": "移民"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Education",
+          "zh": "教育"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Agriculture",
+          "zh": "農業"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Defence",
+          "zh": "國防"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What should you do to make a complaint about the police (choose two answers)?",
+      "zh": "如果您想對警察提出投訴，您應該怎麼做？（選擇兩個答案）"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Complaints against the police can be made directly at a police station or by writing to the Chief Constable of the force involved.",
+      "zh": "對警察的投訴可以直接前往警署提出，或者寫信給相關警隊的警務處長（Chief Constable）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Write a complaint letter to the House of Commons",
+          "zh": "寫投訴信給下議院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Go to the Police station directly",
+          "zh": "直接前往警署/警察局"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Write to the Chief Constable of the police force involved",
+          "zh": "寫信給相關警隊的警務處長（Chief Constable）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Write to your MP",
+          "zh": "寫信給您的國會議員（MP）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What flower did William Wordsworth write about?",
+      "zh": "威廉·華茲華斯（William Wordsworth）描寫的是哪種花？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "William Wordsworth is famous for his poem 'I Wandered Lonely as a Cloud', commonly known as 'Daffodils'.",
+      "zh": "威廉·華茲華斯（William Wordsworth）因其寫作關於水仙花的詩作《我孤獨地漫遊，像一朵雲》（俗稱「水仙花」 Daffodils）而聞名。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Rose",
+          "zh": "玫瑰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Daffodil",
+          "zh": "水仙花"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Thistle",
+          "zh": "薊花"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Shamrock",
+          "zh": "三葉草"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When is St Andrew's day celebrated?",
+      "zh": "聖安德魯斯日（St Andrew's Day）於何時慶祝？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St Andrew's Day, the patron saint day of Scotland, is celebrated on 30 November.",
+      "zh": "聖安德魯斯日（St Andrew's Day）是蘇格蘭的守護神節日，於每年的 11 月 30 日慶祝。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "17th April",
+          "zh": "4 月 17 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "31st December",
+          "zh": "12 月 31 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1st March",
+          "zh": "3 月 1 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "30th November",
+          "zh": "11 月 30 日"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Can the National Anthem be played if the Queen is not present?",
+      "zh": "如果女王不在場，可以演奏國歌嗎？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The National Anthem can be played on many public and official occasions, such as sports events, and does not require the presence of the Monarch.",
+      "zh": "國歌可以在許多公共和官方場合演奏（例如體育賽事），並不需要君主在場。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Yes",
+          "zh": "可以"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "No",
+          "zh": "不可以"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When were the first coins in Britain made?",
+      "zh": "不列顛最早的硬幣是在什麼時期製造的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The first coins to be minted in Britain were made during the Iron Age.",
+      "zh": "英國最早鑄造的硬幣是在鐵器時代（Iron Age）製造的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Stone Age",
+          "zh": "石器時代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Bronze Age",
+          "zh": "青銅時代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Iron Age",
+          "zh": "鐵器時代"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Middle Ages",
+          "zh": "中世紀"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was Emmeline Pankhurst?",
+      "zh": "艾米琳·潘克斯特（Emmeline Pankhurst）是誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Emmeline Pankhurst was a famous British political activist who led the suffragette movement to help women win the right to vote.",
+      "zh": "艾米琳·潘克斯特（Emmeline Pankhurst）是著名的英國政治活動家，她領導了女性參政運動以幫助女性獲得投票權。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A suffragette",
+          "zh": "一位爭取女性參政權的激進婦女（Suffragette）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A nurse",
+          "zh": "一位護士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A doctor",
+          "zh": "一位醫生"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A scientist",
+          "zh": "一位科學家"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who did Britain fight against in the Crimean War?",
+      "zh": "在克里米亞戰爭中，英國與誰作戰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In the Crimean War (1853-1856), Britain, France, and Turkey fought against Russia.",
+      "zh": "在克里米亞戰爭（1853 至 1856 年）中，英國、法國和土耳其聯手對抗俄羅斯。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Turkey",
+          "zh": "土耳其（Turkey）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Russia",
+          "zh": "俄羅斯（Russia）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國（France）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Germany",
+          "zh": "德國（Germany）"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the BBC controlled by the government?",
+      "zh": "英國廣播公司（BBC）是由政府控制的嗎？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The BBC is a public service broadcaster that is independent of government control and operates under a Royal Charter.",
+      "zh": "英國廣播公司（BBC）是公共服務廣播機構，獨立於政府控制，並根據皇家特許狀（Royal Charter）運作。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Yes",
+          "zh": "是"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "No",
+          "zh": "否"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How many members does the Northern Ireland Assembly have?",
+      "zh": "北愛爾蘭議會（Northern Ireland Assembly）有多少名成員？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Northern Ireland Assembly has 90 members (known as MLAs).",
+      "zh": "北愛爾蘭議會有 90 名成員（被稱為北愛爾蘭議會議員 MLAs）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "12",
+          "zh": "12"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "60",
+          "zh": "60"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "90",
+          "zh": "90"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "108",
+          "zh": "108"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was in charge of the British fleet at the Battle of Trafalgar?",
+      "zh": "在特拉法加海戰中，誰負責指揮英國艦隊？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Admiral Horatio Nelson was in charge of the British fleet at the Battle of Trafalgar in 1805, where he was killed.",
+      "zh": "在 1805 年的特拉法加海戰中，霍雷肖·納爾遜海軍上將（Admiral Horatio Nelson）負責指揮英國艦隊，他在這場戰役中不幸犧牲。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Oliver Cromwell",
+          "zh": "奧利弗·克倫威爾（Oliver Cromwell）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Duke of Wellington",
+          "zh": "威靈頓公爵（The Duke of Wellington）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Robert the Bruce",
+          "zh": "羅伯特·布魯斯（Robert the Bruce）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Admiral Nelson",
+          "zh": "納爾遜海軍上將（Admiral Nelson）"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+      "zh": "在鐵器時代不列顛鑄造的首批硬幣上刻有什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The first coins minted in Britain during the Iron Age were inscribed with the names of Iron Age kings.",
+      "zh": "在鐵器時代英國鑄造的首批硬幣上，刻有鐵器時代國王的姓名。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The names of Iron Age kings",
+          "zh": "鐵器時代國王的姓名"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The names of Iron Age Gods",
+          "zh": "鐵器時代神明之名"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The names of trees",
+          "zh": "樹木的名稱"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The names of animals",
+          "zh": "動物的名稱"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Towns, cities and rural areas in the UK are governed by government appointed officials.",
+      "zh": "英國的城鎮、城市和農村地區是由政府任命的官員所治理的。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Towns, cities, and rural areas in the UK are governed by democratically elected local councils, not by government-appointed officials.",
+      "zh": "英國的城鎮、城市和農村地區是由民主選舉產生的民選地方議會治理，而非由政府任命的官員管理。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is the Tate Art Gallery located?",
+      "zh": "泰特美術館（Tate Art Gallery）位於哪裡？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Tate Britain and Tate Modern art galleries are located in London. There are also Tate galleries in Liverpool and St Ives.",
+      "zh": "泰特不列顛館（Tate Britain）和泰特現代藝術館（Tate Modern）均位於倫敦。在利物浦和聖艾夫斯也有泰特美術館。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Glasgow",
+          "zh": "格拉斯哥（Glasgow）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Cardiff",
+          "zh": "卡地夫（Cardiff）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "London",
+          "zh": "倫敦（London）"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Belfast",
+          "zh": "貝爾法斯特（Belfast）"
+        },
+        "isCorrect": false
+      }
+    ]
+  }
+]

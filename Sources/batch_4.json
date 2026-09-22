@@ -1,0 +1,141 @@
+[
+  {
+    "question": "Which Catherine was executed after being accused of taking lovers by Henry VIII?",
+    "options": [
+      {
+        "text": "Howard",
+        "isCorrect": true
+      },
+      {
+        "text": "Boleyn",
+        "isCorrect": false
+      },
+      {
+        "text": "Parr",
+        "isCorrect": false
+      },
+      {
+        "text": "Of Aragon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? Discrimination in the workplace is an example of criminal law.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these is not a Christmas tradition in the UK?",
+    "options": [
+      {
+        "text": "Decorating Houses and Trees",
+        "isCorrect": false
+      },
+      {
+        "text": "Giving gifts",
+        "isCorrect": false
+      },
+      {
+        "text": "Sending Cards",
+        "isCorrect": false
+      },
+      {
+        "text": "Having a Barbeque",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a Crown Court, who decides what the penalty will be, in the case of a guilty verdict?",
+    "options": [
+      {
+        "text": "A solicitor",
+        "isCorrect": false
+      },
+      {
+        "text": "The jury",
+        "isCorrect": true
+      },
+      {
+        "text": "The judge",
+        "isCorrect": false
+      },
+      {
+        "text": "A police officer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When were the first professional football clubs formed?",
+    "options": [
+      {
+        "text": "17th Century",
+        "isCorrect": false
+      },
+      {
+        "text": "20th Century",
+        "isCorrect": false
+      },
+      {
+        "text": "18th Century",
+        "isCorrect": false
+      },
+      {
+        "text": "19th Century",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "An attempt by which group to put James II's son on the throne instead of George I was quickly defeated?",
+    "options": [
+      {
+        "text": "French Huguenots",
+        "isCorrect": false
+      },
+      {
+        "text": "English Puritans",
+        "isCorrect": false
+      },
+      {
+        "text": "Irish Catholics",
+        "isCorrect": false
+      },
+      {
+        "text": "Scottish Jacobites",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In which city is the Scottish Parliament based?",
+    "options": [
+      {
+        "text": "Cardiff",
+        "isCorrect": false
+      },
+      {
+        "text": "Sheffield",
+        "isCorrect": false
+      },
+      {
+        "text": "Edinburgh",
+        "isCorrect": true
+      },
+      {
+        "text": "Glasgow",
+        "isCorrect": false
+      }
+    ]
+  }
+]

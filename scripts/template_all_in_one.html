@@ -1,0 +1,2386 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Life in the UK<!-- __PLATFORM_TAG__ --> - All-in-One Offline Study Guide & Mock Tests</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --card-border: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #334155;
+      --text-sub: #64748b;
+      --border: #e2e8f0;
+      --primary: #1e40af;
+      --primary-light: #eff6ff;
+      --amber: #d97706;
+      --amber-bg: #fffbeb;
+      --amber-border: #f59e0b;
+      --success: #15803d;
+      --success-bg: #f0fdf4;
+      --success-border: #86efac;
+      --danger: #b91c1c;
+      --danger-bg: #fef2f2;
+      --danger-border: #fca5a5;
+      --search-bg: #ffffff;
+      --modal-bg: rgba(15, 23, 42, 0.65);
+      --highlight: #fef08a;
+      --highlight-text: #854d0e;
+    }
+
+    [data-theme="dark"] {
+      --bg: #0b0f19;
+      --card-bg: #151d2e;
+      --card-border: #1e293b;
+      --text-main: #f8fafc;
+      --text-muted: #cbd5e1;
+      --text-sub: #94a3b8;
+      --border: #1e293b;
+      --primary: #3b82f6;
+      --primary-light: #1e293b;
+      --amber: #fbbf24;
+      --amber-bg: #291e0a;
+      --amber-border: #b45309;
+      --success: #4ade80;
+      --success-bg: #062b14;
+      --success-border: #166534;
+      --danger: #f87171;
+      --danger-bg: #300c0c;
+      --danger-border: #991b1b;
+      --search-bg: #151d2e;
+      --modal-bg: rgba(0, 0, 0, 0.8);
+      --highlight: #713f12;
+      --highlight-text: #fef08a;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang HK", "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+      font-size: 17px;
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    /* Top Sticky Header */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      padding: 10px 16px;
+    }
+
+    .header-row {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-weight: 800;
+      font-size: 1.15rem;
+      color: var(--primary);
+      text-decoration: none;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+
+    /* Main Navigation Tabs */
+    .nav-tabs {
+      display: flex;
+      gap: 6px;
+      background: var(--bg);
+      padding: 4px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+    }
+
+    .nav-tab-btn {
+      padding: 6px 14px;
+      font-size: 0.95rem;
+      font-weight: 700;
+      border: none;
+      border-radius: 7px;
+      background: transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .nav-tab-btn.active {
+      background: var(--card-bg);
+      color: var(--primary);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .btn-header-tool {
+      background: var(--bg);
+      color: var(--text-main);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 36px;
+      transition: background 0.15s;
+    }
+    .btn-header-tool:hover {
+      background: var(--border);
+    }
+
+    /* Container */
+    main {
+      flex: 1;
+      max-width: 900px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 16px;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    /* --- STUDY GUIDE VIEWS --- */
+    .search-box-wrap {
+      margin-bottom: 16px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 12px 42px 12px 16px;
+      border-radius: 12px;
+      border: 2px solid var(--border);
+      background: var(--search-bg);
+      color: var(--text-main);
+      font-size: 1rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-input:focus {
+      border-color: var(--primary);
+    }
+
+    .search-clear-btn {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-sub);
+      font-size: 1.2rem;
+      cursor: pointer;
+      padding: 4px;
+    }
+
+    .search-results-info {
+      font-size: 0.9rem;
+      color: var(--text-sub);
+      margin-bottom: 12px;
+      padding: 0 4px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .sector-grid {
+      display: grid;
+      gap: 14px;
+    }
+
+    .sector-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      padding: 16px 18px;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+    }
+    .sector-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--primary);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+
+    .sector-card.flagged-sector {
+      border-color: var(--amber-border);
+      background: var(--amber-bg);
+    }
+
+    .sector-badge {
+      display: inline-block;
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 6px;
+      background: var(--primary-light);
+      color: var(--primary);
+      margin-bottom: 6px;
+    }
+    .flagged-sector .sector-badge {
+      background: var(--amber);
+      color: #ffffff;
+    }
+
+    .sector-title-en {
+      font-weight: 700;
+      font-size: 1.15rem;
+      color: var(--text-main);
+      margin-bottom: 2px;
+    }
+
+    .sector-title-zh {
+      font-size: 1rem;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+
+    .sector-meta {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.85rem;
+      color: var(--text-sub);
+      font-weight: 600;
+    }
+
+    /* Study Card View */
+    .card-view-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+
+    .btn-back {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--text-main);
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .card-header-tools {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .tool-btn {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--text-main);
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .tool-btn.active-shuffle {
+      background: var(--primary-light);
+      color: var(--primary);
+      border-color: var(--primary);
+    }
+
+    .tool-btn.bookmarked {
+      color: var(--amber);
+      background: var(--amber-bg);
+      border-color: var(--amber-border);
+    }
+
+    .progress-bar-wrap {
+      width: 100%;
+      height: 6px;
+      background: var(--border);
+      border-radius: 999px;
+      overflow: hidden;
+      margin-bottom: 10px;
+    }
+    .progress-fill {
+      height: 100%;
+      background: var(--primary);
+      width: 0%;
+      transition: width 0.2s ease;
+    }
+
+    .counter-picker-btn {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      margin-bottom: 12px;
+    }
+
+    .flashcard-box {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 24px 22px;
+      min-height: 260px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.04);
+      margin-bottom: 18px;
+      user-select: none;
+      touch-action: pan-y;
+    }
+
+    .point-id-badge {
+      align-self: flex-start;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--text-sub);
+      background: var(--bg);
+      padding: 3px 8px;
+      border-radius: 6px;
+      margin-bottom: 14px;
+      border: 1px solid var(--border);
+    }
+
+    .point-text-en {
+      font-size: 1.35rem;
+      font-weight: 700;
+      line-height: 1.45;
+      color: var(--text-main);
+      margin-bottom: 14px;
+    }
+
+    .point-text-zh {
+      font-size: 1.15rem;
+      line-height: 1.55;
+      color: var(--text-muted);
+    }
+
+    .card-nav-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .nav-card-btn {
+      min-height: 54px;
+      border-radius: 12px;
+      font-size: 1.05rem;
+      font-weight: 700;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: all 0.15s ease;
+    }
+
+    .btn-prev {
+      background: var(--card-bg);
+      color: var(--text-main);
+    }
+    .btn-prev:hover:not(:disabled) {
+      background: var(--border);
+    }
+    .btn-next {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+    }
+    .btn-next:hover:not(:disabled) {
+      opacity: 0.92;
+    }
+    .nav-card-btn:disabled {
+      opacity: 0.35;
+      cursor: not-allowed;
+    }
+
+    /* --- MOCK TESTS VIEWS --- */
+    .test-dashboard-summary {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .summary-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 14px;
+      text-align: center;
+    }
+    .summary-label {
+      font-size: 0.8rem;
+      color: var(--text-sub);
+      font-weight: 700;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .summary-val {
+      font-size: 1.4rem;
+      font-weight: 900;
+      color: var(--text-main);
+    }
+
+    .test-controls-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      padding: 14px 16px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+    }
+
+    .btn-random-exam {
+      background: linear-gradient(135deg, #1e40af, #4338ca);
+      color: #ffffff;
+      border: none;
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 2px 8px rgba(30, 64, 175, 0.25);
+    }
+    .btn-random-exam:hover {
+      opacity: 0.95;
+    }
+
+    .shuffle-test-toggle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      user-select: none;
+    }
+    .shuffle-test-toggle input {
+      width: 18px;
+      height: 18px;
+      accent-color: var(--primary);
+      cursor: pointer;
+    }
+
+    .test-grid {
+      display: grid;
+      gap: 12px;
+    }
+
+    .test-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 16px 18px;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      transition: transform 0.15s, border-color 0.15s;
+    }
+    .test-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--primary);
+    }
+
+    .test-info-title {
+      font-weight: 700;
+      font-size: 1.1rem;
+      color: var(--text-main);
+      margin-bottom: 2px;
+    }
+    .test-info-sub {
+      font-size: 0.85rem;
+      color: var(--text-sub);
+    }
+
+    .test-status-badge {
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      white-space: nowrap;
+      text-align: center;
+    }
+    .badge-passed {
+      background: var(--success-bg);
+      color: var(--success);
+      border: 1px solid var(--success-border);
+    }
+    .badge-failed {
+      background: var(--danger-bg);
+      color: var(--danger);
+      border: 1px solid var(--danger-border);
+    }
+    .badge-not-started {
+      background: var(--bg);
+      color: var(--text-sub);
+      border: 1px solid var(--border);
+    }
+
+    /* --- TEST ENGINE VIEW --- */
+    .test-engine-header {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      padding: 14px 16px;
+      margin-bottom: 16px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    .test-engine-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+
+    .timer-badge {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 1.3rem;
+      font-weight: 800;
+      padding: 4px 12px;
+      border-radius: 8px;
+      background: var(--card-bg);
+      border: 2px solid var(--border);
+      color: var(--primary);
+      letter-spacing: 1px;
+    }
+    .timer-warning {
+      color: var(--danger) !important;
+      border-color: var(--danger-border) !important;
+      background: var(--danger-bg) !important;
+      animation: pulse 1s infinite alternate;
+    }
+    @keyframes pulse {
+      from { opacity: 1; }
+      to { opacity: 0.6; }
+    }
+
+    .test-question-box {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 24px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+    }
+
+    .multi-hint-badge {
+      display: inline-block;
+      background: var(--primary-light);
+      color: var(--primary);
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin-bottom: 12px;
+    }
+
+    .question-title-en {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 6px;
+      line-height: 1.45;
+    }
+
+    .question-title-zh {
+      font-size: 1.1rem;
+      color: var(--text-muted);
+      margin-bottom: 20px;
+    }
+
+    .options-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .option-btn {
+      min-height: 60px;
+      padding: 14px 16px;
+      border-radius: 12px;
+      border: 2px solid var(--border);
+      background: var(--card-bg);
+      text-align: left;
+      cursor: pointer;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .option-btn:hover {
+      border-color: var(--text-sub);
+    }
+    .option-btn.selected {
+      border-color: var(--primary);
+      background: var(--primary-light);
+    }
+
+    .opt-indicator {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid var(--border);
+      margin-top: 2px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 800;
+    }
+    .option-btn.selected .opt-indicator {
+      border-color: var(--primary);
+      background: var(--primary);
+      color: #ffffff;
+    }
+
+    .opt-text-wrap {
+      flex: 1;
+    }
+    .opt-en {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--text-main);
+      line-height: 1.4;
+    }
+    .option-btn.selected .opt-en {
+      color: var(--primary);
+      font-weight: 700;
+    }
+    .opt-zh {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .test-nav-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .btn-test-nav {
+      min-height: 52px;
+      padding: 0 24px;
+      border-radius: 10px;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      border: 1px solid var(--border);
+    }
+    .btn-test-prev {
+      background: var(--card-bg);
+      color: var(--text-main);
+    }
+    .btn-test-next {
+      background: var(--text-main);
+      color: var(--bg);
+      border-color: var(--text-main);
+    }
+    .btn-test-submit {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+      box-shadow: 0 2px 8px rgba(30, 64, 175, 0.3);
+    }
+
+    /* --- RESULTS & REVIEW VIEW --- */
+    .result-banner {
+      border-radius: 16px;
+      padding: 28px 20px;
+      text-align: center;
+      color: #ffffff;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    }
+    .result-pass {
+      background: linear-gradient(135deg, #15803d, #166534);
+    }
+    .result-fail {
+      background: linear-gradient(135deg, #b91c1c, #991b1b);
+    }
+
+    .result-status-title {
+      font-size: 2.5rem;
+      font-weight: 900;
+      letter-spacing: 2px;
+      line-height: 1.1;
+      margin-bottom: 6px;
+    }
+
+    .result-score-chip {
+      display: inline-block;
+      background: rgba(0,0,0,0.25);
+      padding: 6px 18px;
+      border-radius: 999px;
+      font-size: 1.25rem;
+      font-weight: 800;
+      margin-top: 8px;
+    }
+
+    .review-action-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .review-filter-group {
+      display: flex;
+      gap: 8px;
+    }
+
+    .filter-chip {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 6px 14px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .filter-chip.active {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+    }
+
+    .review-item-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+
+    .review-item-top {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .review-state-icon {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      font-weight: 800;
+      flex-shrink: 0;
+    }
+    .icon-correct {
+      background: var(--success-bg);
+      color: var(--success);
+      border: 1px solid var(--success-border);
+    }
+    .icon-incorrect {
+      background: var(--danger-bg);
+      color: var(--danger);
+      border: 1px solid var(--danger-border);
+    }
+
+    .review-opt {
+      padding: 12px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      margin-bottom: 8px;
+      font-size: 0.95rem;
+    }
+    .review-opt-correct {
+      background: var(--success-bg);
+      border-color: var(--success-border);
+      color: var(--success);
+      font-weight: 700;
+    }
+    .review-opt-wrong-choice {
+      background: var(--danger-bg);
+      border-color: var(--danger-border);
+      color: var(--danger);
+      font-weight: 700;
+    }
+
+    .explanation-box {
+      margin-top: 14px;
+      padding: 14px;
+      border-radius: 8px;
+      background: var(--primary-light);
+      border-left: 4px solid var(--primary);
+      font-size: 0.95rem;
+    }
+    .explanation-tag {
+      font-size: 0.8rem;
+      font-weight: 800;
+      color: var(--primary);
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+
+    /* Modal Styling */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 50;
+      background: var(--modal-bg);
+      backdrop-filter: blur(4px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+
+    .modal-content {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      max-width: 440px;
+      width: 100%;
+      padding: 24px;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    }
+
+    .modal-title {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--text-main);
+      margin-bottom: 8px;
+    }
+
+    .modal-desc {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      margin-bottom: 20px;
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 12px;
+    }
+
+    .btn-modal {
+      flex: 1;
+      min-height: 48px;
+      border-radius: 10px;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      border: 1px solid var(--border);
+    }
+    .btn-modal-cancel {
+      background: var(--card-bg);
+      color: var(--text-main);
+    }
+    .btn-modal-confirm {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+    }
+    .btn-modal-danger {
+      background: var(--danger);
+      color: #ffffff;
+      border-color: var(--danger);
+    }
+
+    mark {
+      background-color: var(--highlight);
+      color: var(--highlight-text);
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+
+    @media (max-width: 600px) {
+      .header-row {
+        flex-wrap: wrap;
+      }
+      .brand {
+        font-size: 1.05rem;
+      }
+      .nav-tabs {
+        order: 3;
+        width: 100%;
+        justify-content: center;
+        margin-top: 4px;
+      }
+      .nav-tab-btn {
+        flex: 1;
+        justify-content: center;
+      }
+      .test-dashboard-summary {
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 8px;
+      }
+      .summary-val {
+        font-size: 1.15rem;
+      }
+      .summary-card {
+        padding: 10px 6px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Sticky Bar -->
+  <header>
+    <div class="header-row">
+      <div class="brand" onclick="navToTab('study')">
+        <span>🇬🇧</span>
+        <span>Life in the UK<!-- __PLATFORM_TAG__ --></span>
+      </div>
+
+      <nav class="nav-tabs">
+        <button id="tabBtnStudy" class="nav-tab-btn active" onclick="navToTab('study')">
+          <span>📖</span>
+          <span id="txtTabStudy">Study Guide</span>
+        </button>
+        <button id="tabBtnTest" class="nav-tab-btn" onclick="navToTab('test')">
+          <span>⏱️</span>
+          <span id="txtTabTest">Mock Tests</span>
+        </button>
+      </nav>
+
+      <div class="header-actions">
+        <button id="btnLang" class="btn-header-tool" onclick="cycleLang()" title="Toggle Language">雙語</button>
+        <button id="btnTheme" class="btn-header-tool" onclick="toggleTheme()" title="Toggle Theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div id="jsErrorBanner" style="display:none; margin:16px auto; max-width:900px; padding:16px; background:#fef2f2; border:2px solid #ef4444; border-radius:12px; color:#991b1b; font-size:14px; word-break:break-all;"></div>
+
+    <noscript>
+      <div style="margin:16px auto; max-width:900px; padding:20px; background:#fffbeb; border:2px solid #f59e0b; border-radius:14px; color:#92400e; font-size:15px; line-height:1.6;">
+        <h3 style="font-size:1.15rem; margin-bottom:8px; color:#b45309; display:flex; align-items:center; gap:8px;">
+          <span>⚠️</span> <span>iPadOS / iOS Quick Look Notice</span>
+        </h3>
+        <p style="margin-bottom:10px;">
+          <strong>JavaScript is disabled by iPadOS Files preview (Quick Look).</strong> When opening an HTML file directly inside the Files app, Apple disables scripts for security, preventing interactive buttons and tests from running.
+        </p>
+        <p style="margin-bottom:6px; font-weight:700;">How to run on iPad with full interactivity:</p>
+        <ol style="padding-left:22px; margin-bottom:10px;">
+          <li><strong>Open with Microsoft Edge:</strong> In Files app, tap <em>Share (分享)</em> → choose <em>Microsoft Edge</em>. Edge on iPad runs local HTML files with full JavaScript!</li>
+          <li><strong>Open with Documents by Readdle:</strong> Download free <em>Documents by Readdle</em> from the App Store and tap the HTML file inside it.</li>
+          <li><strong>PWA (Add to Home Screen):</strong> Host the file or visit the web link in Safari and tap <em>Share → Add to Home Screen (加至主畫面)</em> for 100% offline access.</li>
+        </ol>
+      </div>
+    </noscript>
+
+    <!-- ==================== VIEW 1: STUDY GUIDE INDEX ==================== -->
+    <section id="viewStudyIndex">
+      <div class="search-box-wrap">
+        <input type="search" id="inputSearch" class="search-input" placeholder="Search keywords across English & Chinese..." oninput="handleSearch(this.value)">
+        <button id="btnClearSearch" class="search-clear-btn hidden" onclick="clearSearch()">✕</button>
+      </div>
+
+      <div id="searchResultsInfo" class="search-results-info hidden">
+        <span id="searchCountText">Found 0 matching points</span>
+        <button class="btn-header-tool" style="min-height:28px; padding:2px 8px; font-size:0.8rem;" onclick="clearSearch()">Reset</button>
+      </div>
+
+      <div id="sectorGrid" class="sector-grid">
+        <!-- Pre-rendered Static Fallback Cards (dynamically updated by JS) -->
+        <div class="sector-card" onclick="openStudyChapter(1)">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <span class="sector-badge">Sector 1</span>
+            <span class="sector-count">33 points</span>
+          </div>
+          <div class="sector-title-en">The values and principles of the UK</div>
+          <div class="sector-title-zh">英國的價值觀和原則</div>
+          <div class="sector-meta">
+            <div class="progress-bar-wrap" style="flex:1;"><div class="progress-fill" style="width:0%;"></div></div>
+            <span>0%</span>
+          </div>
+        </div>
+        <div class="sector-card" onclick="openStudyChapter(2)">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <span class="sector-badge">Sector 2</span>
+            <span class="sector-count">25 points</span>
+          </div>
+          <div class="sector-title-en">What is the UK</div>
+          <div class="sector-title-zh">什麼是英國</div>
+          <div class="sector-meta">
+            <div class="progress-bar-wrap" style="flex:1;"><div class="progress-fill" style="width:0%;"></div></div>
+            <span>0%</span>
+          </div>
+        </div>
+        <div class="sector-card" onclick="openStudyChapter(3)">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <span class="sector-badge">Sector 3</span>
+            <span class="sector-count">197 points</span>
+          </div>
+          <div class="sector-title-en">A long and illustrious history</div>
+          <div class="sector-title-zh">悠久而輝煌的歷史</div>
+          <div class="sector-meta">
+            <div class="progress-bar-wrap" style="flex:1;"><div class="progress-fill" style="width:0%;"></div></div>
+            <span>0%</span>
+          </div>
+        </div>
+        <div class="sector-card" onclick="openStudyChapter(4)">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <span class="sector-badge">Sector 4</span>
+            <span class="sector-count">121 points</span>
+          </div>
+          <div class="sector-title-en">A modern, thriving society</div>
+          <div class="sector-title-zh">現代繁榮的社會</div>
+          <div class="sector-meta">
+            <div class="progress-bar-wrap" style="flex:1;"><div class="progress-fill" style="width:0%;"></div></div>
+            <span>0%</span>
+          </div>
+        </div>
+        <div class="sector-card" onclick="openStudyChapter(5)">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <span class="sector-badge">Sector 5</span>
+            <span class="sector-count">87 points</span>
+          </div>
+          <div class="sector-title-en">The UK government, the law and your role</div>
+          <div class="sector-title-zh">英國政府、法律與您的角色</div>
+          <div class="sector-meta">
+            <div class="progress-bar-wrap" style="flex:1;"><div class="progress-fill" style="width:0%;"></div></div>
+            <span>0%</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== VIEW 2: STUDY GUIDE FLASHCARD ==================== -->
+    <section id="viewStudyCard" class="hidden">
+      <div class="card-view-header">
+        <button class="btn-back" onclick="showStudyIndex()">
+          <span>←</span>
+          <span id="txtBackIndex">Back to Index</span>
+        </button>
+        
+        <div class="card-header-tools">
+          <button id="btnShuffleStudy" class="tool-btn" onclick="toggleStudyShuffle()" title="Shuffle sequence">
+            <span>🔀</span>
+            <span id="txtShuffleStudy" style="font-size:0.85rem;">Order</span>
+          </button>
+          <button id="btnBookmark" class="tool-btn" onclick="toggleCurrentBookmark()" title="Bookmark question">
+            <span>★</span>
+            <span id="txtBookmark" style="font-size:0.85rem;">Flag</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="progress-bar-wrap">
+        <div id="studyProgressBar" class="progress-fill"></div>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <button id="btnCounterPicker" class="counter-picker-btn" onclick="openJumpModal()">
+          <span id="studyCounter">1 / 112 ▾</span>
+        </button>
+        <span id="studySectorPill" style="font-size:0.85rem; color:var(--text-sub); font-weight:700;">Sector 1</span>
+      </div>
+
+      <div id="touchCardArea" class="flashcard-box">
+        <div id="cardPointId" class="point-id-badge">#1</div>
+        <div id="cardPointEn" class="point-text-en">Loading...</div>
+        <div id="cardPointZh" class="point-text-zh">載入中...</div>
+      </div>
+
+      <div class="card-nav-row">
+        <button id="btnStudyPrev" class="nav-card-btn btn-prev" onclick="navStudyStep(-1)">
+          <span>←</span>
+          <span id="txtStudyPrev">Previous</span>
+        </button>
+        <button id="btnStudyNext" class="nav-card-btn btn-next" onclick="navStudyStep(1)">
+          <span id="txtStudyNext">Next</span>
+          <span>→</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ==================== VIEW 3: MOCK TESTS DASHBOARD ==================== -->
+    <section id="viewTestDashboard" class="hidden">
+      <div class="test-dashboard-summary">
+        <div class="summary-card">
+          <div class="summary-label" id="txtStatTotal">Total Tests</div>
+          <div class="summary-val" id="statTotalTests">18 Sets</div>
+        </div>
+        <div class="summary-card">
+          <div class="summary-label" id="txtStatPassed">Passed</div>
+          <div class="summary-val" id="statPassedTests" style="color:var(--success);">0 / 18</div>
+        </div>
+        <div class="summary-card">
+          <div class="summary-label" id="txtStatAvg">Avg Score</div>
+          <div class="summary-val" id="statAvgScore">--</div>
+        </div>
+      </div>
+
+      <div class="test-controls-bar">
+        <button class="btn-random-exam" onclick="startRandomTest()">
+          <span>🎲</span>
+          <span id="txtRandomExam">Random 24-Q Official Exam</span>
+        </button>
+
+        <label class="shuffle-test-toggle" title="Randomize question sequence in tests">
+          <input type="checkbox" id="chkShuffleTest" onchange="toggleTestShufflePreference(this.checked)">
+          <span id="txtShuffleTestLabel">🔀 Shuffle Questions</span>
+        </label>
+      </div>
+
+      <div id="testSetGrid" class="test-grid">
+        <!-- Rendered by JavaScript -->
+      </div>
+    </section>
+
+    <!-- ==================== VIEW 4: TEST ENGINE (ACTIVE EXAM) ==================== -->
+    <section id="viewTestEngine" class="hidden">
+      <div class="test-engine-header">
+        <div class="test-engine-top">
+          <button class="btn-back" onclick="requestExitTest()">
+            <span>✕</span>
+            <span id="txtExitTest">Exit Test</span>
+          </button>
+          <div id="testTimer" class="timer-badge">45:00</div>
+        </div>
+        
+        <div class="progress-bar-wrap" style="margin-bottom:6px;">
+          <div id="testProgressBar" class="progress-fill"></div>
+        </div>
+
+        <div style="display:flex; justify-content:space-between; font-size:0.85rem; color:var(--text-sub); font-weight:700;">
+          <span id="activeTestTitle">Mock Exam</span>
+          <span id="activeTestProgress">Question 1 of 24</span>
+        </div>
+      </div>
+
+      <div class="test-question-box">
+        <div id="multiAnswerHint" class="multi-hint-badge hidden">Choose 2 answers</div>
+        <div id="examQuestionEn" class="question-title-en">Question text...</div>
+        <div id="examQuestionZh" class="question-title-zh">題目中文...</div>
+
+        <div id="examOptionsList" class="options-list">
+          <!-- Rendered by JavaScript -->
+        </div>
+      </div>
+
+      <div class="test-nav-row">
+        <button id="btnExamPrev" class="btn-test-nav btn-test-prev" onclick="navExamQuestion(-1)">
+          <span>←</span>
+          <span id="txtExamPrev">Previous</span>
+        </button>
+        <button id="btnExamNext" class="btn-test-nav btn-test-next" onclick="navExamQuestion(1)">
+          <span id="txtExamNext">Next</span>
+          <span>→</span>
+        </button>
+        <button id="btnExamSubmit" class="btn-test-nav btn-test-submit hidden" onclick="confirmSubmitModal()">
+          <span>✓</span>
+          <span id="txtExamSubmit">Submit Exam</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ==================== VIEW 5: TEST RESULTS & REVIEW ==================== -->
+    <section id="viewTestReview" class="hidden">
+      <div id="resultBanner" class="result-banner result-pass">
+        <div id="resultStatusText" class="result-status-title">PASS</div>
+        <div id="resultStatusSub" style="font-size:1.1rem; font-weight:700; opacity:0.95;">及格</div>
+        <div id="resultScoreChip" class="result-score-chip">Score: 20 / 24 (83%)</div>
+      </div>
+
+      <div class="review-action-bar">
+        <button class="btn-back" onclick="backToTestDashboard()">
+          <span>←</span>
+          <span id="txtBackToTests">Back to Tests</span>
+        </button>
+
+        <div class="review-filter-group">
+          <button id="btnFilterAll" class="filter-chip active" onclick="setReviewFilter('all')">
+            <span id="txtFilterAll">All (24)</span>
+          </button>
+          <button id="btnFilterMistakes" class="filter-chip" onclick="setReviewFilter('mistakes')">
+            <span id="txtFilterMistakes">Mistakes Only (0)</span>
+          </button>
+        </div>
+
+        <button class="btn-header-tool" onclick="retakeCurrentTest()">
+          <span>🔄</span>
+          <span id="txtRetake">Retake</span>
+        </button>
+      </div>
+
+      <div id="reviewQuestionsList">
+        <!-- Rendered by JavaScript -->
+      </div>
+    </section>
+  </main>
+
+  <!-- ==================== QUICK JUMP MODAL ==================== -->
+  <div id="jumpModalOverlay" class="modal-overlay hidden" onclick="if(event.target===this) closeJumpModal()">
+    <div class="modal-content">
+      <div class="modal-title" id="txtJumpTitle">Jump to Study Point</div>
+      <div class="modal-desc" id="txtJumpDesc">Select or enter point number</div>
+      
+      <div style="margin-bottom: 20px;">
+        <input type="range" id="sliderJump" min="1" max="100" value="1" style="width:100%; accent-color:var(--primary); margin-bottom:12px;" oninput="syncJumpInput(this.value)">
+        <div style="display:flex; justify-content:center; align-items:center; gap:8px;">
+          <span style="font-weight:700; color:var(--text-sub);">Point:</span>
+          <input type="number" id="inputJumpNum" min="1" max="100" value="1" style="width:80px; text-align:center; font-size:1.1rem; font-weight:800; padding:6px; border-radius:8px; border:2px solid var(--border); background:var(--bg); color:var(--text-main);" oninput="syncJumpSlider(this.value)">
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <button class="btn-modal btn-modal-cancel" onclick="closeJumpModal()" id="txtJumpCancel">Cancel</button>
+        <button class="btn-modal btn-modal-confirm" onclick="confirmJump()" id="txtJumpConfirm">Jump</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== SUBMIT TEST CONFIRMATION MODAL ==================== -->
+  <div id="submitModalOverlay" class="modal-overlay hidden" onclick="if(event.target===this) closeSubmitModal()">
+    <div class="modal-content">
+      <div class="modal-title" id="txtSubmitModalTitle">Submit Examination?</div>
+      <div id="submitModalBody" class="modal-desc">Are you sure you want to finish your exam?</div>
+      
+      <div class="modal-actions">
+        <button class="btn-modal btn-modal-cancel" onclick="closeSubmitModal()" id="txtSubmitCancel">Keep Answering</button>
+        <button class="btn-modal btn-modal-confirm" onclick="executeSubmitExam()" id="txtSubmitConfirm">Yes, Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== EXIT TEST CONFIRMATION MODAL ==================== -->
+  <div id="exitModalOverlay" class="modal-overlay hidden" onclick="if(event.target===this) closeExitModal()">
+    <div class="modal-content">
+      <div class="modal-title" id="txtExitModalTitle">Leave Active Exam?</div>
+      <div class="modal-desc" id="txtExitModalDesc">Your current test progress will not be saved.</div>
+      
+      <div class="modal-actions">
+        <button class="btn-modal btn-modal-cancel" onclick="closeExitModal()" id="txtExitStay">Stay</button>
+        <button class="btn-modal btn-modal-danger" onclick="confirmExitTest()" id="txtExitLeave">Exit Exam</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    window.onerror = function(msg, url, line, col, err) {
+      try {
+        var banner = document.getElementById("jsErrorBanner");
+        if (banner) {
+          banner.style.display = "block";
+          banner.innerHTML = "<strong>⚠️ JavaScript Runtime Error:</strong><br>" + msg + " (Line " + line + ":" + col + ")" + (err && err.stack ? "<pre style='font-size:11px; margin-top:6px; white-space:pre-wrap;'>" + err.stack + "</pre>" : "");
+        }
+      } catch (e) {}
+      return false;
+    };
+
+    /* ==================== OFFLINE DATASETS ==================== */
+    /* __DATASETS_BLOCK__ */
+
+    /* Safe Storage Helper for iOS Safari & Private Browsing */
+    const storage = {
+      get(key, fallback = null) {
+        try {
+          const val = localStorage.getItem(key);
+          return val !== null ? val : fallback;
+        } catch (e) {
+          return fallback;
+        }
+      },
+      set(key, val) {
+        try {
+          localStorage.setItem(key, val);
+        } catch (e) {}
+      }
+    };
+
+    /* ==================== GLOBAL APP STATE ==================== */
+    let currentTab = "study"; // 'study' | 'test'
+    let currentLang = "bi"; // 'bi' | 'en' | 'zh'
+    let currentTheme = "light";
+
+    // Scroll Position Memory (Fixes Scroll Position Reset)
+    let savedStudyIndexScrollY = 0;
+    let savedTestDashboardScrollY = 0;
+
+    // Study Guide State
+    let activeChapterId = 1;
+    let currentStudyIndex = 0;
+    let isStudyShuffled = false;
+    let studyShuffleMap = [];
+    let bookmarks = new Set();
+    let searchQuery = "";
+    let studyProgress = {}; // { [chapterId]: pointIndex }
+
+    // Test Simulator State
+    let activeTestSet = null; // MockTestSet object
+    let examCurrentIdx = 0;
+    let examAnswers = {}; // { [qId]: optionId | [optionIds] }
+    let examTimeLeft = 45 * 60;
+    let examTimerInterval = null;
+    let testHistory = {}; // { [setId]: { score, passed, answers, date } }
+    let isTestShuffleEnabled = false;
+    let activeExamQuestions = []; // Array of questions (original or shuffled)
+
+    // Results & Review State
+    let lastExamResult = null; // { testSet, questions, answers, score, passed, timeSpent }
+    let currentReviewFilter = "all"; // 'all' | 'mistakes'
+
+    /* Safe DOM helpers */
+    function safeText(id, text) {
+      const el = document.getElementById(id);
+      if (el) el.textContent = text;
+    }
+    function safeAttr(id, attr, val) {
+      const el = document.getElementById(id);
+      if (el) el.setAttribute(attr, val);
+    }
+
+    /* ==================== INITIALIZATION & PERSISTENCE ==================== */
+    function initApp() {
+      try {
+        // 1. Theme
+        const prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        const savedTheme = storage.get("lifeinuk_theme") || (prefersDark ? "dark" : "light");
+        setTheme(savedTheme);
+
+        // 2. Language
+        currentLang = storage.get("lifeinuk_lang", "bi");
+
+        // 3. Bookmarks
+        try {
+          const savedBm = storage.get("lifeinuk_bookmarks");
+          if (savedBm) bookmarks = new Set(JSON.parse(savedBm));
+        } catch (e) {
+          bookmarks = new Set();
+        }
+
+        // 4. Study Progress
+        try {
+          const savedSp = storage.get("lifeinuk_study_progress");
+          if (savedSp) studyProgress = JSON.parse(savedSp);
+        } catch (e) {
+          studyProgress = {};
+        }
+
+        // 5. Test History
+        try {
+          const savedHist = storage.get("lifeinuk_progress");
+          if (savedHist) testHistory = JSON.parse(savedHist);
+        } catch (e) {
+          testHistory = {};
+        }
+
+        // 6. Test Shuffle preference
+        isTestShuffleEnabled = storage.get("lifeinuk_test_shuffle") === "true";
+        const chk = document.getElementById("chkShuffleTest");
+        if (chk) chk.checked = isTestShuffleEnabled;
+
+        updateLangUI();
+        renderStudyIndex();
+        renderTestDashboard();
+      } catch (err) {
+        console.error("Critical error in initApp:", err);
+        const banner = document.getElementById("jsErrorBanner");
+        if (banner) {
+          banner.style.display = "block";
+          banner.innerHTML = "<strong>⚠️ Critical Startup Error:</strong><br>" + err.message + "<pre style='font-size:11px; margin-top:6px;'>" + err.stack + "</pre>";
+        }
+      }
+    }
+
+    /* ==================== THEME CONTROLLER ==================== */
+    function setTheme(theme) {
+      currentTheme = theme;
+      document.documentElement.setAttribute("data-theme", theme);
+      storage.set("lifeinuk_theme", theme);
+      const btn = document.getElementById("btnTheme");
+      if (btn) btn.textContent = theme === "dark" ? "☀️" : "🌙";
+    }
+
+    function toggleTheme() {
+      setTheme(currentTheme === "dark" ? "light" : "dark");
+    }
+
+    /* ==================== LANGUAGE CONTROLLER ==================== */
+    function cycleLang() {
+      if (currentLang === "bi") currentLang = "en";
+      else if (currentLang === "en") currentLang = "zh";
+      else currentLang = "bi";
+      
+      storage.set("lifeinuk_lang", currentLang);
+      updateLangUI();
+
+      // Re-render current views
+      if (!document.getElementById("viewStudyIndex").classList.contains("hidden")) {
+        renderStudyIndex();
+      }
+      if (!document.getElementById("viewStudyCard").classList.contains("hidden")) {
+        renderStudyCard();
+      }
+      if (!document.getElementById("viewTestDashboard").classList.contains("hidden")) {
+        renderTestDashboard();
+      }
+      if (!document.getElementById("viewTestEngine").classList.contains("hidden")) {
+        renderExamQuestion();
+      }
+      if (!document.getElementById("viewTestReview").classList.contains("hidden")) {
+        renderReviewList();
+      }
+    }
+
+    function updateLangUI() {
+      const btn = document.getElementById("btnLang");
+      if (btn) btn.textContent = currentLang === "bi" ? "雙語" : (currentLang === "en" ? "EN" : "中");
+
+      // Header tabs
+      safeText("txtTabStudy", currentLang === "en" ? "Study Guide" : (currentLang === "zh" ? "溫習手冊" : "Study Guide (溫習手冊)"));
+      safeText("txtTabTest", currentLang === "en" ? "Mock Tests" : (currentLang === "zh" ? "模擬考試" : "Mock Tests (模擬考試)"));
+
+      // Study Guide text labels
+      safeAttr("inputSearch", "placeholder", currentLang === "en" 
+        ? "Search keywords across all chapters..." 
+        : (currentLang === "zh" ? "搜尋題目或關鍵字..." : "Search keywords (搜尋關鍵字)..."));
+      safeText("txtBackIndex", currentLang === "en" ? "Index" : "返回目錄");
+      safeText("txtShuffleStudy", currentLang === "en" ? "Shuffle" : "隨機");
+      safeText("txtBookmark", currentLang === "en" ? "Flag" : "標記難題");
+      safeText("txtStudyPrev", currentLang === "en" ? "Previous" : "上一個");
+      safeText("txtStudyNext", currentLang === "en" ? "Next" : "下一個");
+
+      // Test Dashboard labels
+      safeText("txtStatTotal", currentLang === "en" ? "Total Tests" : "總套數");
+      safeText("txtStatPassed", currentLang === "en" ? "Passed" : "已及格套數");
+      safeText("txtStatAvg", currentLang === "en" ? "Avg Score" : "平均分數");
+      safeText("txtRandomExam", currentLang === "en" ? "Random 24-Q Official Exam" : "🎲 全題庫抽 24 題模擬考試");
+      safeText("txtShuffleTestLabel", currentLang === "en" ? "🔀 Shuffle Questions" : "🔀 隨機題目順序");
+
+      // Test Engine labels
+      safeText("txtExitTest", currentLang === "en" ? "Exit Exam" : "離開考試");
+      safeText("txtExamPrev", currentLang === "en" ? "Previous" : "上一題");
+      safeText("txtExamNext", currentLang === "en" ? "Next" : "下一題");
+      safeText("txtExamSubmit", currentLang === "en" ? "Submit Exam" : "提交試卷");
+
+      // Review labels
+      safeText("txtBackToTests", currentLang === "en" ? "Back to Tests" : "返回試題目錄");
+      safeText("txtRetake", currentLang === "en" ? "Retake" : "重新測驗");
+    }
+
+    /* ==================== TAB NAVIGATION CONTROLLER ==================== */
+    function navToTab(tab) {
+      if (tab === currentTab) return;
+
+      // If leaving an active test, prompt confirmation
+      if (currentTab === "test" && !document.getElementById("viewTestEngine").classList.contains("hidden")) {
+        requestExitTest();
+        return;
+      }
+
+      currentTab = tab;
+      document.getElementById("tabBtnStudy").classList.toggle("active", tab === "study");
+      document.getElementById("tabBtnTest").classList.toggle("active", tab === "test");
+
+      if (tab === "study") {
+        document.getElementById("viewTestDashboard").classList.add("hidden");
+        document.getElementById("viewTestEngine").classList.add("hidden");
+        document.getElementById("viewTestReview").classList.add("hidden");
+
+        document.getElementById("viewStudyIndex").classList.remove("hidden");
+        document.getElementById("viewStudyCard").classList.add("hidden");
+        renderStudyIndex();
+        window.scrollTo({ top: savedStudyIndexScrollY, behavior: "instant" });
+      } else {
+        document.getElementById("viewStudyIndex").classList.add("hidden");
+        document.getElementById("viewStudyCard").classList.add("hidden");
+
+        document.getElementById("viewTestEngine").classList.add("hidden");
+        document.getElementById("viewTestReview").classList.add("hidden");
+        document.getElementById("viewTestDashboard").classList.remove("hidden");
+        renderTestDashboard();
+        window.scrollTo({ top: savedTestDashboardScrollY, behavior: "instant" });
+      }
+    }
+
+    /* =========================================================================
+       MODULE 1: STUDY GUIDE FLASHCARDS LOGIC
+       ========================================================================= */
+
+    function getFlaggedPoints() {
+      const allPoints = [];
+      rawStudyGuideData.forEach(chapter => {
+        chapter.points.forEach(p => {
+          if (bookmarks.has(p.id)) allPoints.push(p);
+        });
+      });
+      return allPoints;
+    }
+
+    function renderStudyIndex() {
+      const grid = document.getElementById("sectorGrid");
+      const flagged = getFlaggedPoints();
+
+      if (searchQuery.trim() !== "") {
+        // Search Results mode
+        const q = searchQuery.toLowerCase();
+        const matches = [];
+        rawStudyGuideData.forEach(chapter => {
+          chapter.points.forEach(p => {
+            const matchEn = p.text.en.toLowerCase().includes(q);
+            const matchZh = p.text.zh.toLowerCase().includes(q);
+            if (matchEn || matchZh) matches.push({ point: p, chapterId: chapter.chapterId });
+          });
+        });
+
+        document.getElementById("searchResultsInfo").classList.remove("hidden");
+        document.getElementById("searchCountText").textContent = 
+          currentLang === "en" ? `Found ${matches.length} matching points` : `找到 ${matches.length} 個符合的學習點`;
+
+        if (matches.length === 0) {
+          grid.innerHTML = `<div style="text-align:center; padding:40px 10px; color:var(--text-sub);">
+            <div style="font-size:2rem; margin-bottom:8px;">🔍</div>
+            <p>${currentLang === 'en' ? 'No matching study points found.' : '沒有找到相符的學習點。'}</p>
+          </div>`;
+          return;
+        }
+
+        grid.innerHTML = matches.map(m => {
+          const p = m.point;
+          const isBm = bookmarks.has(p.id);
+          return `
+            <div class="sector-card" onclick="openStudyPointDirectly('${p.id}', ${m.chapterId})">
+              <div style="display:flex; justify-content:space-between; align-items:center;">
+                <span class="sector-badge">Sector ${m.chapterId} • #${p.id}</span>
+                ${isBm ? '<span style="color:var(--amber); font-weight:bold;">★ Flagged</span>' : ''}
+              </div>
+              <div class="sector-title-en">${highlightMatch(p.text.en, searchQuery)}</div>
+              <div class="sector-title-zh">${highlightMatch(p.text.zh, searchQuery)}</div>
+            </div>
+          `;
+        }).join("");
+        return;
+      }
+
+      // Standard Chapter Index mode
+      document.getElementById("searchResultsInfo").classList.add("hidden");
+      let html = "";
+
+      // Sector 6 (Flagged) if any bookmarks exist
+      if (flagged.length > 0) {
+        html += `
+          <div class="sector-card flagged-sector" onclick="openStudyChapter('flagged')">
+            <span class="sector-badge">★ Flagged (${flagged.length})</span>
+            <div class="sector-title-en">★ Flagged • Bookmarked Question Bank</div>
+            <div class="sector-title-zh">★ Flagged • 專屬難題庫</div>
+            <div class="sector-meta">
+              <span>${flagged.length} points</span>
+              <span>Tap to review your flagged questions →</span>
+            </div>
+          </div>
+        `;
+      }
+
+      // Chapters 1-5
+      rawStudyGuideData.forEach(chapter => {
+        const total = chapter.points.length;
+        const current = studyProgress[chapter.chapterId.toString()] || 0;
+        const pct = total === 0 ? 0 : Math.round((current / total) * 100);
+        const flaggedInChap = chapter.points.filter(p => bookmarks.has(p.id)).length;
+
+        html += `
+          <div class="sector-card" onclick="openStudyChapter(${chapter.chapterId})">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span class="sector-badge">Sector ${chapter.chapterId}</span>
+              ${flaggedInChap > 0 ? `<span style="font-size:0.8rem; font-weight:700; color:var(--amber);">★ ${flaggedInChap} flagged</span>` : ''}
+            </div>
+            <div class="sector-title-en">${chapter.title.en}</div>
+            <div class="sector-title-zh">${chapter.title.zh}</div>
+            <div class="sector-meta">
+              <span>${total} points</span>
+              <span>Progress: ${current} / ${total} (${pct}%)</span>
+            </div>
+          </div>
+        `;
+      });
+
+      grid.innerHTML = html;
+    }
+
+    function highlightMatch(text, query) {
+      if (!query) return text;
+      const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+      return text.replace(regex, '<mark>$1</mark>');
+    }
+
+    function handleSearch(val) {
+      searchQuery = val;
+      document.getElementById("btnClearSearch").classList.toggle("hidden", val === "");
+      renderStudyIndex();
+    }
+
+    function clearSearch() {
+      searchQuery = "";
+      document.getElementById("inputSearch").value = "";
+      document.getElementById("btnClearSearch").classList.add("hidden");
+      renderStudyIndex();
+    }
+
+    function openStudyChapter(chapId) {
+      savedStudyIndexScrollY = window.scrollY;
+      activeChapterId = chapId;
+      isStudyShuffled = false;
+      document.getElementById("btnShuffleStudy").classList.remove("active-shuffle");
+
+      if (chapId === "flagged") {
+        currentStudyIndex = 0;
+      } else {
+        currentStudyIndex = studyProgress[chapId.toString()] || 0;
+      }
+
+      document.getElementById("viewStudyIndex").classList.add("hidden");
+      document.getElementById("viewStudyCard").classList.remove("hidden");
+      window.scrollTo({ top: 0, behavior: "instant" });
+      renderStudyCard();
+    }
+
+    function openStudyPointDirectly(pointId, chapterId) {
+      savedStudyIndexScrollY = window.scrollY;
+      activeChapterId = chapterId;
+      isStudyShuffled = false;
+      document.getElementById("btnShuffleStudy").classList.remove("active-shuffle");
+
+      const list = getActiveStudyList();
+      const idx = list.findIndex(p => p.id === pointId);
+      currentStudyIndex = idx >= 0 ? idx : 0;
+
+      document.getElementById("viewStudyIndex").classList.add("hidden");
+      document.getElementById("viewStudyCard").classList.remove("hidden");
+      window.scrollTo({ top: 0, behavior: "instant" });
+      renderStudyCard();
+    }
+
+    function showStudyIndex() {
+      document.getElementById("viewStudyCard").classList.add("hidden");
+      document.getElementById("viewStudyIndex").classList.remove("hidden");
+      renderStudyIndex();
+      // Restore precise scroll position
+      window.scrollTo({ top: savedStudyIndexScrollY, behavior: "instant" });
+    }
+
+    function getActiveStudyList() {
+      if (activeChapterId === "flagged" || activeChapterId === 6) {
+        return getFlaggedPoints();
+      }
+      const c = rawStudyGuideData.find(chap => chap.chapterId === activeChapterId);
+      return c ? c.points : [];
+    }
+
+    function renderStudyCard() {
+      const list = getActiveStudyList();
+      if (!list || list.length === 0) {
+        showStudyIndex();
+        return;
+      }
+
+      if (currentStudyIndex < 0) currentStudyIndex = 0;
+      if (currentStudyIndex >= list.length) currentStudyIndex = list.length - 1;
+
+      // Save progress if standard chapter
+      if (activeChapterId !== "flagged" && activeChapterId !== 6) {
+        studyProgress[activeChapterId.toString()] = currentStudyIndex;
+        storage.set("lifeinuk_study_progress", JSON.stringify(studyProgress));
+      }
+
+      const targetIdx = isStudyShuffled && studyShuffleMap.length === list.length
+        ? studyShuffleMap[currentStudyIndex]
+        : currentStudyIndex;
+
+      const point = list[targetIdx];
+      const isBm = bookmarks.has(point.id);
+
+      // Bookmark Button
+      const bmBtn = document.getElementById("btnBookmark");
+      bmBtn.classList.toggle("bookmarked", isBm);
+      document.getElementById("txtBookmark").textContent = isBm 
+        ? (currentLang === "en" ? "Flagged ★" : "已標記 ★")
+        : (currentLang === "en" ? "Flag" : "標記難題");
+
+      // Progress & Counter
+      const total = list.length;
+      const pct = ((currentStudyIndex + 1) / total) * 100;
+      document.getElementById("studyProgressBar").style.width = `${pct}%`;
+      document.getElementById("studyCounter").textContent = `${currentStudyIndex + 1} / ${total} ▾`;
+      
+      const chapTitle = (activeChapterId === "flagged" || activeChapterId === 6)
+        ? "★ Sector 6 (Flagged)" 
+        : `Sector ${activeChapterId}`;
+      document.getElementById("studySectorPill").textContent = chapTitle;
+
+      // Card Content
+      document.getElementById("cardPointId").textContent = `#${point.id}`;
+      document.getElementById("cardPointEn").textContent = point.text.en;
+      document.getElementById("cardPointZh").textContent = point.text.zh;
+
+      // Language visibility
+      document.getElementById("cardPointEn").classList.toggle("hidden", currentLang === "zh");
+      document.getElementById("cardPointZh").classList.toggle("hidden", currentLang === "en");
+
+      // Prev / Next Buttons
+      document.getElementById("btnStudyPrev").disabled = currentStudyIndex === 0;
+      document.getElementById("btnStudyNext").disabled = currentStudyIndex === total - 1;
+    }
+
+    function navStudyStep(step) {
+      const list = getActiveStudyList();
+      const next = currentStudyIndex + step;
+      if (next >= 0 && next < list.length) {
+        currentStudyIndex = next;
+        renderStudyCard();
+      }
+    }
+
+    function toggleStudyShuffle() {
+      const list = getActiveStudyList();
+      if (list.length <= 1) return;
+
+      isStudyShuffled = !isStudyShuffled;
+      const btn = document.getElementById("btnShuffleStudy");
+      btn.classList.toggle("active-shuffle", isStudyShuffled);
+
+      if (isStudyShuffled) {
+        // Fisher-Yates
+        studyShuffleMap = Array.from({ length: list.length }, (_, i) => i);
+        for (let i = studyShuffleMap.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [studyShuffleMap[i], studyShuffleMap[j]] = [studyShuffleMap[j], studyShuffleMap[i]];
+        }
+        currentStudyIndex = 0;
+      } else {
+        studyShuffleMap = [];
+      }
+      renderStudyCard();
+    }
+
+    function toggleCurrentBookmark() {
+      const list = getActiveStudyList();
+      const targetIdx = isStudyShuffled && studyShuffleMap.length === list.length
+        ? studyShuffleMap[currentStudyIndex]
+        : currentStudyIndex;
+      const point = list[targetIdx];
+      if (!point) return;
+
+      if (bookmarks.has(point.id)) {
+        bookmarks.delete(point.id);
+      } else {
+        bookmarks.add(point.id);
+      }
+
+      storage.set("lifeinuk_bookmarks", JSON.stringify(Array.from(bookmarks)));
+      renderStudyCard();
+    }
+
+    // Quick Jump Modal for Study Guide
+    function openJumpModal() {
+      const list = getActiveStudyList();
+      const total = list.length;
+      document.getElementById("sliderJump").max = total;
+      document.getElementById("sliderJump").value = currentStudyIndex + 1;
+      document.getElementById("inputJumpNum").max = total;
+      document.getElementById("inputJumpNum").value = currentStudyIndex + 1;
+      document.getElementById("jumpModalOverlay").classList.remove("hidden");
+    }
+
+    function closeJumpModal() {
+      document.getElementById("jumpModalOverlay").classList.add("hidden");
+    }
+
+    function syncJumpSlider(val) {
+      document.getElementById("sliderJump").value = parseInt(val) || 1;
+    }
+
+    function syncJumpInput(val) {
+      document.getElementById("inputJumpNum").value = val;
+    }
+
+    function confirmJump() {
+      const list = getActiveStudyList();
+      let target = parseInt(document.getElementById("inputJumpNum").value) || 1;
+      if (target < 1) target = 1;
+      if (target > list.length) target = list.length;
+      currentStudyIndex = target - 1;
+      closeJumpModal();
+      renderStudyCard();
+    }
+
+    /* =========================================================================
+       MODULE 2: MOCK TEST SIMULATOR LOGIC
+       ========================================================================= */
+
+    function toggleTestShufflePreference(checked) {
+      isTestShuffleEnabled = checked;
+      storage.set("lifeinuk_test_shuffle", checked ? "true" : "false");
+    }
+
+    function renderTestDashboard() {
+      const grid = document.getElementById("testSetGrid");
+      const totalSets = rawMockTestsData.length;
+      let passedCount = 0;
+      let totalScore = 0;
+      let attemptedCount = 0;
+
+      rawMockTestsData.forEach(set => {
+        const hist = testHistory[set.setId];
+        if (hist) {
+          attemptedCount++;
+          totalScore += hist.score;
+          if (hist.passed) passedCount++;
+        }
+      });
+
+      // Update Summary Cards
+      document.getElementById("statTotalTests").textContent = `${totalSets} Sets`;
+      document.getElementById("statPassedTests").textContent = `${passedCount} / ${totalSets}`;
+      document.getElementById("statAvgScore").textContent = attemptedCount > 0 
+        ? `${Math.round(totalScore / attemptedCount)} / 24`
+        : "--";
+
+      // Render Test Cards
+      let html = "";
+      rawMockTestsData.forEach(set => {
+        const hist = testHistory[set.setId];
+        let badgeHtml = `<span class="test-status-badge badge-not-started">${currentLang === 'en' ? 'Not Attempted' : '未測驗'}</span>`;
+        if (hist) {
+          if (hist.passed) {
+            badgeHtml = `<span class="test-status-badge badge-passed">${currentLang === 'en' ? 'Passed' : '及格'}: ${hist.score}/24</span>`;
+          } else {
+            badgeHtml = `<span class="test-status-badge badge-failed">${currentLang === 'en' ? 'Failed' : '不及格'}: ${hist.score}/24</span>`;
+          }
+        }
+
+        html += `
+          <div class="test-card" onclick="startStandardTest(${set.setId})">
+            <div>
+              <div class="test-info-title">${set.title.en}</div>
+              <div class="test-info-sub" style="font-size:0.95rem; color:var(--text-muted); margin-bottom:4px;">${set.title.zh}</div>
+              <div class="test-info-sub">24 Questions • 45 Mins • Pass Mark: 75% (18/24)</div>
+            </div>
+            <div>${badgeHtml}</div>
+          </div>
+        `;
+      });
+
+      grid.innerHTML = html;
+    }
+
+    function startStandardTest(setId) {
+      savedTestDashboardScrollY = window.scrollY;
+      const set = rawMockTestsData.find(s => s.setId === setId);
+      if (!set) return;
+
+      activeTestSet = set;
+      launchExamSession(set.title, set.questions);
+    }
+
+    function startRandomTest() {
+      savedTestDashboardScrollY = window.scrollY;
+      // Gather all questions across all 18 sets
+      const allQuestions = [];
+      rawMockTestsData.forEach(s => {
+        s.questions.forEach(q => allQuestions.push(q));
+      });
+
+      // Shuffle and pick 24
+      const shuffledAll = [...allQuestions];
+      for (let i = shuffledAll.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffledAll[i], shuffledAll[j]] = [shuffledAll[j], shuffledAll[i]];
+      }
+      const selected24 = shuffledAll.slice(0, 24);
+
+      activeTestSet = {
+        setId: "random_exam",
+        title: {
+          en: "Random 24-Question Official Exam",
+          zh: "全題庫隨機 24 題官方全真模擬考"
+        },
+        questions: selected24
+      };
+
+      launchExamSession(activeTestSet.title, selected24);
+    }
+
+    function launchExamSession(title, questions) {
+      examCurrentIdx = 0;
+      examAnswers = {};
+      examTimeLeft = 45 * 60; // 45 minutes
+
+      // Check if shuffle is enabled
+      if (isTestShuffleEnabled) {
+        activeExamQuestions = [...questions];
+        for (let i = activeExamQuestions.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [activeExamQuestions[i], activeExamQuestions[j]] = [activeExamQuestions[j], activeExamQuestions[i]];
+        }
+      } else {
+        activeExamQuestions = [...questions];
+      }
+
+      // Switch Views
+      document.getElementById("viewTestDashboard").classList.add("hidden");
+      document.getElementById("viewTestReview").classList.add("hidden");
+      document.getElementById("viewTestEngine").classList.remove("hidden");
+      window.scrollTo({ top: 0, behavior: "instant" });
+
+      document.getElementById("activeTestTitle").textContent = title.en;
+
+      // Start Timer
+      if (examTimerInterval) clearInterval(examTimerInterval);
+      updateTimerDisplay();
+      examTimerInterval = setInterval(() => {
+        examTimeLeft--;
+        updateTimerDisplay();
+        if (examTimeLeft <= 0) {
+          clearInterval(examTimerInterval);
+          executeSubmitExam();
+        }
+      }, 1000);
+
+      renderExamQuestion();
+    }
+
+    function updateTimerDisplay() {
+      const m = Math.floor(examTimeLeft / 60).toString().padStart(2, "0");
+      const s = (examTimeLeft % 60).toString().padStart(2, "0");
+      const el = document.getElementById("testTimer");
+      el.textContent = `${m}:${s}`;
+      el.classList.toggle("timer-warning", examTimeLeft < 5 * 60);
+    }
+
+    function renderExamQuestion() {
+      const q = activeExamQuestions[examCurrentIdx];
+      const total = activeExamQuestions.length;
+
+      // Progress & Counter
+      const pct = ((examCurrentIdx + 1) / total) * 100;
+      document.getElementById("testProgressBar").style.width = `${pct}%`;
+      document.getElementById("activeTestProgress").textContent = 
+        currentLang === "en" ? `Question ${examCurrentIdx + 1} of ${total}` : `第 ${examCurrentIdx + 1} 題（共 ${total} 題）`;
+
+      // Multi-answer indicator
+      const correctCount = q.options.filter(o => o.isCorrect).length;
+      const hint = document.getElementById("multiAnswerHint");
+      if (correctCount > 1) {
+        hint.classList.remove("hidden");
+        hint.textContent = currentLang === "en" ? `Choose ${correctCount} answers` : `請選擇 ${correctCount} 個答案`;
+      } else {
+        hint.classList.add("hidden");
+      }
+
+      // Question Text
+      document.getElementById("examQuestionEn").textContent = q.question.en;
+      document.getElementById("examQuestionZh").textContent = q.question.zh;
+      document.getElementById("examQuestionEn").classList.toggle("hidden", currentLang === "zh");
+      document.getElementById("examQuestionZh").classList.toggle("hidden", currentLang === "en");
+
+      // Options
+      const userChoice = examAnswers[q.id];
+      const optsList = document.getElementById("examOptionsList");
+      optsList.innerHTML = q.options.map(opt => {
+        const isSelected = correctCount === 1 
+          ? userChoice === opt.id 
+          : (Array.isArray(userChoice) && userChoice.includes(opt.id));
+
+        return `
+          <div class="option-btn ${isSelected ? 'selected' : ''}" onclick="selectExamOption('${opt.id}', ${correctCount})">
+            <div class="opt-indicator">${isSelected ? '✓' : ''}</div>
+            <div class="opt-text-wrap">
+              <div class="opt-en ${currentLang === 'zh' ? 'hidden' : ''}">${opt.text.en}</div>
+              <div class="opt-zh ${currentLang === 'en' ? 'hidden' : ''}">${opt.text.zh}</div>
+            </div>
+          </div>
+        `;
+      }).join("");
+
+      // Buttons
+      document.getElementById("btnExamPrev").disabled = examCurrentIdx === 0;
+      if (examCurrentIdx === total - 1) {
+        document.getElementById("btnExamNext").classList.add("hidden");
+        document.getElementById("btnExamSubmit").classList.remove("hidden");
+      } else {
+        document.getElementById("btnExamNext").classList.remove("hidden");
+        document.getElementById("btnExamSubmit").classList.add("hidden");
+      }
+    }
+
+    function selectExamOption(optId, correctCount) {
+      const q = activeExamQuestions[examCurrentIdx];
+      if (correctCount === 1) {
+        examAnswers[q.id] = optId;
+      } else {
+        let currentArr = Array.isArray(examAnswers[q.id]) ? [...examAnswers[q.id]] : [];
+        if (currentArr.includes(optId)) {
+          currentArr = currentArr.filter(id => id !== optId);
+        } else {
+          if (currentArr.length < correctCount) {
+            currentArr.push(optId);
+          } else {
+            // Drop earliest, add new
+            currentArr.shift();
+            currentArr.push(optId);
+          }
+        }
+        examAnswers[q.id] = currentArr;
+      }
+      renderExamQuestion();
+    }
+
+    function navExamQuestion(step) {
+      const next = examCurrentIdx + step;
+      if (next >= 0 && next < activeExamQuestions.length) {
+        examCurrentIdx = next;
+        renderExamQuestion();
+      }
+    }
+
+    function confirmSubmitModal() {
+      const total = activeExamQuestions.length;
+      let answeredCount = 0;
+      activeExamQuestions.forEach(q => {
+        const ans = examAnswers[q.id];
+        if (ans !== undefined && (!Array.isArray(ans) || ans.length > 0)) answeredCount++;
+      });
+      const unanswered = total - answeredCount;
+
+      const body = document.getElementById("submitModalBody");
+      body.innerHTML = `
+        <p style="margin-bottom:8px; font-weight:700; color:var(--text-main);">
+          ${currentLang === 'en' ? `You answered ${answeredCount} of ${total} questions.` : `您已回答 ${answeredCount} / ${total} 題。`}
+        </p>
+        ${unanswered > 0 ? `<p style="color:var(--danger); font-weight:bold;">${currentLang === 'en' ? `⚠️ You still have ${unanswered} unanswered question(s)!` : `⚠️ 還有 ${unanswered} 題尚未作答！`}</p>` : `<p style="color:var(--success); font-weight:bold;">${currentLang === 'en' ? 'All questions answered! Ready to submit?' : '全部題目皆已完成！確定要提交試卷嗎？'}</p>`}
+      `;
+
+      document.getElementById("submitModalOverlay").classList.remove("hidden");
+    }
+
+    function closeSubmitModal() {
+      document.getElementById("submitModalOverlay").classList.add("hidden");
+    }
+
+    function executeSubmitExam() {
+      closeSubmitModal();
+      if (examTimerInterval) clearInterval(examTimerInterval);
+
+      // Grade test
+      let score = 0;
+      activeExamQuestions.forEach(q => {
+        const correctIds = q.options.filter(o => o.isCorrect).map(o => o.id);
+        const userChoice = examAnswers[q.id];
+        if (correctIds.length === 1) {
+          if (userChoice === correctIds[0] || (Array.isArray(userChoice) && userChoice.length === 1 && userChoice[0] === correctIds[0])) {
+            score++;
+          }
+        } else {
+          if (Array.isArray(userChoice) && userChoice.length === correctIds.length && correctIds.every(id => userChoice.includes(id))) {
+            score++;
+          }
+        }
+      });
+
+      const passed = score >= 18;
+      const timeSpent = (45 * 60) - examTimeLeft;
+
+      // Save to history (if standard test)
+      if (activeTestSet && activeTestSet.setId !== "random_exam") {
+        testHistory[activeTestSet.setId] = {
+          score,
+          passed,
+          answers: examAnswers,
+          date: new Date().toISOString()
+        };
+        storage.set("lifeinuk_progress", JSON.stringify(testHistory));
+      }
+
+      lastExamResult = {
+        testSet: activeTestSet,
+        questions: activeExamQuestions,
+        answers: examAnswers,
+        score,
+        passed,
+        timeSpent
+      };
+
+      currentReviewFilter = "all";
+      document.getElementById("viewTestEngine").classList.add("hidden");
+      document.getElementById("viewTestReview").classList.remove("hidden");
+      window.scrollTo({ top: 0, behavior: "instant" });
+      renderReviewView();
+    }
+
+    function requestExitTest() {
+      document.getElementById("exitModalOverlay").classList.remove("hidden");
+    }
+
+    function closeExitModal() {
+      document.getElementById("exitModalOverlay").classList.add("hidden");
+    }
+
+    function confirmExitTest() {
+      closeExitModal();
+      if (examTimerInterval) clearInterval(examTimerInterval);
+      document.getElementById("viewTestEngine").classList.add("hidden");
+      document.getElementById("viewTestDashboard").classList.remove("hidden");
+      renderTestDashboard();
+      window.scrollTo({ top: savedTestDashboardScrollY, behavior: "instant" });
+    }
+
+    function backToTestDashboard() {
+      document.getElementById("viewTestReview").classList.add("hidden");
+      document.getElementById("viewTestDashboard").classList.remove("hidden");
+      renderTestDashboard();
+      window.scrollTo({ top: savedTestDashboardScrollY, behavior: "instant" });
+    }
+
+    function retakeCurrentTest() {
+      if (lastExamResult && lastExamResult.testSet) {
+        if (lastExamResult.testSet.setId === "random_exam") {
+          startRandomTest();
+        } else {
+          startStandardTest(lastExamResult.testSet.setId);
+        }
+      }
+    }
+
+    /* ==================== TEST RESULTS & REVIEW CONTROLLER ==================== */
+    function renderReviewView() {
+      if (!lastExamResult) return;
+      const { score, passed, timeSpent } = lastExamResult;
+
+      const banner = document.getElementById("resultBanner");
+      banner.className = `result-banner ${passed ? 'result-pass' : 'result-fail'}`;
+
+      document.getElementById("resultStatusText").textContent = passed ? "PASS" : "FAIL";
+      document.getElementById("resultStatusSub").textContent = passed 
+        ? (currentLang === "en" ? "Congratulations! You passed the official 75% mark." : "恭喜及格！達到官方 75% 及格標準。")
+        : (currentLang === "en" ? "Needs 18/24 (75%) to pass. Keep practicing!" : "需要 18/24（75%）才及格。別氣餒，複習錯題後再試一次！");
+
+      const m = Math.floor(timeSpent / 60);
+      const s = timeSpent % 60;
+      document.getElementById("resultScoreChip").textContent = 
+        `Score: ${score} / 24 (${Math.round((score / 24) * 100)}%) • Time: ${m}m ${s}s`;
+
+      renderReviewList();
+    }
+
+    function setReviewFilter(filter) {
+      currentReviewFilter = filter;
+      document.getElementById("btnFilterAll").classList.toggle("active", filter === "all");
+      document.getElementById("btnFilterMistakes").classList.toggle("active", filter === "mistakes");
+      renderReviewList();
+    }
+
+    function renderReviewList() {
+      if (!lastExamResult) return;
+      const { questions, answers } = lastExamResult;
+      const listEl = document.getElementById("reviewQuestionsList");
+
+      let mistakeCount = 0;
+      const scoredQuestions = questions.map((q, idx) => {
+        const correctIds = q.options.filter(o => o.isCorrect).map(o => o.id);
+        const userChoice = answers[q.id];
+        let isCorrect = false;
+
+        if (correctIds.length === 1) {
+          isCorrect = userChoice === correctIds[0] || (Array.isArray(userChoice) && userChoice.length === 1 && userChoice[0] === correctIds[0]);
+        } else {
+          isCorrect = Array.isArray(userChoice) && userChoice.length === correctIds.length && correctIds.every(id => userChoice.includes(id));
+        }
+
+        if (!isCorrect) mistakeCount++;
+        return { q, idx, isCorrect, correctIds, userChoice };
+      });
+
+      document.getElementById("txtFilterAll").textContent = 
+        currentLang === "en" ? `All (${questions.length})` : `全部題目 (${questions.length})`;
+      document.getElementById("txtFilterMistakes").textContent = 
+        currentLang === "en" ? `Mistakes Only (${mistakeCount})` : `只看錯題 (${mistakeCount})`;
+
+      const filtered = currentReviewFilter === "mistakes"
+        ? scoredQuestions.filter(item => !item.isCorrect)
+        : scoredQuestions;
+
+      if (filtered.length === 0 && currentReviewFilter === "mistakes") {
+        listEl.innerHTML = `
+          <div style="text-align:center; padding:40px; background:var(--card-bg); border-radius:14px; border:1px solid var(--border);">
+            <div style="font-size:2.5rem; margin-bottom:10px;">🎉</div>
+            <div style="font-weight:700; font-size:1.2rem; color:var(--success);">${currentLang === 'en' ? 'Perfect! No mistakes found!' : '完美答題！沒有任何錯題！'}</div>
+          </div>
+        `;
+        return;
+      }
+
+      listEl.innerHTML = filtered.map(item => {
+        const { q, idx, isCorrect, correctIds, userChoice } = item;
+
+        return `
+          <div class="review-item-card">
+            <div class="review-item-top">
+              <div class="review-state-icon ${isCorrect ? 'icon-correct' : 'icon-incorrect'}">
+                ${isCorrect ? '✓' : '✗'}
+              </div>
+              <div style="flex:1;">
+                <div style="font-size:0.85rem; font-weight:700; color:var(--text-sub); margin-bottom:4px;">
+                  Question ${idx + 1}
+                </div>
+                <div class="question-title-en ${currentLang === 'zh' ? 'hidden' : ''}" style="font-size:1.15rem; margin-bottom:4px;">${q.question.en}</div>
+                <div class="question-title-zh ${currentLang === 'en' ? 'hidden' : ''}" style="font-size:1rem; margin-bottom:8px;">${q.question.zh}</div>
+              </div>
+            </div>
+
+            <div style="margin-top:10px;">
+              ${q.options.map(opt => {
+                const isOptionCorrect = opt.isCorrect;
+                const isOptionChosen = correctIds.length === 1 
+                  ? userChoice === opt.id 
+                  : (Array.isArray(userChoice) && userChoice.includes(opt.id));
+
+                let cls = "review-opt";
+                let badge = "";
+
+                if (isOptionCorrect) {
+                  cls += " review-opt-correct";
+                  badge = `<span style="display:inline-block; margin-right:6px; font-weight:800;">✓ [${currentLang === 'en' ? 'Correct Answer' : '正確答案'}]</span>`;
+                } else if (isOptionChosen && !isOptionCorrect) {
+                  cls += " review-opt-wrong-choice";
+                  badge = `<span style="display:inline-block; margin-right:6px; font-weight:800;">✗ [${currentLang === 'en' ? 'Your Answer' : '您的選擇'}]</span>`;
+                }
+
+                return `
+                  <div class="${cls}">
+                    ${badge}
+                    <span class="${currentLang === 'zh' ? 'hidden' : ''}">${opt.text.en}</span>
+                    <span class="${currentLang === 'en' ? 'hidden' : ''}" style="margin-left:4px; opacity:0.85;">${opt.text.zh}</span>
+                  </div>
+                `;
+              }).join("")}
+            </div>
+
+            ${q.explanation ? `
+              <div class="explanation-box">
+                <div class="explanation-tag">💡 ${currentLang === 'en' ? 'Explanation & Knowledge Point' : '知識點解析'}</div>
+                <div class="${currentLang === 'zh' ? 'hidden' : ''}" style="color:var(--text-main); font-weight:600;">${q.explanation.en}</div>
+                <div class="${currentLang === 'en' ? 'hidden' : ''}" style="color:var(--text-muted); margin-top:2px;">${q.explanation.zh}</div>
+              </div>
+            ` : ''}
+          </div>
+        `;
+      }).join("");
+    }
+
+    /* ==================== TOUCH & KEYBOARD EVENTS ==================== */
+    // Touch swipe gestures for study cards
+    let touchStartX = 0;
+    let touchStartY = 0;
+    const touchArea = document.getElementById("touchCardArea");
+    if (touchArea) {
+      touchArea.addEventListener("touchstart", (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+        touchStartY = e.changedTouches[0].screenY;
+      }, { passive: true });
+
+      touchArea.addEventListener("touchend", (e) => {
+        const diffX = e.changedTouches[0].screenX - touchStartX;
+        const diffY = e.changedTouches[0].screenY - touchStartY;
+        if (Math.abs(diffX) > 50 && Math.abs(diffX) > Math.abs(diffY) * 1.5) {
+          if (diffX < 0) navStudyStep(1);
+          else navStudyStep(-1);
+        }
+      }, { passive: true });
+    }
+
+    // Keyboard navigation
+    window.addEventListener("keydown", (e) => {
+      // In study card view
+      if (!document.getElementById("viewStudyCard").classList.contains("hidden")) {
+        if (!document.getElementById("jumpModalOverlay").classList.contains("hidden")) return;
+        if (e.key === "ArrowRight") navStudyStep(1);
+        if (e.key === "ArrowLeft") navStudyStep(-1);
+        if (e.key === " ") { e.preventDefault(); toggleCurrentBookmark(); }
+        if (e.key === "Escape") showStudyIndex();
+      }
+      // In active exam
+      else if (!document.getElementById("viewTestEngine").classList.contains("hidden")) {
+        if (e.key === "ArrowRight") navExamQuestion(1);
+        if (e.key === "ArrowLeft") navExamQuestion(-1);
+      }
+    });
+
+    /* __STARTUP_BLOCK__ */
+  </script>
+</body>
+</html>

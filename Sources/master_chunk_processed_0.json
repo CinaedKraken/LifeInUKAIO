@@ -1,0 +1,1819 @@
+[
+  {
+    "question": {
+      "en": "After the Act of Union, Scotland was no longer an independent country. In what TWO ways was it still separate from the rest of Great Britain?",
+      "zh": "《聯合法令》通過後，蘇格蘭不再是一個獨立的國家。在以下哪兩個方面，它仍然與大不列顛的其他地區保持獨立？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Act of Union in 1707 united Scotland with England and Wales to create Great Britain, but Scotland kept its own legal and educational systems, as well as its Presbyterian Church (the Church of Scotland).",
+      "zh": "1707年的《聯合法令》將蘇格蘭與英格蘭及威爾斯合併為大不列顛，但蘇格蘭保留了其獨立的法律和教育體系，以及其長老會（蘇格蘭教會）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "It kept its Presbyterian Church",
+          "zh": "保留了其長老會"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "It kept its own army.",
+          "zh": "保留了其軍隊"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "It kept its own educational system",
+          "zh": "保留了其教育體系"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Hadrian's Wall was rebuilt to secure the border.",
+          "zh": "重建了哈德良長城以維護邊境安全"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How is the electoral register updated?",
+      "zh": "選民登記冊是如何更新的？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The electoral register is updated by an annual canvass. Every household receives a form (the annual canvass form) to update the register, which must be completed and returned.",
+      "zh": "選民登記冊是透過年度調查進行更新的。每個住戶都會收到一份登記表，必須填妥並寄回。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Eligible voters must phone their local councillor",
+          "zh": "符合條件的選民必須致電當地的區議員"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every household must request a registration form",
+          "zh": "每個住戶必須主動申請登記表"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every household receives a phone call to enquire about eligible voter",
+          "zh": "每個住戶都會接到電話，詢問有關符合條件的選民資訊"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every household receives a registration form, which must be completed and returned.",
+          "zh": "每個住戶都會收到一份登記表，必須填妥並寄回。"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "A snack made from flour, dried fruits and spices and served either hot or cold is which of the following?",
+      "zh": "以下哪一項是由麵粉、乾果和香料製成，且冷熱皆可食用的點心？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "A Welsh cake is a traditional sweet snack made from flour, dried fruits, and spices, baked on a griddle, and can be served hot or cold.",
+      "zh": "威爾斯蛋糕（Welsh cake）是一種傳統的甜味點心，由麵粉、乾果和香料製成，在烤盤上烤製，可熱食或冷食。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "An English muffin",
+          "zh": "英式瑪芬"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A Welsh cake",
+          "zh": "威爾斯蛋糕"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A Scottish bun",
+          "zh": "蘇格蘭小圓麵包"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "An Irish pie",
+          "zh": "愛爾蘭派"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where does the UK Parliament sit?",
+      "zh": "英國國會設在哪裡？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Parliament of the United Kingdom sits at the Palace of Westminster in London.",
+      "zh": "英國國會坐落於倫敦的西敏宮（Palace of Westminster）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The House of Lords",
+          "zh": "上議院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Downing Street",
+          "zh": "唐寧街"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Westminster",
+          "zh": "西敏"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Stormont",
+          "zh": "斯托蒙特"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How many people emigrated from the UK during Victoria's reign between 1853- 1913?",
+      "zh": "在維多利亞女王統治期間（1853年至1913年），有多少人從英國移民海外？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "During the Victorian era and early 20th century (specifically between 1853 and 1913), around 13 million people left the UK to settle overseas.",
+      "zh": "在維多利亞女王統治時期和20世紀初（具體在1853年至1913年之間），約有1300萬人離開英國前往海外定居。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "500 million",
+          "zh": "5億"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "13 million",
+          "zh": "1300萬"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "2 million",
+          "zh": "200萬"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "100,000",
+          "zh": "10萬"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of these is an accurate estimate of the number of casualties suffered by Britain in the First World War?",
+      "zh": "以下哪一項是英國在第一次世界大戰中傷亡人數的準確估計？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Britain suffered over 2 million casualties (dead and wounded) during the First World War (1914–1918).",
+      "zh": "英國在第一次世界大戰（1914–1918年）期間遭受了超過200萬人的傷亡（包括死亡和受傷）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "10 million",
+          "zh": "1000萬"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "2 million",
+          "zh": "200萬"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "8 million",
+          "zh": "800萬"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "500,000",
+          "zh": "50萬"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Queen Elizabeth II is the head of state for which TWO of the following?",
+      "zh": "伊莉莎白二世女王是以下哪兩個的國家元元首？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Queen Elizabeth II was the head of state of the United Kingdom and also of many individual Commonwealth nations (like Canada, Australia, and New Zealand).",
+      "zh": "女王伊莉莎白二世是英國的國家元首，同時也是許多獨立大英國協國家（如加拿大、澳洲和紐西蘭）的國家元首。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The European Union",
+          "zh": "歐盟"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The United Kingdom",
+          "zh": "英國"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Many Commonwealth countries",
+          "zh": "許多大英國協國家"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Iceland",
+          "zh": "冰島"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the common name for the Yeoman Warders at the Tower of London?",
+      "zh": "倫敦塔的御林兵（Yeoman Warders）的俗稱是什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Yeoman Warders, popularly known as Beefeaters, have guarded the Tower of London since Tudor times.",
+      "zh": "御林兵（Yeoman Warders），俗稱「牛肉饕客」（Beefeaters），自都鐸王朝以來就一直看守著倫敦塔。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Beefeaters",
+          "zh": "牛肉饕客"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Pikestaff",
+          "zh": "槍柄軍"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Queen's Men",
+          "zh": "女王隨從"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Crown Guards",
+          "zh": "王室衛兵"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Diwali is a religious celebration for which TWO religious groups?",
+      "zh": "排燈節（Diwali）是哪兩個宗教群體的宗教慶祝活動？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Diwali (the Festival of Lights) is an important festival celebrated by Hindus, Sikhs, and Jains.",
+      "zh": "排燈節（光明節）是印度教徒、錫克教徒和耆那教徒慶祝的重要節日。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Sikhs",
+          "zh": "錫克教徒"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Jews",
+          "zh": "猶太教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hindus",
+          "zh": "印度教徒"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Muslims",
+          "zh": "穆斯林"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Causing trouble whilst drinking in public can result in which TWO of the following from the police?",
+      "zh": "在公共場合飲酒並引起事端可能會導致警方採取以下哪兩種措施？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Being drunk and disorderly in public is a criminal offence. The police can issue a fine or arrest you.",
+      "zh": "在公共場合醉酒並擾亂秩序是刑事犯罪。警方可以處以罰款或予以逮捕。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "An award",
+          "zh": "獎勵"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Praise",
+          "zh": "表揚"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A fine",
+          "zh": "罰款"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Arrest",
+          "zh": "逮捕"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following statements is correct?",
+      "zh": "以下哪項敘述是正確的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Both the jet engine (invented by Frank Whittle) and radar (developed by Robert Watson-Watt) were designed and developed in Britain during the 1930s.",
+      "zh": "噴射發動機（由法蘭克·惠特爾發明）和雷達（由羅伯特·沃森-瓦特開發）都是在1930年代於英國設計並開發出來的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The jet engine and radar were developed in Britain in the 1950s.",
+          "zh": "噴射發動機和雷達是在1950年代於英國開發的。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The jet engine and radar were developed in Britain in the 1930s",
+          "zh": "噴射發動機和雷達是在1930年代於英國開發的。"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What happens at a polling station or polling place?",
+      "zh": "在投票站（polling station 或 polling place）會進行什麼活動？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Polling stations (or polling places in Scotland) are where citizens go to cast their votes in elections and referendums.",
+      "zh": "投票站（在蘇格蘭稱為 polling places）是公民在選舉和公投中投票的地方。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "People take their driving test",
+          "zh": "人們參加駕駛考試"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The census is collected",
+          "zh": "收集人口普查數據"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Taxes are collected",
+          "zh": "徵收稅款"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "People vote in elections",
+          "zh": "人們在選舉中投票"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Since which year has the UK had a fully democratic voting system.",
+      "zh": "自哪一年起，英國擁有了完全民主的投票制度？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The UK has had a fully democratic voting system since 1928, when the Equal Franchise Act gave women the vote on the same terms as men (at age 21).",
+      "zh": "英國自1928年起實行完全民主的投票制度，當時的《平等特許權法》賦予女性與男性相同的投票權（21歲）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1969",
+          "zh": "1969"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1918",
+          "zh": "1918"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1928",
+          "zh": "1928"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1889",
+          "zh": "1889"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which British novelist created the fictional detective, Sherlock Holmes?",
+      "zh": "哪位英國小說家創造了虛構的偵探夏洛克·福爾摩斯？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Sherlock Holmes was created by Sir Arthur Conan Doyle (1859–1930), a Scottish writer and physician.",
+      "zh": "福爾摩斯是由蘇格蘭作家兼醫生亞瑟·柯南·道爾爵士（1859–1930年）所創造的虛構偵探。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Sir Arthur Conan Doyle",
+          "zh": "亞瑟·柯南·道爾爵士"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Robert Louis Stevenson",
+          "zh": "羅伯特·路易斯·史蒂文森"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Evelyn Waugh",
+          "zh": "伊夫林·沃"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Graham Greene",
+          "zh": "葛拉漢·葛林"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "To apply to become a permanent resident or citizen of the UK, you will need to be able to do which TWO of the following?",
+      "zh": "申請成為英國永久居民或公民，您需要能夠做到以下哪兩項？"
+    },
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "To apply for citizenship or permanent residence, you need to speak and read English (or Welsh or Scottish Gaelic) and pass the Life in the UK test.",
+      "zh": "要申請公民身份或永久居留權，您需要會說和閱讀英語（或威爾斯語、蘇格蘭蓋爾語），並通過「英國生活」考試。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Speak more than one language",
+          "zh": "會說多於一種語言"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Speak and read Welsh",
+          "zh": "會說和閱讀威爾斯語"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Speak and read English",
+          "zh": "會說和閱讀英語"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Have a good understanding of life in the UK",
+          "zh": "對英國生活有良好的了解"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is New Year's Eve called in Scotland?",
+      "zh": "在蘇格蘭，除夕夜（New Year's Eve）被稱為什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "In Scotland, New Year's Eve is called Hogmanay, which is celebrated with various traditions like 'first-footing'.",
+      "zh": "在蘇格蘭，除夕夜被稱為「霍格曼內」（Hogmanay），人們會透過「第一隻腳」（first-footing）等各種傳統活動來慶祝。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Hagmanay",
+          "zh": "Hagmanay"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hogmanay",
+          "zh": "Hogmanay"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Hugmanay",
+          "zh": "Hugmanay"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hopmanay",
+          "zh": "Hopmanay"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The Battle of Boyne is celebrated with a bank holiday in which country?",
+      "zh": "博因河戰役（The Battle of Boyne）在哪個國家是以公眾假期來慶祝的？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Battle of the Boyne (fought in 1690) is commemorated as a bank holiday in Northern Ireland on 12th July.",
+      "zh": "博因河戰役（1690年爆發）在北愛爾蘭被列為公眾假期，於每年的7月12日進行紀念。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where did the Boer War take place?",
+      "zh": "波耳戰爭（Boer War）發生在哪裡？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Boer Wars (1880–1881 and 1899–1902) were fought in South Africa between the British Empire and the two Boer republics.",
+      "zh": "波耳戰爭（1880-1881年和1899-1902年）是在南非由大英帝國與兩個波耳共和國之間進行的戰爭。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Turkey",
+          "zh": "土耳其"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "South Africa",
+          "zh": "南非"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The Chancellor of the Exchequer is responsible for which area of government policy?",
+      "zh": "財政大臣（Chancellor of the Exchequer）負責哪一個政府政策領域？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Chancellor of the Exchequer is the government's chief finance minister, responsible for the economy and setting the budget.",
+      "zh": "財政大臣（Chancellor of the Exchequer）是政府的首席財政部長，負責經濟和制定預算。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Health",
+          "zh": "衛生"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Immigration",
+          "zh": "移民"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Economy",
+          "zh": "經濟"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Education",
+          "zh": "教育"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following statements is correct?",
+      "zh": "以下哪項敘述是正確的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Before the American War of Independence, the British colonists in North America were generally well-educated and interested in the ideas of liberty, objecting to taxation without representation.",
+      "zh": "在美國獨立戰爭之前，北美洲的英國殖民者通常受過良好教育且對自由的思想感興趣，反對「無代表不納稅」。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Colonists in North America were well-educated and interested in ideas of liberty.",
+          "zh": "北美的殖民者受過良好教育，並對自由的思想感興趣。"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Colonists in North America were poorly-educated and uninterested in politics.",
+          "zh": "北美的殖民者受教育程度低，對政治不感興趣。"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who did Henry VIII marry after the execution of Anne Boleyn?",
+      "zh": "亨利八世在處決安妮·博林（Anne Boleyn）後娶了誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "After the execution of his second wife Anne Boleyn, Henry VIII married Jane Seymour, who gave birth to his son Edward VI.",
+      "zh": "在處決了他的第二任妻子安妮·博林之後，亨利八世迎娶了珍·西摩，後者為他誕下了兒子愛德華六世。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Catherine Howard",
+          "zh": "凱瑟琳·霍華德"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Jane Seymour",
+          "zh": "珍·西摩"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Anne of Cleves",
+          "zh": "克里維斯的安妮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Catherine Parr",
+          "zh": "凱瑟琳·帕爾"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What sport is played in the UEFA Champions League?",
+      "zh": "歐洲冠軍聯賽（UEFA Champions League）進行的是哪項運動？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The UEFA Champions League is an annual club football competition organized by the Union of European Football Associations.",
+      "zh": "歐洲冠軍聯賽（UEFA Champions League）是由歐洲足球總會舉辦的年度俱樂部足球比賽。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Cricket",
+          "zh": "板球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Rugby",
+          "zh": "橄欖球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Tennis",
+          "zh": "網球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Football",
+          "zh": "足球"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who wrote musicals such as Cats, The Phantom of the Opera, and Evita?",
+      "zh": "誰創作了如《貓》（Cats）、《歌劇魅影》（The Phantom of the Opera）和《艾薇塔》（Evita）等音樂劇？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Andrew Lloyd Webber is a highly successful British composer who wrote famous musicals like Cats, Evita, and The Phantom of the Opera.",
+      "zh": "安德魯·洛伊·韋伯（Andrew Lloyd Webber）是位非常成功的英國作曲家，曾創作了《貓》、《艾薇塔》和《歌劇魅影》等著名音樂劇。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Gilbert and Sullivan",
+          "zh": "吉爾伯特與沙利文"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Edward Elgar",
+          "zh": "愛德華·埃爾加爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Andrew Lloyd Webber",
+          "zh": "安德魯·洛伊·韋伯"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Julian Lloyd Webber",
+          "zh": "朱利安·洛伊·韋伯"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Ian McEwan, Hilary Mantel and Julian Barnes have all won which literary prize?",
+      "zh": "伊恩·麥克伊旺（Ian McEwan）、希拉蕊·曼特爾（Hilary Mantel）和朱利安·巴恩斯（Julian Barnes）都曾獲得過哪一個文學獎項？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Ian McEwan, Hilary Mantel, and Julian Barnes are prominent contemporary British novelists who have all won the prestigious Man Booker Prize (now Booker Prize) for Fiction.",
+      "zh": "伊恩·麥克伊旺、希拉蕊·曼特爾和朱利安·巴恩斯都是著名的英國當代小說家，均曾榮獲享譽盛名的布克獎（Man Booker Prize）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Nobel Prize in Literature",
+          "zh": "諾貝爾文學獎"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Man Booker Prize",
+          "zh": "布克獎"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Mercury Prize",
+          "zh": "水星音樂獎"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Turner Prize",
+          "zh": "特納獎"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In Crown Court, who decides the verdict of \"guilty\" or \"not guilty\"?",
+      "zh": "在刑事法庭（Crown Court）中，誰來決定「有罪」或「無罪」的裁決？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "In a Crown Court, a jury of 12 randomly chosen citizens decides the verdict of 'guilty' or 'not guilty'. The judge presiding over the court decides the sentence if the defendant is found guilty.",
+      "zh": "在刑事法庭（Crown Court）中，由12名隨機選出的公民組成的陪審團來決定「有罪」或「無罪」的裁決。如果被告被判有罪，則由主持法庭的法官決定判決刑罰。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The judge",
+          "zh": "法官"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The jury",
+          "zh": "陪審團"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The defendant",
+          "zh": "被告"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The barrister",
+          "zh": "律師"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When did Julius Caesar lead the Roman invasion of Britain?",
+      "zh": "尤利烏斯·凱撒何時率領羅馬人入侵不列顛？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Julius Caesar led Roman expeditions to Britain in 55 BC and 54 BC. The actual Roman conquest of Britain began later, in AD 43, under Emperor Claudius.",
+      "zh": "尤利烏斯·凱撒於公元前55年和公元前54年率領羅馬軍隊遠征不列顛。羅馬對不列顛的實際征服則始於後來的公元43年，由皇帝克勞狄斯率領。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "65 BC",
+          "zh": "公元前65年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "AD 55",
+          "zh": "公元55年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "AD 75",
+          "zh": "公元75年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "55 BC",
+          "zh": "公元前55年"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which Anglo-Saxon poem tells of its hero's battles against monsters?",
+      "zh": "哪一部盎格魯-撒克遜詩歌講述了其英雄與怪物戰鬥的故事？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Beowulf is an Old English epic poem, consisting of 3,182 alliterative lines, telling the story of its hero Beowulf who battles the monster Grendel, Grendel's mother, and a dragon.",
+      "zh": "《貝奧武夫》（Beowulf）是一部古英語史詩，由3,182行頭韻詩句組成，講述了英雄貝奧武夫與怪物格蘭戴爾、格蘭戴爾的母親以及一條巨龍戰鬥的故事。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Deor",
+          "zh": "迪奧爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Waldere",
+          "zh": "瓦爾德雷"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Fight at Finnsburh",
+          "zh": "芬斯堡之戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Beowulf",
+          "zh": "貝奧武夫"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who became queen after the death of Edward VI?",
+      "zh": "愛德華六世死後誰繼位為女王？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "After Edward VI died in 1553, his half-sister Mary (Mary I, or 'Bloody Mary'), the daughter of Henry VIII and Catherine of Aragon, became queen.",
+      "zh": "愛德華六世於1553年去世後，他的同父異母姐姐瑪麗（瑪麗一世，或稱「血腥瑪麗」，亨利八世與阿拉貢的凱瑟琳之女）繼位為女王。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Mary, Queen of Scots",
+          "zh": "蘇格蘭女王瑪麗"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "His cousin Mary",
+          "zh": "他的表姐瑪麗"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "His wife Mary",
+          "zh": "他的妻子瑪麗"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "His half-sister Mary",
+          "zh": "他的同父異母姐姐瑪麗"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of these books did Graham Greene not write?",
+      "zh": "葛拉漢·葛林（Graham Greene）沒有寫過以下哪本書？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Graham Greene wrote 'The Heart of the Matter', 'The Honorary Consul', and 'Brighton Rock'. 'Moby-Dick' was written by the American novelist Herman Melville.",
+      "zh": "葛拉漢·葛林創作了《本質安全》（The Heart of the Matter）、《名譽領事》（The Honorary Consul）和《布萊頓硬糖》（Brighton Rock）。《白鯨記》（Moby-Dick）是由美國小說家赫爾曼·梅爾維爾創作的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Moby Dick",
+          "zh": "白鯨記"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Heart of the Matter",
+          "zh": "本質安全"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Honorary Consul",
+          "zh": "名譽領事"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Brighton Rock",
+          "zh": "布萊頓硬糖"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What are MEPs?",
+      "zh": "MEPs 是什麼的縮寫？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "MEPs stands for Members of the European Parliament, who are elected to represent the citizens of European Union member states.",
+      "zh": "MEPs 代表歐洲議會議員（Members of the European Parliament），他們經選舉產生，代表歐洲聯盟成員國的公民。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Modern European parliamentarians",
+          "zh": "現代歐洲議會議員"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Modern English parliamentarians",
+          "zh": "現代英格蘭議會議員"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Members of the European Parliament",
+          "zh": "歐洲議會議員"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Members of the English Parliament",
+          "zh": "英格蘭議會議員"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "A poll card includes which TWO pieces of information?",
+      "zh": "投票卡（poll card）包含以下哪兩項資訊？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "A poll card is sent to registered voters before an election. It includes details such as your voter number, the election date, and the address of your polling station.",
+      "zh": "投票卡在選舉前寄給已登記的選民。它包含您的選民編號、選舉日期以及您的投票站地址等詳細資訊。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The date of the election",
+          "zh": "選舉日期"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Where the polling station or polling place is located",
+          "zh": "投票站的位置"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "How much tax you should pay",
+          "zh": "您應該繳納多少稅款"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Who you should vote for",
+          "zh": "您應該投票給誰"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which annual flower show in London exhibits garden designs from around the world?",
+      "zh": "倫敦哪一個年度花展展示了來自世界各地的園藝設計？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Chelsea Flower Show is the world's most famous flower and landscape garden show, held annually in Chelsea, London.",
+      "zh": "切爾西花展（Chelsea Flower Show）是世界上最著名的花卉及景觀園藝展，每年在倫敦切爾西舉行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Kensington",
+          "zh": "肯辛頓"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "South Bank",
+          "zh": "南岸"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Chelsea",
+          "zh": "切爾西"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Covent Garden",
+          "zh": "柯芬園"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The War of the Roses was fought by the supporters of which TWO families in order to decide who should be King of England?",
+      "zh": "玫瑰戰爭（War of the Roses）是由哪兩個家族的支持者進行的，以決定誰應該成為英格蘭國王？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Wars of the Roses (1455–1487) were a series of civil wars fought for the English throne between supporters of the House of Lancaster (red rose) and the House of York (white rose).",
+      "zh": "玫瑰戰爭（1455-1487年）是蘭開斯特家族（紅玫瑰）與約克家族（白玫瑰）的支持者之間為了爭奪英格蘭王位而進行的一系列內戰。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The House of Windsor",
+          "zh": "溫莎王朝"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The House of York",
+          "zh": "約克家族"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The House of Lancaster",
+          "zh": "蘭開斯特家族"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The House of Tudor",
+          "zh": "都鐸王朝"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How are the local authorities funded?",
+      "zh": "地方當局（local authorities）的資金來源為何？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Local authorities (councils) in the UK receive funding from central government grants, business rates, and local council tax paid by residents.",
+      "zh": "英國的地方當局（議會）的資金來源包括中央政府撥款、商業稅以及居民繳納的地方市政稅（council tax）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Local authorities are unfunded",
+          "zh": "地方當局沒有資金來源"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "By taxation only",
+          "zh": "僅靠稅收"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "By central government funding and by taxation",
+          "zh": "依靠中央政府撥款和稅收"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "By funding from central government only",
+          "zh": "僅靠中央政府撥款"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Around which structure in London is the Remembrance Day service usually held?",
+      "zh": "倫敦的國殤紀念日（Remembrance Day）儀式通常圍繞哪座建築物舉行？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The National Service of Remembrance is held at the Cenotaph in Whitehall, London, on Remembrance Sunday (the Sunday closest to 11th November).",
+      "zh": "國家紀念儀式於紀念星期日（最接近11月11日的星期日）在倫敦白廳的和平紀念碑（Cenotaph）舉行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The London Eye",
+          "zh": "倫敦眼"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Nelson's Column in Trafalgar Square",
+          "zh": "特拉法加廣場的納爾遜紀念柱"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Cenotaph in Whitehall",
+          "zh": "白廳的和平紀念碑"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The statue of Eros in Piccadilly Circus",
+          "zh": "皮卡迪利圓環的愛神雕像"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What event is commemorated on 5 November every year?",
+      "zh": "每年11月5日紀念的是什麼事件？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "On 5th November, Bonfire Night (or Guy Fawkes Night) commemorates the failure of the Gunpowder Plot in 1605, a conspiracy to blow up the Houses of Parliament.",
+      "zh": "11月5日的營火之夜（或稱蓋伊·福克斯之夜）是紀念1605年「火藥陰謀」的失敗，該陰謀企圖炸毀國會大廈。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Queen's birthday",
+          "zh": "女王的生日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "England's World Cup victory of 1966.",
+          "zh": "英格蘭1966年的世界盃勝利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A plot to blow up the Houses of Parliament",
+          "zh": "炸毀國會大廈的陰謀"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The end of the First World War",
+          "zh": "第一次世界大戰的結束"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How old was Edward VI when he died ?",
+      "zh": "愛德華六世去世時幾歲？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Edward VI, the son of Henry VIII and Jane Seymour, died in 1553 at the young age of 15 after reigning for only six years.",
+      "zh": "愛德華六世（亨利八世與珍·西摩之子）於1553年去世，年僅15歲，僅統治了六年。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "15",
+          "zh": "15"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "18",
+          "zh": "18"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "35",
+          "zh": "35"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "56",
+          "zh": "56"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where did people of the Bronze Age bury their dead?",
+      "zh": "青銅時代的人們把死者葬在哪裡？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "People of the Bronze Age (around 4,000 years ago) buried their dead in round barrows, which were circular burial mounds.",
+      "zh": "青銅時代（約4,000年前）的人們將死者葬在圓形土塚（round barrows）中，這是一種圓形的陵墓。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Earth barrows",
+          "zh": "泥土塚"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Round barrows",
+          "zh": "圓形土塚"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Burial mounds",
+          "zh": "墓塚"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Round burrows",
+          "zh": "圓形地穴"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Sake Dean Mahomet opened which establishment in George Street, London in 1810?",
+      "zh": "謝赫·迪恩·馬霍梅特（Sake Dean Mahomet）於1810年在倫敦喬治街開設了哪家店？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In 1810, Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London, which was the first curry house in Britain.",
+      "zh": "1810年，謝赫·迪恩·馬霍梅特在倫敦喬治街開設了「印度斯坦咖啡館」（Hindoostane Coffee House），這是英國第一家咖哩屋。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Mahomet Coffee House",
+          "zh": "馬霍梅特咖啡館"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Pakistan Curry House",
+          "zh": "巴基斯坦咖哩屋"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Mahomet Shampoo Parlour",
+          "zh": "馬霍梅特洗頭房"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hindoostane Coffee House",
+          "zh": "印度斯坦咖啡館"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "MPs have a duty to serve and represent which of the following groups?",
+      "zh": "國會議員（MPs）有義務服務並代表以下哪一個群體？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Members of Parliament (MPs) represent all the people in their local area (constituency), regardless of whether they voted for them or not.",
+      "zh": "國會議員（MPs）代表其所在選區（constituency）的所有人，無論這些人是否投票給他們。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Everyone in their constituency who voted for them",
+          "zh": "選區內所有投票給他們的人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The House of Lords",
+          "zh": "上議院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Their fellow MPs",
+          "zh": "其他國會議員"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Everyone in their constituency",
+          "zh": "選區內的所有人"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is one of the Queen's important ceremonial roles?",
+      "zh": "以下哪項是女王重要的禮儀職責之一？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "One of the Monarch's key ceremonial duties is to receive foreign ambassadors and high commissioners, as the formal head of state.",
+      "zh": "君主作為正式的國家元首，其關鍵的禮儀職責之一是接見外國大使和高級專員。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To chair debates in Parliament",
+          "zh": "主持國會辯論"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To receive foreign ambassadors and high commissioners",
+          "zh": "接見外國大使和高級專員"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "To write laws",
+          "zh": "撰寫法律"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To negotiate trade agreements with other countries",
+          "zh": "與其他國家談判貿易協定"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In 1649, England was declared a republic. What was it called?",
+      "zh": "1649年，英格蘭被宣布為共和國。它被稱作什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Following the execution of King Charles I in 1649, England was declared a republic, known as the Commonwealth.",
+      "zh": "1649年國王查理一世被處決後，英格蘭被宣布為共和國，稱為「聯邦」（the Commonwealth）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Cromwell's Republic",
+          "zh": "克倫威爾共和國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The People's Republic",
+          "zh": "人民共和國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Commonwealth",
+          "zh": "聯邦"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Great Britain",
+          "zh": "大不列顛"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How often is Prime Minister's Questions held?",
+      "zh": "首相問答時間（Prime Minister's Questions）多久舉行一次？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Prime Minister's Questions (PMQs) is held once every week for 30 minutes on Wednesdays while Parliament is in session.",
+      "zh": "首相問答時間（PMQs）在國會會期內，每週三舉行一次，為時30分鐘。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Every week while Parliament is in session",
+          "zh": "國會會期內每週一次"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Every week",
+          "zh": "每週一次"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every day",
+          "zh": "每天一次"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every day while Parliament is in session",
+          "zh": "國會會期內每天一次"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which king annexed Wales to the Crown of England with the Statute of Rhuddlan?",
+      "zh": "哪位國王通過《魯德蘭法令》（Statute of Rhuddlan）將威爾斯併入英格蘭王室？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In 1284, King Edward I annexed Wales to the Crown of England through the Statute of Rhuddlan.",
+      "zh": "1284年，國王愛德華一世通過《魯德蘭法令》（Statute of Rhuddlan）將威爾斯併入英格蘭王室版圖。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Charles I",
+          "zh": "查理一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry VIII",
+          "zh": "亨利八世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Harold",
+          "zh": "哈羅德"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Edward I",
+          "zh": "愛德華一世"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What were The Canterbury Tales?",
+      "zh": "《坎特伯雷故事集》（The Canterbury Tales）是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Canterbury Tales is a collection of 24 stories written in Middle English by Geoffrey Chaucer, mostly written in verse (poems).",
+      "zh": "《坎特伯雷故事集》（The Canterbury Tales）是傑弗里·喬叟用中古英語撰寫的24個故事的合集，大部分以詩歌形式寫成。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A series of poems",
+          "zh": "一系列的詩歌"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A story about Canterbury Cathedral",
+          "zh": "關於坎特伯雷大教堂的故事"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A book of Christian doctrine",
+          "zh": "一本基督教教義書"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A Royal Charter",
+          "zh": "一份皇家特許狀"
+        },
+        "isCorrect": false
+      }
+    ]
+  }
+]

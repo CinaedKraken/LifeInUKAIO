@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Proceedings in Parliament are broadcast on television and published in official reports known as:",
+    "options": [
+      {
+        "text": "Canvassing",
+        "isCorrect": false
+      },
+      {
+        "text": "Hansard",
+        "isCorrect": true
+      },
+      {
+        "text": "Cabinets",
+        "isCorrect": false
+      },
+      {
+        "text": "Domesday Book",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a rugby competition?",
+    "options": [
+      {
+        "text": "The Scottish Grand National",
+        "isCorrect": false
+      },
+      {
+        "text": "The Wimbledon Championships",
+        "isCorrect": false
+      },
+      {
+        "text": "The Ashes",
+        "isCorrect": false
+      },
+      {
+        "text": "The Six Nations Championship",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who appoints life peers in the House of Lords?",
+    "options": [
+      {
+        "text": "The Speaker",
+        "isCorrect": false
+      },
+      {
+        "text": "The Archbishop of Canterbury",
+        "isCorrect": false
+      },
+      {
+        "text": "The Prime Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "The monarch",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who mapped the coast of Australia?",
+    "options": [
+      {
+        "text": "James Cook",
+        "isCorrect": true
+      },
+      {
+        "text": "Admiral Nelson",
+        "isCorrect": false
+      },
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Sake Dean Mahomet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was the first war to be extensively covered by the media?",
+    "options": [
+      {
+        "text": "The Boer War",
+        "isCorrect": false
+      },
+      {
+        "text": "The First World War",
+        "isCorrect": false
+      },
+      {
+        "text": "The Second World War",
+        "isCorrect": false
+      },
+      {
+        "text": "The Crimean War",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following monuments is located in Wiltshire?",
+    "options": [
+      {
+        "text": "Hadrian's Wall",
+        "isCorrect": false
+      },
+      {
+        "text": "St Paul's Cathedral",
+        "isCorrect": false
+      },
+      {
+        "text": "Nelson's Column",
+        "isCorrect": false
+      },
+      {
+        "text": "Stonehenge",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who was the first Archbishop of Canterbury?",
+    "options": [
+      {
+        "text": "St Patrick",
+        "isCorrect": false
+      },
+      {
+        "text": "St Augustine",
+        "isCorrect": true
+      },
+      {
+        "text": "St Andrew",
+        "isCorrect": false
+      },
+      {
+        "text": "St Columba",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How old do you have to be to go into betting shops or gambling clubs?",
+    "options": [
+      {
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "21",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The system of government in the UK is a parliamentary democracy.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the traditional food of Northern Ireland?",
+    "options": [
+      {
+        "text": "Haggis",
+        "isCorrect": false
+      },
+      {
+        "text": "Pancakes",
+        "isCorrect": false
+      },
+      {
+        "text": "Paella",
+        "isCorrect": false
+      },
+      {
+        "text": "Ulster Fry",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who was elected as British Prime Minister in 1945?",
+    "options": [
+      {
+        "text": "Clement Attlee",
+        "isCorrect": true
+      },
+      {
+        "text": "Winston Churchill",
+        "isCorrect": false
+      },
+      {
+        "text": "Harold Wilson",
+        "isCorrect": false
+      },
+      {
+        "text": "Harold Macmillan",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How many times has the UK hosted the Olympic games?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Why were canals built during the Industrial Revolution?",
+    "options": [
+      {
+        "text": "To link the factories to towns and cities and to the ports",
+        "isCorrect": true
+      },
+      {
+        "text": "To make space for the large fleet of British ships",
+        "isCorrect": false
+      },
+      {
+        "text": "To increase the number of water mills in the UK",
+        "isCorrect": false
+      },
+      {
+        "text": "To increase the amount of water in towns and cities",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Are civil servants appointed by the government?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": false
+      },
+      {
+        "text": "No",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following countries helped Britain to develop the Concorde?",
+    "options": [
+      {
+        "text": "Germany",
+        "isCorrect": false
+      },
+      {
+        "text": "Norway",
+        "isCorrect": false
+      },
+      {
+        "text": "Italy",
+        "isCorrect": false
+      },
+      {
+        "text": "France",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which invention led to the development of Britain during the Industrial Revolution?",
+    "options": [
+      {
+        "text": "Magnetic Resonance Imaging",
+        "isCorrect": false
+      },
+      {
+        "text": "Steam power",
+        "isCorrect": true
+      },
+      {
+        "text": "Radar",
+        "isCorrect": false
+      },
+      {
+        "text": "Hovercraft",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two languages were used across England during the Middle Ages?",
+    "options": [
+      {
+        "text": "Welsh",
+        "isCorrect": false
+      },
+      {
+        "text": "Gaelic",
+        "isCorrect": false
+      },
+      {
+        "text": "Norman French",
+        "isCorrect": true
+      },
+      {
+        "text": "Anglo-Saxon",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In 1776, which British colonies declared their independence because they demanded that there should be 'no taxation without representation'.",
+    "options": [
+      {
+        "text": "North African",
+        "isCorrect": false
+      },
+      {
+        "text": "Asian",
+        "isCorrect": false
+      },
+      {
+        "text": "North American",
+        "isCorrect": true
+      },
+      {
+        "text": "South African",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When was England ruled by a republic and not by a monarch?",
+    "options": [
+      {
+        "text": "When Elizabeth I died without any successor",
+        "isCorrect": false
+      },
+      {
+        "text": "When Charles I was executed",
+        "isCorrect": true
+      },
+      {
+        "text": "When the Carta Magna restricted the king's power",
+        "isCorrect": false
+      },
+      {
+        "text": "When kind Harold died after the Battle of Hastings",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which film produced in the UK was one of the most commercially successful films of all time and one of the highest-grossing film franchises?",
+    "options": [
+      {
+        "text": "Harry Potter",
+        "isCorrect": true
+      },
+      {
+        "text": "Spider-man",
+        "isCorrect": false
+      },
+      {
+        "text": "The Lord of the Rings",
+        "isCorrect": false
+      },
+      {
+        "text": "Indiana Jones",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did the first farmers come to Britain?",
+    "options": [
+      {
+        "text": "10,000 years ago",
+        "isCorrect": false
+      },
+      {
+        "text": "6,000 years ago",
+        "isCorrect": true
+      },
+      {
+        "text": "15,000 years ago",
+        "isCorrect": false
+      },
+      {
+        "text": "2,000 years ago",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did the First World War end?",
+    "options": [
+      {
+        "text": "At 12.00 pm on 11th November 1914",
+        "isCorrect": false
+      },
+      {
+        "text": "At 12.00 pm on 11th November 1918",
+        "isCorrect": false
+      },
+      {
+        "text": "At 11.00 am on 11th November 1914",
+        "isCorrect": false
+      },
+      {
+        "text": "At 11.00 am on 11th November 1918",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Can court orders be obtained to protect a person from being forced into a marriage?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": true
+      },
+      {
+        "text": "No",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What medal did Mary Peters win in the 1972 Olympics?",
+    "options": [
+      {
+        "text": "She did not win any medals",
+        "isCorrect": false
+      },
+      {
+        "text": "Silver",
+        "isCorrect": false
+      },
+      {
+        "text": "Gold",
+        "isCorrect": true
+      },
+      {
+        "text": "Bronze",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In England, Wales and Northern Ireland Youth Court cases are normally heard by (choose TWO answers)?",
+    "options": [
+      {
+        "text": "Up to 3 specially trained magistrates",
+        "isCorrect": true
+      },
+      {
+        "text": "A District Judge",
+        "isCorrect": true
+      },
+      {
+        "text": "A sheriff",
+        "isCorrect": false
+      },
+      {
+        "text": "Up to 5 specially trained magistrates",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was invented by Alan Turing in the 1930s?",
+    "options": [
+      {
+        "text": "The jet engine",
+        "isCorrect": false
+      },
+      {
+        "text": "The television",
+        "isCorrect": false
+      },
+      {
+        "text": "The Turing machine",
+        "isCorrect": true
+      },
+      {
+        "text": "The ball pen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following tells us about how people lived in England just after the Norman Conquest?",
+    "options": [
+      {
+        "text": "The Domesday Book",
+        "isCorrect": true
+      },
+      {
+        "text": "The Book of Common Prayer",
+        "isCorrect": false
+      },
+      {
+        "text": "The Canterbury Tales",
+        "isCorrect": false
+      },
+      {
+        "text": "The Carta Magna",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who led a team of scientists to 'split the atom' for the first time?",
+    "options": [
+      {
+        "text": "Alexander Fleming",
+        "isCorrect": false
+      },
+      {
+        "text": "Alan Turing",
+        "isCorrect": false
+      },
+      {
+        "text": "Ernest Rutherford",
+        "isCorrect": true
+      },
+      {
+        "text": "Sir Peter Mansfield",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What song is sung by people in the UK and other countries when they are celebrating the New Year?",
+    "options": [
+      {
+        "text": "Auld Lang Syne",
+        "isCorrect": true
+      },
+      {
+        "text": "The British Anthem",
+        "isCorrect": false
+      },
+      {
+        "text": "Jingle Bells",
+        "isCorrect": false
+      },
+      {
+        "text": "White Christmas",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who fought in the English Civil war of 1642?",
+    "options": [
+      {
+        "text": "The House of York and the House of Lancaster",
+        "isCorrect": false
+      },
+      {
+        "text": "The Anglo-Saxons and the Vikings",
+        "isCorrect": false
+      },
+      {
+        "text": "The Cavaliers and the Roundheads",
+        "isCorrect": true
+      },
+      {
+        "text": "The House of Fraser and the House of Stuart",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two of these forts were part of Hadrian's wall?",
+    "options": [
+      {
+        "text": "Vindolanda",
+        "isCorrect": true
+      },
+      {
+        "text": "Maiden Castle",
+        "isCorrect": false
+      },
+      {
+        "text": "Housesteads",
+        "isCorrect": true
+      },
+      {
+        "text": "Grimsby",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was the religion of the Puritans?",
+    "options": [
+      {
+        "text": "Hindu",
+        "isCorrect": false
+      },
+      {
+        "text": "Catholic",
+        "isCorrect": false
+      },
+      {
+        "text": "Sikh",
+        "isCorrect": false
+      },
+      {
+        "text": "Protestant",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the name of Irish people who favoured complete independence from the UK in the 19th century?",
+    "options": [
+      {
+        "text": "Fenians",
+        "isCorrect": true
+      },
+      {
+        "text": "Quakers",
+        "isCorrect": false
+      },
+      {
+        "text": "Highlanders",
+        "isCorrect": false
+      },
+      {
+        "text": "Suffragettes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two British pop music groups were famous during the Swinging Sixties?",
+    "options": [
+      {
+        "text": "The Rolling Stones",
+        "isCorrect": true
+      },
+      {
+        "text": "The Beatles",
+        "isCorrect": true
+      },
+      {
+        "text": "ABBA",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiohead",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the minimum age required to drive a motorcycle?",
+    "options": [
+      {
+        "text": "16 years old",
+        "isCorrect": false
+      },
+      {
+        "text": "17 years old",
+        "isCorrect": true
+      },
+      {
+        "text": "18 years old",
+        "isCorrect": false
+      },
+      {
+        "text": "21 years old",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The members of the House of Lords, known as peers, are elected by the people.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When did the Emancipation Act abolish slavery throughout the British Empire?",
+    "options": [
+      {
+        "text": "1835",
+        "isCorrect": false
+      },
+      {
+        "text": "1823",
+        "isCorrect": false
+      },
+      {
+        "text": "1807",
+        "isCorrect": false
+      },
+      {
+        "text": "1833",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who is responsible for crime, policing and immigration?",
+    "options": [
+      {
+        "text": "The Chancellor of the Exchequer",
+        "isCorrect": false
+      },
+      {
+        "text": "The Foreign Secretary",
+        "isCorrect": false
+      },
+      {
+        "text": "The Speaker",
+        "isCorrect": false
+      },
+      {
+        "text": "The Home Secretary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What kind of genre was the film Wallace and Gromit created by Nick Park?",
+    "options": [
+      {
+        "text": "A soap opera",
+        "isCorrect": false
+      },
+      {
+        "text": "A silent movie",
+        "isCorrect": false
+      },
+      {
+        "text": "An animated film",
+        "isCorrect": true
+      },
+      {
+        "text": "An action film",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Anyone who is violent towards their partner -- whether they are a man or a woman, married or living together -- can be prosecuted.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  }
+]

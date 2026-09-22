@@ -1,0 +1,883 @@
+[
+  {
+    "question": "Where does 'the Fringe' festival take place?",
+    "options": [
+      {
+        "text": "Fraserburgh",
+        "isCorrect": false
+      },
+      {
+        "text": "Edinburgh",
+        "isCorrect": true
+      },
+      {
+        "text": "Inverness",
+        "isCorrect": false
+      },
+      {
+        "text": "St Andrews",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How many members does the Welsh Assembly have?",
+    "options": [
+      {
+        "text": "150",
+        "isCorrect": false
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The names or photographs of  young people found guilty of a crime can be published in newspapers or used by the media.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What was Edward Elgar famous for?",
+    "options": [
+      {
+        "text": "He was a musician",
+        "isCorrect": true
+      },
+      {
+        "text": "He was a tennis player",
+        "isCorrect": false
+      },
+      {
+        "text": "He was a comedian",
+        "isCorrect": false
+      },
+      {
+        "text": "He was an actor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is not a British banknote?",
+    "options": [
+      {
+        "text": "£50",
+        "isCorrect": false
+      },
+      {
+        "text": "£25",
+        "isCorrect": true
+      },
+      {
+        "text": "£20",
+        "isCorrect": false
+      },
+      {
+        "text": "£5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where does the Scottish Grand National take place?",
+    "options": [
+      {
+        "text": "Fife",
+        "isCorrect": false
+      },
+      {
+        "text": "Edinburgh",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayr",
+        "isCorrect": true
+      },
+      {
+        "text": "St Andrews",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did the UK join the EU?",
+    "options": [
+      {
+        "text": "In 1957",
+        "isCorrect": false
+      },
+      {
+        "text": "In 1973",
+        "isCorrect": true
+      },
+      {
+        "text": "In 1975",
+        "isCorrect": false
+      },
+      {
+        "text": "In 1964",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "During the reign of Elizabeth I, a large fleet of ships was sent to England to conquer the country and to restore Catholicism, where did this fleet come from?",
+    "options": [
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "Portugal",
+        "isCorrect": false
+      },
+      {
+        "text": "Spain",
+        "isCorrect": true
+      },
+      {
+        "text": "Italy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What did the Habeas Corpus Act introduce?",
+    "options": [
+      {
+        "text": "That every prisoner has a right to a court hearing",
+        "isCorrect": true
+      },
+      {
+        "text": "A salary for members of Parliament (MPs)",
+        "isCorrect": false
+      },
+      {
+        "text": "Financial help for the unemployed, old-age pensions and free school meals",
+        "isCorrect": false
+      },
+      {
+        "text": "Measures to improve the conditions of workers",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What did Emmeline Pankhurst fight for?",
+    "options": [
+      {
+        "text": "The right to liberty and security",
+        "isCorrect": false
+      },
+      {
+        "text": "The right for women to vote",
+        "isCorrect": true
+      },
+      {
+        "text": "Freedom of expression",
+        "isCorrect": false
+      },
+      {
+        "text": "The right to a fair trial",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is 'the Proms'?",
+    "options": [
+      {
+        "text": "An annual event that gives awards in a range of categories, such as best British group and best British solo artist",
+        "isCorrect": false
+      },
+      {
+        "text": "An annual cultural festival which includes music, dance, art and original performances largely in Welsh",
+        "isCorrect": false
+      },
+      {
+        "text": "An eight-week summer season of daily orchestral classical music concerts",
+        "isCorrect": true
+      },
+      {
+        "text": "Light-hearted plays with music and comedy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was Isaac Newton known for?",
+    "options": [
+      {
+        "text": "The discovery of insulin",
+        "isCorrect": false
+      },
+      {
+        "text": "The discovery of gravity",
+        "isCorrect": true
+      },
+      {
+        "text": "The discovery of penicillin",
+        "isCorrect": false
+      },
+      {
+        "text": "The discovery of the steam power",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did the WWI come to an end?",
+    "options": [
+      {
+        "text": "In 1922",
+        "isCorrect": false
+      },
+      {
+        "text": "In 1918",
+        "isCorrect": true
+      },
+      {
+        "text": "In 1945",
+        "isCorrect": false
+      },
+      {
+        "text": "In 1943",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)?",
+    "options": [
+      {
+        "text": "Boudicca",
+        "isCorrect": false
+      },
+      {
+        "text": "Emperor Hadrian",
+        "isCorrect": true
+      },
+      {
+        "text": "Emperor Claudius",
+        "isCorrect": false
+      },
+      {
+        "text": "Julius Caesar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two universities participate in an annual rowing race that takes place on the River Thames?",
+    "options": [
+      {
+        "text": "The University of Oxford",
+        "isCorrect": true
+      },
+      {
+        "text": "The University of Cambridge",
+        "isCorrect": true
+      },
+      {
+        "text": "The University of Manchester",
+        "isCorrect": false
+      },
+      {
+        "text": "The University of Warwick",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Does Britain have a written constitution?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": false
+      },
+      {
+        "text": "No",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Is St Helena part of the UK?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": false
+      },
+      {
+        "text": "No",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Where is Theatreland?",
+    "options": [
+      {
+        "text": "Docklands",
+        "isCorrect": false
+      },
+      {
+        "text": "London's east end",
+        "isCorrect": false
+      },
+      {
+        "text": "London's west end",
+        "isCorrect": true
+      },
+      {
+        "text": "London's south end",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the UK currency?",
+    "options": [
+      {
+        "text": "Euro",
+        "isCorrect": false
+      },
+      {
+        "text": "Pound Sterling",
+        "isCorrect": true
+      },
+      {
+        "text": "Peso",
+        "isCorrect": false
+      },
+      {
+        "text": "Dollar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What other name is given to Diwali?",
+    "options": [
+      {
+        "text": "The Festival of Lights",
+        "isCorrect": true
+      },
+      {
+        "text": "Ash Wednesday",
+        "isCorrect": false
+      },
+      {
+        "text": "Good Friday",
+        "isCorrect": false
+      },
+      {
+        "text": "Easter Monday",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the Enlightenment?",
+    "options": [
+      {
+        "text": "A period of total peace in England",
+        "isCorrect": false
+      },
+      {
+        "text": "A period when new ideas about politics, philosophy and science were developed",
+        "isCorrect": true
+      },
+      {
+        "text": "A period when England became the largest empire the world had ever seen",
+        "isCorrect": false
+      },
+      {
+        "text": "A period of economic recovery after the Second World War",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following charities helps the environment?",
+    "options": [
+      {
+        "text": "NSPCC",
+        "isCorrect": false
+      },
+      {
+        "text": "Shelter",
+        "isCorrect": false
+      },
+      {
+        "text": "Friends of the Earth",
+        "isCorrect": true
+      },
+      {
+        "text": "Crisis",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following was a crucial aerial battle fought between Germany and Britain during WWII?",
+    "options": [
+      {
+        "text": "The Battle of Britain",
+        "isCorrect": true
+      },
+      {
+        "text": "The Battle of Worcester",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Dunbar",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Marston Moor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was Margaret Thatcher famous for?",
+    "options": [
+      {
+        "text": "She fought for the right to vote for women",
+        "isCorrect": false
+      },
+      {
+        "text": "She was the first woman Prime Minister of the UK",
+        "isCorrect": true
+      },
+      {
+        "text": "She set up the women's Franchise League",
+        "isCorrect": false
+      },
+      {
+        "text": "She was the founder of modern nursing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two languages combined to become one English language?",
+    "options": [
+      {
+        "text": "Latin",
+        "isCorrect": false
+      },
+      {
+        "text": "Anglo-Saxon",
+        "isCorrect": true
+      },
+      {
+        "text": "Proto-Celtic",
+        "isCorrect": false
+      },
+      {
+        "text": "Norman French",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where did the Spanish Armada come from?",
+    "options": [
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "Spain",
+        "isCorrect": true
+      },
+      {
+        "text": "Italy",
+        "isCorrect": false
+      },
+      {
+        "text": "South America",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the War Memorial located in Whitehall?",
+    "options": [
+      {
+        "text": "Dumfries",
+        "isCorrect": false
+      },
+      {
+        "text": "Cenotaph",
+        "isCorrect": true
+      },
+      {
+        "text": "Royal Crescent",
+        "isCorrect": false
+      },
+      {
+        "text": "The White Tower",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The UK government has never suspended the Northern Ireland Assembly.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who is responsible for the opening of the new parliamentary session each year?",
+    "options": [
+      {
+        "text": "The Prime Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "The Speaker",
+        "isCorrect": false
+      },
+      {
+        "text": "The Queen",
+        "isCorrect": true
+      },
+      {
+        "text": "The Home Secretary",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When was the Domesday Book written?",
+    "options": [
+      {
+        "text": "After the Viking invasion",
+        "isCorrect": false
+      },
+      {
+        "text": "After the Norman conquest",
+        "isCorrect": true
+      },
+      {
+        "text": "After the last Roman invasion",
+        "isCorrect": false
+      },
+      {
+        "text": "After the Anglo-Saxon invasion",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Northern Ireland Assembly cannot make decisions on which two of the following issues?",
+    "options": [
+      {
+        "text": "Immigration",
+        "isCorrect": true
+      },
+      {
+        "text": "Education",
+        "isCorrect": false
+      },
+      {
+        "text": "Agriculture",
+        "isCorrect": false
+      },
+      {
+        "text": "Defence",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What should you do to make a complaint about the police (choose two answers)?",
+    "options": [
+      {
+        "text": "Write a complaint letter to the House of Commons",
+        "isCorrect": false
+      },
+      {
+        "text": "Go to the Police station directly",
+        "isCorrect": true
+      },
+      {
+        "text": "Write to the Chief Constable of the police force involved",
+        "isCorrect": true
+      },
+      {
+        "text": "Write to your MP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What flower did William Wordsworth write about?",
+    "options": [
+      {
+        "text": "Rose",
+        "isCorrect": false
+      },
+      {
+        "text": "Daffodil",
+        "isCorrect": true
+      },
+      {
+        "text": "Thistle",
+        "isCorrect": false
+      },
+      {
+        "text": "Shamrock",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When is St Andrew's day celebrated?",
+    "options": [
+      {
+        "text": "17th April",
+        "isCorrect": false
+      },
+      {
+        "text": "31st December",
+        "isCorrect": false
+      },
+      {
+        "text": "1st March",
+        "isCorrect": false
+      },
+      {
+        "text": "30th November",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Can the National Anthem be played if the Queen is not present?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": true
+      },
+      {
+        "text": "No",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When were the first coins in Britain made?",
+    "options": [
+      {
+        "text": "The Stone Age",
+        "isCorrect": false
+      },
+      {
+        "text": "The Bronze Age",
+        "isCorrect": false
+      },
+      {
+        "text": "The Iron Age",
+        "isCorrect": true
+      },
+      {
+        "text": "The Middle Ages",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was Emmeline Pankhurst?",
+    "options": [
+      {
+        "text": "A suffragette",
+        "isCorrect": true
+      },
+      {
+        "text": "A nurse",
+        "isCorrect": false
+      },
+      {
+        "text": "A doctor",
+        "isCorrect": false
+      },
+      {
+        "text": "A scientist",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who did Britain fight against in the Crimean War?",
+    "options": [
+      {
+        "text": "Turkey",
+        "isCorrect": false
+      },
+      {
+        "text": "Russia",
+        "isCorrect": true
+      },
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "Germany",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is the BBC controlled by the government?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": false
+      },
+      {
+        "text": "No",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "How many members does the Northern Ireland Assembly have?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": true
+      },
+      {
+        "text": "108",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was in charge of the British fleet at the Battle of Trafalgar?",
+    "options": [
+      {
+        "text": "Oliver Cromwell",
+        "isCorrect": false
+      },
+      {
+        "text": "The Duke of Wellington",
+        "isCorrect": false
+      },
+      {
+        "text": "Robert the Bruce",
+        "isCorrect": false
+      },
+      {
+        "text": "Admiral Nelson",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+    "options": [
+      {
+        "text": "The names of Iron Age kings",
+        "isCorrect": true
+      },
+      {
+        "text": "The names of Iron Age Gods",
+        "isCorrect": false
+      },
+      {
+        "text": "The names of trees",
+        "isCorrect": false
+      },
+      {
+        "text": "The names of animals",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Towns, cities and rural areas in the UK are governed by government appointed officials.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Where is the Tate Art Gallery located?",
+    "options": [
+      {
+        "text": "Glasgow",
+        "isCorrect": false
+      },
+      {
+        "text": "Cardiff",
+        "isCorrect": false
+      },
+      {
+        "text": "London",
+        "isCorrect": true
+      },
+      {
+        "text": "Belfast",
+        "isCorrect": false
+      }
+    ]
+  }
+]

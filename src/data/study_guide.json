@@ -1,0 +1,3503 @@
+[
+  {
+    "chapterId": 1,
+    "title": {
+      "en": "The values and principles of the UK",
+      "zh": "英國的價值觀和原則"
+    },
+    "points": [
+      {
+        "id": "point-14",
+        "questionId": "1-14",
+        "text": {
+          "en": "Responsibilities of UK citizens and residents include looking after yourself and your family, and looking after the local area and environment.",
+          "zh": "英國公民和居民的責任包括照顧好自己和家人，以及愛護社區環境。"
+        }
+      },
+      {
+        "id": "point-20",
+        "questionId": "1-20",
+        "text": {
+          "en": "UK-born adult citizens and adults who are naturalised UK citizens have the right to vote in general elections.",
+          "zh": "在英國出生的成年公民以及歸化為英國公民的成年人有權在大選中投票。"
+        }
+      },
+      {
+        "id": "point-22",
+        "questionId": "1-22",
+        "text": {
+          "en": "In 1918, women over the age of 30 who met certain property qualifications were given the right to vote.",
+          "zh": "在1918年，超過30歲並符合特定財產資格的女性獲得了投票權。"
+        }
+      },
+      {
+        "id": "point-24",
+        "questionId": "1-24",
+        "text": {
+          "en": "Graham Greene wrote 'The Heart of the Matter', 'The Honorary Consul', and 'Brighton Rock'. 'Moby-Dick' was written by the American novelist Herman Melville.",
+          "zh": "葛拉漢·葛林創作了《本質安全》（The Heart of the Matter）、《名譽領事》（The Honorary Consul）和《布萊頓硬糖》（Brighton Rock）。《白鯨記》（Moby-Dick）是由美國小說家赫爾曼·梅爾維爾創作的。"
+        }
+      },
+      {
+        "id": "point-48",
+        "questionId": "2-24",
+        "text": {
+          "en": "Responsibilities of UK citizens include respecting and obeying the law, and looking after the local area and environment.",
+          "zh": "英國公民的責任包括尊重並遵守法律，以及愛護當地區域和環境。"
+        }
+      },
+      {
+        "id": "point-51",
+        "questionId": "3-3",
+        "text": {
+          "en": "Women were given the right to vote at the same age as men (21) in 1928.",
+          "zh": "1928年。女性在1928年獲得了與男性一樣（21歲）的投票權。"
+        }
+      },
+      {
+        "id": "point-69",
+        "questionId": "3-21",
+        "text": {
+          "en": "The National Citizen Service (NCS) provides personal and social development programs for young people, not military training.",
+          "zh": "國家公民服務（NCS）為年輕人提供個人和社交能力發展項目，而不是軍事訓練。"
+        }
+      },
+      {
+        "id": "point-70",
+        "questionId": "3-22",
+        "text": {
+          "en": "Emmeline Pankhurst was a leader of the British suffragette movement, fighting for women's right to vote.",
+          "zh": "艾米琳·潘克斯特（Emmeline Pankhurst）是英國女性參政運動的領袖，致力於爭取女性的投票權。"
+        }
+      },
+      {
+        "id": "point-72",
+        "questionId": "3-24",
+        "text": {
+          "en": "Looking after yourself and your family, and respecting the rights of others are two fundamental responsibilities of British citizens.",
+          "zh": "照顧自己和家人，以及尊重他人的權利，是英國公民的兩項基本責任。"
+        }
+      },
+      {
+        "id": "point-87",
+        "questionId": "4-15",
+        "text": {
+          "en": "MEPs stands for Members of the European Parliament, who are elected to represent the citizens of European Union member states.",
+          "zh": "MEPs 代表歐洲議會議員（Members of the European Parliament），他們經選舉產生，代表歐洲聯盟成員國的公民。"
+        }
+      },
+      {
+        "id": "point-88",
+        "questionId": "4-16",
+        "text": {
+          "en": "The fundamental principles of British life include democracy, the rule of law, individual liberty, and tolerance of those with different faiths and beliefs.",
+          "zh": "英國生活的基本原則包括民主、法治、個人自由以及對不同宗教和信仰的寬容。"
+        }
+      },
+      {
+        "id": "point-107",
+        "questionId": "5-11",
+        "text": {
+          "en": "UK principles require residents and citizens to respect the rights of others (including their opinions) and to look after themselves and their families.",
+          "zh": "英國的原則要求居民和公民尊重他人的權利 (包括他們的意見)，並照顧好自己和家人。"
+        }
+      },
+      {
+        "id": "point-112",
+        "questionId": "5-16",
+        "text": {
+          "en": "This entry is a fragment of the statement: 'The Divine Right of Kings was the view held by many English monarchs that they were directly appointed by God to rule.'",
+          "zh": "此條目是以下陳述的片段：「君權神授是許多英國君主所持的觀點，即他們是由上帝直接任命來統治的。」"
+        }
+      },
+      {
+        "id": "point-137",
+        "questionId": "6-17",
+        "text": {
+          "en": "When you become a permanent resident of the UK, you agree to respect and accept its values, principles, and traditions.",
+          "zh": "當您成為英國永久居民時，您同意尊重並接受其價值觀、原則和傳統。"
+        }
+      },
+      {
+        "id": "point-149",
+        "questionId": "7-5",
+        "text": {
+          "en": "The fundamental principles of British life include democracy, the rule of law, individual liberty, and mutual respect and tolerance of those with different faiths and beliefs.",
+          "zh": "英國生活的根本原則包括民主、法治、個人自由，以及對不同信仰和信念者的相互尊重與寬容。"
+        }
+      },
+      {
+        "id": "point-173",
+        "questionId": "8-5",
+        "text": {
+          "en": "The Enlightenment was an intellectual and philosophical movement in the 18th century that championed reason, science, and individual rights.",
+          "zh": "啟蒙運動（The Enlightenment）是 18 世紀的一場智力和哲學運動，倡導理性、科學和個人權利。"
+        }
+      },
+      {
+        "id": "point-174",
+        "questionId": "8-6",
+        "text": {
+          "en": "To apply for citizenship or permanent residence, you need to speak and read English (or Welsh or Scottish Gaelic) and pass the Life in the UK test.",
+          "zh": "要申請公民身份或永久居留權，您需要會說和閱讀英語（或威爾斯語、蘇格蘭蓋爾語），並通過「英國生活」考試。"
+        }
+      },
+      {
+        "id": "point-182",
+        "questionId": "8-14",
+        "text": {
+          "en": "In a Crown Court, a jury of 12 randomly chosen citizens decides the verdict of 'guilty' or 'not guilty'. The judge presiding over the court decides the sentence if the defendant is found guilty.",
+          "zh": "在刑事法庭（Crown Court）中，由12名隨機選出的公民組成的陪審團來決定「有罪」或「無罪」的裁決。如果被告被判有罪，則由主持法庭的法官決定判決刑罰。"
+        }
+      },
+      {
+        "id": "point-213",
+        "questionId": "9-21",
+        "text": {
+          "en": "Fundamental freedoms in the UK include the freedom of speech and the right to participate in free and fair elections.",
+          "zh": "英國的基本自由包括言論自由以及參與自由和公正選舉的權利。"
+        }
+      },
+      {
+        "id": "point-216",
+        "questionId": "9-24",
+        "text": {
+          "en": "Emmeline Pankhurst was the primary leader of the suffragette movement, which campaigned for women's right to vote.",
+          "zh": "埃米琳·潘克斯特。她是婦女參政運動的主要領導人。"
+        }
+      },
+      {
+        "id": "point-233",
+        "questionId": "10-17",
+        "text": {
+          "en": "The National Citizen Service (NCS) is an optional programme for 16 and 17-year-olds; it is not compulsory.",
+          "zh": "國家公民服務計畫是自願參加的，並非強制。"
+        }
+      },
+      {
+        "id": "point-268",
+        "questionId": "12-4",
+        "text": {
+          "en": "This statement is false. The Bill of Rights of 1689 limited the monarch's power and confirmed the rights of Parliament, but did not grant universal suffrage.",
+          "zh": "此陳述是錯誤的。1689年的《權利法案》限制了君主的權力並確認了議會的權利，但並未授予普選權。"
+        }
+      },
+      {
+        "id": "point-293",
+        "questionId": "13-5",
+        "text": {
+          "en": "German-born composer George Frideric Handel became a British citizen and wrote 'Music for the Royal Fireworks' and 'Water Music' for the royal family.",
+          "zh": "出生於德國的作曲家喬治·弗里德里希·韓德爾成為英國公民，並為王室創作了《皇家煙火音樂》和《水上音樂》。"
+        }
+      },
+      {
+        "id": "point-336",
+        "questionId": "14-24",
+        "text": {
+          "en": "In 1928, the voting age for women was lowered to 21, giving them the same voting rights as men.",
+          "zh": "1928年，女性的投票年齡降至21歲，使她們獲得了與男性相同的投票權。"
+        }
+      },
+      {
+        "id": "point-384",
+        "questionId": "16-24",
+        "text": {
+          "en": "In May 2010, the Conservatives and Liberal Democrats formed a coalition government after no single party won an outright majority.",
+          "zh": "2010年5月，在沒有單一政黨獲得絕對多數席位後，保守黨 and 自由民主黨組成了聯合政府。"
+        }
+      },
+      {
+        "id": "point-393",
+        "questionId": "17-9",
+        "text": {
+          "en": "The Habeas Corpus Act of 1679 introduced the right of a prisoner to a court hearing to determine the legality of their detention.",
+          "zh": "1679 年的《人身保護法》（Habeas Corpus Act）規定了囚犯有權獲得法庭聆訊，以決定其拘留是否合法。"
+        }
+      },
+      {
+        "id": "point-396",
+        "questionId": "17-12",
+        "text": {
+          "en": "Charles I believed in the Divine Right of Kings, which led him to try to rule without Parliament for 11 years (known as the Personal Rule).",
+          "zh": "查理一世相信君權神授，這使得他試圖在沒有國會的情況下進行統治長達 11 年 (被稱為個人統治時期)。"
+        }
+      },
+      {
+        "id": "point-406",
+        "questionId": "17-22",
+        "text": {
+          "en": "The Bill of Rights of 1689 established the sovereignty of Parliament and limited the powers of the monarch.",
+          "zh": "1689年的《權利法案》確立了議會的主權，並限制了君主的權力。"
+        }
+      },
+      {
+        "id": "point-428",
+        "questionId": "18-20",
+        "text": {
+          "en": "Emmeline Pankhurst was a famous British political activist who led the suffragette movement to help women win the right to vote.",
+          "zh": "艾米琳·潘克斯特（Emmeline Pankhurst）是著名的英國政治活動家，她領導了女性參政運動以幫助女性獲得投票權。"
+        }
+      }
+    ]
+  },
+  {
+    "chapterId": 2,
+    "title": {
+      "en": "What is the UK",
+      "zh": "什麼是英國"
+    },
+    "points": [
+      {
+        "id": "point-4",
+        "questionId": "1-4",
+        "text": {
+          "en": "The first farmers arrived in Britain about 6,000 years ago from south-east Europe, bringing agriculture to the island.",
+          "zh": "大約6,000年前，第一批農民從歐洲東南部來到不列顛，將農業帶到了這個島嶼。"
+        }
+      },
+      {
+        "id": "point-6",
+        "questionId": "1-6",
+        "text": {
+          "en": "There are 15 national parks in Great Britain (10 in England, 3 in Wales, and 2 in Scotland).",
+          "zh": "在大不列顛共有15個國家公園（英格蘭有10個，威爾斯有3個，蘇格蘭有2個）。"
+        }
+      },
+      {
+        "id": "point-11",
+        "questionId": "1-11",
+        "text": {
+          "en": "Following the restoration of Charles II in 1660, the Church of England was restored as the official state church, and Puritans and Roman Catholics were barred from holding power.",
+          "zh": "在1660年查理二世復辟後，英格蘭教會重新恢復為官方教會，清教徒和羅馬天主教徒均被排除在政治權力之外。"
+        }
+      },
+      {
+        "id": "point-19",
+        "questionId": "1-19",
+        "text": {
+          "en": "The highest value note in general circulation in England is £50, though higher value notes exist in Scotland and Northern Ireland. The question is officially marked as False in the life in the UK test context.",
+          "zh": "在英格蘭，一般流通中面值最高的紙幣是£50（儘管蘇格蘭和北愛爾蘭有發行更高面值的紙幣）。在英國生活考試的語境中，此題答案為錯誤。"
+        }
+      },
+      {
+        "id": "point-23",
+        "questionId": "1-23",
+        "text": {
+          "en": "Crathes Castle is a 16th-century castle located near Banchory in Aberdeenshire, Scotland.",
+          "zh": "克雷斯城堡 (Crathes Castle) 是一座位於蘇格蘭亞伯丁郡班科里附近的 16 世紀城堡。"
+        }
+      },
+      {
+        "id": "point-25",
+        "questionId": "2-1",
+        "text": {
+          "en": "In Scotland, New Year's Eve is called Hogmanay.",
+          "zh": "在蘇格蘭，新年前夕被稱為 Hogmanay。"
+        }
+      },
+      {
+        "id": "point-28",
+        "questionId": "2-4",
+        "text": {
+          "en": "St George is the patron saint of England, celebrated on April 23rd.",
+          "zh": "聖喬治是英格蘭的主保聖人，他的紀念日是4月23日。"
+        }
+      },
+      {
+        "id": "point-33",
+        "questionId": "2-9",
+        "text": {
+          "en": "William the Conqueror commissioned the Domesday Book in 1086 to record the land and property in England.",
+          "zh": "征服者威廉在1086年下令編纂《末日審判書》，以記錄英格蘭的土地和財產。"
+        }
+      },
+      {
+        "id": "point-39",
+        "questionId": "2-15",
+        "text": {
+          "en": "By around AD 600, Anglo-Saxon kingdoms were established in Britain, mainly in what is now England.",
+          "zh": "大約到公元600年，盎格魯-撒克遜王國已在不列顛建立，主要分佈在現今的英格蘭地區。"
+        }
+      },
+      {
+        "id": "point-41",
+        "questionId": "2-17",
+        "text": {
+          "en": "Following the execution of King Charles I in 1649, England was declared a republic, known as the Commonwealth.",
+          "zh": "1649年國王查理一世被處決後，英格蘭被宣布為共和國，稱為「聯邦」（the Commonwealth）。"
+        }
+      },
+      {
+        "id": "point-42",
+        "questionId": "2-18",
+        "text": {
+          "en": "The Lake District is England's largest National Park, covering over 2,300 square kilometers and famous for its lakes and fells.",
+          "zh": "湖區 (The Lake District) 是英格蘭最大的國家公園，面積超過 2,300 平方公里，以其湖泊和山峰而聞名。"
+        }
+      },
+      {
+        "id": "point-46",
+        "questionId": "2-22",
+        "text": {
+          "en": "In Scotland, New Year's Eve is called Hogmanay, which is celebrated with various traditions like 'first-footing'.",
+          "zh": "在蘇格蘭，除夕夜被稱為「霍格曼內」（Hogmanay），人們會透過「第一隻腳」（first-footing）等各種傳統活動來慶祝。"
+        }
+      },
+      {
+        "id": "point-57",
+        "questionId": "3-9",
+        "text": {
+          "en": "Robert Burns, the national poet of Scotland, wrote his poetry in Scots, standard English, and a mixture of both.",
+          "zh": "羅伯特·彭斯（Robert Burns）是蘇格蘭的民族詩人，他用蘇格蘭語、標準英語以及兩者的結合體創作詩歌。"
+        }
+      },
+      {
+        "id": "point-58",
+        "questionId": "3-10",
+        "text": {
+          "en": "The Ashes is the famous biennial Test cricket series played between England and Australia, named after an obituary published in a British newspaper.",
+          "zh": "「骨灰盃」是英格蘭和澳洲之間著名的兩年一度板球對抗賽，得名於一家英國報紙上發表的訃告。"
+        }
+      },
+      {
+        "id": "point-60",
+        "questionId": "3-12",
+        "text": {
+          "en": "The Reformation was a 16th-century movement against the authority of the Pope and Catholic teachings, leading to the creation of the Church of England.",
+          "zh": "宗教改革是16世紀反對教皇權威和天主教教義的運動，促成了英格蘭教會的創立。"
+        }
+      },
+      {
+        "id": "point-62",
+        "questionId": "3-14",
+        "text": {
+          "en": "Before succeeding Elizabeth I as King James I of England in 1603, he ruled Scotland as King James VI.",
+          "zh": "在 1603 年繼承伊莉莎白一世成為英格蘭國王詹姆士一世之前，他作為詹姆士六世統治蘇格蘭。"
+        }
+      },
+      {
+        "id": "point-63",
+        "questionId": "3-15",
+        "text": {
+          "en": "Wales became formally united with England during the reign of Henry VIII under the Laws in Wales Acts.",
+          "zh": "在亨利八世統治期間，通過《威爾斯法律法令》正式將威爾斯與英格蘭合併。"
+        }
+      },
+      {
+        "id": "point-66",
+        "questionId": "3-18",
+        "text": {
+          "en": "The Lake District National Park is located in the north west of England and is famous for its lakes and mountains.",
+          "zh": "湖區國家公園位於英格蘭西北部，以其湖泊和山脈而聞名。"
+        }
+      },
+      {
+        "id": "point-77",
+        "questionId": "4-5",
+        "text": {
+          "en": "St Helena and the Falkland Islands are British Overseas Territories, but they are not part of Great Britain or the United Kingdom.",
+          "zh": "聖海倫娜 （St Helena） 和福克蘭群島 （Falkland Islands） 是英國海外領地，但它們不屬於大不列顛 （Great Britain） 或聯合王國 （United Kingdom） 。"
+        }
+      },
+      {
+        "id": "point-84",
+        "questionId": "4-12",
+        "text": {
+          "en": "Members of the House of Lords are not elected by a constituency. They are appointed or hereditary peers, or bishops of the Church of England.",
+          "zh": "上議院議員並非由選區選舉產生。他們是受委任的終身貴族、世襲貴族或英格蘭教會的主教。"
+        }
+      },
+      {
+        "id": "point-85",
+        "questionId": "4-13",
+        "text": {
+          "en": "Originally, Northern Ireland introduced individual registration in 2002. Great Britain (England, Scotland, and Wales) introduced individual electoral registration in 2014, where every voter must register individually rather than by household.",
+          "zh": "最初，北愛爾蘭於2002年引入了個人登記制度。大不列顛（英格蘭、蘇格蘭和威爾斯）於2014年引入了個人選民登記制度，每位選民都必須單獨登記，而不是按戶登記。"
+        }
+      },
+      {
+        "id": "point-95",
+        "questionId": "4-23",
+        "text": {
+          "en": "The modern game of golf can be traced back to 15th-century Scotland.",
+          "zh": "現代高爾夫球運動起源於15世紀的蘇格蘭。"
+        }
+      },
+      {
+        "id": "point-97",
+        "questionId": "5-1",
+        "text": {
+          "en": "St Helena and the Falkland Islands are two of the British overseas territories linked to the UK.",
+          "zh": "聖赫勒拿和福克蘭群島是與英國相關聯的兩個海外領土。"
+        }
+      },
+      {
+        "id": "point-99",
+        "questionId": "5-3",
+        "text": {
+          "en": "Bobby Moore was the captain of the England football team that won the FIFA World Cup in 1966.",
+          "zh": "巴比·摩爾（Bobby Moore）是1966年贏得國際足總世界盃的英格蘭足球隊隊長。"
+        }
+      },
+      {
+        "id": "point-104",
+        "questionId": "5-8",
+        "text": {
+          "en": "After the execution of Charles I, England became a republic called the Commonwealth.",
+          "zh": "在查理一世被處決後，英格蘭成為一個共和國，被稱為英格蘭聯邦。"
+        }
+      },
+      {
+        "id": "point-105",
+        "questionId": "5-9",
+        "text": {
+          "en": "St Patrick's Day is celebrated on 17th March and is the patron saint day of Northern Ireland.",
+          "zh": "聖派翠克日於 3 月 17 日慶祝，是北愛爾蘭的主保聖人紀念日。"
+        }
+      },
+      {
+        "id": "point-110",
+        "questionId": "5-14",
+        "text": {
+          "en": "St Andrew is the patron saint of Scotland, and St Andrew's Day is celebrated on 30 November.",
+          "zh": "聖安德烈是蘇格蘭的守護聖人，每年的11月30日是聖安德烈日。"
+        }
+      },
+      {
+        "id": "point-123",
+        "questionId": "6-3",
+        "text": {
+          "en": "In 1284, King Edward I annexed Wales to the Crown of England through the Statute of Rhuddlan.",
+          "zh": "1284年，國王愛德華一世通過《魯德蘭法令》（Statute of Rhuddlan）將威爾斯併入英格蘭王室版圖。"
+        }
+      },
+      {
+        "id": "point-124",
+        "questionId": "6-4",
+        "text": {
+          "en": "The Channel Islands and the Isle of Man are Crown dependencies, which are self-governing and not part of the United Kingdom.",
+          "zh": "海峽群島（Channel Islands）和曼島是皇家屬地，實行自治，不屬於聯合王國的一部分。"
+        }
+      },
+      {
+        "id": "point-127",
+        "questionId": "6-7",
+        "text": {
+          "en": "Golf is believed to have originated in Scotland in the 15th century.",
+          "zh": "高爾夫球被認為起源於 15 世紀的蘇格蘭。"
+        }
+      },
+      {
+        "id": "point-132",
+        "questionId": "6-12",
+        "text": {
+          "en": "In England, Wales, and Northern Ireland, a jury has 12 members. In Scotland, it has 15 members.",
+          "zh": "在英格蘭、威爾斯和北愛爾蘭，陪審團有12名成員。在蘇格蘭則有15名成員。"
+        }
+      },
+      {
+        "id": "point-146",
+        "questionId": "7-2",
+        "text": {
+          "en": "Loch Lomond and the Trossachs National Park is located in Scotland, featuring beautiful lakes and mountains.",
+          "zh": "洛蒙德湖和特羅薩克斯國家公園位於蘇格蘭，以美麗的湖泊和山脈為特色。"
+        }
+      },
+      {
+        "id": "point-151",
+        "questionId": "7-7",
+        "text": {
+          "en": "Scotland and Northern Ireland have their own banknotes. They are valid forms of payment anywhere in the UK.",
+          "zh": "正確。蘇格蘭有自己發行的紙鈔，且在全英國皆為有效貨幣。"
+        }
+      },
+      {
+        "id": "point-154",
+        "questionId": "7-10",
+        "text": {
+          "en": "Wales does not have an established church. Only England and Scotland have established churches.",
+          "zh": "威爾斯沒有官方的國教。只有英格蘭和蘇格蘭有國教。"
+        }
+      },
+      {
+        "id": "point-161",
+        "questionId": "7-17",
+        "text": {
+          "en": "In 1588, the English defeated the Spanish Armada, a large fleet of ships sent by Spain to conquer England.",
+          "zh": "1588年，英國擊敗了由西班牙派來征服英國的龐大艦隊——西班牙無敵艦隊。"
+        }
+      },
+      {
+        "id": "point-165",
+        "questionId": "7-21",
+        "text": {
+          "en": "The daffodil is the national flower associated with Wales.",
+          "zh": "水仙花。水仙花是威爾斯的國花。"
+        }
+      },
+      {
+        "id": "point-166",
+        "questionId": "7-22",
+        "text": {
+          "en": "William Caxton introduced the printing press to England in 1476, printing the first book in English.",
+          "zh": "威廉·卡克斯頓於 1476 年將印刷機引入英格蘭，印刷了第一本英文書籍。"
+        }
+      },
+      {
+        "id": "point-167",
+        "questionId": "7-23",
+        "text": {
+          "en": "The first Union Flag was created in 1606 during the reign of King James I, combining the flags of England and Scotland.",
+          "zh": "第一面聯邦國旗創建於1606年詹姆士一世統治期間，將英格蘭和蘇格蘭的國旗結合在一起。"
+        }
+      },
+      {
+        "id": "point-170",
+        "questionId": "8-2",
+        "text": {
+          "en": "St David's Day is the patron saint day of Wales and is celebrated annually on 1 March.",
+          "zh": "聖大衛日是威爾斯的主保聖人紀念日，於每年的3月1日慶祝。"
+        }
+      },
+      {
+        "id": "point-178",
+        "questionId": "8-10",
+        "text": {
+          "en": "The Northern Ireland Assembly has 90 members (known as MLAs).",
+          "zh": "北愛爾蘭議會有 90 名成員（被稱為北愛爾蘭議會議員 MLAs）。"
+        }
+      },
+      {
+        "id": "point-180",
+        "questionId": "8-12",
+        "text": {
+          "en": "The eldest son of the monarch, currently the Prince of Wales, is the heir to the British throne.",
+          "zh": "君主的長子（目前是威爾斯親王）是英國王位的繼承人。"
+        }
+      },
+      {
+        "id": "point-181",
+        "questionId": "8-13",
+        "text": {
+          "en": "The shamrock is the national flower and a well-known symbol of Northern Ireland.",
+          "zh": "三葉草是北愛爾蘭的國花，也是其著名的象徵。"
+        }
+      },
+      {
+        "id": "point-184",
+        "questionId": "8-16",
+        "text": {
+          "en": "The Norman Conquest of 1066, led by William the Conqueror, was the last successful foreign invasion of England.",
+          "zh": "1066年由征服者威廉領導的諾曼征服是英格蘭歷史上最後一次成功的外部入侵。"
+        }
+      },
+      {
+        "id": "point-193",
+        "questionId": "9-1",
+        "text": {
+          "en": "Devolved administrations in Scotland, Wales, and Northern Ireland control local matters like health and education. Matters affecting the whole UK, such as defence and social security, are reserved for Westminster.",
+          "zh": "蘇格蘭、威爾斯和北愛爾蘭的權力下放政府控制著醫療和教育等地方事務。而影響整個英國的事務，如國防和社會保障，則保留給西敏寺（英國議會）。"
+        }
+      },
+      {
+        "id": "point-194",
+        "questionId": "9-2",
+        "text": {
+          "en": "The Hundred Years War was a long-running conflict between England and France that lasted 116 years.",
+          "zh": "百年戰爭是英格蘭和法國之間長達116年的衝突。"
+        }
+      },
+      {
+        "id": "point-196",
+        "questionId": "9-4",
+        "text": {
+          "en": "Belfast is the capital and largest city of Northern Ireland.",
+          "zh": "貝爾法斯特是北愛爾蘭的首都和最大的城市。"
+        }
+      },
+      {
+        "id": "point-199",
+        "questionId": "9-7",
+        "text": {
+          "en": "The Lake District is the largest national park in England, known for its lakes and mountains.",
+          "zh": "正確。湖區是英格蘭面積最大的國家公園。"
+        }
+      },
+      {
+        "id": "point-201",
+        "questionId": "9-9",
+        "text": {
+          "en": "In 1588, Spain sent the Spanish Armada—a large fleet of ships—to invade England, but it was defeated by the English navy and storms.",
+          "zh": "1588 年，西班牙派遣了西班牙無敵艦隊 (一隻龐大的船隊) 入侵英格蘭，但被英格蘭海軍和風暴所擊敗。"
+        }
+      },
+      {
+        "id": "point-205",
+        "questionId": "9-13",
+        "text": {
+          "en": "The devolved Scottish Parliament is located in Edinburgh, the capital city of Scotland.",
+          "zh": "權力下放的蘇格蘭議會部位於蘇格蘭首府愛丁堡。"
+        }
+      },
+      {
+        "id": "point-211",
+        "questionId": "9-19",
+        "text": {
+          "en": "The Battle of the Boyne (fought in 1690) is commemorated as a bank holiday in Northern Ireland on 12th July.",
+          "zh": "博因河戰役（1690年爆發）在北愛爾蘭被列為公眾假期，於每年的7月12日進行紀念。"
+        }
+      },
+      {
+        "id": "point-223",
+        "questionId": "10-7",
+        "text": {
+          "en": "Banknotes printed in Scotland and Northern Ireland are valid currency throughout the UK, though businesses are not legally required to accept them.",
+          "zh": "蘇格蘭和北愛爾蘭印製的紙幣在整個英國都是有效貨幣，儘管法律並未強制要求商家必須接受它們。"
+        }
+      },
+      {
+        "id": "point-235",
+        "questionId": "10-19",
+        "text": {
+          "en": "The Domesday Book detailed the land and population of England after the Norman Conquest.",
+          "zh": "《末日審判書》（The Domesday Book）詳細記載了諾曼征服後英格蘭土地和人口的狀況。"
+        }
+      },
+      {
+        "id": "point-238",
+        "questionId": "10-22",
+        "text": {
+          "en": "Great Britain consists of England, Scotland, and Wales. It does not include Northern Ireland.",
+          "zh": "大不列顛 （Great Britain） 由英格蘭、蘇格蘭和威爾斯組成，不包括北愛爾蘭。"
+        }
+      },
+      {
+        "id": "point-242",
+        "questionId": "11-2",
+        "text": {
+          "en": "Emperor Hadrian ordered the building of Hadrian's Wall in the north of England to protect the Roman province from the Picts.",
+          "zh": "羅馬皇帝哈德良（Emperor Hadrian）下令在英格蘭北部建造哈德良長城，以抵禦皮克特人（蘇格蘭人的祖先）入侵羅馬省份。"
+        }
+      },
+      {
+        "id": "point-243",
+        "questionId": "11-3",
+        "text": {
+          "en": "A criminal jury in Scotland consists of 15 members, unlike the 12-member juries used in England, Wales, and Northern Ireland.",
+          "zh": "蘇格蘭的刑事陪審團由15名成員組成，與英格蘭、威爾斯和北愛爾蘭所使用的12人陪審團不同。"
+        }
+      },
+      {
+        "id": "point-246",
+        "questionId": "11-6",
+        "text": {
+          "en": "The monarch is the head of the Church of England, which is an established church.",
+          "zh": "君主是英格蘭教會的領袖，該教會是國定教會。"
+        }
+      },
+      {
+        "id": "point-254",
+        "questionId": "11-14",
+        "text": {
+          "en": "The Act of Union in 1707 united Scotland with England and Wales to create Great Britain, but Scotland kept its own legal and educational systems, as well as its Presbyterian Church (the Church of Scotland).",
+          "zh": "1707年的《聯合法令》將蘇格蘭與英格蘭及威爾斯合併為大不列顛，但蘇格蘭保留了其獨立的法律和教育體系，以及其長老會（蘇格蘭教會）。"
+        }
+      },
+      {
+        "id": "point-258",
+        "questionId": "11-18",
+        "text": {
+          "en": "Great Britain consists of England, Wales, and Scotland. It does not include Northern Ireland.",
+          "zh": "正確。大不列顛包含英格蘭、蘇格蘭和威爾斯，不包括北愛爾蘭。"
+        }
+      },
+      {
+        "id": "point-260",
+        "questionId": "11-20",
+        "text": {
+          "en": "The Falkland Islands are a British overseas territory but they are not constitutionally part of the United Kingdom.",
+          "zh": "福克蘭群島是英國海外領土，但它們在憲法上不屬於聯合王國（英國本土）的一部分。"
+        }
+      },
+      {
+        "id": "point-263",
+        "questionId": "11-23",
+        "text": {
+          "en": "There is no established Church in Northern Ireland or Wales. The Church of England is the established church in England.",
+          "zh": "北愛爾蘭和威爾斯沒有國定教會。英格蘭教會是英格蘭的國定教會。"
+        }
+      },
+      {
+        "id": "point-271",
+        "questionId": "12-7",
+        "text": {
+          "en": "Elizabeth I was a Protestant and re-established the Church of England as the official state church after the Catholic reign of her sister Mary I.",
+          "zh": "伊莉莎白一世是新教徒，在她姊姊瑪麗一世的天主教統治之後，她重新確立了英格蘭教會（聖公會）為官方國教。"
+        }
+      },
+      {
+        "id": "point-273",
+        "questionId": "12-9",
+        "text": {
+          "en": "Complaints against the police can be made at any police station, or in writing to the Chief Constable of the police force concerned, or to an independent body (such as the Independent Office for Police Conduct in England and Wales).",
+          "zh": "對警方的投訴可以在任何警署提出，也可以寫信給相關警隊的總警司，或者向獨立機構 （例如英格蘭和威爾斯的警察行為獨立辦公室） 投訴。"
+        }
+      },
+      {
+        "id": "point-275",
+        "questionId": "12-11",
+        "text": {
+          "en": "Cardiff is the capital city of Wales.",
+          "zh": "卡地夫是威爾斯的首都。"
+        }
+      },
+      {
+        "id": "point-276",
+        "questionId": "12-12",
+        "text": {
+          "en": "The Six Nations Championship is a rugby union competition between England, France, Ireland, Italy, Scotland and Wales.",
+          "zh": "六國錦標賽是一項由英格蘭、法國、愛爾蘭、義大利、蘇格蘭和威爾斯參加的橄欖球聯合會比賽。"
+        }
+      },
+      {
+        "id": "point-280",
+        "questionId": "12-16",
+        "text": {
+          "en": "To serve on a jury in the UK, you must be aged between 18 and 70 (in England, Wales, and Northern Ireland) or up to 75 (in Scotland).",
+          "zh": "在英國擔任陪審員，您必須年滿 18 歲至 70 歲之間 (英格蘭、威爾斯和北愛爾蘭) 或 75 歲以下 (蘇格蘭)。"
+        }
+      },
+      {
+        "id": "point-282",
+        "questionId": "12-18",
+        "text": {
+          "en": "Snowdonia is a mountainous national park located in Wales.",
+          "zh": "斯諾登尼亞是位於威爾斯的一個國家公園。"
+        }
+      },
+      {
+        "id": "point-283",
+        "questionId": "12-19",
+        "text": {
+          "en": "The Norman Conquest in 1066, led by William the Conqueror, Duke of Normandy, was the last successful foreign invasion of England.",
+          "zh": "1066年由諾曼第公爵征服者威廉領導的諾曼征服，是英格蘭歷史上最後一次成功的外來入侵。"
+        }
+      },
+      {
+        "id": "point-288",
+        "questionId": "12-24",
+        "text": {
+          "en": "Henry VIII established the Church of England so he could divorce his first wife, Catherine of Aragon, which the Pope had refused to allow.",
+          "zh": "為了與他的第一任妻子阿拉貢的凱瑟琳離婚。教宗拒絕批准離婚，因此亨利八世脫離羅馬天主教會，建立了英格蘭教會。"
+        }
+      },
+      {
+        "id": "point-290",
+        "questionId": "13-2",
+        "text": {
+          "en": "The Huguenots were French Protestants who fled persecution in France between 1680 and 1720, with many settling in England.",
+          "zh": "雨格諾派是法國的新教徒，他們在 1680 年至 1720 年間逃離法國的迫害，許多人選擇定居於英格蘭。"
+        }
+      },
+      {
+        "id": "point-292",
+        "questionId": "13-4",
+        "text": {
+          "en": "The Norman Conquest of 1066, led by William the Conqueror, was the last successful foreign invasion of England.",
+          "zh": "1066年由征服者威廉領導的諾曼第征服，是最後一次成功入侵英格蘭的戰役。"
+        }
+      },
+      {
+        "id": "point-296",
+        "questionId": "13-8",
+        "text": {
+          "en": "The Eden Project is located in Cornwall, in the south-west of England.",
+          "zh": "伊甸園計劃 （Eden Project） 位於英格蘭西南部的康瓦爾 （Cornwall） 。"
+        }
+      },
+      {
+        "id": "point-303",
+        "questionId": "13-15",
+        "text": {
+          "en": "The Church of Scotland is a Presbyterian church and has no established status or head.",
+          "zh": "蘇格蘭教會 （Church of Scotland） 是長老會 （Presbyterian） 教會，沒有國定地位或元首。"
+        }
+      },
+      {
+        "id": "point-305",
+        "questionId": "13-17",
+        "text": {
+          "en": "The Union Jack (or Union Flag) is the national flag of the United Kingdom, combining the crosses of England, Scotland, and Ireland.",
+          "zh": "米字旗 (Union Jack，或稱聯合傑克) 是聯合王國的國旗，它融合了英格蘭、蘇格蘭和愛爾蘭的十字旗。"
+        }
+      },
+      {
+        "id": "point-306",
+        "questionId": "13-18",
+        "text": {
+          "en": "The Spanish Armada was a fleet of ships sent by King Philip II of Spain in 1588 to invade England.",
+          "zh": "西班牙無敵艦隊（Spanish Armada）是西班牙國王腓力二世於 1588 年派遣企圖入侵英格蘭的船隊。"
+        }
+      },
+      {
+        "id": "point-309",
+        "questionId": "13-21",
+        "text": {
+          "en": "Minor criminal cases in England, Wales and Northern Ireland are dealt with in a Magistrates' Court.",
+          "zh": "在英格蘭、威爾斯和北愛爾蘭，輕微刑事案件由裁判司署（Magistrates' Court）處理。"
+        }
+      },
+      {
+        "id": "point-313",
+        "questionId": "14-1",
+        "text": {
+          "en": "The thistle is the traditional national emblem and flower of Scotland.",
+          "zh": "薊花是蘇格蘭傳統的國家象徵和國花。"
+        }
+      },
+      {
+        "id": "point-315",
+        "questionId": "14-3",
+        "text": {
+          "en": "William Caxton was the first person in England to print books using a printing press.",
+          "zh": "威廉·卡克斯頓（William Caxton）是英格蘭第一個使用印刷機印書的人。"
+        }
+      },
+      {
+        "id": "point-320",
+        "questionId": "14-8",
+        "text": {
+          "en": "The Channel Islands and the Isle of Man are Crown dependencies but are not part of the United Kingdom.",
+          "zh": "海峽群島 and 曼島是皇家屬地，但並非聯合王國（英國）的一部分。"
+        }
+      },
+      {
+        "id": "point-326",
+        "questionId": "14-14",
+        "text": {
+          "en": "The Black Death was a bubonic plague pandemic that struck Britain in 1348 and killed about a third of the population.",
+          "zh": "黑死病是1348年席捲英國的腺鼠疫大流行，導致約三分之一的人口死亡。"
+        }
+      },
+      {
+        "id": "point-329",
+        "questionId": "14-17",
+        "text": {
+          "en": "The 1944 Education Act, also known as the Butler Act, introduced free secondary education for all in England and Wales.",
+          "zh": "1944年的《教育法》（也稱為巴特勒法案）在英格蘭和威爾斯為所有人引入了免費的中學教育。"
+        }
+      },
+      {
+        "id": "point-330",
+        "questionId": "14-18",
+        "text": {
+          "en": "St Andrew is the patron saint of Scotland. His feast day is celebrated on 30 November.",
+          "zh": "聖安得烈（St Andrew）是蘇格蘭的守護聖人。他的節日是在11月30日。"
+        }
+      },
+      {
+        "id": "point-333",
+        "questionId": "14-21",
+        "text": {
+          "en": "The Ulster Fry is a traditional food in Northern Ireland.",
+          "zh": "阿爾斯特炸丸子（Ulster Fry）是北愛爾蘭的傳統美食。"
+        }
+      },
+      {
+        "id": "point-334",
+        "questionId": "14-22",
+        "text": {
+          "en": "Magistrates' Courts deal with minor criminal offences, and the vast majority of criminal cases in England, Wales, and Northern Ireland are handled there.",
+          "zh": "地方法院（Magistrates' Court）處理輕微刑事犯罪，英格蘭、威爾斯和北愛爾蘭絕大多數的刑事案件都在地方法院審理。"
+        }
+      },
+      {
+        "id": "point-341",
+        "questionId": "15-5",
+        "text": {
+          "en": "As the eldest son of Queen Elizabeth II and heir apparent, Prince Charles was given the traditional title of the Prince of Wales.",
+          "zh": "作為伊麗莎白二世女王的長子和法定繼承人，查爾斯王子被授予傳統的威爾斯親王（Prince of Wales）頭銜。"
+        }
+      },
+      {
+        "id": "point-342",
+        "questionId": "15-6",
+        "text": {
+          "en": "Wales is not represented on the Union Flag (Union Jack) because Wales was already united with England when the first flag was created in 1606.",
+          "zh": "威爾斯沒有在聯邦國旗上體現，因為在1606年設計第一面國旗時，威爾斯已經與英格蘭合併。"
+        }
+      },
+      {
+        "id": "point-347",
+        "questionId": "15-11",
+        "text": {
+          "en": "The Archbishop of Canterbury is the spiritual leader of the Church of England (and the global Anglican Communion).",
+          "zh": "坎特伯雷大主教是英格蘭教會 (以及全球聖公會) 的精神領袖。"
+        }
+      },
+      {
+        "id": "point-348",
+        "questionId": "15-12",
+        "text": {
+          "en": "The Tower of London was built by William the Conqueror after his invasion of England in 1066.",
+          "zh": "倫敦塔是由征服者威廉 （William the Conqueror） 在 1066 年入侵英格蘭後建造的。"
+        }
+      },
+      {
+        "id": "point-349",
+        "questionId": "15-13",
+        "text": {
+          "en": "St Patrick's Day is the patron saint day of Ireland and is a public holiday in Northern Ireland, celebrated on 17 March.",
+          "zh": "聖派翠克節是北愛爾蘭的公眾假期，於3月17日慶祝。"
+        }
+      },
+      {
+        "id": "point-351",
+        "questionId": "15-15",
+        "text": {
+          "en": "In 1588, Spain sent a large fleet of ships, known as the Spanish Armada, to conquer England and restore Catholicism, but it was defeated.",
+          "zh": "在 1588 年，西班牙派遣了一支被稱為「西班牙無敵艦隊」的大型船隊企圖征服英格蘭並恢復天主教，但最終被擊敗。"
+        }
+      },
+      {
+        "id": "point-354",
+        "questionId": "15-18",
+        "text": {
+          "en": "To serve on a jury, you must be aged between 18 and 75 (in England, Wales, and Northern Ireland) and registered to vote.",
+          "zh": "要擔任陪審員，您必須年滿18至75歲（在英格蘭、威爾斯和北愛爾蘭），且已註冊為選民。"
+        }
+      },
+      {
+        "id": "point-362",
+        "questionId": "16-2",
+        "text": {
+          "en": "Edinburgh is the capital of Scotland and has been its capital since the 15th century.",
+          "zh": "愛丁堡是蘇格蘭的首府，自15世紀以來一直是其政治中心。"
+        }
+      },
+      {
+        "id": "point-366",
+        "questionId": "16-6",
+        "text": {
+          "en": "William Shakespeare was born in Stratford-upon-Avon, England, in April 1564.",
+          "zh": "威廉 · 莎士比亞 （William Shakespeare） 於 1564 年 4 月出生於英格蘭的雅芳河畔斯特拉特福 （Stratford-upon-Avon） 。"
+        }
+      },
+      {
+        "id": "point-374",
+        "questionId": "16-14",
+        "text": {
+          "en": "St Andrew's Day, the patron saint day of Scotland, is celebrated on 30 November.",
+          "zh": "聖安德魯斯日（St Andrew's Day）是蘇格蘭的守護神節日，於每年的 11 月 30 日慶祝。"
+        }
+      },
+      {
+        "id": "point-376",
+        "questionId": "16-16",
+        "text": {
+          "en": "The UK government has suspended the Northern Ireland Assembly on several occasions when the power-sharing agreement broke down.",
+          "zh": "在權力分享協議破裂時，英國政府曾多次暫停北愛爾蘭議會的運作。"
+        }
+      },
+      {
+        "id": "point-377",
+        "questionId": "16-17",
+        "text": {
+          "en": "St George's Day is celebrated on 23rd April and is the patron saint day of England.",
+          "zh": "聖喬治日於 4 月 23 日慶祝，是英格蘭的主保聖人紀念日。"
+        }
+      },
+      {
+        "id": "point-379",
+        "questionId": "16-19",
+        "text": {
+          "en": "Swansea is the second-largest city in Wales, located on the southwest coast.",
+          "zh": "斯旺西是威爾斯的第二大城市，位於西南部海岸。"
+        }
+      },
+      {
+        "id": "point-389",
+        "questionId": "17-5",
+        "text": {
+          "en": "Unlike the rest of the UK previously, Northern Ireland used 'individual registration' where everyone must complete their own form to vote.",
+          "zh": "與英國其他地區過去的情況不同，北愛爾蘭採用了「個人登記」制度，每個人都必須自己填寫表格才能投票。"
+        }
+      },
+      {
+        "id": "point-398",
+        "questionId": "17-14",
+        "text": {
+          "en": "Great Britain consists only of England, Scotland, and Wales. Northern Ireland is part of the United Kingdom of Great Britain and Northern Ireland, but not part of Great Britain itself.",
+          "zh": "大不列顛僅由英格蘭、蘇格蘭和威爾斯組成。北愛爾蘭是「大不列顛與北愛爾蘭聯合王國」的一部分，但本身不屬於大不列顛。"
+        }
+      },
+      {
+        "id": "point-419",
+        "questionId": "18-11",
+        "text": {
+          "en": "In England, Wales, and Northern Ireland, the names or photographs of young people under 18 who are found guilty of a crime cannot be published in newspapers or used by the media.",
+          "zh": "在英格蘭、威爾斯和北愛爾蘭，媒體或報紙不得公布被判有罪的 18 歲以下青少年的姓名或照片。"
+        }
+      },
+      {
+        "id": "point-424",
+        "questionId": "18-16",
+        "text": {
+          "en": "St David is the patron saint of Wales, and St David's Day is celebrated on 1 March.",
+          "zh": "聖大衛。他是威爾斯的守護神，聖大衛日為3月1日。"
+        }
+      },
+      {
+        "id": "point-429",
+        "questionId": "18-21",
+        "text": {
+          "en": "The Northern Ireland Assembly uses the Single Transferable Vote system, which is a form of proportional representation.",
+          "zh": "北愛爾蘭議會使用單一可轉移票制 (Single Transferable Vote)，這是一種比例代表制形式。"
+        }
+      },
+      {
+        "id": "point-430",
+        "questionId": "18-22",
+        "text": {
+          "en": "Saint Patrick is the patron saint of Northern Ireland. His feast day is celebrated on the 17th of March.",
+          "zh": "聖派翠克 （St Patrick） 是北愛爾蘭的主保聖人。他的節日在每年的 3 月 17 日慶祝。"
+        }
+      }
+    ]
+  },
+  {
+    "chapterId": 3,
+    "title": {
+      "en": "A long and illustrious history",
+      "zh": "悠久而輝煌的歷史"
+    },
+    "points": [
+      {
+        "id": "point-1",
+        "questionId": "1-1",
+        "text": {
+          "en": "London's West End, also known as 'Theatreland', is famous for its concentration of large and historic commercial theatres.",
+          "zh": "倫敦西區（London's West End，也被稱為「Theatreland」）以其集中了許多大型且具歷史意義的商業劇院而聞名。"
+        }
+      },
+      {
+        "id": "point-2",
+        "questionId": "1-2",
+        "text": {
+          "en": "The Battle of Britain was a pivotal air campaign fought in the skies over the UK in the summer and autumn of 1940.",
+          "zh": "不列顛戰役（The Battle of Britain）是 1940 年夏秋期間在英國上空進行的一場關鍵性空中戰役。"
+        }
+      },
+      {
+        "id": "point-3",
+        "questionId": "1-3",
+        "text": {
+          "en": "Edward Elgar was a famous English classical composer best known for his 'Pomp and Circumstance Marches'.",
+          "zh": "愛德華·艾爾加（Edward Elgar）是英國著名的古典音樂作曲家，最著名的作品是《威風凜凜進行曲》（Pomp and Circumstance Marches）。"
+        }
+      },
+      {
+        "id": "point-5",
+        "questionId": "1-5",
+        "text": {
+          "en": "The first coins minted in Britain during the Iron Age were inscribed with the names of Iron Age kings.",
+          "zh": "在鐵器時代英國鑄造的首批硬幣上，刻有鐵器時代國王的姓名。"
+        }
+      },
+      {
+        "id": "point-7",
+        "questionId": "1-7",
+        "text": {
+          "en": "The Bayeux Tapestry depicts the events leading up to the Norman Conquest, and the Domesday Book was a nationwide land survey commissioned by William I in 1085.",
+          "zh": "貝葉掛毯描繪了諾曼征服前后的事件，而《末日審判書》是威廉一世於1085年下令進行的全國土地調查。"
+        }
+      },
+      {
+        "id": "point-8",
+        "questionId": "1-8",
+        "text": {
+          "en": "Admiral Horatio Nelson was shot and killed during the Battle of Trafalgar in 1805, in which the British fleet defeated the French and Spanish navies.",
+          "zh": "霍雷肖·納爾遜海軍上將在 1805 年的特拉法加海戰中中彈身亡，在那場戰役中英國艦隊擊敗了法國和西班牙的海軍。"
+        }
+      },
+      {
+        "id": "point-10",
+        "questionId": "1-10",
+        "text": {
+          "en": "Smoking in enclosed public places is a criminal offence under UK law. The other options are civil disputes.",
+          "zh": "根據英國法律，在室內公共場所吸煙屬於刑事犯罪。其他選項則屬於民事糾紛。"
+        }
+      },
+      {
+        "id": "point-12",
+        "questionId": "1-12",
+        "text": {
+          "en": "Oliver Cromwell was given the title of Lord Protector following the execution of King Charles I and the establishment of the republic.",
+          "zh": "在國王查理一世被處決及共和國建立後，奧利弗·克倫威爾（Oliver Cromwell）被授予護國公的稱號。"
+        }
+      },
+      {
+        "id": "point-13",
+        "questionId": "1-13",
+        "text": {
+          "en": "The Crown Jewels are kept at the Tower of London, where they can be viewed by the public.",
+          "zh": "王權之物保存在倫敦塔內，供公眾參觀。"
+        }
+      },
+      {
+        "id": "point-15",
+        "questionId": "1-15",
+        "text": {
+          "en": "The Speaker of the House of Commons chairs the debates and keeps order, remaining neutral.",
+          "zh": "下議院議長（The Speaker）主持辯論並維持秩序，並保持政治中立。"
+        }
+      },
+      {
+        "id": "point-16",
+        "questionId": "1-16",
+        "text": {
+          "en": "First World War came to an end on 11 November 1918, when an armistice was signed.",
+          "zh": "第一次世界大戰於 1918 年 11 月 11 日停戰協定簽署時結束。"
+        }
+      },
+      {
+        "id": "point-17",
+        "questionId": "1-17",
+        "text": {
+          "en": "William Wordsworth is famous for his poem 'I Wandered Lonely as a Cloud', commonly known as 'Daffodils'.",
+          "zh": "威廉·華茲華斯（William Wordsworth）因其寫作關於水仙花的詩作《我孤獨地漫遊，像一朵雲》（俗稱「水仙花」 Daffodils）而聞名。"
+        }
+      },
+      {
+        "id": "point-26",
+        "questionId": "2-2",
+        "text": {
+          "en": "The Puritans were Protestants who advocated strict religious discipline.",
+          "zh": "清教徒是倡導嚴格宗教紀律的新教徒。"
+        }
+      },
+      {
+        "id": "point-31",
+        "questionId": "2-7",
+        "text": {
+          "en": "The Suffragettes, led by figures like Emmeline Pankhurst, used militant tactics to campaign for women's suffrage in the early 20th century.",
+          "zh": "由艾米琳·潘克斯特等人領導的婦女參政論者（Suffragettes），在20世紀初使用激進戰術來爭取女性的投票權。"
+        }
+      },
+      {
+        "id": "point-32",
+        "questionId": "2-8",
+        "text": {
+          "en": "The Boer Wars (1880–1881 and 1899–1902) were fought in South Africa between the British Empire and the two Boer republics.",
+          "zh": "波耳戰爭（1880-1881年和1899-1902年）是在南非由大英帝國與兩個波耳共和國之間進行的戰爭。"
+        }
+      },
+      {
+        "id": "point-36",
+        "questionId": "2-12",
+        "text": {
+          "en": "Wimbledon is the oldest and most prestigious tennis tournament in the world, and it is the only Grand Slam event played on grass.",
+          "zh": "溫布頓網球錦標賽是世界上最古老且最享有盛譽的網球賽事，也是唯一在草地上進行的大滿貫賽事。"
+        }
+      },
+      {
+        "id": "point-38",
+        "questionId": "2-14",
+        "text": {
+          "en": "The Chelsea Flower Show is the world's most famous flower and landscape garden show, held annually in Chelsea, London.",
+          "zh": "切爾西花展（Chelsea Flower Show）是世界上最著名的花卉及景觀園藝展，每年在倫敦切爾西舉行。"
+        }
+      },
+      {
+        "id": "point-40",
+        "questionId": "2-16",
+        "text": {
+          "en": "The Cenotaph, located in Whitehall, London, is the national war memorial where the annual Remembrance Day service is held.",
+          "zh": "和平紀念碑（Cenotaph）位於倫敦白廳（Whitehall），是英國的國家戰爭紀念碑，每年在此舉行國殤星期日紀念儀式。"
+        }
+      },
+      {
+        "id": "point-43",
+        "questionId": "2-19",
+        "text": {
+          "en": "In 1815, the Duke of Wellington defeated Napoleon Bonaparte of France at the Battle of Waterloo.",
+          "zh": "1815 年，威靈頓公爵在滑鐵盧戰役中擊敗了法國的拿破崙·波拿巴。"
+        }
+      },
+      {
+        "id": "point-44",
+        "questionId": "2-20",
+        "text": {
+          "en": "The earliest inhabitants of Britain during the Stone Age were hunter-gatherers, who depended on wild plants and animals for survival.",
+          "zh": "在石器時代，英國最早的居民是依靠採集野生植物和狩獵動物為生的狩獵採集者。"
+        }
+      },
+      {
+        "id": "point-52",
+        "questionId": "3-4",
+        "text": {
+          "en": "On April Fool's Day (1st April), people play jokes on each other, and newspapers and TV programs often publish or broadcast spoof stories.",
+          "zh": "在愚人節 (4 月 1 日)，人們會互相開玩笑，報紙和電視節目也經常發布或播放惡搞的新聞故事。"
+        }
+      },
+      {
+        "id": "point-56",
+        "questionId": "3-8",
+        "text": {
+          "en": "The first coins to be minted in Britain were made during the Iron Age.",
+          "zh": "英國最早鑄造的硬幣是在鐵器時代（Iron Age）製造的。"
+        }
+      },
+      {
+        "id": "point-61",
+        "questionId": "3-13",
+        "text": {
+          "en": "This statement is false. St Helena is a British overseas territory, but it is not constitutionally part of the United Kingdom.",
+          "zh": "此陳述是錯誤的。聖赫勒拿是英國海外領土，但在憲法上不屬於聯合王國的一部分。"
+        }
+      },
+      {
+        "id": "point-64",
+        "questionId": "3-16",
+        "text": {
+          "en": "The Boer War of 1899-1902 took place in South Africa between the British Empire and the two Boer republics.",
+          "zh": "1899 年至 1902 年的波耳戰爭 （Boer War） 發生在南非，是英國與兩個波耳共和國之間的戰爭。"
+        }
+      },
+      {
+        "id": "point-65",
+        "questionId": "3-17",
+        "text": {
+          "en": "The Man Booker Prize is a prestigious award given annually for the best original novel written in the English language.",
+          "zh": "布克獎是一項享有盛譽的年度獎項，頒發給以英語撰寫的最佳原創小說。"
+        }
+      },
+      {
+        "id": "point-67",
+        "questionId": "3-19",
+        "text": {
+          "en": "The UEFA Champions League is an annual club football competition organized by the Union of European Football Associations.",
+          "zh": "歐洲冠軍聯賽（UEFA Champions League）是由歐洲足球總會舉辦的年度俱樂部足球比賽。"
+        }
+      },
+      {
+        "id": "point-71",
+        "questionId": "3-23",
+        "text": {
+          "en": "People of the Bronze Age (around 4,000 years ago) buried their dead in round barrows, which were circular burial mounds.",
+          "zh": "青銅時代（約4,000年前）的人們將死者葬在圓形土塚（round barrows）中，這是一種圓形的陵墓。"
+        }
+      },
+      {
+        "id": "point-73",
+        "questionId": "4-1",
+        "text": {
+          "en": "Baroness Tanni Grey-Thompson is a famous wheelchair racer, and Ellie Simmonds is a highly successful Paralympic swimmer. Dame Kelly Holmes is an Olympic runner, and Jayne Torvill is an Olympic figure skater.",
+          "zh": "塔妮 · 葛雷-湯普森女男爵 （Baroness Tanni Grey-Thompson） 是著名的輪椅競速運動員，而艾莉 · 西蒙斯 （Ellie Simmonds） 是取得巨大成功的殘奧會游泳運動員。凱莉 · 霍姆斯女爵士 （Dame Kelly Holmes） 是奧運田徑運動員，珍 · 托維爾 （Jayne Torvill） 是奧運花式溜冰運動員。"
+        }
+      },
+      {
+        "id": "point-74",
+        "questionId": "4-2",
+        "text": {
+          "en": "The Boer War took place between 1899 and 1902 in South Africa, fighting between the British Empire and the Boer republics.",
+          "zh": "波耳戰爭發生在1899年至1902年的南非，是大英帝國與波耳共和國之間的戰爭。"
+        }
+      },
+      {
+        "id": "point-76",
+        "questionId": "4-4",
+        "text": {
+          "en": "A Midsummer Night's Dream is a play by William Shakespeare. The others are famous comic operas written by Gilbert and Sullivan.",
+          "zh": "《仲夏夜之夢》是威廉·莎士比亞的戲劇。其他幾項則是吉爾伯特與沙利文創作的著名喜歌劇。"
+        }
+      },
+      {
+        "id": "point-78",
+        "questionId": "4-6",
+        "text": {
+          "en": "The standard British banknotes are £5, £10, £20, and £50. There is no £25 note.",
+          "zh": "標準的英鎊紙幣有 5 英鎊、10 英鎊、20 英鎊和 50 英鎊。沒有 25 英鎊的紙幣。"
+        }
+      },
+      {
+        "id": "point-79",
+        "questionId": "4-7",
+        "text": {
+          "en": "The Spanish Armada was defeated by the English navy in 1588 during the reign of Queen Elizabeth I.",
+          "zh": "1588年伊麗莎白一世女王統治期間，西班牙無敵艦隊被英格蘭海軍擊敗。"
+        }
+      },
+      {
+        "id": "point-80",
+        "questionId": "4-8",
+        "text": {
+          "en": "FGM is a serious criminal offence in the UK, and it is also illegal to take someone abroad to undergo this practice.",
+          "zh": "在英國，女性生殖器切割（FGM）是一項嚴重的刑事犯罪，將任何人帶到國外進行此行為也是非法的。"
+        }
+      },
+      {
+        "id": "point-81",
+        "questionId": "4-9",
+        "text": {
+          "en": "After the execution of his second wife Anne Boleyn, Henry VIII married Jane Seymour, who gave birth to his son Edward VI.",
+          "zh": "在處決了他的第二任妻子安妮·博林之後，亨利八世迎娶了珍·西摩，後者為他誕下了兒子愛德華六世。"
+        }
+      },
+      {
+        "id": "point-82",
+        "questionId": "4-10",
+        "text": {
+          "en": "Emily Watson has been nominated twice for an Oscar but has not won, whereas Tilda Swinton, Dame Judi Dench, and Kate Winslet have all won Oscars.",
+          "zh": "艾蜜莉·華森曾兩度獲得奧斯卡金像獎提名但未獲獎，而蒂妲·絲雲頓、茱蒂·丹契女爵士以及凱特·溫絲蕾皆曾獲得過奧斯卡金像獎。"
+        }
+      },
+      {
+        "id": "point-83",
+        "questionId": "4-11",
+        "text": {
+          "en": "The assassination of Archduke Franz Ferdinand of Austria in Sarajevo on 28 June 1914 led directly to the outbreak of the First World War.",
+          "zh": "1914年6月28日奧地利斐迪南大公在塞拉耶佛遇刺，直接導致了第一次世界大戰的爆發。"
+        }
+      },
+      {
+        "id": "point-86",
+        "questionId": "4-14",
+        "text": {
+          "en": "Good Friday is the day when Christians commemorate the crucifixion and death of Jesus Christ.",
+          "zh": "耶穌受難日（Good Friday）是基督徒紀念耶穌基督被釘十字架和受難的日子。"
+        }
+      },
+      {
+        "id": "point-89",
+        "questionId": "4-17",
+        "text": {
+          "en": "John Logie Baird was a Scottish engineer and inventor who developed the first working television.",
+          "zh": "約翰·洛吉·貝爾德是蘇格蘭工程師，他發明了世界上第一台可運作的電視。"
+        }
+      },
+      {
+        "id": "point-90",
+        "questionId": "4-18",
+        "text": {
+          "en": "Public holidays in the UK are called Bank Holidays, when banks and most businesses are closed.",
+          "zh": "英國的公共假期被稱為銀行假期（Bank Holidays），屆時銀行和大多數企業都會關閉。"
+        }
+      },
+      {
+        "id": "point-91",
+        "questionId": "4-19",
+        "text": {
+          "en": "The supporters of King Charles I during the English Civil War were known as Cavaliers (Royalists), while the supporters of Parliament were known as Roundheads.",
+          "zh": "在英國內戰期間，支持國王查理一世 （King Charles I） 的人被稱為騎士黨 （Cavaliers，即保王黨），而支持議會的人則被稱為圓顱黨 （Roundheads） 。"
+        }
+      },
+      {
+        "id": "point-92",
+        "questionId": "4-20",
+        "text": {
+          "en": "The Slavery Abolition Act (often referred to as the Emancipation Act) was passed in 1833, outlawing slavery in most parts of the British Empire.",
+          "zh": "《廢除奴隸制法案》（常被稱為解放法案）於1833年通過，在大英帝國的大部分地區宣布奴隸制非法。"
+        }
+      },
+      {
+        "id": "point-93",
+        "questionId": "4-21",
+        "text": {
+          "en": "To get a National Insurance number, you must provide documents proving your identity and your permission to work in the UK.",
+          "zh": "要獲得國民保險號碼，您必須提供證明您身份及您有權在英國工作的文件。"
+        }
+      },
+      {
+        "id": "point-94",
+        "questionId": "4-22",
+        "text": {
+          "en": "The Emancipation Act abolished slavery throughout the British Empire in 1833.",
+          "zh": "《廢奴法案》於1833年通過，在整個大英帝國廢除了奴隸制。"
+        }
+      },
+      {
+        "id": "point-96",
+        "questionId": "4-24",
+        "text": {
+          "en": "The first farmers came to Britain around 6,000 years ago.",
+          "zh": "第一批農民大約在6000年前來到英國。"
+        }
+      },
+      {
+        "id": "point-101",
+        "questionId": "5-5",
+        "text": {
+          "en": "Lent is the 40-day Christian period of reflection, fasting, and prayer leading up to Easter Sunday.",
+          "zh": "大齋期是基督教在復活節前進行為期40天反思、禁食和祈禱的時期。"
+        }
+      },
+      {
+        "id": "point-103",
+        "questionId": "5-7",
+        "text": {
+          "en": "Members of the House of Lords (peers) are not elected; they are appointed or hereditary.",
+          "zh": "上議院議員（貴族）不是由選舉產生的，而是被任命的或世襲的。"
+        }
+      },
+      {
+        "id": "point-106",
+        "questionId": "5-10",
+        "text": {
+          "en": "James II's daughter, Mary, married William of Orange, who joint-ruled with her as William III and Mary II.",
+          "zh": "詹姆士二世的女兒瑪麗嫁給了奧蘭治的威廉，後來他與她共同統治英國，即威廉三世和瑪麗二世。"
+        }
+      },
+      {
+        "id": "point-108",
+        "questionId": "5-12",
+        "text": {
+          "en": "Both the jet engine (invented by Frank Whittle) and radar (developed by Robert Watson-Watt) were designed and developed in Britain during the 1930s.",
+          "zh": "噴射發動機（由法蘭克·惠特爾發明）和雷達（由羅伯特·沃森-瓦特開發）都是在1930年代於英國設計並開發出來的。"
+        }
+      },
+      {
+        "id": "point-109",
+        "questionId": "5-13",
+        "text": {
+          "en": "The famous poem 'The Daffodils' (often known as 'I Wandered Lonely as a Cloud') was written by the Romantic poet William Wordsworth.",
+          "zh": "著名詩作《水仙花》（通常被稱為《我孤獨地漫遊，像一朵雲》）是由浪漫主義詩人威廉·華茲華斯（William Wordsworth）所寫。"
+        }
+      },
+      {
+        "id": "point-114",
+        "questionId": "5-18",
+        "text": {
+          "en": "In the Crimean War (1853-1856), Britain, France, and Turkey fought against Russia.",
+          "zh": "在克里米亞戰爭（1853 至 1856 年）中，英國、法國和土耳其聯手對抗俄羅斯。"
+        }
+      },
+      {
+        "id": "point-115",
+        "questionId": "5-19",
+        "text": {
+          "en": "The Grand National is a famous horse racing event held annually in the UK.",
+          "zh": "英國國家障礙大賽 （Grand National） 是英國每年舉辦的著名賽馬活動。"
+        }
+      },
+      {
+        "id": "point-116",
+        "questionId": "5-20",
+        "text": {
+          "en": "During the Victorian era and early 20th century (specifically between 1853 and 1913), around 13 million people left the UK to settle overseas.",
+          "zh": "在維多利亞女王統治時期和20世紀初（具體在1853年至1913年之間），約有1300萬人離開英國前往海外定居。"
+        }
+      },
+      {
+        "id": "point-117",
+        "questionId": "5-21",
+        "text": {
+          "en": "The Canterbury Tales is a collection of poems written by Geoffrey Chaucer in the 14th century.",
+          "zh": "《坎特伯里故事集》 （The Canterbury Tales） 是傑弗里 · 喬叟 （Geoffrey Chaucer） 在 14 世紀撰寫的一系列詩歌。"
+        }
+      },
+      {
+        "id": "point-118",
+        "questionId": "5-22",
+        "text": {
+          "en": "Bank holidays are official public holidays in the UK when banks and many other businesses are closed.",
+          "zh": "銀行假期是英國的法定公眾假期，屆時銀行和許多其他商業機構都會休息。"
+        }
+      },
+      {
+        "id": "point-120",
+        "questionId": "5-24",
+        "text": {
+          "en": "The Crimean War was the first to be extensively covered by the media, through news reports and photographs.",
+          "zh": "克里米亞戰爭是第一場透過新聞報導和照片被媒體廣泛報導的戰爭。"
+        }
+      },
+      {
+        "id": "point-121",
+        "questionId": "6-1",
+        "text": {
+          "en": "The Monarch (the Queen/King) is responsible for the formal State Opening of Parliament each year.",
+          "zh": "君主（女王或國王）負責主持每年一度的國會開幕大典（State Opening of Parliament）。"
+        }
+      },
+      {
+        "id": "point-122",
+        "questionId": "6-2",
+        "text": {
+          "en": "Public holidays in the UK are commonly referred to as Bank Holidays because banks are closed on these days.",
+          "zh": "英國的公眾假期通常被稱為「銀行假日」 (Bank Holidays)，因為銀行在這些日子會關門歇業。"
+        }
+      },
+      {
+        "id": "point-128",
+        "questionId": "6-8",
+        "text": {
+          "en": "The development of steam power was a key driver of the Industrial Revolution, enabling factories and modern transportation.",
+          "zh": "蒸汽動力的發展是工業革命的關鍵驅動力，推動了工廠和現代交通的發展。"
+        }
+      },
+      {
+        "id": "point-129",
+        "questionId": "6-9",
+        "text": {
+          "en": "The first people to live in Britain did so during the Stone Age, hundreds of thousands of years ago.",
+          "zh": "最早在不列顛居住的人類是在數十萬年前的石器時代。"
+        }
+      },
+      {
+        "id": "point-130",
+        "questionId": "6-10",
+        "text": {
+          "en": "In 1810, Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London, which was the first curry house in Britain.",
+          "zh": "1810年，謝赫·迪恩·馬霍梅特在倫敦喬治街開設了「印度斯坦咖啡館」（Hindoostane Coffee House），這是英國第一家咖哩屋。"
+        }
+      },
+      {
+        "id": "point-133",
+        "questionId": "6-13",
+        "text": {
+          "en": "James Cook mapped the coast of Australia and a few other locations.",
+          "zh": "詹姆斯·庫克繪製了澳洲及其他一些地方的海岸地圖。"
+        }
+      },
+      {
+        "id": "point-138",
+        "questionId": "6-18",
+        "text": {
+          "en": "The Home Secretary is responsible for crime, policing, and immigration.",
+          "zh": "內政大臣負責處理犯罪、治安和移民事務。"
+        }
+      },
+      {
+        "id": "point-140",
+        "questionId": "6-20",
+        "text": {
+          "en": "Ireland did not help to set up the EEC (established in 1957 by Belgium, France, Germany, Italy, Luxembourg, and the Netherlands). Ireland joined in 1973.",
+          "zh": "愛爾蘭沒有參與建立歐洲經濟共同體（EEC）（該組織由比利時、法國、德國、意大利、盧森堡和荷蘭於1957年創立）。愛爾蘭於1973年加入。"
+        }
+      },
+      {
+        "id": "point-141",
+        "questionId": "6-21",
+        "text": {
+          "en": "Boudicca was the queen of the Iceni tribe who led a major uprising against the Roman Empire in AD 60 or 61.",
+          "zh": "波迪卡 (Boudicca) 是愛西尼部落的女王，她在西元 60 或 61 年領導了一場反抗羅馬帝國的大規模起義。"
+        }
+      },
+      {
+        "id": "point-142",
+        "questionId": "6-22",
+        "text": {
+          "en": "London, UK, hosted the Summer Olympic and Paralympic Games in 2012.",
+          "zh": "英國倫敦於 2012 年舉辦了夏季奧林匹克運動會和帕拉林匹克運動會。"
+        }
+      },
+      {
+        "id": "point-143",
+        "questionId": "6-23",
+        "text": {
+          "en": "Bonnie Prince Charlie (Charles Edward Stuart) was supported by Scottish Highlanders and raised an army in 1745 to reclaim the throne.",
+          "zh": "英俊王子查理。他於1745年在蘇格蘭高地人的支持下起兵，試圖奪回王位。"
+        }
+      },
+      {
+        "id": "point-144",
+        "questionId": "6-24",
+        "text": {
+          "en": "Boudicca was a tribal leader (queen of the Iceni) who led a major rebellion against the Romans in Britain.",
+          "zh": "布狄卡。她是愛西尼部落的女王，曾領導反抗羅馬統治的起義。"
+        }
+      },
+      {
+        "id": "point-145",
+        "questionId": "7-1",
+        "text": {
+          "en": "Britain and France developed Concorde, the only supersonic commercial airliner.",
+          "zh": "英國與法國合作開發了世界上唯一載客的超音速商用客機——協和號。"
+        }
+      },
+      {
+        "id": "point-150",
+        "questionId": "7-6",
+        "text": {
+          "en": "Lent represents the 40 days of fasting and prayer before Easter in the Christian calendar.",
+          "zh": "在大齋期（Lent，或稱預備期、四旬期）代表基督教曆法中復活節前40天的禁食與祈禱。"
+        }
+      },
+      {
+        "id": "point-152",
+        "questionId": "7-8",
+        "text": {
+          "en": "The Black Death, a devastating plague, occurred in the Middle Ages (specifically in 1348).",
+          "zh": "黑死病是一場發生在1348年中世紀的毀滅性瘟疫。"
+        }
+      },
+      {
+        "id": "point-155",
+        "questionId": "7-11",
+        "text": {
+          "en": "William the Conqueror defeated King Harold II of England at the Battle of Hastings in 1066.",
+          "zh": "征服者威廉在1066年的黑斯廷斯戰役中擊敗了英格蘭國王哈羅德二世。"
+        }
+      },
+      {
+        "id": "point-156",
+        "questionId": "7-12",
+        "text": {
+          "en": "The Turner Prize is an annual award given to a British visual artist to celebrate contemporary art.",
+          "zh": "透納獎是一項年度獎項，頒發給英國視覺藝術家，旨在表彰當代藝術。"
+        }
+      },
+      {
+        "id": "point-159",
+        "questionId": "7-15",
+        "text": {
+          "en": "Jurors are chosen at random from the electoral register.",
+          "zh": "陪審員是從選民登記冊 （electoral register） 中隨機挑選的。"
+        }
+      },
+      {
+        "id": "point-160",
+        "questionId": "7-16",
+        "text": {
+          "en": "The development of steam power was a driving force of the Industrial Revolution in Britain.",
+          "zh": "蒸汽動力的發展是英國工業革命的一大推動力。"
+        }
+      },
+      {
+        "id": "point-162",
+        "questionId": "7-18",
+        "text": {
+          "en": "Jury members are chosen at random from the electoral register.",
+          "zh": "陪審團成員是從選民登記冊中隨機抽取的。"
+        }
+      },
+      {
+        "id": "point-164",
+        "questionId": "7-20",
+        "text": {
+          "en": "King Charles I was executed in January 1649 following his defeat in the English Civil War.",
+          "zh": "國王查理一世 （King Charles I） 在英國內戰失敗後，於 1649 年 1 月被處決。"
+        }
+      },
+      {
+        "id": "point-168",
+        "questionId": "7-24",
+        "text": {
+          "en": "Mary, Queen of Scots, was imprisoned for two decades by Elizabeth I and was executed in 1587 after being linked to a Catholic plot to assassinate Elizabeth.",
+          "zh": "蘇格蘭女王瑪麗被伊麗莎白一世囚禁了二十年，並於1587年被處決，原因與她捲入暗殺伊麗莎白的天主教陰謀有關。"
+        }
+      },
+      {
+        "id": "point-171",
+        "questionId": "8-3",
+        "text": {
+          "en": "Catherine Howard was the fifth wife of Henry VIII. She was executed at the Tower of London for adultery in 1542.",
+          "zh": "凱瑟琳·霍華德（Catherine Howard）是亨利八世的第五任妻子。她於1542年因通姦罪在倫敦塔被處決。"
+        }
+      },
+      {
+        "id": "point-172",
+        "questionId": "8-4",
+        "text": {
+          "en": "Serfs were peasants tied to the land who worked on a small piece of land owned by their lord during the Middle Ages.",
+          "zh": "農奴是被束縛在土地上的農民，他們在中世紀為領主擁有的一小塊土地上勞作。"
+        }
+      },
+      {
+        "id": "point-175",
+        "questionId": "8-7",
+        "text": {
+          "en": "April Fool's Day is on the 1st of April, when people play jokes on each other, and newspapers and TV often publish joke stories until midday.",
+          "zh": "愚人節 （April Fool's Day） 在每年的 4 月 1 日，人們會在這天互相開玩笑，報紙和電視也常在中午之前發布惡作劇新聞。"
+        }
+      },
+      {
+        "id": "point-176",
+        "questionId": "8-8",
+        "text": {
+          "en": "Alan Turing invented the Turing machine in the 1930s, a theoretical mathematical computing machine.",
+          "zh": "艾倫·圖靈在1930年代發明了圖靈機，這是一種理論上的數學計算機。"
+        }
+      },
+      {
+        "id": "point-179",
+        "questionId": "8-11",
+        "text": {
+          "en": "After Edward VI died in 1553, his half-sister Mary (Mary I, or 'Bloody Mary'), the daughter of Henry VIII and Catherine of Aragon, became queen.",
+          "zh": "愛德華六世於1553年去世後，他的同父異母姐姐瑪麗（瑪麗一世，或稱「血腥瑪麗」，亨利八世與阿拉貢的凱瑟琳之女）繼位為女王。"
+        }
+      },
+      {
+        "id": "point-183",
+        "questionId": "8-15",
+        "text": {
+          "en": "Royal Ascot is a prominent five-day horse-racing meeting held annually in Berkshire, attended by the Royal Family.",
+          "zh": "皇家雅士谷賽馬會（Royal Ascot）是每年在伯克郡舉行的重要五天賽馬盛會，英國王室成員也會出席。"
+        }
+      },
+      {
+        "id": "point-186",
+        "questionId": "8-18",
+        "text": {
+          "en": "Britain does not have a single written constitution; instead, it has an unwritten (uncodified) constitution made up of multiple sources.",
+          "zh": "英國沒有單一的成文憲法；相反地，它擁有由多種來源組成的非成文（未編纂）憲法。"
+        }
+      },
+      {
+        "id": "point-187",
+        "questionId": "8-19",
+        "text": {
+          "en": "Ernest Rutherford led a team of scientists to successfully split the atom at Manchester University.",
+          "zh": "歐內斯特·拉塞福（Ernest Rutherford）帶領科學家團隊在曼徹斯特大學首次成功分裂原子。"
+        }
+      },
+      {
+        "id": "point-189",
+        "questionId": "8-21",
+        "text": {
+          "en": "Promoting free trade is not an aim of the United Nations (UN). It is the primary purpose of the World Trade Organization (WTO).",
+          "zh": "促進自由貿易不是聯合國的宗旨。這是世界貿易組織（WTO）的主要宗旨。"
+        }
+      },
+      {
+        "id": "point-191",
+        "questionId": "8-23",
+        "text": {
+          "en": "The Bayeux Tapestry commemorates the Battle of Hastings in 1066, where William of Normandy defeated King Harold of England.",
+          "zh": "貝葉掛毯 （Bayeux Tapestry） 紀念了 1066 年的哈斯丁戰役 （Battle of Hastings） ，諾曼第的威廉在該戰役中擊敗了英格蘭國王哈羅德。"
+        }
+      },
+      {
+        "id": "point-192",
+        "questionId": "8-24",
+        "text": {
+          "en": "Halloween is celebrated on 31 October. It has pagan origins and marks the eve of All Hallows' Day.",
+          "zh": "萬聖節夜在10月31日慶祝。它起源於異教，標誌著諸聖節的前夕。"
+        }
+      },
+      {
+        "id": "point-195",
+        "questionId": "9-3",
+        "text": {
+          "en": "Following his defeat at the Battle of Worcester in 1651, Charles II escaped capture by hiding in a royal oak tree before fleeing to Europe.",
+          "zh": "在 1651 年的伍斯特戰役中戰敗後，查理二世通過躲藏在一棵皇家橡樹中逃脫了抓捕，隨後逃往歐洲。"
+        }
+      },
+      {
+        "id": "point-197",
+        "questionId": "9-5",
+        "text": {
+          "en": "The Wars of the Roses (1455–1487) were a series of civil wars fought for the English throne between supporters of the House of Lancaster (red rose) and the House of York (white rose).",
+          "zh": "玫瑰戰爭（1455-1487年）是蘭開斯特家族（紅玫瑰）與約克家族（白玫瑰）的支持者之間為了爭奪英格蘭王位而進行的一系列內戰。"
+        }
+      },
+      {
+        "id": "point-198",
+        "questionId": "9-6",
+        "text": {
+          "en": "Ian McEwan, Hilary Mantel, and Julian Barnes are prominent contemporary British novelists who have all won the prestigious Man Booker Prize (now Booker Prize) for Fiction.",
+          "zh": "伊恩·麥克伊旺、希拉蕊·曼特爾和朱利安·巴恩斯都是著名的英國當代小說家，均曾榮獲享譽盛名的布克獎（Man Booker Prize）。"
+        }
+      },
+      {
+        "id": "point-200",
+        "questionId": "9-8",
+        "text": {
+          "en": "In the UK, rape within marriage is a criminal offence, and a husband can be charged with raping his wife.",
+          "zh": "在英國，婚內強姦屬於刑事犯罪，丈夫可能因強迫妻子進行性行為而被指控強姦罪。"
+        }
+      },
+      {
+        "id": "point-202",
+        "questionId": "9-10",
+        "text": {
+          "en": "Geoffrey Chaucer wrote 'The Canterbury Tales', a famous collection of stories from the Middle Ages.",
+          "zh": "傑弗里·喬叟創作了著名的中世紀故事集《坎特伯雷故事集》。"
+        }
+      },
+      {
+        "id": "point-203",
+        "questionId": "9-11",
+        "text": {
+          "en": "During the Middle Ages in England, nobles spoke Norman French while peasants spoke Anglo-Saxon.",
+          "zh": "中世紀的英格蘭，貴族說諾曼法語，而農民說盎格魯-撒克遜語。"
+        }
+      },
+      {
+        "id": "point-204",
+        "questionId": "9-12",
+        "text": {
+          "en": "In the UK, the minimum age to drive a car or motorcycle is 17 (16 for a moped).",
+          "zh": "在英國，駕駛摩托車和汽車的最低年齡為17歲（輕便摩托車為16歲）。"
+        }
+      },
+      {
+        "id": "point-206",
+        "questionId": "9-14",
+        "text": {
+          "en": "You can contact MPs by writing to them at their office in the House of Commons, but they also hold local surgeries in their constituencies, and you can email or phone them.",
+          "zh": "您可以寫信給下議院辦公室的國會議員，但他們也會在其選區舉行選民接待日，您也可以通過電子郵件或電話與他們聯繫。"
+        }
+      },
+      {
+        "id": "point-207",
+        "questionId": "9-15",
+        "text": {
+          "en": "During the Highland Clearances in the late 18th and early 19th centuries, Scottish landlords evicted small crofters from their land to make room for large-scale sheep farming.",
+          "zh": "在18世紀末至19世紀初的高地清洗期間，蘇格蘭地主將小農戶驅逐出他們的土地，以便為大規模的綿羊放牧騰出空間。"
+        }
+      },
+      {
+        "id": "point-209",
+        "questionId": "9-17",
+        "text": {
+          "en": "The official currency of the United Kingdom is the Pound Sterling (£).",
+          "zh": "聯合王國的官方貨幣是英鎊（Pound Sterling，符號為 £）。"
+        }
+      },
+      {
+        "id": "point-210",
+        "questionId": "9-18",
+        "text": {
+          "en": "Bonnie Prince Charlie (Charles Edward Stuart) was supported by clansmen from the Highlands during the Jacobite uprising of 1745.",
+          "zh": "在 1745 年的詹姆士黨起義期間，美男子查理王子 (Charles Edward Stuart) 得到了來自蘇格蘭高地 (Highlands) 部落成員的支持。"
+        }
+      },
+      {
+        "id": "point-212",
+        "questionId": "9-20",
+        "text": {
+          "en": "The UK has hosted the Olympic games three times (in 1908, 1948 and 2012).",
+          "zh": "英國曾三次舉辦奧林匹克運動會（分別在1908年、1948年和2012年）。"
+        }
+      },
+      {
+        "id": "point-214",
+        "questionId": "9-22",
+        "text": {
+          "en": "Britain suffered over 2 million casualties (dead and wounded) during the First World War (1914–1918).",
+          "zh": "英國在第一次世界大戰（1914–1918年）期間遭受了超過200萬人的傷亡（包括死亡和受傷）。"
+        }
+      },
+      {
+        "id": "point-217",
+        "questionId": "10-1",
+        "text": {
+          "en": "Boxing Day is celebrated on December 26th, the day after Christmas Day.",
+          "zh": "節禮日是在聖誕節的第二天，即12月26日慶祝。"
+        }
+      },
+      {
+        "id": "point-218",
+        "questionId": "10-2",
+        "text": {
+          "en": "King Harold II was the King of England at the time of the Norman Invasion in 1066. He was killed at the Battle of Hastings.",
+          "zh": "1066年諾曼人入侵時，哈羅德二世是英格蘭國王。他在黑斯廷斯戰役中陣亡。"
+        }
+      },
+      {
+        "id": "point-219",
+        "questionId": "10-3",
+        "text": {
+          "en": "The Scottish Grand National is a prestigious National Hunt horse race held at Ayr Racecourse.",
+          "zh": "蘇格蘭國家障礙大賽（Scottish Grand National）是一項享譽盛名的國家狩獵障礙馬賽，在艾爾馬場（Ayr Racecourse）舉行。"
+        }
+      },
+      {
+        "id": "point-221",
+        "questionId": "10-5",
+        "text": {
+          "en": "Sir Tim Berners-Lee invented the World Wide Web (WWW) in 1989, which revolutionized information sharing globally.",
+          "zh": "提姆·柏內茲-李爵士於 1989 年發明了全球資訊網 (WWW)，這徹底改變了全球的信息共享方式。"
+        }
+      },
+      {
+        "id": "point-225",
+        "questionId": "10-9",
+        "text": {
+          "en": "Members of the Welsh Assembly (now called Senedd) are typically elected every four years.",
+          "zh": "威爾斯議會議員（現稱為 Senedd）通常每四年選舉一次。"
+        }
+      },
+      {
+        "id": "point-228",
+        "questionId": "10-12",
+        "text": {
+          "en": "King Alfred the Great defeated the Vikings and united the Anglo-Saxon kingdoms in England under his leadership.",
+          "zh": "阿佛烈大帝（King Alfred the Great）擊敗了維京人，並在其領導下統一了英格蘭的盎格魯-撒克遜王國。"
+        }
+      },
+      {
+        "id": "point-229",
+        "questionId": "10-13",
+        "text": {
+          "en": "The Parliament of the United Kingdom sits at the Palace of Westminster in London.",
+          "zh": "英國國會坐落於倫敦的西敏宮（Palace of Westminster）。"
+        }
+      },
+      {
+        "id": "point-230",
+        "questionId": "10-14",
+        "text": {
+          "en": "Concorde was developed jointly by Britain and France and remains the world's only supersonic commercial airliner to have been in regular service.",
+          "zh": "協和號是由英國和法國合作研發的。"
+        }
+      },
+      {
+        "id": "point-231",
+        "questionId": "10-15",
+        "text": {
+          "en": "The armistice that ended the fighting in the First World War went into effect at 11 am on 11 November 1918.",
+          "zh": "結束第一次世界大戰戰鬥的停戰協定於1918年11月11日上午11點正式生效。"
+        }
+      },
+      {
+        "id": "point-232",
+        "questionId": "10-16",
+        "text": {
+          "en": "Hogmanay is the Scottish word for New Year's Eve and is celebrated on 31st December.",
+          "zh": "「Hogmanay」是蘇格蘭語中的除夕 (New Year's Eve)，於 12 月 31 日進行慶祝。"
+        }
+      },
+      {
+        "id": "point-236",
+        "questionId": "10-20",
+        "text": {
+          "en": "The Reformation was a movement in the 16th century that challenged the Pope's authority and led to the creation of Protestant churches.",
+          "zh": "宗教改革是16世紀的一場運動，挑戰了教宗的權威，並導致了新教教會的建立。"
+        }
+      },
+      {
+        "id": "point-239",
+        "questionId": "10-23",
+        "text": {
+          "en": "Admiral Horatio Nelson was in charge of the British fleet at the Battle of Trafalgar in 1805, where he was killed.",
+          "zh": "在 1805 年的特拉法加海戰中，霍雷肖·納爾遜海軍上將（Admiral Horatio Nelson）負責指揮英國艦隊，他在這場戰役中不幸犧牲。"
+        }
+      },
+      {
+        "id": "point-240",
+        "questionId": "10-24",
+        "text": {
+          "en": "The Massacre of Glencoe took place in 1692, when members of the MacDonald clan were killed for failing to take the oath of allegiance to William III on time.",
+          "zh": "格倫科大屠殺發生於1692年，當時麥克唐納氏族的成員因未能按時向威廉三世宣誓效忠而遭殺害。"
+        }
+      },
+      {
+        "id": "point-241",
+        "questionId": "11-1",
+        "text": {
+          "en": "Sir Frank Whittle, a British Royal Air Force officer, invented the jet engine in the 1930s.",
+          "zh": "英國皇家空軍軍官法蘭克·惠特爾爵士（Sir Frank Whittle）在1930年代發明了噴射引擎。"
+        }
+      },
+      {
+        "id": "point-249",
+        "questionId": "11-9",
+        "text": {
+          "en": "The legal age for purchasing alcohol in the UK is 18.",
+          "zh": "在英國購買酒精飲料的法定年齡為18歲。"
+        }
+      },
+      {
+        "id": "point-250",
+        "questionId": "11-10",
+        "text": {
+          "en": "Florence Nightingale established the Nightingale School for Nurses at St Thomas' Hospital in London in 1860.",
+          "zh": "佛羅倫斯·南丁格爾於1860年在倫敦的聖托馬斯醫院創立了南丁格爾護士學校。"
+        }
+      },
+      {
+        "id": "point-251",
+        "questionId": "11-11",
+        "text": {
+          "en": "The contribution of women to the war effort in the First World War led to the Representation of the People Act 1918, which gave the vote to women over 30 who met certain property qualifications.",
+          "zh": "女性在第一次世界大戰中對戰爭做出的貢獻，促成了1918年《人民代表法》的通過，該法案賦予符合特定財產條件的30歲以上女性投票權。"
+        }
+      },
+      {
+        "id": "point-252",
+        "questionId": "11-12",
+        "text": {
+          "en": "The English Civil War was fought between the Cavaliers (supporting the King) and the Roundheads (supporting Parliament).",
+          "zh": "英格蘭內戰是在支持國王的騎士黨（Cavaliers）與支持議會的圓顱黨（Roundheads）之間進行的。"
+        }
+      },
+      {
+        "id": "point-253",
+        "questionId": "11-13",
+        "text": {
+          "en": "The National Horseracing Museum is located in Newmarket, Suffolk, which is widely considered the birthplace and global center of thoroughbred horse racing.",
+          "zh": "國家賽馬博物館位於薩福克郡的新市場 (Newmarket, Suffolk)，該地被廣泛認為是純種馬賽馬的發源地和全球中心。"
+        }
+      },
+      {
+        "id": "point-255",
+        "questionId": "11-15",
+        "text": {
+          "en": "Sir Roger Bannister was the first person to run a mile in under four minutes in 1954.",
+          "zh": "羅傑·班尼斯特爵士。他在1954年成為世界上第一個在4分鐘內跑完一英里的人。"
+        }
+      },
+      {
+        "id": "point-257",
+        "questionId": "11-17",
+        "text": {
+          "en": "The first professional football clubs were formed in the late 19th century, and the Football League was founded in 1888.",
+          "zh": "第一批職業足球俱樂部成立於19世紀末，足球聯賽成立於1888年。"
+        }
+      },
+      {
+        "id": "point-259",
+        "questionId": "11-19",
+        "text": {
+          "en": "This entry is a fragment of the historical statement: 'Elizabeth I came to the throne when, following a short reign, her half-sister Mary died.'",
+          "zh": "此條目是以下歷史陳述的片段：「伊麗莎白一世在其同父異母的姐姐瑪麗在位短暫時間去世後登基。」"
+        }
+      },
+      {
+        "id": "point-261",
+        "questionId": "11-21",
+        "text": {
+          "en": "Germany invaded Poland in September 1939, which led Britain and France to declare war, starting the Second World War.",
+          "zh": "1939年德國入侵波蘭，引發了第二次世界大戰。"
+        }
+      },
+      {
+        "id": "point-265",
+        "questionId": "12-1",
+        "text": {
+          "en": "Stonehenge is a prehistoric monument located in the English county of Wiltshire.",
+          "zh": "巨石陣位於英國的威爾特郡，是一處史前紀念碑。"
+        }
+      },
+      {
+        "id": "point-266",
+        "questionId": "12-2",
+        "text": {
+          "en": "The Republic of Ireland Act 1948 came into force on Easter Monday, 18 April 1949, officially declaring Ireland a republic.",
+          "zh": "《1948年愛爾蘭共和國法案》於1949年4月18日（復活節星期一）生效，正式宣布愛爾蘭為共和國。"
+        }
+      },
+      {
+        "id": "point-267",
+        "questionId": "12-3",
+        "text": {
+          "en": "You must be 18 to go into betting shops or gambling clubs in the UK.",
+          "zh": "在英國，您必須年滿18歲才能進入投注站或賭博俱樂部。"
+        }
+      },
+      {
+        "id": "point-269",
+        "questionId": "12-5",
+        "text": {
+          "en": "The Cenotaph, located in Whitehall, London, is the site of the annual Remembrance Day service and is a war memorial.",
+          "zh": "位於倫敦白廳的和平紀念碑是一座戰爭紀念碑，也是每年國殤紀念日儀式的舉辦地。"
+        }
+      },
+      {
+        "id": "point-270",
+        "questionId": "12-6",
+        "text": {
+          "en": "National parks are areas of protected countryside where people can visit and enjoy outdoor recreation while preserving the natural environment.",
+          "zh": "國家公園 （National parks） 是受保護的鄉村地區，人們可以在那裡進行戶外娛樂活動，同時保護自然環境。"
+        }
+      },
+      {
+        "id": "point-277",
+        "questionId": "12-13",
+        "text": {
+          "en": "The Wars of the Roses (1455-1485) were fought between the House of Lancaster (red rose) and the House of York (white rose).",
+          "zh": "玫瑰戰爭（1455-1485年）是在蘭卡斯特家族（紅玫瑰）和約克家族（白玫瑰）之間進行的。"
+        }
+      },
+      {
+        "id": "point-278",
+        "questionId": "12-14",
+        "text": {
+          "en": "Winston Churchill became Prime Minister in 1940 and led Britain through the Second World War with his inspiring speeches and leadership.",
+          "zh": "溫斯頓·邱吉爾（Winston Churchill）於1940年成為首相，並以其鼓舞人心的演講和領導力帶領英國度過第二次世界大戰。"
+        }
+      },
+      {
+        "id": "point-279",
+        "questionId": "12-15",
+        "text": {
+          "en": "Christmas Day is celebrated on the 25th of December to commemorate the birth of Jesus Christ.",
+          "zh": "聖誕節在每年的 12 月 25 日慶祝，以紀念耶穌基督的誕生。"
+        }
+      },
+      {
+        "id": "point-281",
+        "questionId": "12-17",
+        "text": {
+          "en": "William Shakespeare wrote 'A Midsummer Night's Dream'. The other options ('Pride and Prejudice' and 'Sense and Sensibility' were written by Jane Austen; 'Great Expectations' was written by Charles Dickens).",
+          "zh": "威廉·莎士比亞撰寫了《仲夏夜之夢》。其他選項中，《傲慢與偏見》和《理性與感性》是由珍·奧斯汀撰寫；《遠大前程》是由查爾斯·狄更斯撰寫。"
+        }
+      },
+      {
+        "id": "point-285",
+        "questionId": "12-21",
+        "text": {
+          "en": "The Domesday Book was compiled in 1086 on the orders of King William the Conqueror, twenty years after the Norman Conquest.",
+          "zh": "《末日審判書》（Domesday Book）是征服者威廉國王於 1086 年下令編纂的，也就是在諾曼征服 20 年後。"
+        }
+      },
+      {
+        "id": "point-286",
+        "questionId": "12-22",
+        "text": {
+          "en": "One of the Monarch's key ceremonial duties is to receive foreign ambassadors and high commissioners, as the formal head of state.",
+          "zh": "君主作為正式的國家元首，其關鍵的禮儀職責之一是接見外國大使和高級專員。"
+        }
+      },
+      {
+        "id": "point-287",
+        "questionId": "12-23",
+        "text": {
+          "en": "The First World War ended at 11.00 am on 11th November 1918.",
+          "zh": "第一次世界大戰於1918年11月11日上午11點結束。"
+        }
+      },
+      {
+        "id": "point-291",
+        "questionId": "13-3",
+        "text": {
+          "en": "Lewis Hamilton is a British racing driver who has won multiple Formula One World Championship titles.",
+          "zh": "劉易斯·咸美頓（Lewis Hamilton）是英國賽車手，曾多次獲得一級方程式賽車（F1）世界冠軍頭銜。"
+        }
+      },
+      {
+        "id": "point-294",
+        "questionId": "13-6",
+        "text": {
+          "en": "Julius Caesar led Roman expeditions to Britain in 55 BC and 54 BC. The actual Roman conquest of Britain began later, in AD 43, under Emperor Claudius.",
+          "zh": "尤利烏斯·凱撒於公元前55年和公元前54年率領羅馬軍隊遠征不列顛。羅馬對不列顛的實際征服則始於後來的公元43年，由皇帝克勞狄斯率領。"
+        }
+      },
+      {
+        "id": "point-295",
+        "questionId": "13-7",
+        "text": {
+          "en": "The standard UK coins in circulation are 1p, 2p, 5p, 10p, 20p, 50p, £1, and £2. There is no 25p coin.",
+          "zh": "英國流通的標準硬幣有 1p、2p、5p、10p、20p、50p、£1 和 £2。沒有 25p 硬幣。"
+        }
+      },
+      {
+        "id": "point-297",
+        "questionId": "13-9",
+        "text": {
+          "en": "Queen Elizabeth I was the daughter of King Henry VIII and his second wife, Anne Boleyn.",
+          "zh": "伊莉莎白一世女王 （Queen Elizabeth I） 是亨利八世國王 （King Henry VIII） 與其第二任妻子安妮 · 博林 （Anne Boleyn） 的女兒。"
+        }
+      },
+      {
+        "id": "point-298",
+        "questionId": "13-10",
+        "text": {
+          "en": "Admiral Nelson died at the Battle of Trafalgar in 1805, where the Royal Navy defeated the combined French and Spanish fleets.",
+          "zh": "納爾遜海軍上將 （Admiral Nelson） 於 1805 年的特拉法加海戰 （Battle of Trafalgar） 中犧牲，在該戰役中皇家海軍擊敗了法國和西班牙的聯合艦隊。"
+        }
+      },
+      {
+        "id": "point-300",
+        "questionId": "13-12",
+        "text": {
+          "en": "School governors are responsible for setting the strategic direction of the school and monitoring its performance.",
+          "zh": "校董會負責指導學校的長期發展及監督其表現。"
+        }
+      },
+      {
+        "id": "point-301",
+        "questionId": "13-13",
+        "text": {
+          "en": "The Grand National is a world-famous National Hunt horse race held annually at Aintree Racecourse near Liverpool.",
+          "zh": "國家大賽（Grand National）是每年在利物浦附近的安特里馬場（Aintree Racecourse）舉行的世界著名越野障礙賽馬活動。"
+        }
+      },
+      {
+        "id": "point-302",
+        "questionId": "13-14",
+        "text": {
+          "en": "This statement is true. The Archbishops of Canterbury and York, the Bishops of London, Durham, and Winchester, and 21 other senior diocesan bishops sit in the House of Lords as 'Lords Spiritual'.",
+          "zh": "此陳述是正確的。坎特伯里和大主教、約克大主教、倫敦、達勒姆和溫切斯特主教，以及其他21位資深教區主教，作為「神職議員」（Lords Spiritual）在上議院中擁有席位。"
+        }
+      },
+      {
+        "id": "point-304",
+        "questionId": "13-16",
+        "text": {
+          "en": "The National Service of Remembrance is held at the Cenotaph in Whitehall, London, on Remembrance Sunday (the Sunday closest to 11th November).",
+          "zh": "國家紀念儀式於紀念星期日（最接近11月11日的星期日）在倫敦白廳的和平紀念碑（Cenotaph）舉行。"
+        }
+      },
+      {
+        "id": "point-311",
+        "questionId": "13-23",
+        "text": {
+          "en": "The 'Dunkirk spirit' refers to the determination and solidarity shown by the British public during the evacuation of Allied soldiers from the beaches of Dunkirk in 1940.",
+          "zh": "「敦克爾克精神」是指 1940 年在敦克爾克海灘撤離盟軍士兵期間，英國公眾所展現出的決心與團結精神。"
+        }
+      },
+      {
+        "id": "point-316",
+        "questionId": "14-4",
+        "text": {
+          "en": "The area in London famous for its concentration of theatres is known as Theatreland, located in the West End.",
+          "zh": "劇院區 (Theatreland)。倫敦西區的劇院聚集地被稱為「劇院區」。"
+        }
+      },
+      {
+        "id": "point-318",
+        "questionId": "14-6",
+        "text": {
+          "en": "The Battle of Britain was a crucial aerial battle fought in the summer of 1940 between the British Royal Air Force and the German Luftwaffe.",
+          "zh": "不列顛戰役是1940年夏天在英國皇家空軍與德國空軍之間展開的一場關鍵空戰。"
+        }
+      },
+      {
+        "id": "point-322",
+        "questionId": "14-10",
+        "text": {
+          "en": "Sir Robert Watson-Watt developed the radar system, which played a crucial role in the Battle of Britain.",
+          "zh": "羅伯特 · 沃森-瓦特爵士 （Sir Robert Watson-Watt） 研發了雷達系統，這在不列顛戰役中發揮了關鍵作用。"
+        }
+      },
+      {
+        "id": "point-323",
+        "questionId": "14-11",
+        "text": {
+          "en": "The Canterbury Tales is a collection of 24 stories written in Middle English by Geoffrey Chaucer, mostly written in verse (poems).",
+          "zh": "《坎特伯雷故事集》（The Canterbury Tales）是傑弗里·喬叟用中古英語撰寫的24個故事的合集，大部分以詩歌形式寫成。"
+        }
+      },
+      {
+        "id": "point-325",
+        "questionId": "14-13",
+        "text": {
+          "en": "The Yeoman Warders, popularly known as Beefeaters, have guarded the Tower of London since Tudor times.",
+          "zh": "御林兵（Yeoman Warders），俗稱「牛肉饕客」（Beefeaters），自都鐸王朝以來就一直看守著倫敦塔。"
+        }
+      },
+      {
+        "id": "point-327",
+        "questionId": "14-15",
+        "text": {
+          "en": "Both racial crime and smoking in designated smoke-free public places are criminal offences in the UK.",
+          "zh": "在英國，種族犯罪和在規定的無菸公共場所吸菸都屬於刑事犯罪 （Criminal offences） 。"
+        }
+      },
+      {
+        "id": "point-331",
+        "questionId": "14-19",
+        "text": {
+          "en": "King James I ordered a new translation of the Bible into English, which became known as the Authorised Version (or King James Version).",
+          "zh": "國王詹姆士一世下令將《聖經》重新翻譯成英文，這部譯本被稱為「授權版」 (Authorised Version，或稱《英王欽定版》)。"
+        }
+      },
+      {
+        "id": "point-335",
+        "questionId": "14-23",
+        "text": {
+          "en": "In 1715, Scottish Jacobites attempted to put James II's son on the throne, but the rebellion was quickly defeated.",
+          "zh": "1715年，蘇格蘭詹姆士黨人（Jacobites）試圖將詹姆士二世的兒子推上王位，但叛亂很快被擊敗。"
+        }
+      },
+      {
+        "id": "point-337",
+        "questionId": "15-1",
+        "text": {
+          "en": "The Fenians were 19th-century campaigners who favored complete independence of Ireland from the UK.",
+          "zh": "芬尼亞人（Fenians）是19世紀支持愛爾蘭完全脫離英國獨立的運動者。"
+        }
+      },
+      {
+        "id": "point-338",
+        "questionId": "15-2",
+        "text": {
+          "en": "Robert the Bruce defeated the English army led by Edward II at the Battle of Bannockburn in 1314, securing Scottish independence.",
+          "zh": "羅伯特·布魯斯在 1314 年的班諾克本戰役中擊敗了由愛德華二世率領的英格蘭軍隊，確保了蘇格蘭的獨立。"
+        }
+      },
+      {
+        "id": "point-343",
+        "questionId": "15-7",
+        "text": {
+          "en": "Easter is a Christian holiday that takes place in March or April.",
+          "zh": "復活節是基督教節日，在每年的 3 月或 4 月舉行。"
+        }
+      },
+      {
+        "id": "point-344",
+        "questionId": "15-8",
+        "text": {
+          "en": "You must be at least 18 years old to stand for public office, such as an MP or local councillor, in the UK.",
+          "zh": "在英國，您必須年滿18歲才能競選公職（例如國會議員或地方議員）。"
+        }
+      },
+      {
+        "id": "point-345",
+        "questionId": "15-9",
+        "text": {
+          "en": "The Magna Carta (Great Charter) was created in 1215 when King John was forced by his barons to sign it, establishing that the king was subject to the law.",
+          "zh": "大憲章（Magna Carta）建於1215年，當時約翰國王被迫與貴族簽署，確立了法律高於王權的原則。"
+        }
+      },
+      {
+        "id": "point-346",
+        "questionId": "15-10",
+        "text": {
+          "en": "Sonnets are 14-line poems with a specific structure. Shakespeare wrote 154 of them.",
+          "zh": "十四行詩（sonnet）是具有特定結構的14行詩。莎士比亞創作了154首此類詩歌。"
+        }
+      },
+      {
+        "id": "point-350",
+        "questionId": "15-14",
+        "text": {
+          "en": "The electoral register is updated by an annual canvass. Every household receives a form (the annual canvass form) to update the register, which must be completed and returned.",
+          "zh": "選民登記冊是透過年度調查進行更新的。每個住戶都會收到一份登記表，必須填妥並寄回。"
+        }
+      },
+      {
+        "id": "point-352",
+        "questionId": "15-16",
+        "text": {
+          "en": "The National Trust is a UK charity that preserves historic buildings, coastlines, and the countryside.",
+          "zh": "The National Trust (國家信託)。該機構專門保護歷史建築、海岸線和自然景觀。"
+        }
+      },
+      {
+        "id": "point-353",
+        "questionId": "15-17",
+        "text": {
+          "en": "Mary Peters won a gold medal in the pentathlon at the 1972 Olympics.",
+          "zh": "瑪麗·彼得斯（Mary Peters）在1972年奧運會上贏得了五項全能的金牌。"
+        }
+      },
+      {
+        "id": "point-355",
+        "questionId": "15-19",
+        "text": {
+          "en": "'The Canterbury Tales' by Geoffrey Chaucer is a collection of stories told by a group of pilgrims on their way to Canterbury.",
+          "zh": "傑弗里·喬叟所著的《坎特伯里故事集》 (The Canterbury Tales) 是一部講述一群朝聖者在前往坎特伯里途中講述故事的集合。"
+        }
+      },
+      {
+        "id": "point-357",
+        "questionId": "15-21",
+        "text": {
+          "en": "The Battle of Britain (1940) was fought entirely in the air between the British Royal Air Force (RAF) and the German Luftwaffe.",
+          "zh": "不列顛戰役 (1940 年) 是一場完全在空中進行的對決，由英國皇家空軍 (RAF) 對抗德國空軍。"
+        }
+      },
+      {
+        "id": "point-358",
+        "questionId": "15-22",
+        "text": {
+          "en": "The people of the Iron Age made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings.",
+          "zh": "鐵器時代的人製造了英國最早鑄造的硬幣，其中一些硬幣上刻有鐵器時代國王的名字。"
+        }
+      },
+      {
+        "id": "point-359",
+        "questionId": "15-23",
+        "text": {
+          "en": "Beefeaters (Yeoman Warders) serve as tour guides at the Tower of London, where they have guarded the fortress since the Tudor period.",
+          "zh": "倫敦塔衛士 (Yeoman Warders，俗稱 Beefeaters) 在倫敦塔擔任導遊，他們自都鐸王朝時期起就一直看守着這座堡壘。"
+        }
+      },
+      {
+        "id": "point-360",
+        "questionId": "15-24",
+        "text": {
+          "en": "Charlie Chaplin was famous for his silent movie character, 'the Tramp'.",
+          "zh": "查理 · 卓別林 （Charlie Chaplin） 以其默片角色「流浪漢」 （the Tramp） 而聞名。"
+        }
+      },
+      {
+        "id": "point-365",
+        "questionId": "16-5",
+        "text": {
+          "en": "St Augustine became the first Archbishop of Canterbury.",
+          "zh": "聖奧古斯丁成為第一任坎特伯雷大主教。"
+        }
+      },
+      {
+        "id": "point-368",
+        "questionId": "16-8",
+        "text": {
+          "en": "The Battle of Marston Moor (1644) and the Battle of Naseby (1645) were major conflicts of the English Civil War, both won by the Parliamentarians.",
+          "zh": "馬斯頓荒原戰役（1644年）和內斯比戰役（1645年）是英格蘭內戰期間的主要衝突，均由議會派獲勝。"
+        }
+      },
+      {
+        "id": "point-372",
+        "questionId": "16-12",
+        "text": {
+          "en": "Queen Elizabeth II was the head of state of the United Kingdom and also of many individual Commonwealth nations (like Canada, Australia, and New Zealand).",
+          "zh": "女王伊莉莎白二世是英國的國家元首，同時也是許多獨立大英國協國家（如加拿大、澳洲和紐西蘭）的國家元首。"
+        }
+      },
+      {
+        "id": "point-378",
+        "questionId": "16-18",
+        "text": {
+          "en": "MPs can be contacted by letter, telephone, email, or in person at their local constituency surgeries.",
+          "zh": "可以透過信件、電話、電子郵件聯繫國會議員，或者親自前往他們在當地選區的辦事處面談。"
+        }
+      },
+      {
+        "id": "point-381",
+        "questionId": "16-21",
+        "text": {
+          "en": "William Wilberforce was a British politician and philanthropist who led the movement to abolish the slave trade in the British Empire.",
+          "zh": "威廉·威伯福斯是一位英國政治家和慈善家，他領導了廢除大英帝國奴隸貿易的運動。"
+        }
+      },
+      {
+        "id": "point-382",
+        "questionId": "16-22",
+        "text": {
+          "en": "During the Enlightenment, Scottish philosopher Adam Smith wrote 'The Wealth of Nations', developing key ideas about economics and free markets.",
+          "zh": "在啟蒙運動時期，蘇格蘭哲學家亞當·斯密撰寫了《國富論》，發展了關於經濟學和自由市場的關鍵思想。"
+        }
+      },
+      {
+        "id": "point-383",
+        "questionId": "16-23",
+        "text": {
+          "en": "The Magna Carta (Great Charter) of 1215 restricted the King's power and established that even the monarch is subject to the law.",
+          "zh": "1215年的《大憲章》限制了國王的權力，並確立了即使是君主也必須遵守法律的原則。"
+        }
+      },
+      {
+        "id": "point-385",
+        "questionId": "17-1",
+        "text": {
+          "en": "Christmas Day, celebrated on 25 December, is a Christian holiday that commemorates the birth of Jesus Christ.",
+          "zh": "聖誕節在每年的12月25日慶祝，是一個紀念耶穌基督降生的基督教節日。"
+        }
+      },
+      {
+        "id": "point-386",
+        "questionId": "17-2",
+        "text": {
+          "en": "William Wordsworth was a leader of the Romantic movement in English literature, famous for his poems inspired by the nature of the Lake District.",
+          "zh": "威廉·華茲華斯是英國文學中浪漫主義運動的領袖，以其受湖區自然風光啟發的詩歌而聞名。"
+        }
+      },
+      {
+        "id": "point-387",
+        "questionId": "17-3",
+        "text": {
+          "en": "While Northern Irish and Scottish bank notes are valid throughout the UK, some shops and businesses may choose not to accept them.",
+          "zh": "雖然北愛爾蘭和蘇格蘭的紙幣在整個英國都是有效的，但某些商店和商家可能會選擇不接受它們。"
+        }
+      },
+      {
+        "id": "point-388",
+        "questionId": "17-4",
+        "text": {
+          "en": "Queen Elizabeth II celebrated her Diamond Jubilee in 2012, marking 60 years on the throne.",
+          "zh": "鑽禧。2012年，伊莉莎白二世女王慶祝了她登基60週年的鑽禧。"
+        }
+      },
+      {
+        "id": "point-390",
+        "questionId": "17-6",
+        "text": {
+          "en": "Mary Stuart (Mary, Queen of Scots) was a Catholic who spent much of her childhood in France.",
+          "zh": "瑪麗 · 斯圖亞特 （Mary Stuart，即「蘇格蘭女王瑪麗」） 是一位天主教徒，她的童年大部分時間在法國度過。"
+        }
+      },
+      {
+        "id": "point-392",
+        "questionId": "17-8",
+        "text": {
+          "en": "After his defeat at the Battle of Worcester in 1651, Charles II hid in an oak tree at Boscobel House to escape Parliamentarian soldiers.",
+          "zh": "在 1651 年的伍斯特戰役 （Battle of Worcester） 中被擊敗後，查理二世 （Charles II） 曾躲在博斯科貝爾府 （Boscobel House） 的一棵橡樹中以躲避議會軍，隨後逃往歐洲。"
+        }
+      },
+      {
+        "id": "point-394",
+        "questionId": "17-10",
+        "text": {
+          "en": "Florence Nightingale was a pioneering nurse who treated wounded soldiers during the Crimean War and founded modern nursing.",
+          "zh": "弗洛倫斯·南丁格爾是一位護理先驅，在克里米亞戰爭期間治療受傷的士兵，並創立了現代護理學。"
+        }
+      },
+      {
+        "id": "point-397",
+        "questionId": "17-13",
+        "text": {
+          "en": "Anne Boleyn, the second wife of King Henry VIII, was executed at the Tower of London.",
+          "zh": "國王亨利八世 （Henry VIII） 的第二任妻子安妮 · 博林 （Anne Boleyn） 在倫敦塔 （Tower of London） 被處決。"
+        }
+      },
+      {
+        "id": "point-403",
+        "questionId": "17-19",
+        "text": {
+          "en": "The Crystal Palace was a huge iron and glass structure built in Hyde Park to house the Great Exhibition of 1851.",
+          "zh": "水晶宮是一座巨大的鐵和玻璃結構建築，建於海德公園，用於舉辦1851年的萬國工業博覽會。"
+        }
+      },
+      {
+        "id": "point-405",
+        "questionId": "17-21",
+        "text": {
+          "en": "Good Friday is the day when Jesus Christ died. Easter Sunday commemorates his rising from the dead.",
+          "zh": "耶穌受難日是紀念耶穌基督死亡的日子。"
+        }
+      },
+      {
+        "id": "point-407",
+        "questionId": "17-23",
+        "text": {
+          "en": "The implementation of Home Rule in Ireland was suspended due to the outbreak of the First World War in 1914.",
+          "zh": "由於1914年第一次世界大戰的爆發，愛爾蘭地方自治權的實施被暫緩。"
+        }
+      },
+      {
+        "id": "point-408",
+        "questionId": "17-24",
+        "text": {
+          "en": "The Cenotaph in Whitehall, London, was designed by Sir Edwin Lutyens as a memorial to those who died in the First World War.",
+          "zh": "位於倫敦白廳的和平紀念碑是由愛德溫·魯琴斯爵士設計的，用以紀念在第一次世界大戰中陣亡的將士。"
+        }
+      },
+      {
+        "id": "point-410",
+        "questionId": "18-2",
+        "text": {
+          "en": "Women's immense contribution to the war effort during the First World War was a major factor in finally securing the right to vote in 1918.",
+          "zh": "女性在第一次世界大戰期間對戰爭的巨大貢獻，是促成她們最終在1918年獲得投票權的主要因素。"
+        }
+      },
+      {
+        "id": "point-411",
+        "questionId": "18-3",
+        "text": {
+          "en": "The University of Oxford and the University of Cambridge compete in the famous annual Boat Race on the River Thames.",
+          "zh": "牛津大學（University of Oxford）和劍橋大學（University of Cambridge）在泰晤士河上進行一年一度著名的划船對抗賽（The Boat Race）。"
+        }
+      },
+      {
+        "id": "point-412",
+        "questionId": "18-4",
+        "text": {
+          "en": "Domestic violence is a serious crime in the UK, and anyone who is violent towards their partner can be prosecuted.",
+          "zh": "在英國，家庭暴力是嚴重的犯罪，任何人對伴侶施暴都可能被起訴。"
+        }
+      },
+      {
+        "id": "point-415",
+        "questionId": "18-7",
+        "text": {
+          "en": "Beowulf is an Old English epic poem, consisting of 3,182 alliterative lines, telling the story of its hero Beowulf who battles the monster Grendel, Grendel's mother, and a dragon.",
+          "zh": "《貝奧武夫》（Beowulf）是一部古英語史詩，由3,182行頭韻詩句組成，講述了英雄貝奧武夫與怪物格蘭戴爾、格蘭戴爾的母親以及一條巨龍戰鬥的故事。"
+        }
+      },
+      {
+        "id": "point-417",
+        "questionId": "18-9",
+        "text": {
+          "en": "The United Kingdom is located in the north-west of the European continent.",
+          "zh": "聯合王國位於歐洲大陸的西北部。"
+        }
+      },
+      {
+        "id": "point-420",
+        "questionId": "18-12",
+        "text": {
+          "en": "William Shakespeare, widely regarded as the greatest writer in the English language, was born in Stratford-upon-Avon.",
+          "zh": "威廉·莎士比亞被廣泛認為是英語文學中最偉大的作家，他出生於埃文河畔斯特拉特福。"
+        }
+      },
+      {
+        "id": "point-421",
+        "questionId": "18-13",
+        "text": {
+          "en": "Elizabeth I was the daughter of King Henry VIII and his second wife, Anne Boleyn.",
+          "zh": "伊麗莎白一世是國王亨利八世與其第二任妻子安妮·博林的女兒。"
+        }
+      },
+      {
+        "id": "point-422",
+        "questionId": "18-14",
+        "text": {
+          "en": "The Battle of Waterloo in 1815 was the final defeat of Napoleon and the last major battle fought between Britain and France.",
+          "zh": "1815年的滑鐵盧戰役是拿破崙的最終失敗，也是英國和法國之間最後一場重大戰役。"
+        }
+      },
+      {
+        "id": "point-423",
+        "questionId": "18-15",
+        "text": {
+          "en": "This event is called the 'Glorious Revolution' because there was no fighting and it established the parliament's power over the monarch.",
+          "zh": "這一事件被稱為「光榮革命」 （Glorious Revolution） ，因為整個過程沒有發生戰鬥，並且確立了議會高於君主的權力。"
+        }
+      },
+      {
+        "id": "point-426",
+        "questionId": "18-18",
+        "text": {
+          "en": "The Enlightenment was an intellectual and philosophical movement that dominated the world of ideas in Europe during the 18th century.",
+          "zh": "啟盟運動 （The Enlightenment） 是 18 世紀主導歐洲思想界的一場知識與哲學運動，在此期間發展了關於政治、哲學和科學的新思想。"
+        }
+      },
+      {
+        "id": "point-427",
+        "questionId": "18-19",
+        "text": {
+          "en": "St Helena is a British Overseas Territory, but it is not part of the United Kingdom itself.",
+          "zh": "聖赫勒拿（St Helena）是英國海外領土，但它本身不屬於聯合王國（UK）的一部分。"
+        }
+      },
+      {
+        "id": "point-431",
+        "questionId": "18-23",
+        "text": {
+          "en": "The Speaker is the MP chosen to chair debates in the House of Commons, keeping order and remaining politically neutral.",
+          "zh": "議長（The Speaker）是獲選主持下議院辯論的議員，負責維持秩序並保持政治中立。"
+        }
+      },
+      {
+        "id": "point-432",
+        "questionId": "18-24",
+        "text": {
+          "en": "The Yeomen Warders, popularly known as Beefeaters, serve as tour guides at the Tower of London.",
+          "zh": "倫敦塔衛兵 (Beefeaters)。他們正式名稱為「御用侍從衛士」，負責在倫敦塔為遊客導覽。"
+        }
+      }
+    ]
+  },
+  {
+    "chapterId": 4,
+    "title": {
+      "en": "A modern, thriving society",
+      "zh": "現代繁榮的社會"
+    },
+    "points": [
+      {
+        "id": "point-18",
+        "questionId": "1-18",
+        "text": {
+          "en": "The Proms is an eight-week summer season of daily orchestral classical music concerts held predominantly in the Royal Albert Hall.",
+          "zh": "逍遙音樂會（The Proms）是為期八週的夏季古典音樂節，每日都有管弦樂古典音樂會，主要在皇家阿爾伯特音樂廳（Royal Albert Hall）舉行。"
+        }
+      },
+      {
+        "id": "point-37",
+        "questionId": "2-13",
+        "text": {
+          "en": "The BBC is a public service broadcaster that is independent of government control and operates under a Royal Charter.",
+          "zh": "英國廣播公司（BBC）是公共服務廣播機構，獨立於政府控制，並根據皇家特許狀（Royal Charter）運作。"
+        }
+      },
+      {
+        "id": "point-49",
+        "questionId": "3-1",
+        "text": {
+          "en": "A Yorkshire pudding is made of flour, eggs, and milk baked in the oven to puff up, traditionally eaten with roast meat.",
+          "zh": "約克郡布丁是用麵粉、雞蛋和牛奶調成的麵糊在烤箱中烘烤膨脹而成，傳統上與烤肉搭配食用。"
+        }
+      },
+      {
+        "id": "point-68",
+        "questionId": "3-20",
+        "text": {
+          "en": "Sherlock Holmes was created by Sir Arthur Conan Doyle (1859–1930), a Scottish writer and physician.",
+          "zh": "福爾摩斯是由蘇格蘭作家兼醫生亞瑟·柯南·道爾爵士（1859–1930年）所創造的虛構偵探。"
+        }
+      },
+      {
+        "id": "point-102",
+        "questionId": "5-6",
+        "text": {
+          "en": "The 1960s was a decade of significant social change, liberalisation of laws, and the rise of British pop music, including The Beatles.",
+          "zh": "1960年代是社會發生重大變革、法律變得更加自由以及英國流行音樂（包括披頭四樂團）崛起的十年。"
+        }
+      },
+      {
+        "id": "point-111",
+        "questionId": "5-15",
+        "text": {
+          "en": "Friends of the Earth is an international environmental charity.",
+          "zh": "「地球之友」 （Friends of the Earth） 是一個國際性的環保慈善機構。"
+        }
+      },
+      {
+        "id": "point-119",
+        "questionId": "5-23",
+        "text": {
+          "en": "Friends of the Earth is an international environmental charity dedicated to protecting the natural world.",
+          "zh": "「地球之友」（Friends of the Earth）是一個致力於保護自然世界的國際環保慈善機構。"
+        }
+      },
+      {
+        "id": "point-125",
+        "questionId": "6-5",
+        "text": {
+          "en": "Diwali (the Festival of Lights) is an important festival celebrated by Hindus, Sikhs, and Jains.",
+          "zh": "排燈節（光明節）是印度教徒、錫克教徒和耆那教徒慶祝的重要節日。"
+        }
+      },
+      {
+        "id": "point-126",
+        "questionId": "6-6",
+        "text": {
+          "en": "The Beatles and The Rolling Stones were famous British pop music groups during the 1960s.",
+          "zh": "披頭四樂團和滾石樂團是1960年代著名的英國流行音樂團體。"
+        }
+      },
+      {
+        "id": "point-131",
+        "questionId": "6-11",
+        "text": {
+          "en": "Hogmanay is the Scottish word for New Year's Eve, widely celebrated with traditions and parties across Scotland.",
+          "zh": "霍格曼內 (Hogmanay) 是蘇格蘭語中對除夕（跨年夜）的稱呼，在蘇格蘭各地都有廣泛的慶祝傳統和派對。"
+        }
+      },
+      {
+        "id": "point-147",
+        "questionId": "7-3",
+        "text": {
+          "en": "Charlie Chaplin became a global icon of silent cinema through his famous character 'The Tramp'.",
+          "zh": "查理·卓別林憑藉其著名的「流浪漢」 (The Tramp) 角色成為全球默片時代的標誌性人物。"
+        }
+      },
+      {
+        "id": "point-158",
+        "questionId": "7-14",
+        "text": {
+          "en": "John Petts was a Welsh artist known for his exceptional work in engraving and designing stained glass.",
+          "zh": "約翰·佩茨（John Petts）是威爾斯藝術家，以其在雕刻和彩色玻璃設計方面的傑出作品而聞名。"
+        }
+      },
+      {
+        "id": "point-169",
+        "questionId": "8-1",
+        "text": {
+          "en": "Traditional heavy industries, such as shipbuilding, were badly affected during the Great Depression of the 1930s.",
+          "zh": "傳統的重工業（如造船業）在大蕭條期間遭受了重創。"
+        }
+      },
+      {
+        "id": "point-190",
+        "questionId": "8-22",
+        "text": {
+          "en": "Canals were built to link the factories to towns and cities and to the ports for transportation of goods.",
+          "zh": "建造運河是為了將工廠與城鎮和港口連接起來，以利貨物運輸。"
+        }
+      },
+      {
+        "id": "point-215",
+        "questionId": "9-23",
+        "text": {
+          "en": "The lines \"God save our gracious Queen!\" and \"Send her victorious\" are key parts of the traditional UK National Anthem.",
+          "zh": "「上帝保佑我們慈祥的女王！」和「願她勝利」是英國傳統國歌的主要歌詞。"
+        }
+      },
+      {
+        "id": "point-220",
+        "questionId": "10-4",
+        "text": {
+          "en": "Diwali is a Hindu and Sikh festival widely known as the 'Festival of Lights'.",
+          "zh": "排燈節（Diwali）是印度教和錫克教的節日，廣為人知的別名為「光明節」（Festival of Lights）。"
+        }
+      },
+      {
+        "id": "point-237",
+        "questionId": "10-21",
+        "text": {
+          "en": "The National Anthem can be played on many public and official occasions, such as sports events, and does not require the presence of the Monarch.",
+          "zh": "國歌可以在許多公共和官方場合演奏（例如體育賽事），並不需要君主在場。"
+        }
+      },
+      {
+        "id": "point-244",
+        "questionId": "11-4",
+        "text": {
+          "en": "Henry VIII's first wife was Catherine of Aragon, a Spanish princess who had previously been married to Henry's elder brother, Arthur.",
+          "zh": "亨利八世的第一任妻子是阿拉貢的凱瑟琳，她是一位西班牙公主，此前曾嫁給亨利八世的哥哥亞瑟。"
+        }
+      },
+      {
+        "id": "point-245",
+        "questionId": "11-5",
+        "text": {
+          "en": "Canvassing involves volunteers or party members visiting households to persuade people to vote for their political party.",
+          "zh": "「拉票」 （Canvassing） 是指志工或政黨成員拜訪住戶，以說服人們投票給其政黨。"
+        }
+      },
+      {
+        "id": "point-248",
+        "questionId": "11-8",
+        "text": {
+          "en": "Margaret Thatcher, the leader of the Conservative Party, became the UK's first female Prime Minister in 1979.",
+          "zh": "保守黨黨魁瑪格麗特·柴契爾（Margaret Thatcher）於 1979 年成為英國第一位女性首相。"
+        }
+      },
+      {
+        "id": "point-272",
+        "questionId": "12-8",
+        "text": {
+          "en": "Wallace and Gromit is a well-known animated film series created by Nick Park.",
+          "zh": "《酷狗寶貝》是一部由尼克·帕克創作的知名停格動畫電影。"
+        }
+      },
+      {
+        "id": "point-307",
+        "questionId": "13-19",
+        "text": {
+          "en": "The Tate Britain and Tate Modern art galleries are located in London. There are also Tate galleries in Liverpool and St Ives.",
+          "zh": "泰特不列顛館（Tate Britain）和泰特現代藝術館（Tate Modern）均位於倫敦。在利物浦和聖艾夫斯也有泰特美術館。"
+        }
+      },
+      {
+        "id": "point-310",
+        "questionId": "13-22",
+        "text": {
+          "en": "The 1960s was a period of significant social change and is famous for the growth of British fashion and pop music, including bands like The Beatles and The Rolling Stones.",
+          "zh": "1960 年代是一個發生重大社會變革的時期，以英國時尚和流行音樂（包括披頭四樂團和滾石樂團等樂隊）的蓬勃發展而聞名。"
+        }
+      },
+      {
+        "id": "point-314",
+        "questionId": "14-2",
+        "text": {
+          "en": "This statement is false. The National Anthem is played on many public and official occasions, such as sports events, and does not require the presence of the Monarch.",
+          "zh": "此陳述是錯誤的。國歌會在許多公眾和官方場合演奏（例如體育賽事），並不需要君主在場。"
+        }
+      },
+      {
+        "id": "point-324",
+        "questionId": "14-12",
+        "text": {
+          "en": "Haggis is a traditional Scottish dish made from sheep's offal, oatmeal, suet, onion, and spices.",
+          "zh": "哈吉斯是蘇格蘭的傳統菜餚，由羊內臟、燕麥片、板油、洋蔥和香料製成。"
+        }
+      },
+      {
+        "id": "point-328",
+        "questionId": "14-16",
+        "text": {
+          "en": "The Great Fire of London in 1666 destroyed large parts of the city during the reign of Charles II.",
+          "zh": "發生火災。1666年的倫敦大火在查理二世統治期間摧毀了倫敦的大部分地區。"
+        }
+      },
+      {
+        "id": "point-356",
+        "questionId": "15-20",
+        "text": {
+          "en": "Unlike newspapers, British radio and television broadcasters are legally required to provide balanced and impartial coverage of political parties.",
+          "zh": "與報紙不同，英國法律規定廣播和電視媒體對政黨的報導必須保持平衡與公正，並向相互競爭的觀點提供平等的發言時間。"
+        }
+      },
+      {
+        "id": "point-361",
+        "questionId": "16-1",
+        "text": {
+          "en": "Vindolanda and Housesteads are two forts that were part of Hadrian's Wall.",
+          "zh": "文多蘭達（Vindolanda）和豪斯泰德（Housesteads）是哈德良長城上的兩座堡壘。"
+        }
+      },
+      {
+        "id": "point-363",
+        "questionId": "16-3",
+        "text": {
+          "en": "Sir Arthur Conan Doyle was a Scottish writer who created the famous fictional detective Sherlock Holmes.",
+          "zh": "亞瑟·柯南·道爾爵士。他是蘇格蘭作家，創造了著名的虛構偵探福爾摩斯。"
+        }
+      },
+      {
+        "id": "point-364",
+        "questionId": "16-4",
+        "text": {
+          "en": "Andrew Lloyd Webber is a highly successful British composer who wrote famous musicals like Cats, Evita, and The Phantom of the Opera.",
+          "zh": "安德魯·洛伊·韋伯（Andrew Lloyd Webber）是位非常成功的英國作曲家，曾創作了《貓》、《艾薇塔》和《歌劇魅影》等著名音樂劇。"
+        }
+      },
+      {
+        "id": "point-367",
+        "questionId": "16-7",
+        "text": {
+          "en": "Diwali is the Festival of Lights, celebrated by both Hindus and Sikhs.",
+          "zh": "排燈節是印度教徒和錫克教徒共同慶祝的光明節。"
+        }
+      },
+      {
+        "id": "point-369",
+        "questionId": "16-9",
+        "text": {
+          "en": "By law, television and radio coverage must be balanced and impartial, unlike newspapers which can support specific parties.",
+          "zh": "法律規定，電視和廣播的報導必須保持平衡與公正，這與可以支持特定政黨的報紙不同。"
+        }
+      },
+      {
+        "id": "point-371",
+        "questionId": "16-11",
+        "text": {
+          "en": "Auld Lang Syne is a traditional song frequently sung at New Year.",
+          "zh": "《友誼萬歲》（Auld Lang Syne）是新年時常唱的歌曲。"
+        }
+      },
+      {
+        "id": "point-373",
+        "questionId": "16-13",
+        "text": {
+          "en": "To apply for a National Insurance number, you must contact the Department for Work and Pensions (DWP) or apply online through the official government portal.",
+          "zh": "要申請國民保險號碼，您必須聯繫就業及退休保障部（DWP）或透過官方政府網站進行線上申請。"
+        }
+      },
+      {
+        "id": "point-391",
+        "questionId": "17-7",
+        "text": {
+          "en": "The Edinburgh Festival Fringe (often referred to as 'the Fringe') is the world's largest arts festival, taking place in Edinburgh every August.",
+          "zh": "愛丁堡邊緣藝術節（Edinburgh Festival Fringe，通常簡稱為「the Fringe」）是全球最大的藝術節，於每年 8 月在愛丁堡舉行。"
+        }
+      },
+      {
+        "id": "point-404",
+        "questionId": "17-20",
+        "text": {
+          "en": "Having a barbeque is not a traditional Christmas custom in the UK, as Christmas is in the winter when the weather is cold.",
+          "zh": "在英國，吃燒烤並非傳統的聖誕習俗，因為聖誕節是在寒冷的冬季。"
+        }
+      },
+      {
+        "id": "point-414",
+        "questionId": "18-6",
+        "text": {
+          "en": "A Welsh cake is a traditional sweet snack made from flour, dried fruits, and spices, baked on a griddle, and can be served hot or cold.",
+          "zh": "威爾斯蛋糕（Welsh cake）是一種傳統的甜味點心，由麵粉、乾果和香料製成，在烤盤上烤製，可熱食或冷食。"
+        }
+      },
+      {
+        "id": "point-416",
+        "questionId": "18-8",
+        "text": {
+          "en": "The Harry Potter film franchise is one of the most successful film franchises of all time and was produced in the UK.",
+          "zh": "《哈利波特》系列是在英國製作的史上最成功及票房最高的電影系列之一。"
+        }
+      }
+    ]
+  },
+  {
+    "chapterId": 5,
+    "title": {
+      "en": "The UK Government, the law and your role",
+      "zh": "英國政府、法律和你的角色"
+    },
+    "points": [
+      {
+        "id": "point-9",
+        "questionId": "1-9",
+        "text": {
+          "en": "You have to be at least 18 years old to stand for election as a Member of Parliament (MP).",
+          "zh": "候選人必須年滿 18 歲才能參選國會議員 （MP） 。"
+        }
+      },
+      {
+        "id": "point-21",
+        "questionId": "1-21",
+        "text": {
+          "en": "Before an election, registered voters are sent a poll card, which tells them where and when to vote.",
+          "zh": "在選舉前，已註冊的選民會收到一張投票卡（Poll card），上面會說明投票的地點和時間。"
+        }
+      },
+      {
+        "id": "point-27",
+        "questionId": "2-3",
+        "text": {
+          "en": "During the Victorian Age, the government promoted free trade by abolishing taxes on many imported goods, most notably the Corn Laws.",
+          "zh": "在維多利亞時代，政府透過廢除許多進口商品（最著名的是穀物法）的稅收來推動自由貿易。"
+        }
+      },
+      {
+        "id": "point-29",
+        "questionId": "2-5",
+        "text": {
+          "en": "Police complaints can be made in several ways, including writing, visiting a police station, or contacting an independent watchdog, not just writing to the Chief Constable.",
+          "zh": "對警察的投訴可以通過多種方式提出，包括寫信、親自前往警署或聯繫獨立監管機構，而不僅僅是寫信給警務處長。"
+        }
+      },
+      {
+        "id": "point-30",
+        "questionId": "2-6",
+        "text": {
+          "en": "The voting age in the UK for general elections is 18.",
+          "zh": "英國大選的法定投票年齡為 18 歲。"
+        }
+      },
+      {
+        "id": "point-34",
+        "questionId": "2-10",
+        "text": {
+          "en": "Wastwater, a lake in the Lake District National Park, was voted Britain's favourite view in a television poll in 2007.",
+          "zh": "位於湖區國家公園的瓦斯特湖（Wastwater）在2007年的一項電視民調中被選為英國人最喜愛的景觀。"
+        }
+      },
+      {
+        "id": "point-35",
+        "questionId": "2-11",
+        "text": {
+          "en": "Towns, cities, and rural areas in the UK are governed by democratically elected local councils, not by government-appointed officials.",
+          "zh": "英國的城鎮、城市和農村地區是由民主選舉產生的民選地方議會治理，而非由政府任命的官員管理。"
+        }
+      },
+      {
+        "id": "point-45",
+        "questionId": "2-21",
+        "text": {
+          "en": "The Chancellor of the Exchequer is the government's chief finance minister, responsible for the economy and setting the budget.",
+          "zh": "財政大臣（Chancellor of the Exchequer）是政府的首席財政部長，負責經濟和制定預算。"
+        }
+      },
+      {
+        "id": "point-47",
+        "questionId": "2-23",
+        "text": {
+          "en": "Complaints against the police can be made by writing to the Chief Constable of the police force, or through the Independent Office for Police Conduct.",
+          "zh": "對警察的投訴可以通過寫信給該警隊的警務處長（Chief Constable），或通過警察行為獨立辦公室進行。"
+        }
+      },
+      {
+        "id": "point-50",
+        "questionId": "3-2",
+        "text": {
+          "en": "Being drunk and disorderly in public is a criminal offence. The police can issue a fine or arrest you.",
+          "zh": "在公共場合醉酒並擾亂秩序是刑事犯罪。警方可以處以罰款或予以逮捕。"
+        }
+      },
+      {
+        "id": "point-53",
+        "questionId": "3-5",
+        "text": {
+          "en": "In a Crown Court, the jury decides whether the defendant is guilty or not, and the judge decides on the penalty.",
+          "zh": "在皇家刑事法院，陪審團決定被告是否有罪，而法官決定刑罰。"
+        }
+      },
+      {
+        "id": "point-54",
+        "questionId": "3-6",
+        "text": {
+          "en": "10 Downing Street in London is the official residence and office of the British Prime Minister.",
+          "zh": "位於倫敦的唐寧街 10 號 （10 Downing Street） 是英國首相的官方官邸和辦公室。"
+        }
+      },
+      {
+        "id": "point-55",
+        "questionId": "3-7",
+        "text": {
+          "en": "The Bill of Rights 1689 established parliamentary sovereignty and limited the power of the monarch, but did not grant women the right to vote. Women achieved equal voting rights in 1928.",
+          "zh": "1689年的《權利法案》確立了議會主權並限制了君主的權力，但並未賦予女性投票權。女性在1928年才獲得平等的投票權。"
+        }
+      },
+      {
+        "id": "point-59",
+        "questionId": "3-11",
+        "text": {
+          "en": "Polling stations (or polling places in Scotland) are where citizens go to cast their votes in elections and referendums.",
+          "zh": "投票站（在蘇格蘭稱為 polling places）是公民在選舉和公投中投票的地方。"
+        }
+      },
+      {
+        "id": "point-75",
+        "questionId": "4-3",
+        "text": {
+          "en": "General Elections must be held at least once every five years under British law.",
+          "zh": "根據英國法律，大選必須至少每五年舉行一次。"
+        }
+      },
+      {
+        "id": "point-98",
+        "questionId": "5-2",
+        "text": {
+          "en": "The monarch appoints life peers on the advice of the Prime Minister.",
+          "zh": "君主在首相的建議下任命終身貴族。"
+        }
+      },
+      {
+        "id": "point-100",
+        "questionId": "5-4",
+        "text": {
+          "en": "The Welsh Parliament (formerly known as the Welsh Assembly) has 60 members.",
+          "zh": "威爾斯議會（前身為威爾斯議會大會）有 60 名成員。"
+        }
+      },
+      {
+        "id": "point-113",
+        "questionId": "5-17",
+        "text": {
+          "en": "The UK is a parliamentary democracy.",
+          "zh": "英國是一個議會民主制國家。"
+        }
+      },
+      {
+        "id": "point-134",
+        "questionId": "6-14",
+        "text": {
+          "en": "If an MP dies or resigns, a by-election is held in their constituency to elect a new representative.",
+          "zh": "如果國會議員去世或辭職，其選區將舉行補選以選出新的代表。"
+        }
+      },
+      {
+        "id": "point-135",
+        "questionId": "6-15",
+        "text": {
+          "en": "Winston Churchill, the Prime Minister during WWII, was voted the greatest Briton of all time in a 2002 poll.",
+          "zh": "溫斯頓·邱吉爾。他在二戰期間擔任首相，並於2002年獲選為最偉大的英國人。"
+        }
+      },
+      {
+        "id": "point-136",
+        "questionId": "6-16",
+        "text": {
+          "en": "The Home Secretary is a senior government minister responsible for internal affairs, including policing, national security, and crime policy.",
+          "zh": "內政大臣是負責內政的內閣高級大臣，其職責包括警政、國家安全和治安犯罪政策。"
+        }
+      },
+      {
+        "id": "point-139",
+        "questionId": "6-19",
+        "text": {
+          "en": "Prime Minister's Questions (PMQs) is held once every week for 30 minutes on Wednesdays while Parliament is in session.",
+          "zh": "首相問答時間（PMQs）在國會會期內，每週三舉行一次，為時30分鐘。"
+        }
+      },
+      {
+        "id": "point-148",
+        "questionId": "7-4",
+        "text": {
+          "en": "Civil servants are chosen on merit and are politically neutral; they are not appointed by the political government.",
+          "zh": "公務員是根據擇優錄取的原則選拔的，保持政治中立，並非由政黨政府任命。"
+        }
+      },
+      {
+        "id": "point-153",
+        "questionId": "7-9",
+        "text": {
+          "en": "Defence and Immigration are reserved matters, meaning they are controlled by the UK government in Westminster, not the devolved administrations.",
+          "zh": "國防和移民是保留事項，這意味著它們由西敏寺的英國中央政府控制，而不是由下放政府控制。"
+        }
+      },
+      {
+        "id": "point-157",
+        "questionId": "7-13",
+        "text": {
+          "en": "The UK Parliament is made up of two houses: the House of Commons and the House of Lords.",
+          "zh": "英國國會由上議院和下議院這兩個議院所構成。"
+        }
+      },
+      {
+        "id": "point-163",
+        "questionId": "7-19",
+        "text": {
+          "en": "The North American colonies declared independence because of the lack of representation despite being taxed.",
+          "zh": "北美的英國殖民地因為不滿「無代表卻要納稅」而宣布獨立。"
+        }
+      },
+      {
+        "id": "point-177",
+        "questionId": "8-9",
+        "text": {
+          "en": "Big Ben is the nickname for the Great Bell of the clock tower at the Houses of Parliament (Palace of Westminster) in London.",
+          "zh": "大笨鐘是位於倫敦國會大廈（威斯敏斯特宮）鐘樓大銅鐘的綽號。"
+        }
+      },
+      {
+        "id": "point-185",
+        "questionId": "8-17",
+        "text": {
+          "en": "The Lord of the Rings, written by J.R.R. Tolkien, was voted the nation's best-loved novel in the BBC's Big Read poll in 2003.",
+          "zh": "由 J. R. R. 托爾金 （J.R.R. Tolkien） 撰寫的《魔戒》 （The Lord of the Rings） 在 2003 年英國廣播公司 （BBC） 舉辦的「大閱讀」 （Big Read） 民意調查中被評選為該國最受喜愛的小說。"
+        }
+      },
+      {
+        "id": "point-188",
+        "questionId": "8-20",
+        "text": {
+          "en": "The Home Secretary is a senior Cabinet minister responsible for internal affairs, including policing, national security, and immigration.",
+          "zh": "內政大臣是高級閣員，負責國內事務，包括警政、國家安全和移民事務。"
+        }
+      },
+      {
+        "id": "point-208",
+        "questionId": "9-16",
+        "text": {
+          "en": "Youth Court cases are normally heard by up to 3 specially trained magistrates or a District Judge.",
+          "zh": "青年法院的案件通常由最多3名受過專門訓練的治安推事或1名地方法官審理。"
+        }
+      },
+      {
+        "id": "point-222",
+        "questionId": "10-6",
+        "text": {
+          "en": "You should contact your local police force if you suspect someone is trying to involve you in extremist or terrorist activities.",
+          "zh": "如果你懷疑有人試圖拉攏你參與極端或恐怖活動，應立即聯絡當地警方。"
+        }
+      },
+      {
+        "id": "point-224",
+        "questionId": "10-8",
+        "text": {
+          "en": "Forced marriage is illegal in the UK, and court orders can be obtained to protect a person from it.",
+          "zh": "強迫婚姻在英國是違法的，可以申請法院命令來保護免受強迫婚姻。"
+        }
+      },
+      {
+        "id": "point-226",
+        "questionId": "10-10",
+        "text": {
+          "en": "Members of Parliament (MPs) represent all the people in their local area (constituency), regardless of whether they voted for them or not.",
+          "zh": "國會議員（MPs）代表其所在選區（constituency）的所有人，無論這些人是否投票給他們。"
+        }
+      },
+      {
+        "id": "point-227",
+        "questionId": "10-11",
+        "text": {
+          "en": "The American colonies demanded independence largely because the British government sought to impose taxes on them without allowing them representation in Parliament.",
+          "zh": "由於英國政府在沒有給予他們議會代表權的情況下對其徵稅，引發了美國獨立戰爭。"
+        }
+      },
+      {
+        "id": "point-234",
+        "questionId": "10-18",
+        "text": {
+          "en": "The UK joined the European Economic Community (EEC), which later became the European Union (EU), in 1973.",
+          "zh": "英國於 1973 年加入歐洲經濟共同體（EEC，後來的歐盟 EU）。"
+        }
+      },
+      {
+        "id": "point-247",
+        "questionId": "11-7",
+        "text": {
+          "en": "Prime Minister's Questions (PMQs) is a weekly event in the House of Commons where the Prime Minister answers questions from MPs.",
+          "zh": "首相答問環節 （Prime Minister's Questions） 是下議院每週進行一次的活動，由首相回答國會議員的提問。"
+        }
+      },
+      {
+        "id": "point-256",
+        "questionId": "11-16",
+        "text": {
+          "en": "Local authorities (councils) in the UK receive funding from central government grants, business rates, and local council tax paid by residents.",
+          "zh": "英國的地方當局（議會）的資金來源包括中央政府撥款、商業稅以及居民繳納的地方市政稅（council tax）。"
+        }
+      },
+      {
+        "id": "point-262",
+        "questionId": "11-22",
+        "text": {
+          "en": "Civil law deals with disputes between individuals or groups, such as discrimination in the workplace, debt, and housing disputes. The others are criminal offences.",
+          "zh": "民事法 （Civil law） 處理個人或團體之間的糾紛，例如職場歧視、債務和住房糾紛。其他選項則屬於刑事犯罪。"
+        }
+      },
+      {
+        "id": "point-264",
+        "questionId": "11-24",
+        "text": {
+          "en": "On 5th November, Bonfire Night (or Guy Fawkes Night) commemorates the failure of the Gunpowder Plot in 1605, a conspiracy to blow up the Houses of Parliament.",
+          "zh": "11月5日的營火之夜（或稱蓋伊·福克斯之夜）是紀念1605年「火藥陰謀」的失敗，該陰謀企圖炸毀國會大廈。"
+        }
+      },
+      {
+        "id": "point-274",
+        "questionId": "12-10",
+        "text": {
+          "en": "Citizens of other EU states cannot vote in General Elections in the UK, unless they are citizens of Commonwealth countries or Ireland.",
+          "zh": "其他歐盟成員國的公民不能在英國大選中投票，除非他們是英聯邦國家或愛爾蘭的公民。"
+        }
+      },
+      {
+        "id": "point-284",
+        "questionId": "12-20",
+        "text": {
+          "en": "The UK is a parliamentary democracy, with Parliament as the supreme legislative authority.",
+          "zh": "英國是議會民主制國家，議會是最高立法機關。"
+        }
+      },
+      {
+        "id": "point-289",
+        "questionId": "13-1",
+        "text": {
+          "en": "Certain matters such as immigration, defence, and foreign policy are reserved powers controlled by the UK Parliament, not devolved assemblies.",
+          "zh": "移民、國防和外交政策等某些事務屬於保留權力，由英國國會控制，而不屬於地方分權議會的權責範圍。"
+        }
+      },
+      {
+        "id": "point-299",
+        "questionId": "13-11",
+        "text": {
+          "en": "Margaret Thatcher became the UK's first female Prime Minister in 1979 and served until 1990.",
+          "zh": "瑪格麗特·柴契爾（Margaret Thatcher）於1979年成為英國首位女首相，並任職至1990年。"
+        }
+      },
+      {
+        "id": "point-308",
+        "questionId": "13-20",
+        "text": {
+          "en": "Official reports of proceedings in Parliament are called Hansard.",
+          "zh": "國會程序的官方報告稱為議事錄（Hansard）。"
+        }
+      },
+      {
+        "id": "point-312",
+        "questionId": "13-24",
+        "text": {
+          "en": "By law, dogs in public places must wear a collar showing the name and address of the owner.",
+          "zh": "法律規定，在公共場所的狗必須佩戴項圈，上面標明主人的姓名和地址。"
+        }
+      },
+      {
+        "id": "point-317",
+        "questionId": "14-5",
+        "text": {
+          "en": "In Scotland, minor criminal cases are heard in the Justice of the Peace Court, while more serious ones go to the Sheriff Court or High Court.",
+          "zh": "在蘇格蘭，輕微刑事案件由太平紳士法庭審理，而較嚴重的案件則由郡長法庭或高等法院審理。"
+        }
+      },
+      {
+        "id": "point-319",
+        "questionId": "14-7",
+        "text": {
+          "en": "The judiciary is responsible for interpreting the law and ensuring fair trials. Lawmaking is done by Parliament, and arrests are made by the police.",
+          "zh": "司法機構負責解釋法律並確保審判公正。法律由議會制定，逮捕人則由警察執行。"
+        }
+      },
+      {
+        "id": "point-321",
+        "questionId": "14-9",
+        "text": {
+          "en": "The small claims procedure is an informal, low-cost way to resolve minor legal disputes without needing a lawyer.",
+          "zh": "小額索賠程序是一種非正式、低成本的方式，無需律師即可解決輕微的法律糾紛。"
+        }
+      },
+      {
+        "id": "point-332",
+        "questionId": "14-20",
+        "text": {
+          "en": "Discrimination in the workplace is a matter of civil law, which deals with disputes between individuals or groups, rather than criminal law.",
+          "zh": "職場歧視屬於民事法律範疇，民事法律處理個人或團體之間的糾紛，而非刑事法律。"
+        }
+      },
+      {
+        "id": "point-339",
+        "questionId": "15-3",
+        "text": {
+          "en": "Elections to the European Parliament were held every five years (until the UK left the European Union).",
+          "zh": "歐洲議會選舉每 5 年舉行一次 (直至英國脫離歐盟)。"
+        }
+      },
+      {
+        "id": "point-340",
+        "questionId": "15-4",
+        "text": {
+          "en": "Sir Isaac Newton was a famous English physicist and mathematician who discovered the laws of gravity and motion.",
+          "zh": "艾薩克·牛頓爵士（Sir Isaac Newton）是著名的英國物理學家和數學家，他發現了重力和運動定律。"
+        }
+      },
+      {
+        "id": "point-370",
+        "questionId": "16-10",
+        "text": {
+          "en": "The UK has had a fully democratic voting system since 1928, when the Equal Franchise Act gave women the vote on the same terms as men (at age 21).",
+          "zh": "英國自1928年起實行完全民主的投票制度，當時的《平等特許權法》賦予女性與男性相同的投票權（21歲）。"
+        }
+      },
+      {
+        "id": "point-375",
+        "questionId": "16-15",
+        "text": {
+          "en": "A poll card is sent to registered voters before an election. It includes details such as your voter number, the election date, and the address of your polling station.",
+          "zh": "投票卡在選舉前寄給已登記的選民。它包含您的選民編號、選舉日期以及您的投票站地址等詳細資訊。"
+        }
+      },
+      {
+        "id": "point-380",
+        "questionId": "16-20",
+        "text": {
+          "en": "Clement Attlee was elected as British Prime Minister in 1945.",
+          "zh": "克萊曼·艾德禮（Clement Attlee）在1945年當選為英國首相。"
+        }
+      },
+      {
+        "id": "point-395",
+        "questionId": "17-11",
+        "text": {
+          "en": "To drive a car or ride a motorcycle legally in the UK, you must have a valid driving licence.",
+          "zh": "在英國合法駕駛汽車或騎摩托車，您必須擁有有效的駕駛執照。"
+        }
+      },
+      {
+        "id": "point-399",
+        "questionId": "17-15",
+        "text": {
+          "en": "The UK is a constitutional monarchy. The monarch is the head of state, but the power to make and pass laws resides with Parliament.",
+          "zh": "英國是君主立憲制國家。君主是國家元首，但制定和通過法律的權力歸於議會。"
+        }
+      },
+      {
+        "id": "point-400",
+        "questionId": "17-16",
+        "text": {
+          "en": "General elections in the UK are typically held at least every 5 years.",
+          "zh": "每5年。英國大選通常最多每5年舉行一次。"
+        }
+      },
+      {
+        "id": "point-401",
+        "questionId": "17-17",
+        "text": {
+          "en": "By law, all dogs in public places must wear a collar with the owner's name and address on it.",
+          "zh": "根據法律規定，在公共場所所有的狗都必須佩戴寫有主人姓名和地址的項圈。"
+        }
+      },
+      {
+        "id": "point-402",
+        "questionId": "17-18",
+        "text": {
+          "en": "Complaints against the police can be made directly at a police station or by writing to the Chief Constable of the force involved.",
+          "zh": "對警察的投訴可以直接前往警署提出，或者寫信給相關警隊的警務處長（Chief Constable）。"
+        }
+      },
+      {
+        "id": "point-409",
+        "questionId": "18-1",
+        "text": {
+          "en": "Sir Robert Walpole is widely acknowledged as the first Prime Minister of Great Britain, serving from 1721 to 1742.",
+          "zh": "羅伯特·華波爵士被廣泛公認為大不列顛的第一任首相，於 1721 年至 1742 年在任。"
+        }
+      },
+      {
+        "id": "point-413",
+        "questionId": "18-5",
+        "text": {
+          "en": "The shared goals of the Commonwealth include democracy, development, and peace.",
+          "zh": "英聯邦的共同目標包括促進民主、發展與和平。"
+        }
+      },
+      {
+        "id": "point-418",
+        "questionId": "18-10",
+        "text": {
+          "en": "The Equal Franchise Act of 1928 gave women the vote at the age of 21, the same age as men.",
+          "zh": "1928年的《平等選舉權法》賦予女性在21歲投票的權利，與男性相同。"
+        }
+      },
+      {
+        "id": "point-425",
+        "questionId": "18-17",
+        "text": {
+          "en": "Civil servants are appointed on merit based on fair and open competition, and they must remain politically neutral to serve the government of the day.",
+          "zh": "公務員是基於公平和公開的競爭並憑藉才能受委任的，他們必須保持政治中立，以服務當屆政府。"
+        }
+      }
+    ]
+  }
+]

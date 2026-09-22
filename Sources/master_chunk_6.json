@@ -1,0 +1,899 @@
+[
+  {
+    "question": "If you are a dog owner, which two things should your dog's collar have when you go out for a walk?",
+    "options": [
+      {
+        "text": "The owner's address",
+        "isCorrect": true
+      },
+      {
+        "text": "The owner's name",
+        "isCorrect": true
+      },
+      {
+        "text": "The dog's breed",
+        "isCorrect": false
+      },
+      {
+        "text": "The dog's name",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What day relates to the death of Jesus Christ?",
+    "options": [
+      {
+        "text": "Good Friday",
+        "isCorrect": true
+      },
+      {
+        "text": "Easter Sunday",
+        "isCorrect": false
+      },
+      {
+        "text": "Easter Monday",
+        "isCorrect": false
+      },
+      {
+        "text": "Ash Wednesday",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who is the heir to the throne of Britain?",
+    "options": [
+      {
+        "text": "The Prince of Wales",
+        "isCorrect": true
+      },
+      {
+        "text": "The Prince of Cambridge",
+        "isCorrect": false
+      },
+      {
+        "text": "The Prince of Edinburgh",
+        "isCorrect": false
+      },
+      {
+        "text": "The Duke of York",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was achieved with the Carta Magna?",
+    "options": [
+      {
+        "text": "It restricted the King's power",
+        "isCorrect": true
+      },
+      {
+        "text": "It increased the King's power",
+        "isCorrect": false
+      },
+      {
+        "text": "It restricted the rights of the farmers",
+        "isCorrect": false
+      },
+      {
+        "text": "It increased women's power",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is illegal in the UK and it is a criminal offence.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What year were women given the right to vote?",
+    "options": [
+      {
+        "text": "1918",
+        "isCorrect": true
+      },
+      {
+        "text": "1925",
+        "isCorrect": false
+      },
+      {
+        "text": "1949",
+        "isCorrect": false
+      },
+      {
+        "text": "1914",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following are British overseas territories?",
+    "options": [
+      {
+        "text": "St Helena",
+        "isCorrect": true
+      },
+      {
+        "text": "Solomon Islands",
+        "isCorrect": false
+      },
+      {
+        "text": "Mauritius",
+        "isCorrect": false
+      },
+      {
+        "text": "The Falkland Islands",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who did the English defeat in 1588?",
+    "options": [
+      {
+        "text": "The Normands",
+        "isCorrect": false
+      },
+      {
+        "text": "The Romans",
+        "isCorrect": false
+      },
+      {
+        "text": "The Spanish Armada",
+        "isCorrect": true
+      },
+      {
+        "text": "The Saxons",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who designed the Cenotaph?",
+    "options": [
+      {
+        "text": "Sir Norman Foster",
+        "isCorrect": false
+      },
+      {
+        "text": "Lancelot 'Capability' Brown",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Edwin Lutyens",
+        "isCorrect": true
+      },
+      {
+        "text": "Isambard Kingdom Brunel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How often are the members of the Welsh Assembly (AMs) elected?",
+    "options": [
+      {
+        "text": "Every 5 years",
+        "isCorrect": false
+      },
+      {
+        "text": "Every 2 years",
+        "isCorrect": false
+      },
+      {
+        "text": "Every 4 years",
+        "isCorrect": true
+      },
+      {
+        "text": "Every 3 years",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "During which period did the Beatles become popular and social laws were liberalised?",
+    "options": [
+      {
+        "text": "1960s",
+        "isCorrect": true
+      },
+      {
+        "text": "1970s",
+        "isCorrect": false
+      },
+      {
+        "text": "1980s",
+        "isCorrect": false
+      },
+      {
+        "text": "1950s",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Man Booker Prize is awarded in which of the following categories?",
+    "options": [
+      {
+        "text": "Films",
+        "isCorrect": false
+      },
+      {
+        "text": "Sport",
+        "isCorrect": false
+      },
+      {
+        "text": "Literature",
+        "isCorrect": true
+      },
+      {
+        "text": "Music",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What sort of election takes place when a member of the Parliament (MP) dies or resigns?",
+    "options": [
+      {
+        "text": "Coalition",
+        "isCorrect": false
+      },
+      {
+        "text": "Pre-selection",
+        "isCorrect": false
+      },
+      {
+        "text": "Random selection",
+        "isCorrect": false
+      },
+      {
+        "text": "By-election",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the Turner Prize?",
+    "options": [
+      {
+        "text": "A literature award",
+        "isCorrect": false
+      },
+      {
+        "text": "A music award",
+        "isCorrect": false
+      },
+      {
+        "text": "A contemporary art award",
+        "isCorrect": true
+      },
+      {
+        "text": "A theatre award",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which flower is associated with Northern Ireland?",
+    "options": [
+      {
+        "text": "The daffodil",
+        "isCorrect": false
+      },
+      {
+        "text": "The thistle",
+        "isCorrect": false
+      },
+      {
+        "text": "The shamrock",
+        "isCorrect": true
+      },
+      {
+        "text": "The rose",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The last battle between Britain and France was the battle of Waterloo.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "£100 is the highest value note in circulation in the UK.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Where is the Lake District National Park located?",
+    "options": [
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": false
+      },
+      {
+        "text": "England",
+        "isCorrect": true
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two responsibilities will you have as a British citizen?",
+    "options": [
+      {
+        "text": "To buy food locally",
+        "isCorrect": false
+      },
+      {
+        "text": "To volunteer in a community project at least once a year",
+        "isCorrect": false
+      },
+      {
+        "text": "To look after yourself and your family",
+        "isCorrect": true
+      },
+      {
+        "text": "To respect the rights of others, including their right to their own opinions",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who was born in Stratford-upon-Avon?",
+    "options": [
+      {
+        "text": "Jane Austen",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles Dickens",
+        "isCorrect": false
+      },
+      {
+        "text": "William Shakespeare",
+        "isCorrect": true
+      },
+      {
+        "text": "Thomas Hardy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Why is 1928 an important year in women's voting history?",
+    "options": [
+      {
+        "text": "Women were given the right to vote at the age of 18, the same as men.",
+        "isCorrect": false
+      },
+      {
+        "text": "Women were given the right to vote at the age of 25.",
+        "isCorrect": false
+      },
+      {
+        "text": "Women were given the right to vote at the age of 30.",
+        "isCorrect": false
+      },
+      {
+        "text": "Women were given the right to vote at the age of 21, the same as men.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What does Hogmanay refer to?",
+    "options": [
+      {
+        "text": "Christmas Day in Wales",
+        "isCorrect": false
+      },
+      {
+        "text": "New Year's Eve in Scotland",
+        "isCorrect": true
+      },
+      {
+        "text": "Christmas Day in Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "New Year's Eve in Wales",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the capital city of Northern Ireland?",
+    "options": [
+      {
+        "text": "Cork",
+        "isCorrect": false
+      },
+      {
+        "text": "Edinburgh",
+        "isCorrect": false
+      },
+      {
+        "text": "Belfast",
+        "isCorrect": true
+      },
+      {
+        "text": "Dublin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following wars took place between 1899 and 1902 in South Africa?",
+    "options": [
+      {
+        "text": "The Hundred Years War",
+        "isCorrect": false
+      },
+      {
+        "text": "The Boer War",
+        "isCorrect": true
+      },
+      {
+        "text": "The First World War",
+        "isCorrect": false
+      },
+      {
+        "text": "The Crimean War",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Northern Ireland uses a system called 'individual registration' and all those entitled to vote must complete their own registration form.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following policies are not controlled by the devolved administrations?",
+    "options": [
+      {
+        "text": "Health",
+        "isCorrect": false
+      },
+      {
+        "text": "Education",
+        "isCorrect": false
+      },
+      {
+        "text": "Defence",
+        "isCorrect": true
+      },
+      {
+        "text": "Immigration",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "How old do citizens of the UK, the Irish Republic or the Commonwealth have to be to stand for public office?",
+    "options": [
+      {
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "text": "21",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How did the Government promote policies of free trade during the Victorian Age?",
+    "options": [
+      {
+        "text": "Abolishing a number of taxes on imported goods",
+        "isCorrect": true
+      },
+      {
+        "text": "Abolishing the exportation of local produce",
+        "isCorrect": false
+      },
+      {
+        "text": "Preventing the importation of cheap raw materials",
+        "isCorrect": false
+      },
+      {
+        "text": "Preventing the importation of cheap grain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was Admiral Nelson?",
+    "options": [
+      {
+        "text": "One of the tribal leaders who fought against the Romans",
+        "isCorrect": false
+      },
+      {
+        "text": "A British officer in charge of the British army at the Battle of Waterloo",
+        "isCorrect": false
+      },
+      {
+        "text": "A British general who established the authority of the English Parliament",
+        "isCorrect": false
+      },
+      {
+        "text": "A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "During the Middle Ages, who were the serfs?",
+    "options": [
+      {
+        "text": "Peasants who had a small area of their lord's agricultural land",
+        "isCorrect": true
+      },
+      {
+        "text": "Soldiers who fought at the Battle of Trafalgar",
+        "isCorrect": false
+      },
+      {
+        "text": "Noblemen who formed part of the king's council of advisers",
+        "isCorrect": false
+      },
+      {
+        "text": "A group of skilled people from Holland who came to England during the Middle Ages",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which invention lead to the rapid development of the industry in Britain during the 18th and 19th centuries?",
+    "options": [
+      {
+        "text": "The Radar",
+        "isCorrect": false
+      },
+      {
+        "text": "The Steam Power",
+        "isCorrect": true
+      },
+      {
+        "text": "The Jet Engine",
+        "isCorrect": false
+      },
+      {
+        "text": "The Turing Machine",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MPs can only be contacted by post.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What movement challenged the authority of the Pope?",
+    "options": [
+      {
+        "text": "The Swinging Sixties",
+        "isCorrect": false
+      },
+      {
+        "text": "The Reformation",
+        "isCorrect": true
+      },
+      {
+        "text": "The Suffragettes",
+        "isCorrect": false
+      },
+      {
+        "text": "The Enlightenment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What English King introduced the Domesday Book?",
+    "options": [
+      {
+        "text": "King Henry V",
+        "isCorrect": false
+      },
+      {
+        "text": "King Henry IV",
+        "isCorrect": false
+      },
+      {
+        "text": "William the Conqueror",
+        "isCorrect": true
+      },
+      {
+        "text": "Harold, the Saxon king of England",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What did 'the Butler Act'  introduce in 1944?",
+    "options": [
+      {
+        "text": "Free primary education in England, Wales and Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Free university fees in England, Wales, Scotland and Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Free primary and secondary education in England, Wales and Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Free secondary education in England and Wales",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the small claims procedure?",
+    "options": [
+      {
+        "text": "An informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer",
+        "isCorrect": true
+      },
+      {
+        "text": "A procedure that helps people to make small home insurance claims in certain circumstances",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What building was constructed in Hyde Park to hold the Great Exhibition of 1851?",
+    "options": [
+      {
+        "text": "The Crystal Palace",
+        "isCorrect": true
+      },
+      {
+        "text": "Buckingham Palace",
+        "isCorrect": false
+      },
+      {
+        "text": "Kensington Palace",
+        "isCorrect": false
+      },
+      {
+        "text": "Apsley House",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was Florence Nightingale?",
+    "options": [
+      {
+        "text": "An economist",
+        "isCorrect": false
+      },
+      {
+        "text": "A painter",
+        "isCorrect": false
+      },
+      {
+        "text": "A nurse",
+        "isCorrect": true
+      },
+      {
+        "text": "A poet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who is the patron Saint of England?",
+    "options": [
+      {
+        "text": "St George",
+        "isCorrect": true
+      },
+      {
+        "text": "St Patrick",
+        "isCorrect": false
+      },
+      {
+        "text": "St David",
+        "isCorrect": false
+      },
+      {
+        "text": "St Andrew",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where is Loch Lomond and the Trossachs National Park located?",
+    "options": [
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": false
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": true
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which stories are associated with Geoffrey Chaucer?",
+    "options": [
+      {
+        "text": "The Cambridge Tales",
+        "isCorrect": false
+      },
+      {
+        "text": "The Eastbourne Tales",
+        "isCorrect": false
+      },
+      {
+        "text": "The Canterbury Tales",
+        "isCorrect": true
+      },
+      {
+        "text": "The London Tales",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When is Boxing Day celebrated?",
+    "options": [
+      {
+        "text": "31st October",
+        "isCorrect": false
+      },
+      {
+        "text": "26th December",
+        "isCorrect": true
+      },
+      {
+        "text": "24th December",
+        "isCorrect": false
+      },
+      {
+        "text": "01st January",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the holiday when banks and many other businesses are closed for the day?",
+    "options": [
+      {
+        "text": "Credit Holidays",
+        "isCorrect": false
+      },
+      {
+        "text": "Branch Holidays",
+        "isCorrect": false
+      },
+      {
+        "text": "Bank Holidays",
+        "isCorrect": true
+      },
+      {
+        "text": "Business Holidays",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Why were women given the right to vote?",
+    "options": [
+      {
+        "text": "In recognition of the contribution women made to the war effort during the First World War",
+        "isCorrect": true
+      },
+      {
+        "text": "In recognition of the contribution women made to the war effort during the Second World War",
+        "isCorrect": false
+      },
+      {
+        "text": "In recognition of the contribution women made to the war effort during the Crimean War",
+        "isCorrect": false
+      },
+      {
+        "text": "In recognition of the contribution women made to the war effort during the Civil War",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What do you need to drive in the UK?",
+    "options": [
+      {
+        "text": "An 'L' plate",
+        "isCorrect": false
+      },
+      {
+        "text": "A National Insurance Number",
+        "isCorrect": false
+      },
+      {
+        "text": "A valid driving licence",
+        "isCorrect": false
+      },
+      {
+        "text": "An 'R' plate",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1763 @@
+[
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "If you are a dog owner, which two things should your dog's collar have when you go out for a walk?",
+      "zh": "如果您是狗主人，帶狗散步時狗的項圈上應該有哪兩樣東西？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The owner's address",
+          "zh": "主人的地址"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The owner's name",
+          "zh": "主人的姓名"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The dog's breed",
+          "zh": "狗的品種"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The dog's name",
+          "zh": "狗的名字"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "By law, all dogs in public places must wear a collar with the owner's name and address on it.",
+      "zh": "根據法律規定，在公共場所所有的狗都必須佩戴寫有主人姓名和地址的項圈。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "What day relates to the death of Jesus Christ?",
+      "zh": "哪一天與耶穌基督的受難有關？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Good Friday",
+          "zh": "耶穌受難日 (Good Friday)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Easter Sunday",
+          "zh": "復活節星期日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Easter Monday",
+          "zh": "復活節星期一"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ash Wednesday",
+          "zh": "聖灰星期三"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Good Friday is the day when Christians commemorate the crucifixion and death of Jesus Christ.",
+      "zh": "耶穌受難日（Good Friday）是基督徒紀念耶穌基督被釘十字架和受難的日子。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "Who is the heir to the throne of Britain?",
+      "zh": "誰是英國王位的繼承人？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Prince of Wales",
+          "zh": "威爾斯親王"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Prince of Cambridge",
+          "zh": "劍橋親王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Prince of Edinburgh",
+          "zh": "愛丁堡親王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Duke of York",
+          "zh": "約克公爵"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The eldest son of the monarch, currently the Prince of Wales, is the heir to the British throne.",
+      "zh": "君主的長子（目前是威爾斯親王）是英國王位的繼承人。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "What was achieved with the Carta Magna?",
+      "zh": "大憲章 (Magna Carta) 實現了什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "It restricted the King's power",
+          "zh": "它限制了國王的權力"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "It increased the King's power",
+          "zh": "它增加了國王的權力"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "It restricted the rights of the farmers",
+          "zh": "它限制了農民的權利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "It increased women's power",
+          "zh": "它增加了婦女的權力"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Magna Carta (Great Charter) of 1215 restricted the King's power and established that even the monarch is subject to the law.",
+      "zh": "1215年的《大憲章》限制了國王的權力，並確立了即使是君主也必須遵守法律的原則。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is illegal in the UK and it is a criminal offence.",
+      "zh": "在英國，女性生殖器切割 (FGM) 或將女孩或婦女帶到國外進行 FGM 是非法的，並且屬於刑事犯罪。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "FGM is a serious criminal offence in the UK, and it is also illegal to take someone abroad to undergo this practice.",
+      "zh": "在英國，女性生殖器切割（FGM）是一項嚴重的刑事犯罪，將任何人帶到國外進行此行為也是非法的。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "What year were women given the right to vote?",
+      "zh": "女性在哪一年獲得了投票權？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1918",
+          "zh": "1918年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1925",
+          "zh": "1925年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1949",
+          "zh": "1949年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1914",
+          "zh": "1914年"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "In 1918, women over the age of 30 who met certain property qualifications were given the right to vote.",
+      "zh": "在1918年，超過30歲並符合特定財產資格的女性獲得了投票權。"
+    }
+  },
+  {
+    "chapter": "What is the UK?",
+    "question": {
+      "en": "Which two of the following are British overseas territories?",
+      "zh": "以下哪兩個是英國的海外領土？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St Helena",
+          "zh": "聖赫勒拿 (St Helena)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Solomon Islands",
+          "zh": "所羅門群島"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Mauritius",
+          "zh": "模里西斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Falkland Islands",
+          "zh": "福克蘭群島 (The Falkland Islands)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "St Helena and the Falkland Islands are two of the British overseas territories linked to the UK.",
+      "zh": "聖赫勒拿和福克蘭群島是與英國相關聯的兩個海外領土。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Who did the English defeat in 1588?",
+      "zh": "英國人在1588年擊敗了誰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Normands",
+          "zh": "諾曼人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Romans",
+          "zh": "羅馬人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Spanish Armada",
+          "zh": "西班牙無敵艦隊 (The Spanish Armada)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Saxons",
+          "zh": "撒克遜人"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "In 1588, the English defeated the Spanish Armada, a large fleet of ships sent by Spain to conquer England.",
+      "zh": "1588年，英國擊敗了由西班牙派來征服英國的龐大艦隊——西班牙無敵艦隊。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "Who designed the Cenotaph?",
+      "zh": "和平紀念碑 (Cenotaph) 是誰設計的？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Sir Norman Foster",
+          "zh": "諾曼·福斯特爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Lancelot 'Capability' Brown",
+          "zh": "蘭斯洛特·「能力」·布朗"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Edwin Lutyens",
+          "zh": "愛德溫·魯琴斯爵士 (Sir Edwin Lutyens)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Isambard Kingdom Brunel",
+          "zh": "伊桑巴德·金德姆·布魯內爾"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Cenotaph in Whitehall, London, was designed by Sir Edwin Lutyens as a memorial to those who died in the First World War.",
+      "zh": "位於倫敦白廳的和平紀念碑是由愛德溫·魯琴斯爵士設計的，用以紀念在第一次世界大戰中陣亡的將士。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "How often are the members of the Welsh Assembly (AMs) elected?",
+      "zh": "威爾斯議會議員 (AMs) 多久選舉一次？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Every 5 years",
+          "zh": "每5年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every 2 years",
+          "zh": "每2年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every 4 years",
+          "zh": "每4年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Every 3 years",
+          "zh": "每3年"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Members of the Welsh Assembly (now called Senedd) are typically elected every four years.",
+      "zh": "威爾斯議會議員（現稱為 Senedd）通常每四年選舉一次。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "During which period did the Beatles become popular and social laws were liberalised?",
+      "zh": "披頭四樂團 (The Beatles) 在哪個時期變得受歡迎，並且社會法律變得更加自由？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1960s",
+          "zh": "1960年代"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1970s",
+          "zh": "1970年代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1980s",
+          "zh": "1980年代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1950s",
+          "zh": "1950年代"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The 1960s was a decade of significant social change, liberalisation of laws, and the rise of British pop music, including The Beatles.",
+      "zh": "1960年代是社會發生重大變革、法律變得更加自由以及英國流行音樂（包括披頭四樂團）崛起的十年。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "The Man Booker Prize is awarded in which of the following categories?",
+      "zh": "布克獎 (The Man Booker Prize) 頒發給以下哪個類別？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Films",
+          "zh": "電影"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sport",
+          "zh": "體育"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Literature",
+          "zh": "文學"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Music",
+          "zh": "音樂"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Man Booker Prize is a prestigious award given annually for the best original novel written in the English language.",
+      "zh": "布克獎是一項享有盛譽的年度獎項，頒發給以英語撰寫的最佳原創小說。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "What sort of election takes place when a member of the Parliament (MP) dies or resigns?",
+      "zh": "當國會議員 (MP) 去世或辭職時，會舉行什麼樣的選舉？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Coalition",
+          "zh": "聯合選舉"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Pre-selection",
+          "zh": "預選"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Random selection",
+          "zh": "隨機選擇"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "By-election",
+          "zh": "補選 (By-election)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "If an MP dies or resigns, a by-election is held in their constituency to elect a new representative.",
+      "zh": "如果國會議員去世或辭職，其選區將舉行補選以選出新的代表。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "What is the Turner Prize?",
+      "zh": "什麼是透納獎 (Turner Prize)？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A literature award",
+          "zh": "文學獎"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A music award",
+          "zh": "音樂獎"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A contemporary art award",
+          "zh": "當代藝術獎"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A theatre award",
+          "zh": "戲劇獎"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Turner Prize is an annual award given to a British visual artist to celebrate contemporary art.",
+      "zh": "透納獎是一項年度獎項，頒發給英國視覺藝術家，旨在表彰當代藝術。"
+    }
+  },
+  {
+    "chapter": "What is the UK?",
+    "question": {
+      "en": "Which flower is associated with Northern Ireland?",
+      "zh": "哪種花與北愛爾蘭有關？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The daffodil",
+          "zh": "水仙花"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The thistle",
+          "zh": "薊花"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The shamrock",
+          "zh": "三葉草 (The shamrock)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The rose",
+          "zh": "玫瑰"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The shamrock is the national flower and a well-known symbol of Northern Ireland.",
+      "zh": "三葉草是北愛爾蘭的國花，也是其著名的象徵。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "The last battle between Britain and France was the battle of Waterloo.",
+      "zh": "英國和法國之間的最後一場戰役是滑鐵盧戰役。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Battle of Waterloo in 1815 was the final defeat of Napoleon and the last major battle fought between Britain and France.",
+      "zh": "1815年的滑鐵盧戰役是拿破崙的最終失敗，也是英國和法國之間最後一場重大戰役。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "£100 is the highest value note in circulation in the UK.",
+      "zh": "£100 是英國流通中面值最高的紙幣。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "The highest value note in general circulation in England is £50, though higher value notes exist in Scotland and Northern Ireland. The question is officially marked as False in the life in the UK test context.",
+      "zh": "在英格蘭，一般流通中面值最高的紙幣是£50（儘管蘇格蘭和北愛爾蘭有發行更高面值的紙幣）。在英國生活考試的語境中，此題答案為錯誤。"
+    }
+  },
+  {
+    "chapter": "What is the UK?",
+    "question": {
+      "en": "Where is the Lake District National Park located?",
+      "zh": "湖區國家公園 (Lake District National Park) 位於哪裡？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Lake District National Park is located in the north west of England and is famous for its lakes and mountains.",
+      "zh": "湖區國家公園位於英格蘭西北部，以其湖泊和山脈而聞名。"
+    }
+  },
+  {
+    "chapter": "The values and principles of the UK",
+    "question": {
+      "en": "Which two responsibilities will you have as a British citizen?",
+      "zh": "作為英國公民，您將承擔哪兩項責任？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To buy food locally",
+          "zh": "在當地購買食物"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To volunteer in a community project at least once a year",
+          "zh": "每年至少參與一次社區志願服務"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To look after yourself and your family",
+          "zh": "照顧自己和家人"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "To respect the rights of others, including their right to their own opinions",
+          "zh": "尊重他人的權利，包括他們表達自己意見的權利"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "Looking after yourself and your family, and respecting the rights of others are two fundamental responsibilities of British citizens.",
+      "zh": "照顧自己和家人，以及尊重他人的權利，是英國公民的兩項基本責任。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Who was born in Stratford-upon-Avon?",
+      "zh": "誰出生在埃文河畔斯特拉特福 (Stratford-upon-Avon)？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Jane Austen",
+          "zh": "珍·奧斯汀"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Charles Dickens",
+          "zh": "查爾斯·狄更斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "William Shakespeare",
+          "zh": "威廉·莎士比亞 (William Shakespeare)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Thomas Hardy",
+          "zh": "湯瑪斯·哈代"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "William Shakespeare, widely regarded as the greatest writer in the English language, was born in Stratford-upon-Avon.",
+      "zh": "威廉·莎士比亞被廣泛認為是英語文學中最偉大的作家，他出生於埃文河畔斯特拉特福。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Why is 1928 an important year in women's voting history?",
+      "zh": "為什麼1928年在女性投票歷史上是重要的一年？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Women were given the right to vote at the age of 18, the same as men.",
+          "zh": "女性在18歲獲得投票權，與男性相同。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Women were given the right to vote at the age of 25.",
+          "zh": "女性在25歲獲得投票權。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Women were given the right to vote at the age of 30.",
+          "zh": "女性在30歲獲得投票權。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Women were given the right to vote at the age of 21, the same as men.",
+          "zh": "女性在21歲獲得投票權，與男性相同。"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "In 1928, the voting age for women was lowered to 21, giving them the same voting rights as men.",
+      "zh": "1928年，女性的投票年齡降至21歲，使她們獲得了與男性相同的投票權。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "What does Hogmanay refer to?",
+      "zh": "霍格曼內 (Hogmanay) 指的是什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Christmas Day in Wales",
+          "zh": "威爾斯的聖誕節"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "New Year's Eve in Scotland",
+          "zh": "蘇格蘭的除夕 (跨年夜)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Christmas Day in Scotland",
+          "zh": "蘇格蘭的聖誕節"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "New Year's Eve in Wales",
+          "zh": "威爾斯的除夕"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Hogmanay is the Scottish word for New Year's Eve, widely celebrated with traditions and parties across Scotland.",
+      "zh": "霍格曼內 (Hogmanay) 是蘇格蘭語中對除夕（跨年夜）的稱呼，在蘇格蘭各地都有廣泛的慶祝傳統和派對。"
+    }
+  },
+  {
+    "chapter": "What is the UK?",
+    "question": {
+      "en": "What is the capital city of Northern Ireland?",
+      "zh": "北愛爾蘭的首都是哪裡？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Cork",
+          "zh": "科克"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Edinburgh",
+          "zh": "愛丁堡"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Belfast",
+          "zh": "貝爾法斯特 (Belfast)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Dublin",
+          "zh": "都柏林"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Belfast is the capital and largest city of Northern Ireland.",
+      "zh": "貝爾法斯特是北愛爾蘭的首都和最大的城市。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Which of the following wars took place between 1899 and 1902 in South Africa?",
+      "zh": "以下哪場戰爭發生在1899年至1902年的南非？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Hundred Years War",
+          "zh": "百年戰爭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Boer War",
+          "zh": "波耳戰爭 (The Boer War)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The First World War",
+          "zh": "第一次世界大戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Crimean War",
+          "zh": "克里米亞戰爭"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Boer War took place between 1899 and 1902 in South Africa, fighting between the British Empire and the Boer republics.",
+      "zh": "波耳戰爭發生在1899年至1902年的南非，是大英帝國與波耳共和國之間的戰爭。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "Northern Ireland uses a system called 'individual registration' and all those entitled to vote must complete their own registration form.",
+      "zh": "北愛爾蘭採用一種稱為「個人登記」的制度，所有有投票權的人都必須填寫自己的登記表。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Unlike the rest of the UK previously, Northern Ireland used 'individual registration' where everyone must complete their own form to vote.",
+      "zh": "與英國其他地區過去的情況不同，北愛爾蘭採用了「個人登記」制度，每個人都必須自己填寫表格才能投票。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "Which two of the following policies are not controlled by the devolved administrations?",
+      "zh": "以下哪兩項政策不受下放政府 (devolved administrations) 控制？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Health",
+          "zh": "衛生"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Education",
+          "zh": "教育"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Defence",
+          "zh": "國防"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Immigration",
+          "zh": "移民"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "Defence and Immigration are reserved matters, meaning they are controlled by the UK government in Westminster, not the devolved administrations.",
+      "zh": "國防和移民是保留事項，這意味著它們由西敏寺的英國中央政府控制，而不是由下放政府控制。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "How old do citizens of the UK, the Irish Republic or the Commonwealth have to be to stand for public office?",
+      "zh": "英國、愛爾蘭共和國或大英國協的公民需要達到多少歲才能競選公職？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "18",
+          "zh": "18歲"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "21",
+          "zh": "21歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "16",
+          "zh": "16歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "25",
+          "zh": "25歲"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "You must be at least 18 years old to stand for public office, such as an MP or local councillor, in the UK.",
+      "zh": "在英國，您必須年滿18歲才能競選公職（例如國會議員或地方議員）。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "How did the Government promote policies of free trade during the Victorian Age?",
+      "zh": "在維多利亞時代，政府如何推動自由貿易政策？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Abolishing a number of taxes on imported goods",
+          "zh": "廢除一系列進口商品稅"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Abolishing the exportation of local produce",
+          "zh": "廢除本地農產品的出口"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Preventing the importation of cheap raw materials",
+          "zh": "阻止廉價原材料的進口"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Preventing the importation of cheap grain",
+          "zh": "阻止廉價穀物的進口"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "During the Victorian Age, the government promoted free trade by abolishing taxes on many imported goods, most notably the Corn Laws.",
+      "zh": "在維多利亞時代，政府透過廢除許多進口商品（最著名的是穀物法）的稅收來推動自由貿易。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Who was Admiral Nelson?",
+      "zh": "納爾遜海軍上將 (Admiral Nelson) 是誰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "One of the tribal leaders who fought against the Romans",
+          "zh": "反抗羅馬人的部落領袖之一"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A British officer in charge of the British army at the Battle of Waterloo",
+          "zh": "在滑鐵盧戰役中指揮英國陸軍的英國軍官"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A British general who established the authority of the English Parliament",
+          "zh": "確立了英國議會權威的英國將軍"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet",
+          "zh": "在特拉法加海戰中指揮英國艦隊對抗西班牙艦隊的英國軍官"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "Admiral Horatio Nelson was a famous British naval officer who led the British fleet to victory at the Battle of Trafalgar.",
+      "zh": "霍雷肖·納爾遜海軍上將是一位著名的英國海軍軍官，他在特拉法加海戰中帶領英國艦隊取得了勝利。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "During the Middle Ages, who were the serfs?",
+      "zh": "在中世紀，農奴 (serfs) 是誰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Peasants who had a small area of their lord's agricultural land",
+          "zh": "擁有領主一小塊農業用地的農民"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Soldiers who fought at the Battle of Trafalgar",
+          "zh": "在特拉法加海戰中作戰的士兵"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Noblemen who formed part of the king's council of advisers",
+          "zh": "組成國王顧問委員會的貴族"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A group of skilled people from Holland who came to England during the Middle Ages",
+          "zh": "中世紀從荷蘭來到英格蘭的一群熟練工匠"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Serfs were peasants tied to the land who worked on a small piece of land owned by their lord during the Middle Ages.",
+      "zh": "農奴是被束縛在土地上的農民，他們在中世紀為領主擁有的一小塊土地上勞作。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Which invention lead to the rapid development of the industry in Britain during the 18th and 19th centuries?",
+      "zh": "哪項發明導致了英國在18世紀和19世紀工業的迅速發展？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Radar",
+          "zh": "雷達"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Steam Power",
+          "zh": "蒸汽動力 (The Steam Power)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Jet Engine",
+          "zh": "噴氣式發動機"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Turing Machine",
+          "zh": "圖靈機"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The development of steam power was a key driver of the Industrial Revolution, enabling factories and modern transportation.",
+      "zh": "蒸汽動力的發展是工業革命的關鍵驅動力，推動了工廠和現代交通的發展。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "MPs can only be contacted by post.",
+      "zh": "國會議員 (MPs) 只能透過郵寄方式聯繫。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "MPs can be contacted by letter, telephone, email, or in person at their local constituency surgeries.",
+      "zh": "可以透過信件、電話、電子郵件聯繫國會議員，或者親自前往他們在當地選區的辦事處面談。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "What movement challenged the authority of the Pope?",
+      "zh": "哪場運動挑戰了教宗的權威？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Swinging Sixties",
+          "zh": "搖擺的六十年代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Reformation",
+          "zh": "宗教改革 (The Reformation)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Suffragettes",
+          "zh": "婦女參政運動"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Enlightenment",
+          "zh": "啟蒙運動"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Reformation was a movement in the 16th century that challenged the Pope's authority and led to the creation of Protestant churches.",
+      "zh": "宗教改革是16世紀的一場運動，挑戰了教宗的權威，並導致了新教教會的建立。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "What English King introduced the Domesday Book?",
+      "zh": "哪位英國國王引入了《末日審判書》(Domesday Book)？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "King Henry V",
+          "zh": "亨利五世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "King Henry IV",
+          "zh": "亨利四世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "William the Conqueror",
+          "zh": "征服者威廉 (William the Conqueror)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Harold, the Saxon king of England",
+          "zh": "哈羅德，英格蘭的撒克遜國王"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "William the Conqueror commissioned the Domesday Book in 1086 to record the land and property in England.",
+      "zh": "征服者威廉在1086年下令編纂《末日審判書》，以記錄英格蘭的土地和財產。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "What did 'the Butler Act' introduce in 1944?",
+      "zh": "1944年的「巴特勒法案」(the Butler Act) 引入了什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Free primary education in England, Wales and Scotland",
+          "zh": "英格蘭、威爾斯和蘇格蘭的免費小學教育"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Free university fees in England, Wales, Scotland and Northern Ireland",
+          "zh": "英格蘭、威爾斯、蘇格蘭和北愛爾蘭的免費大學學費"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Free primary and secondary education in England, Wales and Scotland",
+          "zh": "英格蘭、威爾斯和蘇格蘭的免費小學和中學教育"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Free secondary education in England and Wales",
+          "zh": "英格蘭和威爾斯的免費中學教育"
+        },
+        "isCorrect": true
+      }
+    ],
+    "explanation": {
+      "en": "The 1944 Education Act, also known as the Butler Act, introduced free secondary education for all in England and Wales.",
+      "zh": "1944年的《教育法》（也稱為巴特勒法案）在英格蘭和威爾斯為所有人引入了免費的中學教育。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "What is the small claims procedure?",
+      "zh": "什麼是小額索賠程序？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "An informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer",
+          "zh": "一種非正式的方式，幫助人們在不花費大量時間和金錢聘請律師的情況下解決小糾紛"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A procedure that helps people to make small home insurance claims in certain circumstances",
+          "zh": "一種幫助人們在特定情況下進行小額家庭保險索賠的程序"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The small claims procedure is an informal, low-cost way to resolve minor legal disputes without needing a lawyer.",
+      "zh": "小額索賠程序是一種非正式、低成本的方式，無需律師即可解決輕微的法律糾紛。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "What building was constructed in Hyde Park to hold the Great Exhibition of 1851?",
+      "zh": "海德公園 (Hyde Park) 建造了哪座建築來舉辦1851年的萬國工業博覽會？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Crystal Palace",
+          "zh": "水晶宮 (The Crystal Palace)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Buckingham Palace",
+          "zh": "白金漢宮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Kensington Palace",
+          "zh": "肯辛頓宮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Apsley House",
+          "zh": "阿普斯利別墅"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "The Crystal Palace was a huge iron and glass structure built in Hyde Park to house the Great Exhibition of 1851.",
+      "zh": "水晶宮是一座巨大的鐵和玻璃結構建築，建於海德公園，用於舉辦1851年的萬國工業博覽會。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Who was Florence Nightingale?",
+      "zh": "弗洛倫斯·南丁格爾 (Florence Nightingale) 是誰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "An economist",
+          "zh": "一位經濟學家"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A painter",
+          "zh": "一位畫家"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A nurse",
+          "zh": "一位護士"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A poet",
+          "zh": "一位詩人"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Florence Nightingale was a pioneering nurse who treated wounded soldiers during the Crimean War and founded modern nursing.",
+      "zh": "弗洛倫斯·南丁格爾是一位護理先驅，在克里米亞戰爭期間治療受傷的士兵，並創立了現代護理學。"
+    }
+  },
+  {
+    "chapter": "What is the UK?",
+    "question": {
+      "en": "Who is the patron Saint of England?",
+      "zh": "誰是英格蘭的主保聖人 (patron Saint)？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St George",
+          "zh": "聖喬治 (St George)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St Patrick",
+          "zh": "聖派翠克"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St David",
+          "zh": "聖大衛"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Andrew",
+          "zh": "聖安德烈"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "St George is the patron saint of England, celebrated on April 23rd.",
+      "zh": "聖喬治是英格蘭的主保聖人，他的紀念日是4月23日。"
+    }
+  },
+  {
+    "chapter": "What is the UK?",
+    "question": {
+      "en": "Where is Loch Lomond and the Trossachs National Park located?",
+      "zh": "洛蒙德湖和特羅薩克斯國家公園 (Loch Lomond and the Trossachs National Park) 位於哪裡？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Loch Lomond and the Trossachs National Park is located in Scotland, featuring beautiful lakes and mountains.",
+      "zh": "洛蒙德湖和特羅薩克斯國家公園位於蘇格蘭，以美麗的湖泊和山脈為特色。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Which stories are associated with Geoffrey Chaucer?",
+      "zh": "哪些故事與傑弗里·喬叟 (Geoffrey Chaucer) 有關？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Cambridge Tales",
+          "zh": "劍橋故事集"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Eastbourne Tales",
+          "zh": "伊斯特本故事集"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Canterbury Tales",
+          "zh": "坎特伯雷故事集 (The Canterbury Tales)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The London Tales",
+          "zh": "倫敦故事集"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Geoffrey Chaucer wrote 'The Canterbury Tales', a famous collection of stories from the Middle Ages.",
+      "zh": "傑弗里·喬叟創作了著名的中世紀故事集《坎特伯雷故事集》。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "When is Boxing Day celebrated?",
+      "zh": "節禮日 (Boxing Day) 是什麼時候慶祝？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "31st October",
+          "zh": "10月31日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "26th December",
+          "zh": "12月26日"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "24th December",
+          "zh": "12月24日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "01st January",
+          "zh": "1月1日"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Boxing Day is celebrated on December 26th, the day after Christmas Day.",
+      "zh": "節禮日是在聖誕節的第二天，即12月26日慶祝。"
+    }
+  },
+  {
+    "chapter": "A modern, thriving society",
+    "question": {
+      "en": "What is the name of the holiday when banks and many other businesses are closed for the day?",
+      "zh": "銀行和許多其他企業休假的公眾假期叫什麼名字？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Credit Holidays",
+          "zh": "信用假期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Branch Holidays",
+          "zh": "分行假期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Bank Holidays",
+          "zh": "銀行假期 (Bank Holidays)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Business Holidays",
+          "zh": "商業假期"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "Public holidays in the UK are called Bank Holidays, when banks and most businesses are closed.",
+      "zh": "英國的公共假期被稱為銀行假期（Bank Holidays），屆時銀行和大多數企業都會關閉。"
+    }
+  },
+  {
+    "chapter": "A long and illustrious history",
+    "question": {
+      "en": "Why were women given the right to vote?",
+      "zh": "為什麼女性獲得了投票權？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "In recognition of the contribution women made to the war effort during the First World War",
+          "zh": "為了表彰女性在第一次世界大戰期間為戰爭努力所做出的貢獻"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "In recognition of the contribution women made to the war effort during the Second World War",
+          "zh": "為了表彰女性在第二次世界大戰期間為戰爭努力所做出的貢獻"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "In recognition of the contribution women made to the war effort during the Crimean War",
+          "zh": "為了表彰女性在克里米亞戰爭期間為戰爭努力所做出的貢獻"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "In recognition of the contribution women made to the war effort during the Civil War",
+          "zh": "為了表彰女性在內戰期間為戰爭努力所做出的貢獻"
+        },
+        "is.Correct": false
+      }
+    ],
+    "explanation": {
+      "en": "Women's immense contribution to the war effort during the First World War was a major factor in finally securing the right to vote in 1918.",
+      "zh": "女性在第一次世界大戰期間對戰爭的巨大貢獻，是促成她們最終在1918年獲得投票權的主要因素。"
+    }
+  },
+  {
+    "chapter": "The UK government, the law and your role",
+    "question": {
+      "en": "What do you need to drive in the UK?",
+      "zh": "在英國開車需要什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "An 'L' plate",
+          "zh": "一個 'L' 牌"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A National Insurance Number",
+          "zh": "一個國民保險號碼"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A valid driving licence",
+          "zh": "有效的駕駛執照"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "An 'R' plate",
+          "zh": "一個 'R' 牌"
+        },
+        "isCorrect": false
+      }
+    ],
+    "explanation": {
+      "en": "To drive a car or ride a motorcycle legally in the UK, you must have a valid driving licence.",
+      "zh": "在英國合法駕駛汽車或騎摩托車，您必須擁有有效的駕駛執照。"
+    }
+  }
+]

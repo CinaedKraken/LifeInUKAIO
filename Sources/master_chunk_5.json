@@ -1,0 +1,883 @@
+[
+  {
+    "question": "Scotland and Wales use a system called 'individual registration' where all those entitled to vote must complete their own registration form.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "On what day is the birth of Jesus Christ celebrated?",
+    "options": [
+      {
+        "text": "Father's Day",
+        "isCorrect": false
+      },
+      {
+        "text": "Christmas Day",
+        "isCorrect": true
+      },
+      {
+        "text": "New Year",
+        "isCorrect": false
+      },
+      {
+        "text": "Boxing Day",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What sort of battle was the 'Battle of Britain', fought between Germany and Britain in the summer of 1940?",
+    "options": [
+      {
+        "text": "A battle in the sea",
+        "isCorrect": false
+      },
+      {
+        "text": "An aerial battle",
+        "isCorrect": true
+      },
+      {
+        "text": "A battle in the mountains",
+        "isCorrect": false
+      },
+      {
+        "text": "A battle without riffles",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where is Swansea located?",
+    "options": [
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which two political parties formed a coalition in 2010?",
+    "options": [
+      {
+        "text": "The Conservative Party",
+        "isCorrect": true
+      },
+      {
+        "text": "The Green Party",
+        "isCorrect": false
+      },
+      {
+        "text": "The Labour Party",
+        "isCorrect": false
+      },
+      {
+        "text": "The Liberal Democrats Party",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who established the Church of England?",
+    "options": [
+      {
+        "text": "Henry VIII",
+        "isCorrect": true
+      },
+      {
+        "text": "Oliver Cromwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Winston Churchill",
+        "isCorrect": false
+      },
+      {
+        "text": "William of Orange",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In 1348, one third of the population in England, Wales and Scotland died as a result of which disease?",
+    "options": [
+      {
+        "text": "Measles",
+        "isCorrect": false
+      },
+      {
+        "text": "Leprocy",
+        "isCorrect": false
+      },
+      {
+        "text": "Smallpox",
+        "isCorrect": false
+      },
+      {
+        "text": "The Black Death",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Haggis is a traditional food from which area?",
+    "options": [
+      {
+        "text": "Wales",
+        "isCorrect": false
+      },
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which court deals with minor criminal offences in Scotland?",
+    "options": [
+      {
+        "text": "The Sheriff Court",
+        "isCorrect": false
+      },
+      {
+        "text": "The Magistrate's Court",
+        "isCorrect": false
+      },
+      {
+        "text": "The Crown Court",
+        "isCorrect": false
+      },
+      {
+        "text": "The Justice of the Peace Court",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following records give us information about England during the reign of William I?",
+    "options": [
+      {
+        "text": "The Magna Carta",
+        "isCorrect": false
+      },
+      {
+        "text": "The Domesday Book",
+        "isCorrect": true
+      },
+      {
+        "text": "The Bayeux Tapestry",
+        "isCorrect": true
+      },
+      {
+        "text": "The Canterbury Tales",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In 1913, the British government promised 'Home Rule' for Ireland, why were any changes in Ireland delayed until 1921?",
+    "options": [
+      {
+        "text": "Due to the outbreak of the First World War",
+        "isCorrect": true
+      },
+      {
+        "text": "Due to the outbreak of the Second World War",
+        "isCorrect": false
+      },
+      {
+        "text": "Because there was not a king on the British throne",
+        "isCorrect": false
+      },
+      {
+        "text": "Due to the outbreak of the Black Death",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two documents do you need to apply for a National Insurance number?",
+    "options": [
+      {
+        "text": "A document with your address on it, such as a tenancy agreement",
+        "isCorrect": false
+      },
+      {
+        "text": "Documents that prove that you have permission to work in the UK",
+        "isCorrect": true
+      },
+      {
+        "text": "A contract from your employer",
+        "isCorrect": false
+      },
+      {
+        "text": "Documents that prove your identity",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "As a British citizen, you should:",
+    "options": [
+      {
+        "text": "Respect and obey the law",
+        "isCorrect": true
+      },
+      {
+        "text": "Vote in all elections",
+        "isCorrect": false
+      },
+      {
+        "text": "Take part in religious activities",
+        "isCorrect": false
+      },
+      {
+        "text": "Look after the area in which you live and the environment",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When is Halloween celebrated?",
+    "options": [
+      {
+        "text": "5th of November",
+        "isCorrect": false
+      },
+      {
+        "text": "11th of November",
+        "isCorrect": false
+      },
+      {
+        "text": "31st of October",
+        "isCorrect": true
+      },
+      {
+        "text": "1st of April",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Bill of Rights of 1689 gave women the right to vote.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the most famous cricket competition played between England and Australia?",
+    "options": [
+      {
+        "text": "The Ashes",
+        "isCorrect": true
+      },
+      {
+        "text": "The Six Nations Championship",
+        "isCorrect": false
+      },
+      {
+        "text": "The Grand National",
+        "isCorrect": false
+      },
+      {
+        "text": "The Australian Open",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was the biggest source of employment during the 18th century?",
+    "options": [
+      {
+        "text": "Fishing",
+        "isCorrect": false
+      },
+      {
+        "text": "Teaching",
+        "isCorrect": false
+      },
+      {
+        "text": "Aircraft industry",
+        "isCorrect": false
+      },
+      {
+        "text": "Manufacturing",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the battle of Bannockburn, and Scotland remained unconquered by the English.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of criminal offence?",
+    "options": [
+      {
+        "text": "Smoking in public places where it is not allowed",
+        "isCorrect": true
+      },
+      {
+        "text": "Disputes about faulty goods or services",
+        "isCorrect": false
+      },
+      {
+        "text": "Disputes about an unfair dismissal in the workplace",
+        "isCorrect": false
+      },
+      {
+        "text": "A dispute between the landlord and the tenants who have not paid the rent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which Scottish clan was killed for not taking the oath?",
+    "options": [
+      {
+        "text": "The MacLaine of Lochbuie",
+        "isCorrect": false
+      },
+      {
+        "text": "The McDowalls of Garthland",
+        "isCorrect": false
+      },
+      {
+        "text": "The Macpherson of Cluny",
+        "isCorrect": false
+      },
+      {
+        "text": "The MacDonalds of Glencoe",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which two issues can the devolved administrations pass laws on?",
+    "options": [
+      {
+        "text": "Defence",
+        "isCorrect": false
+      },
+      {
+        "text": "Social security",
+        "isCorrect": false
+      },
+      {
+        "text": "Health",
+        "isCorrect": true
+      },
+      {
+        "text": "Education",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The assassination of the Archduke Franz Ferdinand of Austria in 1914 led to which of the following wars?",
+    "options": [
+      {
+        "text": "The Crimean War",
+        "isCorrect": false
+      },
+      {
+        "text": "The First World War",
+        "isCorrect": true
+      },
+      {
+        "text": "The Civil War",
+        "isCorrect": false
+      },
+      {
+        "text": "The Second World War",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the capital city of Scotland?",
+    "options": [
+      {
+        "text": "Glasgow",
+        "isCorrect": false
+      },
+      {
+        "text": "St Andrews",
+        "isCorrect": false
+      },
+      {
+        "text": "Edinburgh",
+        "isCorrect": true
+      },
+      {
+        "text": "Aberdeen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the process by which many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle?",
+    "options": [
+      {
+        "text": "The Black Death",
+        "isCorrect": false
+      },
+      {
+        "text": "The Corn Removal",
+        "isCorrect": false
+      },
+      {
+        "text": "The Highland Clearances",
+        "isCorrect": true
+      },
+      {
+        "text": "The Enlightenment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Falkland Islands are a British overseas territory and are part of the United Kingdom.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following are Civil War Battles?",
+    "options": [
+      {
+        "text": "The Battle of Waterloo",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Marston Moor",
+        "isCorrect": true
+      },
+      {
+        "text": "The Battle of Naseby",
+        "isCorrect": true
+      },
+      {
+        "text": "The Battle of Agincourt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What was the name of the activist group who fought for the women's right to vote?",
+    "options": [
+      {
+        "text": "Chartists",
+        "isCorrect": false
+      },
+      {
+        "text": "Beefeaters",
+        "isCorrect": false
+      },
+      {
+        "text": "Suffragettes",
+        "isCorrect": true
+      },
+      {
+        "text": "Quakers",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What UK landmark was voted as Britain's favourite view in 2007?",
+    "options": [
+      {
+        "text": "The Big Ben",
+        "isCorrect": false
+      },
+      {
+        "text": "Lake District",
+        "isCorrect": true
+      },
+      {
+        "text": "Snowdonia",
+        "isCorrect": false
+      },
+      {
+        "text": "The London Eye",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who were the first people to live in Britain in what we call the Stone Age?",
+    "options": [
+      {
+        "text": "Farmers",
+        "isCorrect": false
+      },
+      {
+        "text": "Peasants",
+        "isCorrect": false
+      },
+      {
+        "text": "Hunter-gatherers",
+        "isCorrect": true
+      },
+      {
+        "text": "Pirates",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the movement against the authority of the Pope and the ideas of the Catholic Church that took place during the reign of Henry VIII?",
+    "options": [
+      {
+        "text": "The Reformation",
+        "isCorrect": true
+      },
+      {
+        "text": "The Enlightenment",
+        "isCorrect": false
+      },
+      {
+        "text": "The Glorious Revolution",
+        "isCorrect": false
+      },
+      {
+        "text": "The Renaissance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What do you need to do to apply for a National Insurance Number?",
+    "options": [
+      {
+        "text": "Contact the NHS",
+        "isCorrect": false
+      },
+      {
+        "text": "Contact the Department for Work and Pensions (DWP)",
+        "isCorrect": true
+      },
+      {
+        "text": "Contact your local MP",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask you employer to get it for you",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a major horse-racing event in England?",
+    "options": [
+      {
+        "text": "The Wimbledon Championship",
+        "isCorrect": false
+      },
+      {
+        "text": "Royal Ascot",
+        "isCorrect": true
+      },
+      {
+        "text": "The Open Championship",
+        "isCorrect": false
+      },
+      {
+        "text": "The Six Nations Championship",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How many members form a jury in Scotland?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is known as Lent?",
+    "options": [
+      {
+        "text": "The 40 days before Christmas",
+        "isCorrect": false
+      },
+      {
+        "text": "The 40 days after Easter",
+        "isCorrect": false
+      },
+      {
+        "text": "The 40 days before Easter",
+        "isCorrect": true
+      },
+      {
+        "text": "The 40 days after Christmas",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When was the last successful foreign invasion of England?",
+    "options": [
+      {
+        "text": "1415",
+        "isCorrect": false
+      },
+      {
+        "text": "1314",
+        "isCorrect": false
+      },
+      {
+        "text": "1066",
+        "isCorrect": true
+      },
+      {
+        "text": "1200",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which flower is associated with Scotland?",
+    "options": [
+      {
+        "text": "The Shamrock",
+        "isCorrect": false
+      },
+      {
+        "text": "The Rose",
+        "isCorrect": false
+      },
+      {
+        "text": "The Daffodil",
+        "isCorrect": false
+      },
+      {
+        "text": "The Thistle",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Police complaints can only be made by writing to the Chief Constable of the police force involved.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a responsibility of the Home Secretary?",
+    "options": [
+      {
+        "text": "Economy",
+        "isCorrect": false
+      },
+      {
+        "text": "Crime",
+        "isCorrect": true
+      },
+      {
+        "text": "Education",
+        "isCorrect": false
+      },
+      {
+        "text": "Defence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When is St David's day celebrated?",
+    "options": [
+      {
+        "text": "1st March",
+        "isCorrect": true
+      },
+      {
+        "text": "17th March",
+        "isCorrect": false
+      },
+      {
+        "text": "23rd April",
+        "isCorrect": false
+      },
+      {
+        "text": "17th April",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What happened to 'Mary, Queen of Scots' after she spent 20 years in prison?",
+    "options": [
+      {
+        "text": "She became Queen of England",
+        "isCorrect": false
+      },
+      {
+        "text": "She was sent to France",
+        "isCorrect": false
+      },
+      {
+        "text": "She escaped to Denmark",
+        "isCorrect": false
+      },
+      {
+        "text": "She was executed",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following lines are from the National Anthem (choose two options)?",
+    "options": [
+      {
+        "text": "We shall never surrender",
+        "isCorrect": false
+      },
+      {
+        "text": "God save our gracious Queen!",
+        "isCorrect": true
+      },
+      {
+        "text": "Send her victorious",
+        "isCorrect": true
+      },
+      {
+        "text": "The darling buds of May",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How many national parks are there in England, Wales and Scotland?",
+    "options": [
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "42",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is Northern Ireland part of Great Britain?",
+    "options": [
+      {
+        "text": "Yes",
+        "isCorrect": false
+      },
+      {
+        "text": "No",
+        "isCorrect": true
+      }
+    ]
+  }
+]

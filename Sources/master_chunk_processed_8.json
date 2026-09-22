@@ -1,0 +1,1791 @@
+[
+  {
+    "question": {
+      "en": "The version of the Bible created by King James I is known as:",
+      "zh": "由國王詹姆士一世創立的《聖經》版本被稱為："
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Authorised version",
+          "zh": "授權版本 (Authorised version)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Reformed version",
+          "zh": "改革版本 (Reformed version)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Approved version",
+          "zh": "批准版本 (Approved version)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Unique version",
+          "zh": "獨特版本 (Unique version)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "King James I ordered a new translation of the Bible into English, which became known as the Authorised Version (or King James Version).",
+      "zh": "國王詹姆士一世下令將《聖經》重新翻譯成英文，這部譯本被稱為「授權版」 (Authorised Version，或稱《英王欽定版》)。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is the period of the 1960s known for?",
+      "zh": "1960 年代這段時期以什麼而聞名？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A downgrade in manufacturing",
+          "zh": "製造業的衰退"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A growth in British fashion and pop music",
+          "zh": "英國時尚和流行音樂的成長"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A shortage of water",
+          "zh": "水資源短缺"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A blockage of social laws",
+          "zh": "社會法律的阻礙"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The 1960s was a period of significant social change and is famous for the growth of British fashion and pop music, including bands like The Beatles and The Rolling Stones.",
+      "zh": "1960 年代是一個發生重大社會變革的時期，以英國時尚和流行音樂（包括披頭四樂團和滾石樂團等樂隊）的蓬勃發展而聞名。"
+    }
+  },
+  {
+    "question": {
+      "en": "Between 1680 and 1720 many refugees called Huguenots came to England, which country did they come from?",
+      "zh": "在 1680 年至 1720 年間，許多被稱為雨格諾派 (Huguenots) 的難民來到英格蘭，他們來自哪個國家？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Pakistan",
+          "zh": "巴基斯坦"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Germany",
+          "zh": "德國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "India",
+          "zh": "印度"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Huguenots were French Protestants who fled persecution in France between 1680 and 1720, with many settling in England.",
+      "zh": "雨格諾派是法國的新教徒，他們在 1680 年至 1720 年間逃離法國的迫害，許多人選擇定居於英格蘭。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is the most famous tennis tournament played in the UK?",
+      "zh": "英國最著名的網球錦標賽是哪一個？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Queen's Club Championships",
+          "zh": "女王俱樂部錦標賽 (The Queen's Club Championships)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wimbledon",
+          "zh": "溫布頓網球錦標賽 (Wimbledon)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Roland Garros",
+          "zh": "羅蘭·加洛斯球場 (Roland Garros)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Aegon Championships",
+          "zh": "艾根錦標賽 (The Aegon Championships)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Wimbledon is the oldest and most prestigious tennis tournament in the world, and it is the only Grand Slam event played on grass.",
+      "zh": "溫布頓網球錦標賽是世界上最古老且最享有盛譽的網球賽事，也是唯一在草地上進行的大滿貫賽事。"
+    }
+  },
+  {
+    "question": {
+      "en": "MPs can only be contacted at their office in the House of Commons.",
+      "zh": "國會議員 (MPs) 只能在其下議院的辦公室取得聯繫。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "You can contact MPs by writing to them at their office in the House of Commons, but they also hold local surgeries in their constituencies, and you can email or phone them.",
+      "zh": "您可以寫信給下議院辦公室的國會議員，但他們也會在其選區舉行選民接待日，您也可以通過電子郵件或電話與他們聯繫。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is the day when jokes are published in newspapers and telecasted on TV?",
+      "zh": "報紙發表笑話且電視播放惡搞節目的日子是哪一天？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "April Fool's Day",
+          "zh": "愚人節 (April Fool's Day)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Boxing Day",
+          "zh": "節禮日 (Boxing Day)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Halloween",
+          "zh": "萬聖夜 (Halloween)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Valentine's Day",
+          "zh": "情人節 (Valentine's Day)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "On April Fool's Day (1st April), people play jokes on each other, and newspapers and TV programs often publish or broadcast spoof stories.",
+      "zh": "在愚人節 (4 月 1 日)，人們會互相開玩笑，報紙和電視節目也經常發布或播放惡搞的新聞故事。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which Scottish king defeated the English at the Battle of Bannockburn?",
+      "zh": "哪位蘇格蘭國王在班諾克本戰役 (Battle of Bannockburn) 中擊敗了英格蘭人？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "King Charles I",
+          "zh": "國王查理一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "King James I",
+          "zh": "國王詹姆士一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Admiral Nelson",
+          "zh": "納爾遜海軍上將"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Robert the Bruce",
+          "zh": "羅伯特·布魯斯"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Robert the Bruce defeated the English army led by Edward II at the Battle of Bannockburn in 1314, securing Scottish independence.",
+      "zh": "羅伯特·布魯斯在 1314 年的班諾克本戰役中擊敗了由愛德華二世率領的英格蘭軍隊，確保了蘇格蘭的獨立。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who invented the World Wide Web?",
+      "zh": "誰發明了全球資訊網 (World Wide Web)？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Sir Tim Berners-Lee",
+          "zh": "提姆·柏內茲-李爵士 (Sir Tim Berners-Lee)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Sir Peter Mansfield",
+          "zh": "彼得·曼斯菲爾德爵士 (Sir Peter Mansfield)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Ian Wilmot",
+          "zh": "伊恩·威爾穆特爵士 (Sir Ian Wilmut)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Robert Edwards",
+          "zh": "羅伯特·愛德華茲爵士 (Sir Robert Edwards)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Sir Tim Berners-Lee invented the World Wide Web (WWW) in 1989, which revolutionized information sharing globally.",
+      "zh": "提姆·柏內茲-李爵士於 1989 年發明了全球資訊網 (WWW)，這徹底改變了全球的信息共享方式。"
+    }
+  },
+  {
+    "question": {
+      "en": "How are civil servants appointed and what political party do they belong to?",
+      "zh": "公務員是如何任命的？他們屬於哪個政黨？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "They are chosen on merit and form part of the Liberal Democrats party",
+          "zh": "他們憑才能入選，並且是自由民主黨的一部分"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "They are chosen randomly and form part of the Conservative party",
+          "zh": "他們隨機挑選，並且是保守黨的一部分"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "They are chosen randomly and are politically neutral",
+          "zh": "他們隨機挑選，且保持政治中立"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "They are chosen on merit and are politically neutral",
+          "zh": "他們憑才能入選，且保持政治中立"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Civil servants are appointed on merit based on fair and open competition, and they must remain politically neutral to serve the government of the day.",
+      "zh": "公務員是基於公平和公開的競爭並憑藉才能受委任的，他們必須保持政治中立，以服務當屆政府。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is known as the 'Dunkirk spirit'?",
+      "zh": "什麼被稱為「敦克爾克精神」 (Dunkirk spirit)？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "When the German air force bombed London and other British cities at night-time",
+          "zh": "德國空軍在夜間轟炸倫敦和其他英國城市的時候"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The evacuation of Allied soldiers from France during World War II",
+          "zh": "第二次世界大戰期間盟軍士兵從法國撤退的行動"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "When new social classes appeared after the Black Death",
+          "zh": "黑死病之後出現新社會階層的時期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The period when many refugees called Huguenots came from France",
+          "zh": "許多被稱為雨格諾派的難民從法國來到英格蘭的時期"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The 'Dunkirk spirit' refers to the determination and solidarity shown by the British public during the evacuation of Allied soldiers from the beaches of Dunkirk in 1940.",
+      "zh": "「敦克爾克精神」是指 1940 年在敦克爾克海灘撤離盟軍士兵期間，英國公眾所展現出的決心與團結精神。"
+    }
+  },
+  {
+    "question": {
+      "en": "You have to be at least 21 years old to serve on a jury.",
+      "zh": "您必須年滿 21 歲才能擔任陪審員。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "To serve on a jury in the UK, you must be aged between 18 and 70 (in England, Wales, and Northern Ireland) or up to 75 (in Scotland).",
+      "zh": "在英國擔任陪審員，您必須年滿 18 歲至 70 歲之間 (英格蘭、威爾斯和北愛爾蘭) 或 75 歲以下 (蘇格蘭)。"
+    }
+  },
+  {
+    "question": {
+      "en": "If you wish to be a permanent resident or citizen of the UK, you should (choose TWO answers):",
+      "zh": "如果您希望成為英國的永久居民或公民，您應該（選擇兩個答案）："
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Respect the rights of others, including their right to their own opinions",
+          "zh": "尊重他人的權利，包括他們擁有自己意見的權利"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Buy a house in the UK",
+          "zh": "在英國買房子"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Look after yourself and your family",
+          "zh": "照顧好您自己和您的家人"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Marry a British citizen",
+          "zh": "與英國公民結婚"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "UK principles require residents and citizens to respect the rights of others (including their opinions) and to look after themselves and their families.",
+      "zh": "英國的原則要求居民和公民尊重他人的權利 (包括他們的意見)，並照顧好自己和家人。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following major sports event took place in the UK in 2012?",
+      "zh": "2012 年在英國舉行了以下哪項重大體育賽事？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Football World Cup",
+          "zh": "世界盃足球賽 (The Football World Cup)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Rugby World Cup",
+          "zh": "世界盃橄欖球賽 (The Rugby World Cup)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Olympic games",
+          "zh": "奧林匹克運動會 (The Olympic games)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Eurocup Basketball",
+          "zh": "歐洲盃籃球賽 (The Eurocup Basketball)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "London, UK, hosted the Summer Olympic and Paralympic Games in 2012.",
+      "zh": "英國倫敦於 2012 年舉辦了夏季奧林匹克運動會和帕拉林匹克運動會。"
+    }
+  },
+  {
+    "question": {
+      "en": "Charles I believed in the 'Divine Right of Kings' so he tried:",
+      "zh": "查理一世相信「君權神授」，因此他試圖："
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To rule without the Parliament",
+          "zh": "在沒有國會的情況下進行統治"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "To rule with the approval of the Parliament",
+          "zh": "在國會的批准下進行統治"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To raise money for the Parliament",
+          "zh": "為國會籌集資金"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To restore Catholicism in Britain",
+          "zh": "在英國恢復天主教"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Charles I believed in the Divine Right of Kings, which led him to try to rule without Parliament for 11 years (known as the Personal Rule).",
+      "zh": "查理一世相信君權神授，這使得他試圖在沒有國會的情況下進行統治長達 11 年 (被稱為個人統治時期)。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is the Union Jack?",
+      "zh": "什麼是米字旗 (Union Jack)？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Flag of the Commonwealth",
+          "zh": "大英國協旗幟 (The Flag of the Commonwealth)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Flag of the United Kingdom",
+          "zh": "聯合王國國旗 (The Flag of the United Kingdom)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The shield used by British Knights",
+          "zh": "英國騎士所使用的盾牌"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A trade union to protect workers rights",
+          "zh": "保護工人權利的工會"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The Union Jack (or Union Flag) is the national flag of the United Kingdom, combining the crosses of England, Scotland, and Ireland.",
+      "zh": "米字旗 (Union Jack，或稱聯合傑克) 是聯合王國的國旗，它融合了英格蘭、蘇格蘭和愛爾蘭的十字旗。"
+    }
+  },
+  {
+    "question": {
+      "en": "When is St George's day?",
+      "zh": "聖喬治日 (St George's day) 是在什麼時候？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "17th March",
+          "zh": "3 月 17 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "30th November",
+          "zh": "11 月 30 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1st March",
+          "zh": "3 月 1 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "23rd April",
+          "zh": "4 月 23 日"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St George's Day is celebrated on 23rd April and is the patron saint day of England.",
+      "zh": "聖喬治日於 4 月 23 日慶祝，是英格蘭的主保聖人紀念日。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which is the largest National Park in England?",
+      "zh": "英格蘭最大的國家公園是哪一個？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Snowdonia",
+          "zh": "斯諾多尼亞 (Snowdonia)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Loch Lomond and the Trossachs National Park",
+          "zh": "羅夢湖與朝塞斯山國家公園 (Loch Lomond and the Trossachs National Park)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Giant's Causeway",
+          "zh": "巨人堤道 (The Giant's Causeway)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Lake District",
+          "zh": "湖區 (The Lake District)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The Lake District is England's largest National Park, covering over 2,300 square kilometers and famous for its lakes and fells.",
+      "zh": "湖區 (The Lake District) 是英格蘭最大的國家公園，面積超過 2,300 平方公里，以其湖泊和山峰而聞名。"
+    }
+  },
+  {
+    "question": {
+      "en": "Boudicca, was a tribal leader who fought against which foreign invaders?",
+      "zh": "部落領袖波迪卡 (Boudicca) 曾與哪一個外來入侵者作戰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Normands",
+          "zh": "諾曼人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Vikings",
+          "zh": "維京人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Anglo-Saxons",
+          "zh": "盎格魯-撒克遜人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Romans",
+          "zh": "羅馬人"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Boudicca was the queen of the Iceni tribe who led a major uprising against the Roman Empire in AD 60 or 61.",
+      "zh": "波迪卡 (Boudicca) 是愛西尼部落的女王，她在西元 60 或 61 年領導了一場反抗羅馬帝國的大規模起義。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following poems is about a group of people going on a pilgrimage?",
+      "zh": "以下哪首詩/文學作品是關於一群去朝聖的人？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Canterbury Tales",
+          "zh": "坎特伯里故事集 (The Canterbury Tales)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "All the world's a stage",
+          "zh": "全世界是一個舞台 (All the world's a stage)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A Midsummer Night's dream",
+          "zh": "仲夏夜之夢 (A Midsummer Night's dream)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Great Expectations",
+          "zh": "遠大前程 (Great Expectations)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "'The Canterbury Tales' by Geoffrey Chaucer is a collection of stories told by a group of pilgrims on their way to Canterbury.",
+      "zh": "傑弗里·喬叟所著的《坎特伯里故事集》 (The Canterbury Tales) 是一部講述一群朝聖者在前往坎特伯里途中講述故事的集合。"
+    }
+  },
+  {
+    "question": {
+      "en": "How are public holidays called?",
+      "zh": "英國的公眾假期被稱為什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Bank Holidays",
+          "zh": "銀行假日 (Bank Holidays)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Workers Holidays",
+          "zh": "工人假日 (Workers Holidays)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Business Holidays",
+          "zh": "商業假日 (Business Holidays)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Summer Holidays",
+          "zh": "暑假 (Summer Holidays)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Public holidays in the UK are commonly referred to as Bank Holidays because banks are closed on these days.",
+      "zh": "英國的公眾假期通常被稱為「銀行假日」 (Bank Holidays)，因為銀行在這些日子會關門歇業。"
+    }
+  },
+  {
+    "question": {
+      "en": "How did Charles II manage to escape to Europe after his defeat in the Civil War?",
+      "zh": "在內戰戰敗後，查理二世是如何成功逃往歐洲的？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Hiding in a farmer's house",
+          "zh": "躲在農夫的家裡"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Riding a horse",
+          "zh": "騎馬"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hiding in an oak tree",
+          "zh": "躲在一棵橡樹中"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Swimming",
+          "zh": "游泳"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Following his defeat at the Battle of Worcester in 1651, Charles II escaped capture by hiding in a royal oak tree before fleeing to Europe.",
+      "zh": "在 1651 年的伍斯特戰役中戰敗後，查理二世通過躲藏在一棵皇家橡樹中逃脫了抓捕，隨後逃往歐洲。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who defeated the Vikings?",
+      "zh": "誰擊敗了維京人？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Harold",
+          "zh": "哈羅德"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Edward I of England",
+          "zh": "英格蘭的愛德華一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "King Arthur",
+          "zh": "亞瑟王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "King Alfred the Great",
+          "zh": "阿爾弗雷德大帝"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "King Alfred the Great of Wessex defeated the Vikings and united England under one ruler.",
+      "zh": "威塞克斯的國王阿爾弗雷德大帝擊敗了維京人，並將英格蘭統一在一位統治者之下。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who was William Caxton?",
+      "zh": "威廉·卡克斯頓 (William Caxton) 是誰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A poet who wrote about a group of people going to Canterbury on a pilgrimage",
+          "zh": "一位寫了關於一群人去坎特伯里朝聖的詩人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The first person in England to print books using a printing press",
+          "zh": "英格蘭第一位使用印刷機印刷書籍的人"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The first person to sail singlehanded around the world",
+          "zh": "第一位獨自航行環遊世界的人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The inventor of the television",
+          "zh": "電視的發明者"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "William Caxton introduced the printing press to England in 1476, printing the first book in English.",
+      "zh": "威廉·卡克斯頓於 1476 年將印刷機引入英格蘭，印刷了第一本英文書籍。"
+    }
+  },
+  {
+    "question": {
+      "en": "Where do Beefeaters serve as tour guides?",
+      "zh": "倫敦塔衛士 (Beefeaters) 在哪裡擔任導遊？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Houses of the Parliament",
+          "zh": "國會大廈"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Tower of London",
+          "zh": "倫敦塔 (The Tower of London)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The O2",
+          "zh": "O2 體育館 (The O2)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Big Ben",
+          "zh": "大笨鐘 (The Big Ben)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Beefeaters (Yeoman Warders) serve as tour guides at the Tower of London, where they have guarded the fortress since the Tudor period.",
+      "zh": "倫敦塔衛士 (Yeoman Warders，俗稱 Beefeaters) 在倫敦塔擔任導遊，他們自都鐸王朝時期起就一直看守着這座堡壘。"
+    }
+  },
+  {
+    "question": {
+      "en": "During the rebellion of the clans in Scotland, Bonnie Prince Charlie was supported by clansmen from which Scottish region?",
+      "zh": "在蘇格蘭部落起義期間，美男子查理王子 (Bonnie Prince Charlie) 得到了蘇格蘭哪個地區部落成員的支持？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Glasgow",
+          "zh": "格拉斯哥"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Galloway",
+          "zh": "加洛韋"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Highlands",
+          "zh": "高地地區 (Highlands)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Edinburgh",
+          "zh": "愛丁堡"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Bonnie Prince Charlie (Charles Edward Stuart) was supported by clansmen from the Highlands during the Jacobite uprising of 1745.",
+      "zh": "在 1745 年的詹姆士黨起義期間，美男子查理王子 (Charles Edward Stuart) 得到了來自蘇格蘭高地 (Highlands) 部落成員的支持。"
+    }
+  },
+  {
+    "question": {
+      "en": "What religion did Elizabeth I follow?",
+      "zh": "伊莉莎白一世信奉什麼宗教？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "She was a Protestant",
+          "zh": "她是新教徒"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "She was a Catholic",
+          "zh": "她是天主教徒"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Elizabeth I was a Protestant and re-established the Church of England as the official state church after the Catholic reign of her sister Mary I.",
+      "zh": "伊莉莎白一世是新教徒，在她姊姊瑪麗一世的天主教統治之後，她重新確立了英格蘭教會（聖公會）為官方國教。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who became famous for his tramp character in silent movies?",
+      "zh": "誰因在默片中飾演流浪漢角色而聞名？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Sir Rex Harrison",
+          "zh": "雷克斯·哈里遜爵士 (Sir Rex Harrison)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "David Niven",
+          "zh": "大衛·尼文 (David Niven)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Richard Burton",
+          "zh": "理查·波頓 (Richard Burton)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Charlie Chaplin",
+          "zh": "查理·卓別林 (Charlie Chaplin)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Charlie Chaplin became a global icon of silent cinema through his famous character 'The Tramp'.",
+      "zh": "查理·卓別林憑藉其著名的「流浪漢」 (The Tramp) 角色成為全球默片時代的標誌性人物。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which armed force was used in the Battle of Britain?",
+      "zh": "不列顛戰役 (Battle of Britain) 中動用了哪支武裝力量？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Royal Navy",
+          "zh": "皇家海軍 (The Royal Navy)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Police Force",
+          "zh": "警察部隊 (The Police Force)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Naval Service",
+          "zh": "海軍服役機構 (The Naval Service)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Royal Air Force",
+          "zh": "皇家空軍 (The Royal Air Force)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Battle of Britain (1940) was fought entirely in the air between the British Royal Air Force (RAF) and the German Luftwaffe.",
+      "zh": "不列顛戰役 (1940 年) 是一場完全在空中進行的對決，由英國皇家空軍 (RAF) 對抗德國空軍。"
+    }
+  },
+  {
+    "question": {
+      "en": "In the UK, you have to be 21 years old to be able to vote in a general election.",
+      "zh": "在英國，您必須年滿 21 歲才能在大選中投票。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The voting age in the UK for general elections is 18.",
+      "zh": "英國大選的法定投票年齡為 18 歲。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following poets was inspired by nature?",
+      "zh": "以下哪位詩人受到了大自然的啟發？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "John Masefield",
+          "zh": "約翰·梅斯菲爾德 (John Masefield)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wilfred Owen",
+          "zh": "威爾弗雷德·歐文 (Wilfred Owen)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Siegfried Sassoon",
+          "zh": "席格佛里德·薩松 (Siegfried Sassoon)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "William Wordsworth",
+          "zh": "威廉·華茲華斯 (William Wordsworth)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "William Wordsworth was a leader of the Romantic movement in English literature, famous for his poems inspired by the nature of the Lake District.",
+      "zh": "威廉·華茲華斯是英國文學中浪漫主義運動的領袖，以其受湖區自然風光啟發的詩歌而聞名。"
+    }
+  },
+  {
+    "question": {
+      "en": "Against which country did Britain fight at the Battle of Waterloo?",
+      "zh": "在滑鐵盧戰役 (Battle of Waterloo) 中，英國與哪個國家作戰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Germany",
+          "zh": "德國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Italy",
+          "zh": "義大利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Spain",
+          "zh": "西班牙"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In 1815, the Duke of Wellington defeated Napoleon Bonaparte of France at the Battle of Waterloo.",
+      "zh": "1815 年，威靈頓公爵在滑鐵盧戰役中擊敗了法國的拿破崙·波拿巴。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who was William Wilberforce?",
+      "zh": "威廉·威伯福斯 (William Wilberforce) 是誰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A poet",
+          "zh": "一位詩人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A sportsman",
+          "zh": "一位運動員"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A politician",
+          "zh": "一位政治家"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A musician",
+          "zh": "一位音樂家"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "William Wilberforce was a British politician and philanthropist who led the movement to abolish the slave trade in the British Empire.",
+      "zh": "威廉·威伯福斯是一位英國政治家和慈善家，他領導了廢除大英帝國奴隸貿易的運動。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the spiritual leader of the Church of England?",
+      "zh": "誰是英格蘭教會 (聖公會) 的精神領袖？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Archbishop of Canterbury",
+          "zh": "坎特伯雷大主教 (The Archbishop of Canterbury)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Archbishop of London",
+          "zh": "倫敦大主教 (The Archbishop of London)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Archbishop of Birmingham",
+          "zh": "伯明罕大主教 (The Archbishop of Birmingham)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Archbishop of Manchester",
+          "zh": "曼徹斯特大主教 (The Archbishop of Manchester)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Archbishop of Canterbury is the spiritual leader of the Church of England (and the global Anglican Communion).",
+      "zh": "坎特伯雷大主教是英格蘭教會 (以及全球聖公會) 的精神領袖。"
+    }
+  },
+  {
+    "question": {
+      "en": "James I was King of which country before becoming King of England?",
+      "zh": "詹姆士一世在成為英格蘭國王之前是哪個國家的國王？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ireland",
+          "zh": "愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Before succeeding Elizabeth I as King James I of England in 1603, he ruled Scotland as King James VI.",
+      "zh": "在 1603 年繼承伊莉莎白一世成為英格蘭國王詹姆士一世之前，他作為詹姆士六世統治蘇格蘭。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which country sent a fleet of ships to England in 1588?",
+      "zh": "哪個國家在 1588 年向英格蘭派遣了一支船隊？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Germany",
+          "zh": "德國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Spain",
+          "zh": "西班牙"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Italy",
+          "zh": "義大利"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In 1588, Spain sent the Spanish Armada—a large fleet of ships—to invade England, but it was defeated by the English navy and storms.",
+      "zh": "1588 年，西班牙派遣了西班牙無敵艦隊 (一隻龐大的船隊) 入侵英格蘭，但被英格蘭海軍和風暴所擊敗。"
+    }
+  },
+  {
+    "question": {
+      "en": "Where is the National Horseracing Museum located?",
+      "zh": "國家賽馬博物館位於哪裡？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Edinburgh, Scotland",
+          "zh": "蘇格蘭愛丁堡 (Edinburgh, Scotland)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Newmarket, Suffolk",
+          "zh": "薩福克郡新市場 (Newmarket, Suffolk)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St Andrews, Scotland",
+          "zh": "蘇格蘭聖安德魯斯 (St Andrews, Scotland)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Aintree near Liverpool",
+          "zh": "利物浦附近的安特里 (Aintree near Liverpool)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The National Horseracing Museum is located in Newmarket, Suffolk, which is widely considered the birthplace and global center of thoroughbred horse racing.",
+      "zh": "國家賽馬博物館位於薩福克郡的新市場 (Newmarket, Suffolk)，該地被廣泛認為是純種馬賽馬的發源地和全球中心。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following castles is located in Scotland?",
+      "zh": "以下哪座城堡位於蘇格蘭？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Crathes Castle",
+          "zh": "克雷斯城堡 (Crathes Castle)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Caernarfon Castle",
+          "zh": "卡納芬城堡 (Caernarfon Castle)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Bodiam Castle",
+          "zh": "波定咸城堡 (Bodiam Castle)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Powis Castle",
+          "zh": "鮑里斯城堡 (Powis Castle)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Crathes Castle is a 16th-century castle located near Banchory in Aberdeenshire, Scotland.",
+      "zh": "克雷斯城堡 (Crathes Castle) 是一座位於蘇格蘭亞伯丁郡班科里附近的 16 世紀城堡。"
+    }
+  },
+  {
+    "question": {
+      "en": "How often are European parliamentary elections held?",
+      "zh": "歐洲議會選舉每隔幾年舉行一次？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Every three years",
+          "zh": "每三年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every four years",
+          "zh": "每四年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every five years",
+          "zh": "每五年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Every six years",
+          "zh": "每六年"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Elections to the European Parliament were held every five years (until the UK left the European Union).",
+      "zh": "歐洲議會選舉每 5 年舉行一次 (直至英國脫離歐盟)。"
+    }
+  },
+  {
+    "question": {
+      "en": "When is St Patrick's day celebrated?",
+      "zh": "聖派翠克日是在什麼時候慶祝？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "23rd April",
+          "zh": "4 月 23 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "30th November",
+          "zh": "11 月 30 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1st April",
+          "zh": "4 月 1 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "17th March",
+          "zh": "3 月 17 日"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St Patrick's Day is celebrated on 17th March and is the patron saint day of Northern Ireland.",
+      "zh": "聖派翠克日於 3 月 17 日慶祝，是北愛爾蘭的主保聖人紀念日。"
+    }
+  },
+  {
+    "question": {
+      "en": "How are the members of the Northern Ireland Parliament elected?",
+      "zh": "北愛爾蘭議會議員是如何選出的？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "By a system of proportional representation",
+          "zh": "通過比例代表制系統"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Using a system of ranked voting",
+          "zh": "使用排序投票制系統"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Using the first past the post system",
+          "zh": "使用簡單多數票決制系統 (第一過杆制)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Using a runoff system",
+          "zh": "使用兩輪選舉制系統"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Northern Ireland Assembly uses the Single Transferable Vote system, which is a form of proportional representation.",
+      "zh": "北愛爾蘭議會使用單一可轉移票制 (Single Transferable Vote)，這是一種比例代表制形式。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who was the first British Prime Minister?",
+      "zh": "誰是英國第一任首相？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Winston Churchill",
+          "zh": "溫斯頓·邱吉爾 (Winston Churchill)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Earl of Wilmington",
+          "zh": "威爾明頓伯爵 (Earl of Wilmington)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry Pelham",
+          "zh": "亨利·佩勒姆 (Henry Pelham)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Robert Walpole",
+          "zh": "羅伯特·華波爵士 (Sir Robert Walpole)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Sir Robert Walpole is widely acknowledged as the first Prime Minister of Great Britain, serving from 1721 to 1742.",
+      "zh": "羅伯特·華波爵士被廣泛公認為大不列顛的第一任首相，於 1721 年至 1742 年在任。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following actresses has not won an Oscar?",
+      "zh": "以下哪位女演員沒有獲得過奧斯卡金像獎？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Tilda Swinton",
+          "zh": "蒂妲·絲雲頓 (Tilda Swinton)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Emily Watson",
+          "zh": "艾蜜莉·華森 (Emily Watson)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Dame Judi Dench",
+          "zh": "茱蒂·丹契女爵士 (Dame Judi Dench)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Kate Winslet",
+          "zh": "凱特·溫絲蕾 (Kate Winslet)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Emily Watson has been nominated twice for an Oscar but has not won, whereas Tilda Swinton, Dame Judi Dench, and Kate Winslet have all won Oscars.",
+      "zh": "艾蜜莉·華森曾兩度獲得奧斯卡金像獎提名但未獲獎，而蒂妲·絲雲頓、茱蒂·丹契女爵士以及凱特·溫絲蕾皆曾獲得過奧斯卡金像獎。"
+    }
+  },
+  {
+    "question": {
+      "en": "During the Enlightenment, Adam Smith developed ideas about:",
+      "zh": "在啟蒙運動時期，亞當·斯密發展了關於什麼的思想？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Physics",
+          "zh": "物理學"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Economics",
+          "zh": "經濟學"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Science",
+          "zh": "科學"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Engineering",
+          "zh": "工程學"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "During the Enlightenment, Scottish philosopher Adam Smith wrote 'The Wealth of Nations', developing key ideas about economics and free markets.",
+      "zh": "在啟蒙運動時期，蘇格蘭哲學家亞當·斯密撰寫了《國富論》，發展了關於經濟學和自由市場的關鍵思想。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who died at the Battle of Trafalgar?",
+      "zh": "誰在特拉法加海戰 (Battle of Trafalgar) 中陣亡？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Admiral Nelson",
+          "zh": "納爾遜海軍上將 (Admiral Nelson)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Henry VIII",
+          "zh": "亨利八世 (Henry VIII)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Oliver Cromwell",
+          "zh": "奧利弗·克倫威爾 (Oliver Cromwell)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Napoleon",
+          "zh": "拿破崙 (Napoleon)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Admiral Horatio Nelson was shot and killed during the Battle of Trafalgar in 1805, in which the British fleet defeated the French and Spanish navies.",
+      "zh": "霍雷肖·納爾遜海軍上將在 1805 年的特拉法加海戰中中彈身亡，在那場戰役中英國艦隊擊敗了法國和西班牙的海軍。"
+    }
+  },
+  {
+    "question": {
+      "en": "When is Hogmanay celebrated?",
+      "zh": "蘇格蘭除夕 (Hogmanay) 是在什麼時候慶祝？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "25th of December",
+          "zh": "12 月 25 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "2nd of January",
+          "zh": "1 月 2 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1st of January",
+          "zh": "1 月 1 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "31st of December",
+          "zh": "12 月 31 日"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Hogmanay is the Scottish word for New Year's Eve and is celebrated on 31st December.",
+      "zh": "「Hogmanay」是蘇格蘭語中的除夕 (New Year's Eve)，於 12 月 31 日進行慶祝。"
+    }
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Who was King of England at the time of the Norman Invasion in 1066?",
+    "options": [
+      {
+        "text": "Hubert",
+        "isCorrect": false
+      },
+      {
+        "text": "Harold",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry",
+        "isCorrect": false
+      },
+      {
+        "text": "Herbert",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? Adult citizens of other EU states may vote in General Elections.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? The Bill of Rights confirmed the rights of Parliament and the limits of the king's power.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The UK has what kind of monarchy?",
+    "options": [
+      {
+        "text": "Constitutional",
+        "isCorrect": true
+      },
+      {
+        "text": "Democratic",
+        "isCorrect": false
+      },
+      {
+        "text": "Absolute",
+        "isCorrect": false
+      },
+      {
+        "text": "Provisional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where did Florence Nightingale establish the Nightingale School for Nurses in 1860?",
+    "options": [
+      {
+        "text": "St James's University Hospital, Leeds",
+        "isCorrect": false
+      },
+      {
+        "text": "Prince Philip Hospital, Llanelli",
+        "isCorrect": false
+      },
+      {
+        "text": "Addenbrooke's Hospital, Cambridge",
+        "isCorrect": false
+      },
+      {
+        "text": "St Thomas' Hospital, London",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "John Petts was a Welshman famous in which of these TWO areas of art?",
+    "options": [
+      {
+        "text": "Painting of horses",
+        "isCorrect": false
+      },
+      {
+        "text": "Water colours",
+        "isCorrect": false
+      },
+      {
+        "text": "Engraving",
+        "isCorrect": true
+      },
+      {
+        "text": "Stained glass",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? Norman French influenced the development of the English language as we know it today.",
+    "options": [
+      {
+        "text": "False",
+        "isCorrect": false
+      },
+      {
+        "text": "True",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When was the first Union Flag created?",
+    "options": [
+      {
+        "text": "1706",
+        "isCorrect": false
+      },
+      {
+        "text": "1506",
+        "isCorrect": false
+      },
+      {
+        "text": "1609",
+        "isCorrect": false
+      },
+      {
+        "text": "1606",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? The UK is a parliamentary democracy.",
+    "options": [
+      {
+        "text": "False",
+        "isCorrect": false
+      },
+      {
+        "text": "True",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "options": [
+      {
+        "text": "A Magistrates' Court deals with minor criminal offences",
+        "isCorrect": true
+      },
+      {
+        "text": "A Magistrates' Court deals with only the most serious criminal cases.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A judiciary is responsible for which TWO of the following :",
+    "options": [
+      {
+        "text": "Arresting people",
+        "isCorrect": false
+      },
+      {
+        "text": "Making sure that trials are fair",
+        "isCorrect": true
+      },
+      {
+        "text": "Interpreting the law",
+        "isCorrect": true
+      },
+      {
+        "text": "Making the law",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following countries did not help to set up the EEC?",
+    "options": [
+      {
+        "text": "Luxembourg",
+        "isCorrect": false
+      },
+      {
+        "text": "Ireland",
+        "isCorrect": true
+      },
+      {
+        "text": "Belgium",
+        "isCorrect": false
+      },
+      {
+        "text": "Germany",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are amongst the shared goals of the Commonwealth?",
+    "options": [
+      {
+        "text": "Development",
+        "isCorrect": true
+      },
+      {
+        "text": "Democracy",
+        "isCorrect": true
+      },
+      {
+        "text": "Discrimination",
+        "isCorrect": false
+      },
+      {
+        "text": "Dependency",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO events happened to the church in England following the restoration of Charles II?",
+    "options": [
+      {
+        "text": "The Puritans grew in strength and number.",
+        "isCorrect": false
+      },
+      {
+        "text": "The Church of England was restored as the official Church",
+        "isCorrect": true
+      },
+      {
+        "text": "The Puritans and Roman Catholics were kept out of power",
+        "isCorrect": true
+      },
+      {
+        "text": "The Church of England was suppressed.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is not an aim of the United Nations?",
+    "options": [
+      {
+        "text": "To promote international security",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote peace",
+        "isCorrect": false
+      },
+      {
+        "text": "To prevent war",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote free trade",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are freedoms offered to citizens and permanent residents of the UK?",
+    "options": [
+      {
+        "text": "Free heating for all",
+        "isCorrect": false
+      },
+      {
+        "text": "Freedom of Speech",
+        "isCorrect": true
+      },
+      {
+        "text": "Half day off work on Friday",
+        "isCorrect": false
+      },
+      {
+        "text": "A right to take part in the election of a government",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The First World War ended in victory for Britain and its allies. At what exact time and date in 1918 did the war end officially?",
+    "options": [
+      {
+        "text": "6am on 6 June",
+        "isCorrect": false
+      },
+      {
+        "text": "8am on 8 August",
+        "isCorrect": false
+      },
+      {
+        "text": "10am on 10 October",
+        "isCorrect": false
+      },
+      {
+        "text": "11am on 11 November",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who did William the Conqueror defeat at the Battle of Hastings in 1066?",
+    "options": [
+      {
+        "text": "Kenneth MacAlpin",
+        "isCorrect": false
+      },
+      {
+        "text": "Boudicca",
+        "isCorrect": false
+      },
+      {
+        "text": "King Cnut",
+        "isCorrect": false
+      },
+      {
+        "text": "King Harold",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "How old do you have to be to buy alcohol in the UK?",
+    "options": [
+      {
+        "text": "21",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the famous horse race held near Liverpool?",
+    "options": [
+      {
+        "text": "Grand National",
+        "isCorrect": true
+      },
+      {
+        "text": "Steeplechase",
+        "isCorrect": false
+      },
+      {
+        "text": "Grand Chase",
+        "isCorrect": false
+      },
+      {
+        "text": "Grand Derby",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "William Shakespeare wrote a number of sonnets. What are sonnets?",
+    "options": [
+      {
+        "text": "Poems of 14 lines",
+        "isCorrect": true
+      },
+      {
+        "text": "Rhyming poems",
+        "isCorrect": false
+      },
+      {
+        "text": "Mystery plays",
+        "isCorrect": false
+      },
+      {
+        "text": "Stories for children",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was James II's eldest daughter, Mary, married to?",
+    "options": [
+      {
+        "text": "She never married",
+        "isCorrect": false
+      },
+      {
+        "text": "William of Orange",
+        "isCorrect": true
+      },
+      {
+        "text": "The French Dauphin",
+        "isCorrect": false
+      },
+      {
+        "text": "The Duke of York",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is a Yorkshire pudding?",
+    "options": [
+      {
+        "text": "Batter cooked in the oven",
+        "isCorrect": true
+      },
+      {
+        "text": "Meat and potato in a pastry",
+        "isCorrect": false
+      },
+      {
+        "text": "Apple and pears with custard",
+        "isCorrect": false
+      },
+      {
+        "text": "A caramel-flavoured dessert",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What do you accept and agree to when you become a permanent resident of the UK?",
+    "options": [
+      {
+        "text": "Traditions of the UK",
+        "isCorrect": true
+      },
+      {
+        "text": "Protestant beliefs and values",
+        "isCorrect": false
+      },
+      {
+        "text": "The right to be tried for crimes in your country of origin",
+        "isCorrect": false
+      },
+      {
+        "text": "Catholic beliefs and values",
+        "isCorrect": false
+      }
+    ]
+  }
+]

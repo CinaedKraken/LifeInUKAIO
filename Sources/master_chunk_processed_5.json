@@ -1,0 +1,1735 @@
+[
+  {
+    "question": {
+      "en": "Scotland and Wales use a system called 'individual registration' where all those entitled to vote must complete their own registration form.",
+      "zh": "蘇格蘭和威爾斯使用一種稱為「個人登記」的制度，所有有權投票的人都必須填寫自己的登記表。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Originally, Northern Ireland introduced individual registration in 2002. Great Britain (England, Scotland, and Wales) introduced individual electoral registration in 2014, where every voter must register individually rather than by household.",
+      "zh": "最初，北愛爾蘭於2002年引入了個人登記制度。大不列顛（英格蘭、蘇格蘭和威爾斯）於2014年引入了個人選民登記制度，每位選民都必須單獨登記，而不是按戶登記。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "On what day is the birth of Jesus Christ celebrated?",
+      "zh": "慶祝耶穌基督降生的日子是哪一天？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Christmas Day, celebrated on 25 December, is a Christian holiday that commemorates the birth of Jesus Christ.",
+      "zh": "聖誕節在每年的12月25日慶祝，是一個紀念耶穌基督降生的基督教節日。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Father's Day",
+          "zh": "父親節"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Christmas Day",
+          "zh": "聖誕節"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "New Year",
+          "zh": "新年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Boxing Day",
+          "zh": "節禮日"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What sort of battle was the 'Battle of Britain', fought between Germany and Britain in the summer of 1940?",
+      "zh": "1940年夏天在德國和英國之間展開的「不列顛戰役」是一場怎樣的戰鬥？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Battle of Britain was a crucial aerial battle fought in the summer of 1940 between the British Royal Air Force and the German Luftwaffe.",
+      "zh": "不列顛戰役是1940年夏天在英國皇家空軍與德國空軍之間展開的一場關鍵空戰。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A battle in the sea",
+          "zh": "海戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "An aerial battle",
+          "zh": "空戰"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A battle in the mountains",
+          "zh": "山地戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A battle without riffles",
+          "zh": "不用步槍的戰鬥"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is Swansea located?",
+      "zh": "斯旺西（Swansea）位於哪裡？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Swansea is the second-largest city in Wales, located on the southwest coast.",
+      "zh": "斯旺西是威爾斯的第二大城市，位於西南部海岸。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two political parties formed a coalition in 2010?",
+      "zh": "哪兩個政黨在2010年組成了聯合政府？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In May 2010, the Conservatives and Liberal Democrats formed a coalition government after no single party won an outright majority.",
+      "zh": "2010年5月，在沒有單一政黨獲得絕對多數席位後，保守黨 and 自由民主黨組成了聯合政府。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Conservative Party",
+          "zh": "保守黨"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Green Party",
+          "zh": "綠黨"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Labour Party",
+          "zh": "工黨"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Liberal Democrats Party",
+          "zh": "自由民主黨"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who established the Church of England?",
+      "zh": "誰創立了英格蘭教會？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "King Henry VIII broke away from the Roman Catholic Church and established the Church of England in the 1530s.",
+      "zh": "國王亨利八世在1530年代脫離了羅馬天主教會，並創立了英格蘭教會。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Henry VIII",
+          "zh": "亨利八世"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Oliver Cromwell",
+          "zh": "奧利弗·克倫威爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Winston Churchill",
+          "zh": "溫斯頓·丘吉爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "William of Orange",
+          "zh": "奧蘭治的威廉"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In 1348, one third of the population in England, Wales and Scotland died as a result of which disease?",
+      "zh": "1348年，英格蘭、威爾斯和蘇格蘭有三分之一的人口因哪種疾病而死亡？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Black Death was a bubonic plague pandemic that struck Britain in 1348 and killed about a third of the population.",
+      "zh": "黑死病是1348年席捲英國的腺鼠疫大流行，導致約三分之一的人口死亡。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Measles",
+          "zh": "麻疹"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Leprocy",
+          "zh": "麻風病"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Smallpox",
+          "zh": "天花"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Black Death",
+          "zh": "黑死病"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Haggis is a traditional food from which area?",
+      "zh": "哈吉斯（Haggis）是哪個地區的傳統食物？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Haggis is a traditional Scottish dish made from sheep's offal, oatmeal, suet, onion, and spices.",
+      "zh": "哈吉斯是蘇格蘭的傳統菜餚，由羊內臟、燕麥片、板油、洋蔥和香料製成。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which court deals with minor criminal offences in Scotland?",
+      "zh": "在蘇格蘭，哪個法庭負責審理輕微的刑事犯罪？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "In Scotland, minor criminal cases are heard in the Justice of the Peace Court, while more serious ones go to the Sheriff Court or High Court.",
+      "zh": "在蘇格蘭，輕微刑事案件由太平紳士法庭審理，而較嚴重的案件則由郡長法庭或高等法院審理。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Sheriff Court",
+          "zh": "郡長法庭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Magistrate's Court",
+          "zh": "治安法庭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Crown Court",
+          "zh": "刑事法院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Justice of the Peace Court",
+          "zh": "太平紳士法庭"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two of the following records give us information about England during the reign of William I?",
+      "zh": "以下哪兩項記載向我們提供了威廉一世統治時期英格蘭的資訊？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Bayeux Tapestry depicts the events leading up to the Norman Conquest, and the Domesday Book was a nationwide land survey commissioned by William I in 1085.",
+      "zh": "貝葉掛毯描繪了諾曼征服前后的事件，而《末日審判書》是威廉一世於1085年下令進行的全國土地調查。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Magna Carta",
+          "zh": "大憲章"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Domesday Book",
+          "zh": "末日審判書"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Bayeux Tapestry",
+          "zh": "貝葉掛毯"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Canterbury Tales",
+          "zh": "坎特伯雷故事集"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In 1913, the British government promised 'Home Rule' for Ireland, why were any changes in Ireland delayed until 1921?",
+      "zh": "1913年，英國政府承諾給予愛爾蘭「地方自治權」，但為何愛爾蘭的變革會延遲到1921年？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The implementation of Home Rule in Ireland was suspended due to the outbreak of the First World War in 1914.",
+      "zh": "由於1914年第一次世界大戰的爆發，愛爾蘭地方自治權的實施被暫緩。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Due to the outbreak of the First World War",
+          "zh": "由於第一次世界大戰的爆發"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Due to the outbreak of the Second World War",
+          "zh": "由於第二次世界大戰的爆發"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Because there was not a king on the British throne",
+          "zh": "因為當時英國王位上沒有國王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Due to the outbreak of the Black Death",
+          "zh": "由於黑死病的爆發"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two documents do you need to apply for a National Insurance number?",
+      "zh": "申請國民保險號碼需要哪兩個文件？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "To get a National Insurance number, you must provide documents proving your identity and your permission to work in the UK.",
+      "zh": "要獲得國民保險號碼，您必須提供證明您身份及您有權在英國工作的文件。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A document with your address on it, such as a tenancy agreement",
+          "zh": "寫有您地址的文件，例如租賃協議"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Documents that prove that you have permission to work in the UK",
+          "zh": "證明您有權在英國工作的文件"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A contract from your employer",
+          "zh": "雇主提供的雇傭合同"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Documents that prove your identity",
+          "zh": "證明您身份的文件"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "As a British citizen, you should:",
+      "zh": "作為英國公民，你應當："
+    },
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "Responsibilities of UK citizens include respecting and obeying the law, and looking after the local area and environment.",
+      "zh": "英國公民的責任包括尊重並遵守法律，以及愛護當地區域和環境。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Respect and obey the law",
+          "zh": "尊重並遵守法律"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Vote in all elections",
+          "zh": "在所有選舉中投票"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Take part in religious activities",
+          "zh": "參與宗教活動"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Look after the area in which you live and the environment",
+          "zh": "愛護您居住的地方和環境"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When is Halloween celebrated?",
+      "zh": "萬聖節夜是在什麼時候慶祝？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Halloween is celebrated on 31 October. It has pagan origins and marks the eve of All Hallows' Day.",
+      "zh": "萬聖節夜在10月31日慶祝。它起源於異教，標誌著諸聖節的前夕。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "5th of November",
+          "zh": "11月5日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "11th of November",
+          "zh": "11月11日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "31st of October",
+          "zh": "10月31日"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1st of April",
+          "zh": "4月1日"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The Bill of Rights of 1689 gave women the right to vote.",
+      "zh": "1689年的《權利法案》賦予了女性投票權。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Bill of Rights 1689 established parliamentary sovereignty and limited the power of the monarch, but did not grant women the right to vote. Women achieved equal voting rights in 1928.",
+      "zh": "1689年的《權利法案》確立了議會主權並限制了君主的權力，但並未賦予女性投票權。女性在1928年才獲得平等的投票權。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the most famous cricket competition played between England and Australia?",
+      "zh": "英格蘭與澳洲之間進行的最著名的板球比賽名稱是什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Ashes is the famous biennial Test cricket series played between England and Australia, named after an obituary published in a British newspaper.",
+      "zh": "「骨灰盃」是英格蘭和澳洲之間著名的兩年一度板球對抗賽，得名於一家英國報紙上發表的訃告。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Ashes",
+          "zh": "骨灰盃"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Six Nations Championship",
+          "zh": "六國錦標賽"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Grand National",
+          "zh": "英國國家障礙大賽"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Australian Open",
+          "zh": "澳洲網球公開賽"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What was the biggest source of employment during the 18th century?",
+      "zh": "18世紀最大的就業來源是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Industrial Revolution in the 18th century led to a massive expansion in manufacturing (particularly textiles and metal goods), making it the primary source of employment.",
+      "zh": "18世紀的工業革命導致製造業（尤其是紡織和金屬製品）大規模擴張，使其成為主要的就業來源。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Fishing",
+          "zh": "漁業"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Teaching",
+          "zh": "教育業"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Aircraft industry",
+          "zh": "飛機製造業"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Manufacturing",
+          "zh": "製造業"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the battle of Bannockburn, and Scotland remained unconquered by the English.",
+      "zh": "1314年，由羅伯特·布魯斯率領的蘇格蘭人在班諾克本戰役中擊敗了英格蘭人，蘇格蘭依然未被英格蘭人征服。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "At the Battle of Bannockburn in 1314, Robert the Bruce defeated the English army led by Edward II, securing Scotland's independence.",
+      "zh": "在1314年的班諾克本戰役中，羅伯特·布魯斯擊敗了愛德華二世率領的英格蘭軍隊，保證了蘇格蘭的獨立。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is an example of criminal offence?",
+      "zh": "以下哪項屬於刑事犯罪的例子？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Smoking in enclosed public places is a criminal offence under UK law. The other options are civil disputes.",
+      "zh": "根據英國法律，在室內公共場所吸煙屬於刑事犯罪。其他選項則屬於民事糾紛。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Smoking in public places where it is not allowed",
+          "zh": "在禁止吸煙的公共場所吸煙"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Disputes about faulty goods or services",
+          "zh": "關於有缺陷商品或服務的糾紛"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Disputes about an unfair dismissal in the workplace",
+          "zh": "關於工作場所不公正解僱的糾紛"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A dispute between the landlord and the tenants who have not paid the rent",
+          "zh": "房東與未付房租的租戶之間的糾紛"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which Scottish clan was killed for not taking the oath?",
+      "zh": "哪個蘇格蘭氏族因未宣誓效忠而被殺害？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Massacre of Glencoe took place in 1692, when members of the MacDonald clan were killed for failing to take the oath of allegiance to William III on time.",
+      "zh": "格倫科大屠殺發生於1692年，當時麥克唐納氏族的成員因未能按時向威廉三世宣誓效忠而遭殺害。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The MacLaine of Lochbuie",
+          "zh": "洛赫比的麥克萊恩氏族"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The McDowalls of Garthland",
+          "zh": "加斯蘭的麥克道爾氏族"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Macpherson of Cluny",
+          "zh": "克魯尼的麥克菲森氏族"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The MacDonalds of Glencoe",
+          "zh": "格倫科的麥克唐納氏族"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two issues can the devolved administrations pass laws on?",
+      "zh": "權力下放的政府可以就哪兩個議題通過法律？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Devolved administrations in Scotland, Wales, and Northern Ireland control local matters like health and education. Matters affecting the whole UK, such as defence and social security, are reserved for Westminster.",
+      "zh": "蘇格蘭、威爾斯和北愛爾蘭的權力下放政府控制著醫療和教育等地方事務。而影響整個英國的事務，如國防和社會保障，則保留給西敏寺（英國議會）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Defence",
+          "zh": "國防"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Social security",
+          "zh": "社會保障"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Health",
+          "zh": "醫療衛生"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Education",
+          "zh": "教育"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The assassination of the Archduke Franz Ferdinand of Austria in 1914 led to which of the following wars?",
+      "zh": "1914年奧地利斐迪南大公遇刺事件導致了以下哪場戰爭的爆發？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The assassination of Archduke Franz Ferdinand of Austria in Sarajevo on 28 June 1914 led directly to the outbreak of the First World War.",
+      "zh": "1914年6月28日奧地利斐迪南大公在塞拉耶佛遇刺，直接導致了第一次世界大戰的爆發。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Crimean War",
+          "zh": "克里米亞戰爭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The First World War",
+          "zh": "第一次世界大戰"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Civil War",
+          "zh": "內戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Second World War",
+          "zh": "第二次世界大戰"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the capital city of Scotland?",
+      "zh": "蘇格蘭的首府城市是哪裡？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Edinburgh is the capital of Scotland and has been its capital since the 15th century.",
+      "zh": "愛丁堡是蘇格蘭的首府，自15世紀以來一直是其政治中心。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Glasgow",
+          "zh": "格拉斯哥"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Andrews",
+          "zh": "聖安德魯斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Edinburgh",
+          "zh": "愛丁堡"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Aberdeen",
+          "zh": "阿伯丁"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+      "zh": "1833年的《解放法案》廢除了整個大英帝國的奴隸制。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Slavery Abolition Act (often referred to as the Emancipation Act) was passed in 1833, outlawing slavery in most parts of the British Empire.",
+      "zh": "《廢除奴隸制法案》（常被稱為解放法案）於1833年通過，在大英帝國的大部分地區宣布奴隸制非法。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the process by which many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle?",
+      "zh": "許多蘇格蘭地主摧毀被稱為「小農莊」（crofts）的個人小農場，以騰出空間放牧大量綿羊和牛群，這一過程的名稱是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "During the Highland Clearances in the late 18th and early 19th centuries, Scottish landlords evicted small crofters from their land to make room for large-scale sheep farming.",
+      "zh": "在18世紀末至19世紀初的高地清洗期間，蘇格蘭地主將小農戶驅逐出他們的土地，以便為大規模的綿羊放牧騰出空間。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Black Death",
+          "zh": "黑死病"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Corn Removal",
+          "zh": "穀物移除"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Highland Clearances",
+          "zh": "高地清洗"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Enlightenment",
+          "zh": "啟蒙運動"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The Falkland Islands are a British overseas territory and are part of the United Kingdom.",
+      "zh": "福克蘭群島是英國海外領土，也是聯合王國（英國本土）的一部分。"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The Falkland Islands are a British overseas territory but they are not constitutionally part of the United Kingdom.",
+      "zh": "福克蘭群島是英國海外領土，但它們在憲法上不屬於聯合王國（英國本土）的一部分。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two of the following are Civil War Battles?",
+      "zh": "以下哪兩場是內戰時期的戰役？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Battle of Marston Moor (1644) and the Battle of Naseby (1645) were major conflicts of the English Civil War, both won by the Parliamentarians.",
+      "zh": "馬斯頓荒原戰役（1644年）和內斯比戰役（1645年）是英格蘭內戰期間的主要衝突，均由議會派獲勝。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Battle of Waterloo",
+          "zh": "滑鐵盧戰役"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Marston Moor",
+          "zh": "馬斯頓荒原戰役"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Battle of Naseby",
+          "zh": "內斯比戰役"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Battle of Agincourt",
+          "zh": "阿金庫爾戰役"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What was the name of the activist group who fought for the women's right to vote?",
+      "zh": "爭取女性投票權的激進活動團體名稱是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Suffragettes, led by figures like Emmeline Pankhurst, used militant tactics to campaign for women's suffrage in the early 20th century.",
+      "zh": "由艾米琳·潘克斯特等人領導的婦女參政論者（Suffragettes），在20世紀初使用激進戰術來爭取女性的投票權。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Chartists",
+          "zh": "憲章運動者"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Beefeaters",
+          "zh": "御用侍從衛士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Suffragettes",
+          "zh": "婦女參政論者"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Quakers",
+          "zh": "貴格會教徒"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What UK landmark was voted as Britain's favourite view in 2007?",
+      "zh": "哪個英國地標在2007年被選為英國人最喜愛的景觀？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Wastwater, a lake in the Lake District National Park, was voted Britain's favourite view in a television poll in 2007.",
+      "zh": "位於湖區國家公園的瓦斯特湖（Wastwater）在2007年的一項電視民調中被選為英國人最喜愛的景觀。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Big Ben",
+          "zh": "大笨鐘"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Lake District",
+          "zh": "湖區"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Snowdonia",
+          "zh": "斯諾登尼亞"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The London Eye",
+          "zh": "倫敦眼"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who were the first people to live in Britain in what we call the Stone Age?",
+      "zh": "在我們所說的石器時代，第一批居住在英國的人是誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The earliest inhabitants of Britain during the Stone Age were hunter-gatherers, who depended on wild plants and animals for survival.",
+      "zh": "在石器時代，英國最早的居民是依靠採集野生植物和狩獵動物為生的狩獵採集者。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Farmers",
+          "zh": "農民"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Peasants",
+          "zh": "佃農/農奴"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hunter-gatherers",
+          "zh": "狩獵採集者"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Pirates",
+          "zh": "海盜"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the movement against the authority of the Pope and the ideas of the Catholic Church that took place during the reign of Henry VIII?",
+      "zh": "在亨利八世統治時期發生的、反對教皇權威和天主教會觀念的運動名稱是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Reformation was a 16th-century movement against the authority of the Pope and Catholic teachings, leading to the creation of the Church of England.",
+      "zh": "宗教改革是16世紀反對教皇權威和天主教教義的運動，促成了英格蘭教會的創立。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Reformation",
+          "zh": "宗教改革"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Enlightenment",
+          "zh": "啟蒙運動"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Glorious Revolution",
+          "zh": "光榮革命"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Renaissance",
+          "zh": "文藝復興"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What do you need to do to apply for a National Insurance Number?",
+      "zh": "申請國民保險號碼需要做什麼？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "To apply for a National Insurance number, you must contact the Department for Work and Pensions (DWP) or apply online through the official government portal.",
+      "zh": "要申請國民保險號碼，您必須聯繫就業及退休保障部（DWP）或透過官方政府網站進行線上申請。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Contact the NHS",
+          "zh": "聯繫國民保健署 (NHS)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Contact the Department for Work and Pensions (DWP)",
+          "zh": "聯繫就業及退休保障部 (DWP)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Contact your local MP",
+          "zh": "聯繫您當地的國會議員 (MP)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ask you employer to get it for you",
+          "zh": "要求您的雇主幫您申請"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is a major horse-racing event in England?",
+      "zh": "以下哪項是英格蘭的一項主要賽馬活動？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Royal Ascot is a prominent five-day horse-racing meeting held annually in Berkshire, attended by the Royal Family.",
+      "zh": "皇家雅士谷賽馬會（Royal Ascot）是每年在伯克郡舉行的重要五天賽馬盛會，英國王室成員也會出席。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Wimbledon Championship",
+          "zh": "溫布頓網球錦標賽"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Royal Ascot",
+          "zh": "皇家雅士谷賽馬會"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Open Championship",
+          "zh": "高爾夫公開錦標賽"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Six Nations Championship",
+          "zh": "六國橄欖球錦標賽"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How many members form a jury in Scotland?",
+      "zh": "在蘇格蘭，陪審團由多少名成員組成？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "A criminal jury in Scotland consists of 15 members, unlike the 12-member juries used in England, Wales, and Northern Ireland.",
+      "zh": "蘇格蘭的刑事陪審團由15名成員組成，與英格蘭、威爾斯和北愛爾蘭所使用的12人陪審團不同。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "12",
+          "zh": "12"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "14",
+          "zh": "14"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "15",
+          "zh": "15"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "20",
+          "zh": "20"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is known as Lent?",
+      "zh": "大齋期是指什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Lent is the 40-day Christian period of reflection, fasting, and prayer leading up to Easter Sunday.",
+      "zh": "大齋期是基督教在復活節前進行為期40天反思、禁食和祈禱的時期。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The 40 days before Christmas",
+          "zh": "聖誕節前的40天"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The 40 days after Easter",
+          "zh": "復活節後的40天"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The 40 days before Easter",
+          "zh": "復活節前的40天"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The 40 days after Christmas",
+          "zh": "聖誕節後的40天"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When was the last successful foreign invasion of England?",
+      "zh": "英格蘭最後一次成功的外來入侵發生在哪一年？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Norman Conquest in 1066, led by William the Conqueror, Duke of Normandy, was the last successful foreign invasion of England.",
+      "zh": "1066年由諾曼第公爵征服者威廉領導的諾曼征服，是英格蘭歷史上最後一次成功的外來入侵。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1415",
+          "zh": "1415"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1314",
+          "zh": "1314"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1066",
+          "zh": "1066"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1200",
+          "zh": "1200"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which flower is associated with Scotland?",
+      "zh": "哪種花與蘇格蘭相關聯？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The thistle is the traditional national emblem and flower of Scotland.",
+      "zh": "薊花是蘇格蘭傳統的國家象徵和國花。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Shamrock",
+          "zh": "三葉草"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Rose",
+          "zh": "玫瑰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Daffodil",
+          "zh": "水仙花"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Thistle",
+          "zh": "薊花"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Police complaints can only be made by writing to the Chief Constable of the police force involved.",
+      "zh": "對警察的投訴只能通過寫信給相關警隊的警務處長來提出。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Police complaints can be made in several ways, including writing, visiting a police station, or contacting an independent watchdog, not just writing to the Chief Constable.",
+      "zh": "對警察的投訴可以通過多種方式提出，包括寫信、親自前往警署或聯繫獨立監管機構，而不僅僅是寫信給警務處長。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is a responsibility of the Home Secretary?",
+      "zh": "以下哪項是內政大臣的職責？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Home Secretary is a senior government minister responsible for internal affairs, including policing, national security, and crime policy.",
+      "zh": "內政大臣是負責內政的內閣高級大臣，其職責包括警政、國家安全和治安犯罪政策。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Economy",
+          "zh": "經濟"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Crime",
+          "zh": "打擊犯罪/治安"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Education",
+          "zh": "教育"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Defence",
+          "zh": "國防"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When is St David's day celebrated?",
+      "zh": "聖大衛日是在什麼時候慶祝？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St David's Day is the patron saint day of Wales and is celebrated annually on 1 March.",
+      "zh": "聖大衛日是威爾斯的主保聖人紀念日，於每年的3月1日慶祝。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1st March",
+          "zh": "3月1日"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "17th March",
+          "zh": "3月17日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "23rd April",
+          "zh": "4月23日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "17th April",
+          "zh": "4月17日"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What happened to 'Mary, Queen of Scots' after she spent 20 years in prison?",
+      "zh": "「蘇格蘭女王瑪麗」在監獄度過20年後遭遇了什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Mary, Queen of Scots, was imprisoned for two decades by Elizabeth I and was executed in 1587 after being linked to a Catholic plot to assassinate Elizabeth.",
+      "zh": "蘇格蘭女王瑪麗被伊麗莎白一世囚禁了二十年，並於1587年被處決，原因與她捲入暗殺伊麗莎白的天主教陰謀有關。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "She became Queen of England",
+          "zh": "她成為了英格蘭女王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "She was sent to France",
+          "zh": "她被送往法國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "She escaped to Denmark",
+          "zh": "她逃往了丹麥"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "She was executed",
+          "zh": "她被處決了"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following lines are from the National Anthem (choose two options)?",
+      "zh": "以下哪些歌詞出自英國國歌（選擇兩個選項）？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The lines \"God save our gracious Queen!\" and \"Send her victorious\" are key parts of the traditional UK National Anthem.",
+      "zh": "「上帝保佑我們慈祥的女王！」和「願她勝利」是英國傳統國歌的主要歌詞。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "We shall never surrender",
+          "zh": "我們絕不投降"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "God save our gracious Queen!",
+          "zh": "上帝保佑我們慈祥的女王！"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Send her victorious",
+          "zh": "願她勝利"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The darling buds of May",
+          "zh": "五月可愛的花蕾"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK.",
+      "zh": "北愛爾蘭和蘇格蘭擁有自己的紙幣，這些紙幣在整個英國都是有效的。"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Banknotes printed in Scotland and Northern Ireland are valid currency throughout the UK, though businesses are not legally required to accept them.",
+      "zh": "蘇格蘭和北愛爾蘭印製的紙幣在整個英國都是有效貨幣，儘管法律並未強制要求商家必須接受它們。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How many national parks are there in England, Wales and Scotland?",
+      "zh": "在英格蘭、威爾斯和蘇格蘭共有多少個國家公園？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "There are 15 national parks in Great Britain (10 in England, 3 in Wales, and 2 in Scotland).",
+      "zh": "在大不列顛共有15個國家公園（英格蘭有10個，威爾斯有3個，蘇格蘭有2個）。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "25",
+          "zh": "25"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "15",
+          "zh": "15"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "18",
+          "zh": "18"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "42",
+          "zh": "42"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is Northern Ireland part of Great Britain?",
+      "zh": "北愛爾蘭是大不列顛（Great Britain）的一部分嗎？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Great Britain consists only of England, Scotland, and Wales. Northern Ireland is part of the United Kingdom of Great Britain and Northern Ireland, but not part of Great Britain itself.",
+      "zh": "大不列顛僅由英格蘭、蘇格蘭和威爾斯組成。北愛爾蘭是「大不列顛與北愛爾蘭聯合王國」的一部分，但本身不屬於大不列顛。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Yes",
+          "zh": "是"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "No",
+          "zh": "否"
+        },
+        "isCorrect": true
+      }
+    ]
+  }
+]

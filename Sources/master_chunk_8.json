@@ -1,0 +1,915 @@
+[
+  {
+    "question": "The version of the Bible created by King James I is known as:",
+    "options": [
+      {
+        "text": "Authorised version",
+        "isCorrect": true
+      },
+      {
+        "text": "Reformed version",
+        "isCorrect": false
+      },
+      {
+        "text": "Approved version",
+        "isCorrect": false
+      },
+      {
+        "text": "Unique version",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the period of the 1960s known for?",
+    "options": [
+      {
+        "text": "A downgrade in manufacturing",
+        "isCorrect": false
+      },
+      {
+        "text": "A growth in British fashion and pop music",
+        "isCorrect": true
+      },
+      {
+        "text": "A shortage of water",
+        "isCorrect": false
+      },
+      {
+        "text": "A blockage of social laws",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Between 1680 and 1720 many refugees called Huguenots came to England, which country did they come from?",
+    "options": [
+      {
+        "text": "Pakistan",
+        "isCorrect": false
+      },
+      {
+        "text": "Germany",
+        "isCorrect": false
+      },
+      {
+        "text": "India",
+        "isCorrect": false
+      },
+      {
+        "text": "France",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the most famous tennis tournament played in the UK?",
+    "options": [
+      {
+        "text": "The Queen's Club Championships",
+        "isCorrect": false
+      },
+      {
+        "text": "Wimbledon",
+        "isCorrect": true
+      },
+      {
+        "text": "Roland Garros",
+        "isCorrect": false
+      },
+      {
+        "text": "The Aegon Championships",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "MPs can only be contacted at their office in the House of Commons.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the day when jokes are published in newspapers and telecasted on TV?",
+    "options": [
+      {
+        "text": "April Fool's Day",
+        "isCorrect": true
+      },
+      {
+        "text": "Boxing Day",
+        "isCorrect": false
+      },
+      {
+        "text": "Halloween",
+        "isCorrect": false
+      },
+      {
+        "text": "Valentine's Day",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which Scottish king defeated the English at the Battle of Bannockburn?",
+    "options": [
+      {
+        "text": "King Charles I",
+        "isCorrect": false
+      },
+      {
+        "text": "King James I",
+        "isCorrect": false
+      },
+      {
+        "text": "Admiral Nelson",
+        "isCorrect": false
+      },
+      {
+        "text": "Robert the Bruce",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      {
+        "text": "Sir Tim Berners-Lee",
+        "isCorrect": true
+      },
+      {
+        "text": "Sir Peter Mansfield",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Ian Wilmot",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Robert Edwards",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How are civil servants appointed and what political party do they belong to?",
+    "options": [
+      {
+        "text": "They are chosen on merit and form part of the Liberal Democrats party",
+        "isCorrect": false
+      },
+      {
+        "text": "They are chosen randomly and form part of the Conservative party",
+        "isCorrect": false
+      },
+      {
+        "text": "They are chosen randomly and are politically neutral",
+        "isCorrect": false
+      },
+      {
+        "text": "They are chosen on merit and are politically neutral",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is known as the 'Dunkirk spirit'?",
+    "options": [
+      {
+        "text": "When the German air force bombed London and other British cities at night-time",
+        "isCorrect": false
+      },
+      {
+        "text": "The evacuation of Allied soldiers from France during World War II",
+        "isCorrect": true
+      },
+      {
+        "text": "When new social classes appeared after the Black Death",
+        "isCorrect": false
+      },
+      {
+        "text": "The period when many refugees called Huguenots came from France",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "You have to be at least 21 years old to serve on a jury.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "If you wish to be a permanent resident or citizen of the UK, you should (choose TWO answers):",
+    "options": [
+      {
+        "text": "Respect the rights of others, including their right to their own opinions",
+        "isCorrect": true
+      },
+      {
+        "text": "Buy a house in the UK",
+        "isCorrect": false
+      },
+      {
+        "text": "Look after yourself and your family",
+        "isCorrect": true
+      },
+      {
+        "text": "Marry a British citizen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following major sports event took place in the UK in 2012?",
+    "options": [
+      {
+        "text": "The Football World Cup",
+        "isCorrect": false
+      },
+      {
+        "text": "The Rugby World Cup",
+        "isCorrect": false
+      },
+      {
+        "text": "The Olympic games",
+        "isCorrect": true
+      },
+      {
+        "text": "The Eurocup Basketball",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Charles I believed in the 'Divine Right of Kings' so he tried:",
+    "options": [
+      {
+        "text": "To rule without the Parliament",
+        "isCorrect": true
+      },
+      {
+        "text": "To rule with the approval of the Parliament",
+        "isCorrect": false
+      },
+      {
+        "text": "To raise money for the Parliament",
+        "isCorrect": false
+      },
+      {
+        "text": "To restore Catholicism in Britain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the Union Jack?",
+    "options": [
+      {
+        "text": "The Flag of the Commonwealth",
+        "isCorrect": false
+      },
+      {
+        "text": "The Flag of the United Kingdom",
+        "isCorrect": true
+      },
+      {
+        "text": "The shield used by British Knights",
+        "isCorrect": false
+      },
+      {
+        "text": "A trade union to protect workers rights",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When is St George's day?",
+    "options": [
+      {
+        "text": "17th March",
+        "isCorrect": false
+      },
+      {
+        "text": "30th November",
+        "isCorrect": false
+      },
+      {
+        "text": "1st March",
+        "isCorrect": false
+      },
+      {
+        "text": "23rd April",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which is the largest National Park in England?",
+    "options": [
+      {
+        "text": "Snowdonia",
+        "isCorrect": false
+      },
+      {
+        "text": "Loch Lomond and the Trossachs National Park",
+        "isCorrect": false
+      },
+      {
+        "text": "The Giant's Causeway",
+        "isCorrect": false
+      },
+      {
+        "text": "The Lake District",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Boudicca, was a tribal leader who fought against which foreign invaders?",
+    "options": [
+      {
+        "text": "The Normands",
+        "isCorrect": false
+      },
+      {
+        "text": "The Vikings",
+        "isCorrect": false
+      },
+      {
+        "text": "The Anglo-Saxons",
+        "isCorrect": false
+      },
+      {
+        "text": "The Romans",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following poems is about a group of people going on a pilgrimage?",
+    "options": [
+      {
+        "text": "The Canterbury Tales",
+        "isCorrect": true
+      },
+      {
+        "text": "All the world's a stage",
+        "isCorrect": false
+      },
+      {
+        "text": "A Midsummer Night's dream",
+        "isCorrect": false
+      },
+      {
+        "text": "Great Expectations",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How are public holidays called?",
+    "options": [
+      {
+        "text": "Bank Holidays",
+        "isCorrect": true
+      },
+      {
+        "text": "Workers Holidays",
+        "isCorrect": false
+      },
+      {
+        "text": "Business Holidays",
+        "isCorrect": false
+      },
+      {
+        "text": "Summer Holidays",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How did Charles II manage to escape to Europe after his defeat in the Civil War?",
+    "options": [
+      {
+        "text": "Hiding in a farmer's house",
+        "isCorrect": false
+      },
+      {
+        "text": "Riding a horse",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiding in an oak tree",
+        "isCorrect": true
+      },
+      {
+        "text": "Swimming",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who defeated the Vikings?",
+    "options": [
+      {
+        "text": "Harold",
+        "isCorrect": false
+      },
+      {
+        "text": "Edward I of England",
+        "isCorrect": false
+      },
+      {
+        "text": "King Arthur",
+        "isCorrect": false
+      },
+      {
+        "text": "King Alfred the Great",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who was William Caxton?",
+    "options": [
+      {
+        "text": "A poet who wrote about a group of people going to Canterbury on a pilgrimage",
+        "isCorrect": false
+      },
+      {
+        "text": "The first person in England to print books using a printing press",
+        "isCorrect": true
+      },
+      {
+        "text": "The first person to sail singlehanded around the world",
+        "isCorrect": false
+      },
+      {
+        "text": "The inventor of the television",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where do Beefeaters serve as tour guides?",
+    "options": [
+      {
+        "text": "The Houses of the Parliament",
+        "isCorrect": false
+      },
+      {
+        "text": "The Tower of London",
+        "isCorrect": true
+      },
+      {
+        "text": "The O2",
+        "isCorrect": false
+      },
+      {
+        "text": "The Big Ben",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "During the rebellion of the clans in Scotland, Bonnie Prince Charlie was supported by clansmen from which Scottish region?",
+    "options": [
+      {
+        "text": "Glasgow",
+        "isCorrect": false
+      },
+      {
+        "text": "Galloway",
+        "isCorrect": false
+      },
+      {
+        "text": "Highlands",
+        "isCorrect": true
+      },
+      {
+        "text": "Edinburgh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What religion did Elizabeth I follow?",
+    "options": [
+      {
+        "text": "She was a Protestant",
+        "isCorrect": true
+      },
+      {
+        "text": "She was a Catholic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who became famous for his tramp character in silent movies?",
+    "options": [
+      {
+        "text": "Sir Rex Harrison",
+        "isCorrect": false
+      },
+      {
+        "text": "David Niven",
+        "isCorrect": false
+      },
+      {
+        "text": "Richard Burton",
+        "isCorrect": false
+      },
+      {
+        "text": "Charlie Chaplin",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which armed force was used in the Battle of Britain?",
+    "options": [
+      {
+        "text": "The Royal Navy",
+        "isCorrect": false
+      },
+      {
+        "text": "The Police Force",
+        "isCorrect": false
+      },
+      {
+        "text": "The Naval Service",
+        "isCorrect": false
+      },
+      {
+        "text": "The Royal Air Force",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In the UK, you have to be 21 years old to be able to vote in a general election.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following poets was inspired by nature?",
+    "options": [
+      {
+        "text": "John Masefield",
+        "isCorrect": false
+      },
+      {
+        "text": "Wilfred Owen",
+        "isCorrect": false
+      },
+      {
+        "text": "Siegfried Sassoon",
+        "isCorrect": false
+      },
+      {
+        "text": "William Wordsworth",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Against which country did Britain fight at the Battle of Waterloo?",
+    "options": [
+      {
+        "text": "Germany",
+        "isCorrect": false
+      },
+      {
+        "text": "Italy",
+        "isCorrect": false
+      },
+      {
+        "text": "France",
+        "isCorrect": true
+      },
+      {
+        "text": "Spain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was William Wilberforce?",
+    "options": [
+      {
+        "text": "A poet",
+        "isCorrect": false
+      },
+      {
+        "text": "A sportsman",
+        "isCorrect": false
+      },
+      {
+        "text": "A politician",
+        "isCorrect": true
+      },
+      {
+        "text": "A musician",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who is the spiritual leader of the Church of England?",
+    "options": [
+      {
+        "text": "The Archbishop of Canterbury",
+        "isCorrect": true
+      },
+      {
+        "text": "The Archbishop of London",
+        "isCorrect": false
+      },
+      {
+        "text": "The Archbishop of Birmingham",
+        "isCorrect": false
+      },
+      {
+        "text": "The Archbishop of Manchester",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "James I was King of which country before becoming King of England?",
+    "options": [
+      {
+        "text": "Wales",
+        "isCorrect": false
+      },
+      {
+        "text": "Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which country sent a fleet of ships to England in 1588?",
+    "options": [
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "Germany",
+        "isCorrect": false
+      },
+      {
+        "text": "Spain",
+        "isCorrect": true
+      },
+      {
+        "text": "Italy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where is the National Horseracing Museum located?",
+    "options": [
+      {
+        "text": "Edinburgh, Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Newmarket, Suffolk",
+        "isCorrect": true
+      },
+      {
+        "text": "St Andrews, Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Aintree near Liverpool",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following castles is located in Scotland?",
+    "options": [
+      {
+        "text": "Crathes Castle",
+        "isCorrect": true
+      },
+      {
+        "text": "Caernarfon Castle",
+        "isCorrect": false
+      },
+      {
+        "text": "Bodiam Castle",
+        "isCorrect": false
+      },
+      {
+        "text": "Powis Castle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How often are European parliamentary elections held?",
+    "options": [
+      {
+        "text": "Every three years",
+        "isCorrect": false
+      },
+      {
+        "text": "Every four years",
+        "isCorrect": false
+      },
+      {
+        "text": "Every five years",
+        "isCorrect": true
+      },
+      {
+        "text": "Every six years",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When is St Patrick's day celebrated?",
+    "options": [
+      {
+        "text": "23rd April",
+        "isCorrect": false
+      },
+      {
+        "text": "30th November",
+        "isCorrect": false
+      },
+      {
+        "text": "1st April",
+        "isCorrect": false
+      },
+      {
+        "text": "17th March",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "How are the members of the Northern Ireland Parliament elected?",
+    "options": [
+      {
+        "text": "By a system of proportional representation",
+        "isCorrect": true
+      },
+      {
+        "text": "Using a system of ranked voting",
+        "isCorrect": false
+      },
+      {
+        "text": "Using the first past the post system",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a runoff system",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the first British Prime Minister?",
+    "options": [
+      {
+        "text": "Winston Churchill",
+        "isCorrect": false
+      },
+      {
+        "text": "Earl of Wilmington",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry Pelham",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Robert Walpole",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following actresses has not won an Oscar?",
+    "options": [
+      {
+        "text": "Tilda Swinton",
+        "isCorrect": false
+      },
+      {
+        "text": "Emily Watson",
+        "isCorrect": true
+      },
+      {
+        "text": "Dame Judi Dench",
+        "isCorrect": false
+      },
+      {
+        "text": "Kate Winslet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "During the Enlightenment, Adam Smith developed ideas about:",
+    "options": [
+      {
+        "text": "Physics",
+        "isCorrect": false
+      },
+      {
+        "text": "Economics",
+        "isCorrect": true
+      },
+      {
+        "text": "Science",
+        "isCorrect": false
+      },
+      {
+        "text": "Engineering",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who died at the Battle of Trafalgar?",
+    "options": [
+      {
+        "text": "Admiral Nelson",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry VIII",
+        "isCorrect": false
+      },
+      {
+        "text": "Oliver Cromwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Napoleon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When is Hogmanay celebrated?",
+    "options": [
+      {
+        "text": "25th of December",
+        "isCorrect": false
+      },
+      {
+        "text": "2nd of January",
+        "isCorrect": false
+      },
+      {
+        "text": "1st of January",
+        "isCorrect": false
+      },
+      {
+        "text": "31st of December",
+        "isCorrect": true
+      }
+    ]
+  }
+]

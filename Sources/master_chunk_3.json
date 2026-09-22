@@ -1,0 +1,899 @@
+[
+  {
+    "question": "How many members does a jury have in England, Wales and Northern Ireland?",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following religious communities celebrate Diwali?",
+    "options": [
+      {
+        "text": "Buddhists",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindus",
+        "isCorrect": true
+      },
+      {
+        "text": "Jews",
+        "isCorrect": false
+      },
+      {
+        "text": "Sikhs",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is Good Friday?",
+    "options": [
+      {
+        "text": "The day when Jesus Christ rose from the dead",
+        "isCorrect": false
+      },
+      {
+        "text": "The day when Jesus Christ was born",
+        "isCorrect": false
+      },
+      {
+        "text": "The day when Jesus Christ died",
+        "isCorrect": true
+      },
+      {
+        "text": "The day when Jesus Christ became 30 years old",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "St Patrick's day is a public holiday in Northern Ireland.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which was the last successful foreign invasion of England that took place in 1066?",
+    "options": [
+      {
+        "text": "The Viking invasion",
+        "isCorrect": false
+      },
+      {
+        "text": "The Anglo-Saxon Conquest",
+        "isCorrect": false
+      },
+      {
+        "text": "The Roman invasion",
+        "isCorrect": false
+      },
+      {
+        "text": "The Norman Conquest",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Where are the Crown Jewels kept?",
+    "options": [
+      {
+        "text": "At the House of Commons",
+        "isCorrect": false
+      },
+      {
+        "text": "At the Tower of London",
+        "isCorrect": true
+      },
+      {
+        "text": "At Buckingham Palace",
+        "isCorrect": false
+      },
+      {
+        "text": "At Windsor Castle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which sport can be traced back to the 15th century in Scotland?",
+    "options": [
+      {
+        "text": "Golf",
+        "isCorrect": true
+      },
+      {
+        "text": "Tennis",
+        "isCorrect": false
+      },
+      {
+        "text": "Football",
+        "isCorrect": false
+      },
+      {
+        "text": "Rugby",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the first person in England to print books using a printing press?",
+    "options": [
+      {
+        "text": "William Shakespeare",
+        "isCorrect": false
+      },
+      {
+        "text": "John Barbour",
+        "isCorrect": false
+      },
+      {
+        "text": "Geoffrey Chaucer",
+        "isCorrect": false
+      },
+      {
+        "text": "William Caxton",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which court deals with minor criminal cases in England, Wales and Northern Ireland?",
+    "options": [
+      {
+        "text": "High Court",
+        "isCorrect": false
+      },
+      {
+        "text": "Justice of the Peace Court",
+        "isCorrect": false
+      },
+      {
+        "text": "Magistrates' Court",
+        "isCorrect": true
+      },
+      {
+        "text": "Crown Court",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What did the Scottish John Logie Baird develop?",
+    "options": [
+      {
+        "text": "Television",
+        "isCorrect": true
+      },
+      {
+        "text": "Radar",
+        "isCorrect": false
+      },
+      {
+        "text": "Personal computer",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a fundamental principle of British life?",
+    "options": [
+      {
+        "text": "Communism",
+        "isCorrect": false
+      },
+      {
+        "text": "Intolerance",
+        "isCorrect": false
+      },
+      {
+        "text": "Individual liberty",
+        "isCorrect": true
+      },
+      {
+        "text": "Inequity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Wales has its own established church.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "How is New Year's Eve called in Scotland?",
+    "options": [
+      {
+        "text": "Vaisakhi",
+        "isCorrect": false
+      },
+      {
+        "text": "Hannukah",
+        "isCorrect": false
+      },
+      {
+        "text": "Diwali",
+        "isCorrect": false
+      },
+      {
+        "text": "Hogmanay",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Why did Henry VIII establish the church of England?",
+    "options": [
+      {
+        "text": "To celebrate his wedding with Anne of Cleves",
+        "isCorrect": false
+      },
+      {
+        "text": "To have control over religious people",
+        "isCorrect": false
+      },
+      {
+        "text": "To establish a unique religion in England",
+        "isCorrect": false
+      },
+      {
+        "text": "To divorce his first wife, Catherine of Aragon",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the long war that English kings fought with France in the middle ages?",
+    "options": [
+      {
+        "text": "The Crimean War",
+        "isCorrect": false
+      },
+      {
+        "text": "The First World War",
+        "isCorrect": false
+      },
+      {
+        "text": "The Hundred Years War",
+        "isCorrect": true
+      },
+      {
+        "text": "The Boer War",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was supported by clansmen from the Scottish highlands and raised and army in 1745?",
+    "options": [
+      {
+        "text": "Bonnie Prince Charlie",
+        "isCorrect": true
+      },
+      {
+        "text": "Robert Burns",
+        "isCorrect": false
+      },
+      {
+        "text": "Oliver Cromwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Kenneth MacAlpin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "If you think someone is trying to persuade you to join an extremist or terrorist activity, who should you contact?",
+    "options": [
+      {
+        "text": "The Home Office",
+        "isCorrect": false
+      },
+      {
+        "text": "Your local police force",
+        "isCorrect": true
+      },
+      {
+        "text": "Your local MP",
+        "isCorrect": false
+      },
+      {
+        "text": "Your family",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "It is compulsory for 16 and 17-year-olds to join the National Citizen Service programme.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the tour guides that tell visitors stories about the Tower of London's history?",
+    "options": [
+      {
+        "text": "Knights",
+        "isCorrect": false
+      },
+      {
+        "text": "Chartists",
+        "isCorrect": false
+      },
+      {
+        "text": "Suffragettes",
+        "isCorrect": false
+      },
+      {
+        "text": "Beefeaters",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which two countries developed the Concorde, the world's only supersonic commercial airliner?",
+    "options": [
+      {
+        "text": "Italy",
+        "isCorrect": false
+      },
+      {
+        "text": "Britain",
+        "isCorrect": true
+      },
+      {
+        "text": "Germany",
+        "isCorrect": false
+      },
+      {
+        "text": "France",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Where is Snowdonia located?",
+    "options": [
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": true
+      },
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote Sherlock Holmes?",
+    "options": [
+      {
+        "text": "Evelyn Waugh",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Kingsley Amis",
+        "isCorrect": false
+      },
+      {
+        "text": "Graham Greene",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Arthur Conan Doyle",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which country was invaded by Germany in 1939?",
+    "options": [
+      {
+        "text": "Austria",
+        "isCorrect": false
+      },
+      {
+        "text": "Italy",
+        "isCorrect": false
+      },
+      {
+        "text": "Russia",
+        "isCorrect": false
+      },
+      {
+        "text": "Poland",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who is the patron Saint of Wales?",
+    "options": [
+      {
+        "text": "St David",
+        "isCorrect": true
+      },
+      {
+        "text": "St George",
+        "isCorrect": false
+      },
+      {
+        "text": "St Patrick",
+        "isCorrect": false
+      },
+      {
+        "text": "St Andrew",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lake District is the largest national park of England.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the area in London where famous theatres are located?",
+    "options": [
+      {
+        "text": "Soho",
+        "isCorrect": false
+      },
+      {
+        "text": "Theatreland",
+        "isCorrect": true
+      },
+      {
+        "text": "Westminster",
+        "isCorrect": false
+      },
+      {
+        "text": "Hyde Park",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following are key roles of school governors?",
+    "options": [
+      {
+        "text": "Monitoring student's behaviour",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitoring and evaluating school performance",
+        "isCorrect": true
+      },
+      {
+        "text": "Setting the strategic direction of the school",
+        "isCorrect": true
+      },
+      {
+        "text": "Giving awards to the best students of the school",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What led the American colonies to want their independence from Britain?",
+    "options": [
+      {
+        "text": "The British government wanted to control their borders",
+        "isCorrect": false
+      },
+      {
+        "text": "They were running out of resources",
+        "isCorrect": false
+      },
+      {
+        "text": "The British government wanted to tax them",
+        "isCorrect": true
+      },
+      {
+        "text": "There were not enough jobs for the local people",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did the Black Death take place?",
+    "options": [
+      {
+        "text": "The Golden Age",
+        "isCorrect": false
+      },
+      {
+        "text": "The Stone Age",
+        "isCorrect": false
+      },
+      {
+        "text": "The Middle Ages",
+        "isCorrect": true
+      },
+      {
+        "text": "The Iron Age",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the leader of the suffragettes, the group that campaigned for women's rights to vote?",
+    "options": [
+      {
+        "text": "Queen Victoria",
+        "isCorrect": false
+      },
+      {
+        "text": "Oliver Cromwell",
+        "isCorrect": false
+      },
+      {
+        "text": "Florence Nightingale",
+        "isCorrect": false
+      },
+      {
+        "text": "Emmeline Pankhurst",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Cardiff is the capital city of which country?",
+    "options": [
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "During the Great Depression in the 1930s which industry was badly affected?",
+    "options": [
+      {
+        "text": "Housing construction",
+        "isCorrect": false
+      },
+      {
+        "text": "Shipbuilding",
+        "isCorrect": true
+      },
+      {
+        "text": "Automobile",
+        "isCorrect": false
+      },
+      {
+        "text": "Aviation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the first man in the world to run 1 mile in under 4 minutes?",
+    "options": [
+      {
+        "text": "Sir Chris Hoy",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Roger Bannister",
+        "isCorrect": true
+      },
+      {
+        "text": "David Weir",
+        "isCorrect": false
+      },
+      {
+        "text": "Mo Farah",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which jubilee did Queen Elizabeth II celebrate in 2012?",
+    "options": [
+      {
+        "text": "Golden Jubilee",
+        "isCorrect": false
+      },
+      {
+        "text": "Silver Jubilee",
+        "isCorrect": false
+      },
+      {
+        "text": "Platinum Jubilee",
+        "isCorrect": false
+      },
+      {
+        "text": "Diamond Jubilee",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What was the last battle between Great Britain and France?",
+    "options": [
+      {
+        "text": "The Battle of Trafalgar",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Waterloo",
+        "isCorrect": true
+      },
+      {
+        "text": "The Battle of Hastings",
+        "isCorrect": false
+      },
+      {
+        "text": "Battle of Agincourt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which flower is associated with Wales?",
+    "options": [
+      {
+        "text": "Daffodil",
+        "isCorrect": true
+      },
+      {
+        "text": "Rose",
+        "isCorrect": false
+      },
+      {
+        "text": "Shamrock",
+        "isCorrect": false
+      },
+      {
+        "text": "Thistle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "During the reign of Charles II parts of London were destroyed, what was the cause of this destruction?",
+    "options": [
+      {
+        "text": "A war",
+        "isCorrect": false
+      },
+      {
+        "text": "A flood",
+        "isCorrect": false
+      },
+      {
+        "text": "A fire",
+        "isCorrect": true
+      },
+      {
+        "text": "An earthquake",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How often are general elections held in the UK?",
+    "options": [
+      {
+        "text": "Every 3 years",
+        "isCorrect": false
+      },
+      {
+        "text": "Every 4 years",
+        "isCorrect": false
+      },
+      {
+        "text": "Every 5 years",
+        "isCorrect": true
+      },
+      {
+        "text": "Every 10 years",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Scotland has its own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What charity works to preserve important buildings, coastline and countryside in the UK?",
+    "options": [
+      {
+        "text": "Shelter",
+        "isCorrect": false
+      },
+      {
+        "text": "Age UK",
+        "isCorrect": false
+      },
+      {
+        "text": "Crisis",
+        "isCorrect": false
+      },
+      {
+        "text": "The National Trust",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Great Britain refers only to England, Wales and Scotland.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the tribal leader who fought against the Romans?",
+    "options": [
+      {
+        "text": "Cleopatra",
+        "isCorrect": false
+      },
+      {
+        "text": "Claudia",
+        "isCorrect": false
+      },
+      {
+        "text": "Boudicca",
+        "isCorrect": true
+      },
+      {
+        "text": "St Augustine",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was voted the greatest Briton of all time in 2002?",
+    "options": [
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Winston Churchill",
+        "isCorrect": true
+      },
+      {
+        "text": "Alexander Fleming",
+        "isCorrect": false
+      },
+      {
+        "text": "Mo Farat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two houses form the UK Parliament?",
+    "options": [
+      {
+        "text": "The House of Lords",
+        "isCorrect": true
+      },
+      {
+        "text": "House of Members",
+        "isCorrect": false
+      },
+      {
+        "text": "House of Commons",
+        "isCorrect": true
+      },
+      {
+        "text": "House of Fraser",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did women get the right to vote at the same age as men?",
+    "options": [
+      {
+        "text": "1918",
+        "isCorrect": false
+      },
+      {
+        "text": "1928",
+        "isCorrect": true
+      },
+      {
+        "text": "1938",
+        "isCorrect": false
+      },
+      {
+        "text": "1948",
+        "isCorrect": false
+      }
+    ]
+  }
+]

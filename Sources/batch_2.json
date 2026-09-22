@@ -1,0 +1,418 @@
+[
+  {
+    "question": "Henry VIII has 6 wives. What was the name of his first wife?",
+    "options": [
+      {
+        "text": "Anne of Cleves",
+        "isCorrect": false
+      },
+      {
+        "text": "Anne Boleyn",
+        "isCorrect": false
+      },
+      {
+        "text": "Catherine Howard",
+        "isCorrect": false
+      },
+      {
+        "text": "Catherine of Aragon",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "George Frederick Handel, the German-born composer who became a British citizen, wrote which of the following?",
+    "options": [
+      {
+        "text": "Peter Grimes",
+        "isCorrect": false
+      },
+      {
+        "text": "The Planets",
+        "isCorrect": false
+      },
+      {
+        "text": "Music for the Royal Fireworks",
+        "isCorrect": true
+      },
+      {
+        "text": "Balthazar's Feast",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? Members of the House of Lords are elected by a constituency.",
+    "options": [
+      {
+        "text": "False",
+        "isCorrect": true
+      },
+      {
+        "text": "True",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? The Channel Islands and the Isle of Man are part of the UK.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? By around AD 600, Anglo-Saxon kingdoms were established in Britain.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lewis Hamilton is a leading figure in which sport?",
+    "options": [
+      {
+        "text": "Squash",
+        "isCorrect": false
+      },
+      {
+        "text": "Tennis",
+        "isCorrect": false
+      },
+      {
+        "text": "Motor racing",
+        "isCorrect": true
+      },
+      {
+        "text": "Horse racing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following have the right to vote?",
+    "options": [
+      {
+        "text": "Adults who have been given a visa to study in the UK",
+        "isCorrect": false
+      },
+      {
+        "text": "Adults who are naturalised citizens of the UK",
+        "isCorrect": true
+      },
+      {
+        "text": "Adults who have been granted an indefinite right to remain in the UK",
+        "isCorrect": false
+      },
+      {
+        "text": "UK-born adult citizens",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "How often is a General Election held?",
+    "options": [
+      {
+        "text": "At least every five years",
+        "isCorrect": true
+      },
+      {
+        "text": "At least every four years",
+        "isCorrect": false
+      },
+      {
+        "text": "Every year",
+        "isCorrect": false
+      },
+      {
+        "text": "At least every two years",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who chairs debates in the House of Commons?",
+    "options": [
+      {
+        "text": "The Foreign Secretary",
+        "isCorrect": false
+      },
+      {
+        "text": "The Speaker",
+        "isCorrect": true
+      },
+      {
+        "text": "The Prime Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "The leader of the opposition",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Charles I was unwilling to reach an agreement with Parliament. Following his defeat in the Civil War, what happened to him?",
+    "options": [
+      {
+        "text": "He was executed",
+        "isCorrect": true
+      },
+      {
+        "text": "He was excommunicated.",
+        "isCorrect": false
+      },
+      {
+        "text": "He was exonerated.",
+        "isCorrect": false
+      },
+      {
+        "text": "He was exiled.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where were Elizabeth I's parents?",
+    "options": [
+      {
+        "text": "Henry VIII and Catherine of Aragon",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry VII and Elizabeth of York",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry VIII and Anne Boleyn",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry VIII and Jane Seymour",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The last successful foreign invasion of England was by which of the following?",
+    "options": [
+      {
+        "text": "The Romans led by Julius Caesar",
+        "isCorrect": false
+      },
+      {
+        "text": "The Vikings",
+        "isCorrect": false
+      },
+      {
+        "text": "The Romans led by Emperor Claudius",
+        "isCorrect": false
+      },
+      {
+        "text": "The Normans led by William",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      {
+        "text": "Elizabeth I came to the throne when, following a long reign, her cousin Mary",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "died.",
+    "options": [
+      {
+        "text": "Elizabeth I came to the throne when, following a short reign, her half-sister",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mary died.x Who is the patron saint of Scotland?",
+    "options": [
+      {
+        "text": "St Patrick",
+        "isCorrect": false
+      },
+      {
+        "text": "St David",
+        "isCorrect": false
+      },
+      {
+        "text": "St Andrew",
+        "isCorrect": true
+      },
+      {
+        "text": "St George",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What event in 1851 took place at the Crystal Palace in Hyde Park and showed goods and exhibits from Britain and across the world?",
+    "options": [
+      {
+        "text": "The Great Show",
+        "isCorrect": false
+      },
+      {
+        "text": "The Great Exhibition",
+        "isCorrect": true
+      },
+      {
+        "text": "The Great Event",
+        "isCorrect": false
+      },
+      {
+        "text": "The Great Occasion",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? Military training for young people is provided by The National Citizen Service.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these is not a Gilbert and Sullivan comic opera?",
+    "options": [
+      {
+        "text": "The Pirates of Penzance",
+        "isCorrect": false
+      },
+      {
+        "text": "The Mikado",
+        "isCorrect": false
+      },
+      {
+        "text": "HMS Pinafore",
+        "isCorrect": false
+      },
+      {
+        "text": "A Midsummer Night's Dream",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is correct?",
+    "options": [
+      {
+        "text": "Robert Burns wrote only in Scots language.",
+        "isCorrect": false
+      },
+      {
+        "text": "Robert Burns wrote in Scots, English and a combination of both",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      {
+        "text": "The Divine Right of Kings was the view held by many English monarchs that",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "they were directly appointed by God to rule.x",
+    "options": [
+      {
+        "text": "The Divine Right of Kings was the view held by many English monarchs that",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "they could seize lands belonging to the nobility as they wished. Which country is not represented on the Union Flag?",
+    "options": [
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": true
+      },
+      {
+        "text": "England",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "During the reign of Henry VIII, which country of the union became formally united with England?",
+    "options": [
+      {
+        "text": "Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": true
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The first people lived in Britain during which period?",
+    "options": [
+      {
+        "text": "The Bronze Age",
+        "isCorrect": false
+      },
+      {
+        "text": "The Jurassic period",
+        "isCorrect": false
+      },
+      {
+        "text": "The Stone Age",
+        "isCorrect": true
+      },
+      {
+        "text": "Ancient times",
+        "isCorrect": false
+      }
+    ]
+  }
+]

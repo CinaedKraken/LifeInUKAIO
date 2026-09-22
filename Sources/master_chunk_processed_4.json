@@ -1,0 +1,1749 @@
+[
+  {
+    "question": {
+      "en": "Who is the head of the Church of England?",
+      "zh": "誰是英格蘭教會的領袖？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The monarch is the head of the Church of England, which is an established church.",
+      "zh": "君主是英格蘭教會的領袖，該教會是國定教會。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Prime Minister",
+          "zh": "首相"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Archbishop of Canterbury",
+          "zh": "坎特伯里大主教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Pope",
+          "zh": "教宗"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The monarch",
+          "zh": "君主"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What sort of event is the Grand National?",
+      "zh": "英國國家障礙大賽 （Grand National） 是一項什麼樣的活動？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Grand National is a famous horse racing event held annually in the UK.",
+      "zh": "英國國家障礙大賽 （Grand National） 是英國每年舉辦的著名賽馬活動。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Rugby",
+          "zh": "橄欖球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Golf",
+          "zh": "高爾夫球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Horse Racing",
+          "zh": "賽馬"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Tennis",
+          "zh": "網球"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What type of literature are the Canterbury Tales?",
+      "zh": "《坎特伯里故事集》 （The Canterbury Tales） 屬於什麼類型的文學作品？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Canterbury Tales is a collection of poems written by Geoffrey Chaucer in the 14th century.",
+      "zh": "《坎特伯里故事集》 （The Canterbury Tales） 是傑弗里 · 喬叟 （Geoffrey Chaucer） 在 14 世紀撰寫的一系列詩歌。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Poems",
+          "zh": "詩歌"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Novels",
+          "zh": "小說"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Jokes",
+          "zh": "笑話"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Fables",
+          "zh": "寓言"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When is Christmas Day?",
+      "zh": "聖誕節是哪一天？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Christmas Day is celebrated on the 25th of December to commemorate the birth of Jesus Christ.",
+      "zh": "聖誕節在每年的 12 月 25 日慶祝，以紀念耶穌基督的誕生。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "24th of December",
+          "zh": "12 月 24 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "25th of December",
+          "zh": "12 月 25 日"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "26th of December",
+          "zh": "12 月 26 日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "27th of December",
+          "zh": "12 月 27 日"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who supported King Charles I during the Civil War?",
+      "zh": "在英國內戰期間，誰支持國王查理一世 （King Charles I） ？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The supporters of King Charles I during the English Civil War were known as Cavaliers (Royalists), while the supporters of Parliament were known as Roundheads.",
+      "zh": "在英國內戰期間，支持國王查理一世 （King Charles I） 的人被稱為騎士黨 （Cavaliers，即保王黨），而支持議會的人則被稱為圓顱黨 （Roundheads） 。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Roundheads",
+          "zh": "圓顱黨"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Suffragettes",
+          "zh": "女權運動者"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Quakers",
+          "zh": "貴格會教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Cavaliers",
+          "zh": "騎士黨"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What battle is commemorated in the Bayeux Tapestry?",
+      "zh": "貝葉掛毯 （Bayeux Tapestry） 紀念了哪場戰役？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Bayeux Tapestry commemorates the Battle of Hastings in 1066, where William of Normandy defeated King Harold of England.",
+      "zh": "貝葉掛毯 （Bayeux Tapestry） 紀念了 1066 年的哈斯丁戰役 （Battle of Hastings） ，諾曼第的威廉在該戰役中擊敗了英格蘭國王哈羅德。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Battle of Waterloo",
+          "zh": "滑鐵盧戰役"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Trafalgar",
+          "zh": "特拉法加海戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Hastings",
+          "zh": "哈斯丁戰役"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Battle of Britain",
+          "zh": "不列顛戰役"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where was Anne Boleyn, the wife of Henry VIII, executed?",
+      "zh": "亨利八世的妻子安妮 · 博林 （Anne Boleyn） 在哪裡被處決？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Anne Boleyn, the second wife of King Henry VIII, was executed at the Tower of London.",
+      "zh": "國王亨利八世 （Henry VIII） 的第二任妻子安妮 · 博林 （Anne Boleyn） 在倫敦塔 （Tower of London） 被處決。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Houses of the Parliament",
+          "zh": "國會大廈"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Stonehenge",
+          "zh": "巨石陣"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Tower of London",
+          "zh": "倫敦塔"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Whitehall",
+          "zh": "白廳"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Racial crime and smoking in public places are examples of:",
+      "zh": "種族犯罪和在公共場所吸菸是以下哪項的例子："
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Both racial crime and smoking in designated smoke-free public places are criminal offences in the UK.",
+      "zh": "在英國，種族犯罪和在規定的無菸公共場所吸菸都屬於刑事犯罪 （Criminal offences） 。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Civil offences",
+          "zh": "民事違法行為"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Criminal offences",
+          "zh": "刑事犯罪行為"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What type of character was played by Charlie Chaplin?",
+      "zh": "查理 · 卓別林 （Charlie Chaplin） 扮演的是什麼類型的角色？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Charlie Chaplin was famous for his silent movie character, 'the Tramp'.",
+      "zh": "查理 · 卓別林 （Charlie Chaplin） 以其默片角色「流浪漢」 （the Tramp） 而聞名。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A superhero",
+          "zh": "超級英雄"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A tramp",
+          "zh": "流浪漢"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A scientific genius",
+          "zh": "科學天才"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A bandit",
+          "zh": "強盜"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "You have to be at least 21 years old to stand as MP.",
+      "zh": "您必須年滿 21 歲才能參選國會議員 （MP） 。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "You have to be at least 18 years old to stand for election as a Member of Parliament (MP).",
+      "zh": "候選人必須年滿 18 歲才能參選國會議員 （MP） 。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who developed the radar?",
+      "zh": "誰研發了雷達？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Sir Robert Watson-Watt developed the radar system, which played a crucial role in the Battle of Britain.",
+      "zh": "羅伯特 · 沃森-瓦特爵士 （Sir Robert Watson-Watt） 研發了雷達系統，這在不列顛戰役中發揮了關鍵作用。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "John Logie Baird",
+          "zh": "約翰 · 洛吉 · 貝爾德"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Frank Whittle",
+          "zh": "法蘭克 · 惠特爾爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Christopher Cockrell",
+          "zh": "克里斯多福 · 考克雷爾爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Robert Watson-Watt",
+          "zh": "羅伯特 · 沃森-瓦特爵士"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is the official home of the Prime Minister?",
+      "zh": "首相的官方官邸在哪裡？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "10 Downing Street in London is the official residence and office of the British Prime Minister.",
+      "zh": "位於倫敦的唐寧街 10 號 （10 Downing Street） 是英國首相的官方官邸和辦公室。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "18 Oxford Street",
+          "zh": "牛津街 18 號"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Buckingham Palace",
+          "zh": "白金漢宮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Windsor Castle",
+          "zh": "溫莎城堡"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "10 Downing Street",
+          "zh": "唐寧街 10 號"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When does Easter take place?",
+      "zh": "復活節在什麼時候舉行？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Easter is a Christian holiday that takes place in March or April.",
+      "zh": "復活節是基督教節日，在每年的 3 月或 4 月舉行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "November or December",
+          "zh": "11 月或 12 月"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "January or February",
+          "zh": "1 月或 2 月"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "March or April",
+          "zh": "3 月或 4 月"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "May or June",
+          "zh": "5 月或 6 月"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is not a valid UK coin?",
+      "zh": "以下哪一項不是有效的英國硬幣？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The standard UK coins in circulation are 1p, 2p, 5p, 10p, 20p, 50p, £1, and £2. There is no 25p coin.",
+      "zh": "英國流通的標準硬幣有 1p、2p、5p、10p、20p、50p、£1 和 £2。沒有 25p 硬幣。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1p",
+          "zh": "1p"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "5p",
+          "zh": "5p"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "25p",
+          "zh": "25p"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "£1",
+          "zh": "£1"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is the Eden Project located?",
+      "zh": "伊甸園計劃 （Eden Project） 位於哪裡？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The Eden Project is located in Cornwall, in the south-west of England.",
+      "zh": "伊甸園計劃 （Eden Project） 位於英格蘭西南部的康瓦爾 （Cornwall） 。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Dorset",
+          "zh": "多塞特"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Cornwall",
+          "zh": "康瓦爾"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Devon",
+          "zh": "德文"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Somerset",
+          "zh": "索美塞特"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "St Helena and the Falkland Islands are part of Great Britain.",
+      "zh": "聖海倫娜和福克蘭群島是大不列顛的一部分。"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "St Helena and the Falkland Islands are British Overseas Territories, but they are not part of Great Britain or the United Kingdom.",
+      "zh": "聖海倫娜 （St Helena） 和福克蘭群島 （Falkland Islands） 是英國海外領地，但它們不屬於大不列顛 （Great Britain） 或聯合王國 （United Kingdom） 。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two of the following are fundamental principles of British life?",
+      "zh": "以下哪兩項是英國生活的根本原則？"
+    },
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "The fundamental principles of British life include democracy, the rule of law, individual liberty, and mutual respect and tolerance of those with different faiths and beliefs.",
+      "zh": "英國生活的根本原則包括民主、法治、個人自由，以及對不同信仰和信念者的相互尊重與寬容。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Monarchy",
+          "zh": "君主制"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The rule of law",
+          "zh": "法治"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Democracy",
+          "zh": "民主"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Join a political party",
+          "zh": "加入政黨"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where should you register if you want to become part of a jury?",
+      "zh": "如果您想成為陪審團的一員，您應該在哪裡登記？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Jurors are chosen at random from the electoral register.",
+      "zh": "陪審員是從選民登記冊 （electoral register） 中隨機挑選的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The electoral register",
+          "zh": "選民登記冊"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Your local church",
+          "zh": "您當地的教堂"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The NHS",
+          "zh": "國民保健署 （NHS）"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The British Embassy",
+          "zh": "英國大使館"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What sort of church is the Church of Scotland?",
+      "zh": "蘇格蘭教會 （Church of Scotland） 是什麼類型的教會？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Church of Scotland is a Presbyterian church and has no established status or head.",
+      "zh": "蘇格蘭教會 （Church of Scotland） 是長老會 （Presbyterian） 教會，沒有國定地位或元首。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Catholic",
+          "zh": "天主教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Baptist",
+          "zh": "浸信會"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Presbyterian",
+          "zh": "長老會"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Methodist",
+          "zh": "循道會"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where does golf come from?",
+      "zh": "高爾夫球起源於哪裡？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Golf is believed to have originated in Scotland in the 15th century.",
+      "zh": "高爾夫球被認為起源於 15 世紀的蘇格蘭。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Australia",
+          "zh": "澳洲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ireland",
+          "zh": "愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When do the television and newspapers have stories that are jokes until midday?",
+      "zh": "電視和報紙在什麼時候會發布搞笑或惡作劇新聞，且這些笑話只持續到中午？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "April Fool's Day is on the 1st of April, when people play jokes on each other, and newspapers and TV often publish joke stories until midday.",
+      "zh": "愚人節 （April Fool's Day） 在每年的 4 月 1 日，人們會在這天互相開玩笑，報紙和電視也常在中午之前發布惡作劇新聞。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Valentine's Day",
+          "zh": "情人節"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Boxing Day",
+          "zh": "節禮日"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Halloween",
+          "zh": "萬聖節"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "April Fool's Day",
+          "zh": "愚人節"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What king was defeated by Oliver Cromwell during the Civil War and hid in an oak tree before escaping to Europe?",
+      "zh": "哪位國王在內戰期間被奧利弗 · 克倫威爾 （Oliver Cromwell） 擊敗，並在逃往歐洲之前躲在一棵橡樹中？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "After his defeat at the Battle of Worcester in 1651, Charles II hid in an oak tree at Boscobel House to escape Parliamentarian soldiers.",
+      "zh": "在 1651 年的伍斯特戰役 （Battle of Worcester） 中被擊敗後，查理二世 （Charles II） 曾躲在博斯科貝爾府 （Boscobel House） 的一棵橡樹中以躲避議會軍，隨後逃往歐洲。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Richard III",
+          "zh": "理查三世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Charles II",
+          "zh": "查理二世"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "James I",
+          "zh": "詹姆士一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry IV",
+          "zh": "亨利四世"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was the father of Queen Elizabeth I?",
+      "zh": "伊莉莎白一世女王 （Queen Elizabeth I） 的父親是誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Queen Elizabeth I was the daughter of King Henry VIII and his second wife, Anne Boleyn.",
+      "zh": "伊莉莎白一世女王 （Queen Elizabeth I） 是亨利八世國王 （King Henry VIII） 與其第二任妻子安妮 · 博林 （Anne Boleyn） 的女兒。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Edward I",
+          "zh": "愛德華一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry V",
+          "zh": "亨利五世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry VII",
+          "zh": "亨利七世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry VIII",
+          "zh": "亨利八世"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Complaints against the police can only be made by writing to the Police Complaints Commissioner.",
+      "zh": "對警方的投訴只能透過寫信給警察投訴專員來提出。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Complaints against the police can be made at any police station, or in writing to the Chief Constable of the police force concerned, or to an independent body (such as the Independent Office for Police Conduct in England and Wales).",
+      "zh": "對警方的投訴可以在任何警署提出，也可以寫信給相關警隊的總警司，或者向獨立機構 （例如英格蘭和威爾斯的警察行為獨立辦公室） 投訴。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who is the patron Saint of Northern Ireland?",
+      "zh": "誰是北愛爾蘭的主保聖人？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Saint Patrick is the patron saint of Northern Ireland. His feast day is celebrated on the 17th of March.",
+      "zh": "聖派翠克 （St Patrick） 是北愛爾蘭的主保聖人。他的節日在每年的 3 月 17 日慶祝。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St George",
+          "zh": "聖喬治"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Patrick",
+          "zh": "聖派翠克"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St Andrew",
+          "zh": "聖安德魯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St David",
+          "zh": "聖大衛"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the period when new ideas about politics, philosophy and science were developed?",
+      "zh": "發展出關於政治、哲學和科學新思想的那個時期被稱作什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Enlightenment was an intellectual and philosophical movement that dominated the world of ideas in Europe during the 18th century.",
+      "zh": "啟盟運動 （The Enlightenment） 是 18 世紀主導歐洲思想界的一場知識與哲學運動，在此期間發展了關於政治、哲學和科學的新思想。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Enlightenment",
+          "zh": "啟蒙運動"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Glorious Revolution",
+          "zh": "光榮革命"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Swinging Sixties",
+          "zh": "搖擺六十年代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Reformation",
+          "zh": "宗教改革"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following statements is TRUE:",
+      "zh": "以下哪項敘述是正確的："
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Mary Stuart (Mary, Queen of Scots) was a Catholic who spent much of her childhood in France.",
+      "zh": "瑪麗 · 斯圖亞特 （Mary Stuart，即「蘇格蘭女王瑪麗」） 是一位天主教徒，她的童年大部分時間在法國度過。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Mary Stuart ('Mary, Queen of Scots') was a Protestant",
+          "zh": "瑪麗 · 斯圖亞特（「蘇格蘭女王瑪麗」）是新教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Mary Stuart ('Mary, Queen of Scots') was a Catholic",
+          "zh": "瑪麗 · 斯圖亞特（「蘇格蘭女王瑪麗」）是天主教徒"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is an example of civil law?",
+      "zh": "以下哪一項是民事法的例子？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Civil law deals with disputes between individuals or groups, such as discrimination in the workplace, debt, and housing disputes. The others are criminal offences.",
+      "zh": "民事法 （Civil law） 處理個人或團體之間的糾紛，例如職場歧視、債務和住房糾紛。其他選項則屬於刑事犯罪。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To sell tobacco products to anyone under the age of 18",
+          "zh": "向未滿 18 歲的任何人出售菸草製品"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To buy alcohol for people who are under the age of 18",
+          "zh": "為未滿 18 歲的人購買酒類"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Discrimination in the workplace",
+          "zh": "職場歧視"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "To carry a weapon of any kind, even if it is for self-defence",
+          "zh": "攜帶任何種類的武器，即使是為了自衛"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In which battle did Admiral Nelson die?",
+      "zh": "納爾遜海軍上將是在哪場戰役中犧牲的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Admiral Nelson died at the Battle of Trafalgar in 1805, where the Royal Navy defeated the combined French and Spanish fleets.",
+      "zh": "納爾遜海軍上將 （Admiral Nelson） 於 1805 年的特拉法加海戰 （Battle of Trafalgar） 中犧牲，在該戰役中皇家海軍擊敗了法國和西班牙的聯合艦隊。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Battle of Hastings",
+          "zh": "哈斯丁戰役"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Waterloo",
+          "zh": "滑鐵盧戰役"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Battle of Trafalgar",
+          "zh": "特拉法加海戰"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Battle of Bannockburn",
+          "zh": "班諾克本戰役"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "William of Orange was asked by Protestants to invade England and proclaim himself king. But, when William reached England, there was no resistance and he took over the throne. This event was later Known as:",
+      "zh": "新教徒邀請奧蘭治的威廉 （William of Orange） 入侵英格蘭並宣告自己為國王。但當威廉抵達英格蘭時，並未遇到任何抵抗，他便繼承了王位。這一事件後來被稱為："
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "This event is called the 'Glorious Revolution' because there was no fighting and it established the parliament's power over the monarch.",
+      "zh": "這一事件被稱為「光榮革命」 （Glorious Revolution） ，因為整個過程沒有發生戰鬥，並且確立了議會高於君主的權力。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The 'Glorious Revolution'",
+          "zh": "「光榮革命」"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Restoration",
+          "zh": "王政復辟"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The 'Great Depression'",
+          "zh": "「大蕭條」"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The 'Blitz'",
+          "zh": "「大轟炸」"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What sort of charity is 'Friends of the Earth'?",
+      "zh": "「地球之友」 （Friends of the Earth） 是一個什麼樣的慈善機構？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Friends of the Earth is an international environmental charity.",
+      "zh": "「地球之友」 （Friends of the Earth） 是一個國際性的環保慈善機構。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "An environmental charity",
+          "zh": "環保慈善機構"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A medical research charity",
+          "zh": "醫學研究慈善機構"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A charity working with pets",
+          "zh": "寵物福利慈善機構"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A charity working with older people",
+          "zh": "老年人服務慈善機構"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "If a husband forces his wife to have sex he can be charged with rape.",
+      "zh": "如果丈夫強迫妻子進行性行為，他可能會被指控強姦。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "In the UK, rape within marriage is a criminal offence, and a husband can be charged with raping his wife.",
+      "zh": "在英國，婚內強姦屬於刑事犯罪，丈夫可能因強迫妻子進行性行為而被指控強姦罪。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In which country of the British Empire did the Boer War (1899-1902) take place?",
+      "zh": "1899 年至 1902 年的波耳戰爭發生在大英帝國的哪個地方？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Boer War of 1899-1902 took place in South Africa between the British Empire and the two Boer republics.",
+      "zh": "1899 年至 1902 年的波耳戰爭 （Boer War） 發生在南非，是英國與兩個波耳共和國之間的戰爭。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Netherlands",
+          "zh": "荷蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Falkland Islands",
+          "zh": "福克蘭群島"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Gibraltar",
+          "zh": "直布羅陀"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "South Africa",
+          "zh": "南非"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following actions is known as 'canvassing'?",
+      "zh": "以下哪項行為被稱為「拉票」 （canvassing） ？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Canvassing involves volunteers or party members visiting households to persuade people to vote for their political party.",
+      "zh": "「拉票」 （Canvassing） 是指志工或政黨成員拜訪住戶，以說服人們投票給其政黨。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Donating blood to help people",
+          "zh": "捐血助人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Volunteering for an environmental charity",
+          "zh": "在環保慈善機構做志工"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Caring for animals at a local rescue shelter",
+          "zh": "在當地的動物收容所照顧動物"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Persuading people to vote for a political party",
+          "zh": "說服人們投票給某個政黨"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which novel written by JRR Tolkien was voted the country's best-loved novel in 2003?",
+      "zh": "J. R. R. 托爾金 （JRR Tolkien） 的哪部小說在 2003 年被選為該國最受喜愛的小說？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Lord of the Rings, written by J.R.R. Tolkien, was voted the nation's best-loved novel in the BBC's Big Read poll in 2003.",
+      "zh": "由 J. R. R. 托爾金 （J.R.R. Tolkien） 撰寫的《魔戒》 （The Lord of the Rings） 在 2003 年英國廣播公司 （BBC） 舉辦的「大閱讀」 （Big Read） 民意調查中被評選為該國最受喜愛的小說。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Oliver Twist",
+          "zh": "《霧都孤兒》"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "James Bond",
+          "zh": "《詹姆士 · 龐德》"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Pride and Prejudice",
+          "zh": "《傲慢與偏見》"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Lord of the Rings",
+          "zh": "《魔戒》"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who made the first coins to be minted in Britain?",
+      "zh": "誰製造了英國最早鑄造的硬幣？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The people of the Iron Age made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings.",
+      "zh": "鐵器時代的人製造了英國最早鑄造的硬幣，其中一些硬幣上刻有鐵器時代國王的名字。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The people of the Stone Age",
+          "zh": "石器時代的人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Anglo-saxons",
+          "zh": "盎格魯-撒克遜人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The people of the Iron Age",
+          "zh": "鐵器時代的人"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Romans",
+          "zh": "羅馬人"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who built the Tower of London?",
+      "zh": "誰建造了倫敦塔？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Tower of London was built by William the Conqueror after his invasion of England in 1066.",
+      "zh": "倫敦塔是由征服者威廉 （William the Conqueror） 在 1066 年入侵英格蘭後建造的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "William the Conqueror",
+          "zh": "征服者威廉"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Queen Victoria",
+          "zh": "維多利亞女王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Queen Elizabeth I",
+          "zh": "伊莉莎白一世女王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Oliver Cromwell",
+          "zh": "奧利弗 · 克倫威爾"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "There are 15 national parks in England, Wales and Scotland. What are national parks?",
+      "zh": "在英格蘭、威爾斯和蘇格蘭共有 15 個國家公園。什麼是國家公園？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "National parks are areas of protected countryside where people can visit and enjoy outdoor recreation while preserving the natural environment.",
+      "zh": "國家公園 （National parks） 是受保護的鄉村地區，人們可以在那裡進行戶外娛樂活動，同時保護自然環境。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Giant greenhouses",
+          "zh": "巨大的溫室"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Land formations of columns made from volcanic lava",
+          "zh": "由火山熔岩形成的柱狀陸地地貌"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Areas of protected countryside",
+          "zh": "受保護的鄉村地區"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Medieval buildings",
+          "zh": "中世紀建築"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Northern Ireland has its own established church.",
+      "zh": "北愛爾蘭有自己的國定教會。"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "There is no established Church in Northern Ireland or Wales. The Church of England is the established church in England.",
+      "zh": "北愛爾蘭和威爾斯沒有國定教會。英格蘭教會是英格蘭的國定教會。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which three territories form Great Britain?",
+      "zh": "哪三個地區組成了大不列顛？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Great Britain consists of England, Scotland, and Wales. It does not include Northern Ireland.",
+      "zh": "大不列顛 （Great Britain） 由英格蘭、蘇格蘭和威爾斯組成，不包括北愛爾蘭。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How often are 'Prime Minister's Questions' held in the parliament?",
+      "zh": "國會的「首相答問環節」多久舉行一次？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Prime Minister's Questions (PMQs) is a weekly event in the House of Commons where the Prime Minister answers questions from MPs.",
+      "zh": "首相答問環節 （Prime Minister's Questions） 是下議院每週進行一次的活動，由首相回答國會議員的提問。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Every day",
+          "zh": "每天"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every week",
+          "zh": "每週"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Every two weeks",
+          "zh": "每兩週"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Once a month",
+          "zh": "每個月一次"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which king was executed in 1649?",
+      "zh": "哪位國王在 1649 年被處決？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "King Charles I was executed in January 1649 following his defeat in the English Civil War.",
+      "zh": "國王查理一世 （King Charles I） 在英國內戰失敗後，於 1649 年 1 月被處決。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "James I",
+          "zh": "詹姆士一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Charles II",
+          "zh": "查理二世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "James VII",
+          "zh": "詹姆士七世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Charles I",
+          "zh": "查理一世"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where was William Shakespeare born?",
+      "zh": "威廉 · 莎士比亞出生在哪裡？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "William Shakespeare was born in Stratford-upon-Avon, England, in April 1564.",
+      "zh": "威廉 · 莎士比亞 （William Shakespeare） 於 1564 年 4 月出生於英格蘭的雅芳河畔斯特拉特福 （Stratford-upon-Avon） 。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Manchester",
+          "zh": "曼徹斯特"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Oldham",
+          "zh": "奧爾德姆"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Stratford-upon-Avon",
+          "zh": "雅芳河畔斯特拉特福"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Lincolnshire",
+          "zh": "林肯郡"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two of the following are famous British Paralympians?",
+      "zh": "以下哪兩位是著名的英國殘奧會運動員？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Baroness Tanni Grey-Thompson is a famous wheelchair racer, and Ellie Simmonds is a highly successful Paralympic swimmer. Dame Kelly Holmes is an Olympic runner, and Jayne Torvill is an Olympic figure skater.",
+      "zh": "塔妮 · 葛雷-湯普森女男爵 （Baroness Tanni Grey-Thompson） 是著名的輪椅競速運動員，而艾莉 · 西蒙斯 （Ellie Simmonds） 是取得巨大成功的殘奧會游泳運動員。凱莉 · 霍姆斯女爵士 （Dame Kelly Holmes） 是奧運田徑運動員，珍 · 托維爾 （Jayne Torvill） 是奧運花式溜冰運動員。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Dame Kelly Holmes",
+          "zh": "凱莉 · 霍姆斯女爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Baroness Tanni Grey-Thompson",
+          "zh": "塔妮 · 葛雷-湯普森女男爵"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Jayne Torvill",
+          "zh": "珍 · 托維爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ellie Simmonds",
+          "zh": "艾莉 · 西蒙斯"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was reigning in England when English settlers first began to colonise the eastern coast of America?",
+      "zh": "當英格蘭殖民者最初開始在美洲東海岸建立殖民地時，英格蘭的在位君主是誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Elizabeth I was reigning when the first attempts to colonise America began (e.g. Roanoke Island), although permanent colonisation succeeded later under James I.",
+      "zh": "當英格蘭殖民者最初開始在美洲東海岸建立殖民地時，英格蘭的在位君主是伊莉莎白一世 （Elizabeth I） ，儘管永久殖民地後來是在詹姆士一世時期成功建立的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Queen Victoria",
+          "zh": "維多利亞女王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry VIII",
+          "zh": "亨利八世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Elizabeth I",
+          "zh": "伊莉莎白一世"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Charles II",
+          "zh": "查理二世"
+        },
+        "isCorrect": false
+      }
+    ]
+  }
+]

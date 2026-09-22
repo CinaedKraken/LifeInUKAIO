@@ -1,0 +1,1572 @@
+[
+  {
+    "question": {
+      "en": "Proceedings in Parliament are broadcast on television and published in official reports known as:",
+      "zh": "國會程序會在電視上播出，並發布在名為什麼的官方報告中？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Canvassing",
+          "zh": "拉票"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hansard",
+          "zh": "議事錄 (Hansard)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Cabinets",
+          "zh": "內閣"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Domesday Book",
+          "zh": "末日審判書"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Official reports of proceedings in Parliament are called Hansard.",
+      "zh": "國會程序的官方報告稱為議事錄（Hansard）。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following is a rugby competition?",
+      "zh": "下列哪一項是橄欖球比賽？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Scottish Grand National",
+          "zh": "蘇格蘭國家障礙大賽"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Wimbledon Championships",
+          "zh": "溫布頓網球錦標賽"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Ashes",
+          "zh": "灰燼盃"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Six Nations Championship",
+          "zh": "六國錦標賽"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Six Nations Championship is a rugby union competition between England, France, Ireland, Italy, Scotland and Wales.",
+      "zh": "六國錦標賽是一項由英格蘭、法國、愛爾蘭、義大利、蘇格蘭和威爾斯參加的橄欖球聯合會比賽。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who appoints life peers in the House of Lords?",
+      "zh": "誰任命上議院的終身貴族？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Speaker",
+          "zh": "議長"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Archbishop of Canterbury",
+          "zh": "坎特伯雷大主教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Prime Minister",
+          "zh": "首相"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The monarch",
+          "zh": "君主"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The monarch appoints life peers on the advice of the Prime Minister.",
+      "zh": "君主在首相的建議下任命終身貴族。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who mapped the coast of Australia?",
+      "zh": "誰繪製了澳洲海岸的地圖？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "James Cook",
+          "zh": "詹姆斯·庫克"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Admiral Nelson",
+          "zh": "納爾遜海軍上將"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Isaac Newton",
+          "zh": "艾薩克·牛頓"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sake Dean Mahomet",
+          "zh": "薩克·迪恩·馬霍梅特"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "James Cook mapped the coast of Australia and a few other locations.",
+      "zh": "詹姆斯·庫克繪製了澳洲及其他一些地方的海岸地圖。"
+    }
+  },
+  {
+    "question": {
+      "en": "What was the first war to be extensively covered by the media?",
+      "zh": "哪一場戰爭是第一場被媒體廣泛報導的戰爭？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Boer War",
+          "zh": "波耳戰爭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The First World War",
+          "zh": "第一次世界大戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Second World War",
+          "zh": "第二次世界大戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Crimean War",
+          "zh": "克里米亞戰爭"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Crimean War was the first to be extensively covered by the media, through news reports and photographs.",
+      "zh": "克里米亞戰爭是第一場透過新聞報導和照片被媒體廣泛報導的戰爭。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following monuments is located in Wiltshire?",
+      "zh": "下列哪一座紀念碑位於威爾特郡？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Hadrian's Wall",
+          "zh": "哈德良長城"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Paul's Cathedral",
+          "zh": "聖保羅大教堂"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Nelson's Column",
+          "zh": "納爾遜紀念柱"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Stonehenge",
+          "zh": "巨石陣"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Stonehenge is a prehistoric monument located in the English county of Wiltshire.",
+      "zh": "巨石陣位於英國的威爾特郡，是一處史前紀念碑。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who was the first Archbishop of Canterbury?",
+      "zh": "誰是第一任坎特伯雷大主教？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St Patrick",
+          "zh": "聖派翠克"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Augustine",
+          "zh": "聖奧古斯丁"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St Andrew",
+          "zh": "聖安德烈"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Columba",
+          "zh": "聖哥倫巴"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "St Augustine became the first Archbishop of Canterbury.",
+      "zh": "聖奧古斯丁成為第一任坎特伯雷大主教。"
+    }
+  },
+  {
+    "question": {
+      "en": "How old do you have to be to go into betting shops or gambling clubs?",
+      "zh": "進入投注站或賭博俱樂部必須年滿幾歲？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "18",
+          "zh": "18"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "20",
+          "zh": "20"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "16",
+          "zh": "16"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "21",
+          "zh": "21"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "You must be 18 to go into betting shops or gambling clubs in the UK.",
+      "zh": "在英國，您必須年滿18歲才能進入投注站或賭博俱樂部。"
+    }
+  },
+  {
+    "question": {
+      "en": "The system of government in the UK is a parliamentary democracy.",
+      "zh": "英國的政府體制是議會民主制。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The UK is a parliamentary democracy.",
+      "zh": "英國是一個議會民主制國家。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is the traditional food of Northern Ireland?",
+      "zh": "北愛爾蘭的傳統美食是什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Haggis",
+          "zh": "羊肚雜碎麵"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Pancakes",
+          "zh": "煎餅"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Paella",
+          "zh": "西班牙大鍋飯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ulster Fry",
+          "zh": "阿爾斯特炸丸子 (Ulster Fry)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Ulster Fry is a traditional food in Northern Ireland.",
+      "zh": "阿爾斯特炸丸子（Ulster Fry）是北愛爾蘭的傳統美食。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who was elected as British Prime Minister in 1945?",
+      "zh": "誰在1945年當選為英國首相？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Clement Attlee",
+          "zh": "克萊曼·艾德禮"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Winston Churchill",
+          "zh": "溫斯頓·邱吉爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Harold Wilson",
+          "zh": "哈羅德·威爾遜"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Harold Macmillan",
+          "zh": "哈羅德·麥克米倫"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Clement Attlee was elected as British Prime Minister in 1945.",
+      "zh": "克萊曼·艾德禮（Clement Attlee）在1945年當選為英國首相。"
+    }
+  },
+  {
+    "question": {
+      "en": "How many times has the UK hosted the Olympic games?",
+      "zh": "英國舉辦過幾次奧林匹克運動會？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "5",
+          "zh": "5"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "3",
+          "zh": "3"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "4",
+          "zh": "4"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "8",
+          "zh": "8"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The UK has hosted the Olympic games three times (in 1908, 1948 and 2012).",
+      "zh": "英國曾三次舉辦奧林匹克運動會（分別在1908年、1948年和2012年）。"
+    }
+  },
+  {
+    "question": {
+      "en": "Why were canals built during the Industrial Revolution?",
+      "zh": "為什麼在工業革命期間要建造運河？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To link the factories to towns and cities and to the ports",
+          "zh": "為了連接工廠與城鎮及港口"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "To make space for the large fleet of British ships",
+          "zh": "為了給龐大的英國船隊騰出空間"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To increase the number of water mills in the UK",
+          "zh": "為了增加英國水車的數量"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To increase the amount of water in towns and cities",
+          "zh": "為了增加城鎮的水量"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Canals were built to link the factories to towns and cities and to the ports for transportation of goods.",
+      "zh": "建造運河是為了將工廠與城鎮和港口連接起來，以利貨物運輸。"
+    }
+  },
+  {
+    "question": {
+      "en": "Are civil servants appointed by the government?",
+      "zh": "公務員是由政府任命的嗎？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Yes",
+          "zh": "是"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "No",
+          "zh": "否"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Civil servants are chosen on merit and are politically neutral; they are not appointed by the political government.",
+      "zh": "公務員是根據擇優錄取的原則選拔的，保持政治中立，並非由政黨政府任命。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following countries helped Britain to develop the Concorde?",
+      "zh": "下列哪個國家協助英國開發協和號客機？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Germany",
+          "zh": "德國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Norway",
+          "zh": "挪威"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Italy",
+          "zh": "義大利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "France",
+          "zh": "法國"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Britain and France developed Concorde, the only supersonic commercial airliner.",
+      "zh": "英國與法國合作開發了世界上唯一載客的超音速商用客機——協和號。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which invention led to the development of Britain during the Industrial Revolution?",
+      "zh": "哪項發明推動了英國在工業革命期間的發展？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Magnetic Resonance Imaging",
+          "zh": "核磁共振造影"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Steam power",
+          "zh": "蒸汽動力"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Radar",
+          "zh": "雷達"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hovercraft",
+          "zh": "氣墊船"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The development of steam power was a driving force of the Industrial Revolution in Britain.",
+      "zh": "蒸汽動力的發展是英國工業革命的一大推動力。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which two languages were used across England during the Middle Ages?",
+      "zh": "中世紀期間英國普遍使用哪兩種語言？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Welsh",
+          "zh": "威爾斯語"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Gaelic",
+          "zh": "蓋爾語"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Norman French",
+          "zh": "諾曼法語"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Anglo-Saxon",
+          "zh": "盎格魯-撒克遜語"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "During the Middle Ages in England, nobles spoke Norman French while peasants spoke Anglo-Saxon.",
+      "zh": "中世紀的英格蘭，貴族說諾曼法語，而農民說盎格魯-撒克遜語。"
+    }
+  },
+  {
+    "question": {
+      "en": "In 1776, which British colonies declared their independence because they demanded that there should be 'no taxation without representation'.",
+      "zh": "1776年，哪些英國殖民地因為要求「無代表不納稅」而宣布獨立？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "North African",
+          "zh": "北非"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Asian",
+          "zh": "亞洲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "North American",
+          "zh": "北美"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "South African",
+          "zh": "南非"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The North American colonies declared independence because of the lack of representation despite being taxed.",
+      "zh": "北美的英國殖民地因為不滿「無代表卻要納稅」而宣布獨立。"
+    }
+  },
+  {
+    "question": {
+      "en": "When was England ruled by a republic and not by a monarch?",
+      "zh": "英格蘭何時是由共和國而非君主統治？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "When Elizabeth I died without any successor",
+          "zh": "當伊莉莎白一世逝世且無繼承人時"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "When Charles I was executed",
+          "zh": "當查理一世被處決後"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "When the Carta Magna restricted the king's power",
+          "zh": "當大憲章限制了國王的權力時"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "When kind Harold died after the Battle of Hastings",
+          "zh": "當哈羅德王在黑斯廷斯戰役後陣亡時"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "After the execution of Charles I, England became a republic called the Commonwealth.",
+      "zh": "在查理一世被處決後，英格蘭成為一個共和國，被稱為英格蘭聯邦。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which film produced in the UK was one of the most commercially successful films of all time and one of the highest-grossing film franchises?",
+      "zh": "哪部在英國製作的電影是史上商業最成功的電影之一，也是票房最高的系列電影之一？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Harry Potter",
+          "zh": "哈利波特"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Spider-man",
+          "zh": "蜘蛛人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Lord of the Rings",
+          "zh": "魔戒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Indiana Jones",
+          "zh": "印第安納瓊斯"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Harry Potter film franchise is one of the most successful film franchises of all time and was produced in the UK.",
+      "zh": "《哈利波特》系列是在英國製作的史上最成功及票房最高的電影系列之一。"
+    }
+  },
+  {
+    "question": {
+      "en": "When did the first farmers come to Britain?",
+      "zh": "第一批農民何時來到英國？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "10,000 years ago",
+          "zh": "10,000年前"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "6,000 years ago",
+          "zh": "6,000年前"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "15,000 years ago",
+          "zh": "15,000年前"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "2,000 years ago",
+          "zh": "2,000年前"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The first farmers came to Britain around 6,000 years ago.",
+      "zh": "第一批農民大約在6000年前來到英國。"
+    }
+  },
+  {
+    "question": {
+      "en": "When did the First World War end?",
+      "zh": "第一次世界大戰何時結束？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "At 12.00 pm on 11th November 1914",
+          "zh": "1914年11月11日中午12點"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "At 12.00 pm on 11th November 1918",
+          "zh": "1918年11月11日中午12點"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "At 11.00 am on 11th November 1914",
+          "zh": "1914年11月11日上午11點"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "At 11.00 am on 11th November 1918",
+          "zh": "1918年11月11日上午11點"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The First World War ended at 11.00 am on 11th November 1918.",
+      "zh": "第一次世界大戰於1918年11月11日上午11點結束。"
+    }
+  },
+  {
+    "question": {
+      "en": "Can court orders be obtained to protect a person from being forced into a marriage?",
+      "zh": "可以取得法院命令來保護某人不被強迫結婚嗎？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Yes",
+          "zh": "可以"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "No",
+          "zh": "不可以"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Forced marriage is illegal in the UK, and court orders can be obtained to protect a person from it.",
+      "zh": "強迫婚姻在英國是違法的，可以申請法院命令來保護免受強迫婚姻。"
+    }
+  },
+  {
+    "question": {
+      "en": "What medal did Mary Peters win in the 1972 Olympics?",
+      "zh": "瑪麗·彼得斯在1972年奧運會上贏得了什麼獎牌？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "She did not win any medals",
+          "zh": "她沒有贏得任何獎牌"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Silver",
+          "zh": "銀牌"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Gold",
+          "zh": "金牌"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Bronze",
+          "zh": "銅牌"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Mary Peters won a gold medal in the pentathlon at the 1972 Olympics.",
+      "zh": "瑪麗·彼得斯（Mary Peters）在1972年奧運會上贏得了五項全能的金牌。"
+    }
+  },
+  {
+    "question": {
+      "en": "In England, Wales and Northern Ireland Youth Court cases are normally heard by (choose TWO answers)?",
+      "zh": "在英格蘭、威爾斯和北愛爾蘭，青年法院的案件通常由誰審理（請選擇兩個答案）？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Up to 3 specially trained magistrates",
+          "zh": "最多3名受過專門訓練的治安推事"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A District Judge",
+          "zh": "一名地方法官"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A sheriff",
+          "zh": "一名郡長 (sheriff)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Up to 5 specially trained magistrates",
+          "zh": "最多5名受過專門訓練的治安推事"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Youth Court cases are normally heard by up to 3 specially trained magistrates or a District Judge.",
+      "zh": "青年法院的案件通常由最多3名受過專門訓練的治安推事或1名地方法官審理。"
+    }
+  },
+  {
+    "question": {
+      "en": "What was invented by Alan Turing in the 1930s?",
+      "zh": "艾倫·圖靈在1930年代發明了什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The jet engine",
+          "zh": "噴射引擎"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The television",
+          "zh": "電視"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Turing machine",
+          "zh": "圖靈機"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The ball pen",
+          "zh": "原子筆"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Alan Turing invented the Turing machine in the 1930s, a theoretical mathematical computing machine.",
+      "zh": "艾倫·圖靈在1930年代發明了圖靈機，這是一種理論上的數學計算機。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which of the following tells us about how people lived in England just after the Norman Conquest?",
+      "zh": "下列哪一項告訴我們諾曼征服後英格蘭人民的生活狀況？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Domesday Book",
+          "zh": "末日審判書 (The Domesday Book)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Book of Common Prayer",
+          "zh": "公禱書"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Canterbury Tales",
+          "zh": "坎特伯雷故事集"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Carta Magna",
+          "zh": "大憲章"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Domesday Book detailed the land and population of England after the Norman Conquest.",
+      "zh": "《末日審判書》（The Domesday Book）詳細記載了諾曼征服後英格蘭土地和人口的狀況。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who led a team of scientists to 'split the atom' for the first time?",
+      "zh": "誰帶領科學家團隊首次「分裂原子」？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Alexander Fleming",
+          "zh": "亞歷山大·弗萊明"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Alan Turing",
+          "zh": "艾倫·圖靈"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ernest Rutherford",
+          "zh": "歐內斯特·拉塞福 (Ernest Rutherford)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Sir Peter Mansfield",
+          "zh": "彼得·曼斯菲爾德爵士"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Ernest Rutherford led a team of scientists to successfully split the atom at Manchester University.",
+      "zh": "歐內斯特·拉塞福（Ernest Rutherford）帶領科學家團隊在曼徹斯特大學首次成功分裂原子。"
+    }
+  },
+  {
+    "question": {
+      "en": "What song is sung by people in the UK and other countries when they are celebrating the New Year?",
+      "zh": "英國和其他國家的人們在慶祝新年時會唱什麼歌？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Auld Lang Syne",
+          "zh": "友誼萬歲 (Auld Lang Syne)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The British Anthem",
+          "zh": "英國國歌"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Jingle Bells",
+          "zh": "鈴兒響叮噹 (Jingle Bells)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "White Christmas",
+          "zh": "白色聖誕"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Auld Lang Syne is a traditional song frequently sung at New Year.",
+      "zh": "《友誼萬歲》（Auld Lang Syne）是新年時常唱的歌曲。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who fought in the English Civil war of 1642?",
+      "zh": "誰參與了1642年的英格蘭內戰？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The House of York and the House of Lancaster",
+          "zh": "約克家族與蘭開斯特家族"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Anglo-Saxons and the Vikings",
+          "zh": "盎格魯-撒克遜人與維京人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Cavaliers and the Roundheads",
+          "zh": "騎士黨與圓顱黨"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The House of Fraser and the House of Stuart",
+          "zh": "弗雷澤家族與斯圖亞特家族"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The English Civil War was fought between the Cavaliers (supporting the King) and the Roundheads (supporting Parliament).",
+      "zh": "英格蘭內戰是在支持國王的騎士黨（Cavaliers）與支持議會的圓顱黨（Roundheads）之間進行的。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which two of these forts were part of Hadrian's wall?",
+      "zh": "哪兩座堡壘是哈德良長城的一部分？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Vindolanda",
+          "zh": "文多蘭達 (Vindolanda)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Maiden Castle",
+          "zh": "少女城堡 (Maiden Castle)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Housesteads",
+          "zh": "豪斯泰德 (Housesteads)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Grimsby",
+          "zh": "格里姆斯比 (Grimsby)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Vindolanda and Housesteads are two forts that were part of Hadrian's Wall.",
+      "zh": "文多蘭達（Vindolanda）和豪斯泰德（Housesteads）是哈德良長城上的兩座堡壘。"
+    }
+  },
+  {
+    "question": {
+      "en": "What was the religion of the Puritans?",
+      "zh": "清教徒的宗教信仰是什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Hindu",
+          "zh": "印度教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Catholic",
+          "zh": "天主教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sikh",
+          "zh": "錫克教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Protestant",
+          "zh": "新教 (Protestant)"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Puritans were Protestants who advocated strict religious discipline.",
+      "zh": "清教徒是倡導嚴格宗教紀律的新教徒。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is the name of Irish people who favoured complete independence from the UK in the 19th century?",
+      "zh": "在19世紀，支持愛爾蘭完全脫離英國獨立的人被稱為什麼？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Fenians",
+          "zh": "芬尼亞人 (Fenians)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Quakers",
+          "zh": "貴格會教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Highlanders",
+          "zh": "高地人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Suffragettes",
+          "zh": "婦女參政論者"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Fenians were 19th-century campaigners who favored complete independence of Ireland from the UK.",
+      "zh": "芬尼亞人（Fenians）是19世紀支持愛爾蘭完全脫離英國獨立的運動者。"
+    }
+  },
+  {
+    "question": {
+      "en": "Which two British pop music groups were famous during the Swinging Sixties?",
+      "zh": "哪兩個英國流行樂團在「搖擺的六十年代」非常著名？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Rolling Stones",
+          "zh": "滾石樂團 (The Rolling Stones)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Beatles",
+          "zh": "披頭四樂團 (The Beatles)"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "ABBA",
+          "zh": "阿巴合唱團 (ABBA)"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Radiohead",
+          "zh": "電台司令 (Radiohead)"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Beatles and The Rolling Stones were famous British pop music groups during the 1960s.",
+      "zh": "披頭四樂團和滾石樂團是1960年代著名的英國流行音樂團體。"
+    }
+  },
+  {
+    "question": {
+      "en": "What is the minimum age required to drive a motorcycle?",
+      "zh": "駕駛摩托車的最低年齡要求是多少？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "16 years old",
+          "zh": "16歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "17 years old",
+          "zh": "17歲"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "18 years old",
+          "zh": "18歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "21 years old",
+          "zh": "21歲"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "In the UK, the minimum age to drive a car or motorcycle is 17 (16 for a moped).",
+      "zh": "在英國，駕駛摩托車和汽車的最低年齡為17歲（輕便摩托車為16歲）。"
+    }
+  },
+  {
+    "question": {
+      "en": "The members of the House of Lords, known as peers, are elected by the people.",
+      "zh": "稱為貴族的上議院議員是由人民選舉產生的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Members of the House of Lords (peers) are not elected; they are appointed or hereditary.",
+      "zh": "上議院議員（貴族）不是由選舉產生的，而是被任命的或世襲的。"
+    }
+  },
+  {
+    "question": {
+      "en": "When did the Emancipation Act abolish slavery throughout the British Empire?",
+      "zh": "《廢奴法案》何時在整個大英帝國廢除奴隸制？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1835",
+          "zh": "1835"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1823",
+          "zh": "1823"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1807",
+          "zh": "1807"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1833",
+          "zh": "1833"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Emancipation Act abolished slavery throughout the British Empire in 1833.",
+      "zh": "《廢奴法案》於1833年通過，在整個大英帝國廢除了奴隸制。"
+    }
+  },
+  {
+    "question": {
+      "en": "Who is responsible for crime, policing and immigration?",
+      "zh": "誰負責犯罪、治安和移民事務？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Chancellor of the Exchequer",
+          "zh": "財政大臣"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Foreign Secretary",
+          "zh": "外交大臣"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Speaker",
+          "zh": "議長"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Home Secretary",
+          "zh": "內政大臣"
+        },
+        "isCorrect": true
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Home Secretary is responsible for crime, policing, and immigration.",
+      "zh": "內政大臣負責處理犯罪、治安和移民事務。"
+    }
+  },
+  {
+    "question": {
+      "en": "What kind of genre was the film Wallace and Gromit created by Nick Park?",
+      "zh": "尼克·帕克（Nick Park）創作的電影《酷狗寶貝》（Wallace and Gromit）屬於什麼類型？"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A soap opera",
+          "zh": "肥皂劇"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A silent movie",
+          "zh": "無聲電影"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "An animated film",
+          "zh": "動畫片"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "An action film",
+          "zh": "動作片"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Wallace and Gromit is a well-known animated film series created by Nick Park.",
+      "zh": "《酷狗寶貝》是一部由尼克·帕克創作的知名停格動畫電影。"
+    }
+  },
+  {
+    "question": {
+      "en": "Anyone who is violent towards their partner -- whether they are a man or a woman, married or living together -- can be prosecuted.",
+      "zh": "任何對伴侶施暴的人——無論是男是女，已婚或同居——都可能被起訴。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ],
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Domestic violence is a serious crime in the UK, and anyone who is violent towards their partner can be prosecuted.",
+      "zh": "在英國，家庭暴力是嚴重的犯罪，任何人對伴侶施暴都可能被起訴。"
+    }
+  }
+]

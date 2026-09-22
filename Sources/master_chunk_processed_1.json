@@ -1,0 +1,1665 @@
+[
+  {
+    "question": {
+      "en": "Henry VIII has 6 wives. What was the name of his first wife?",
+      "zh": "亨利八世有六任妻子。他第一任妻子的名字是什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Henry VIII's first wife was Catherine of Aragon, a Spanish princess who had previously been married to Henry's elder brother, Arthur.",
+      "zh": "亨利八世的第一任妻子是阿拉貢的凱瑟琳，她是一位西班牙公主，此前曾嫁給亨利八世的哥哥亞瑟。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Anne of Cleves",
+          "zh": "克萊芙的安妮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Anne Boleyn",
+          "zh": "安妮·博林"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Catherine Howard",
+          "zh": "凱瑟琳·霍華德"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Catherine of Aragon",
+          "zh": "阿拉貢的凱瑟琳"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "George Frederick Handel, the German-born composer who became a British citizen, wrote which of the following?",
+      "zh": "出生於德國並成為英國公民的作曲家喬治·弗里德里希·韓德爾創作了以下哪部作品？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "German-born composer George Frideric Handel became a British citizen and wrote 'Music for the Royal Fireworks' and 'Water Music' for the royal family.",
+      "zh": "出生於德國的作曲家喬治·弗里德里希·韓德爾成為英國公民，並為王室創作了《皇家煙火音樂》和《水上音樂》。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Peter Grimes",
+          "zh": "彼得·格賴姆斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Planets",
+          "zh": "行星組曲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Music for the Royal Fireworks",
+          "zh": "皇家煙火音樂"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Balthazar's Feast",
+          "zh": "巴爾薩澤的宴會"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? Members of the House of Lords are elected by a constituency.",
+      "zh": "以下說法是正確還是錯誤？上議院議員是由選區選舉產生的。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Members of the House of Lords are not elected by a constituency. They are appointed or hereditary peers, or bishops of the Church of England.",
+      "zh": "上議院議員並非由選區選舉產生。他們是受委任的終身貴族、世襲貴族或英格蘭教會的主教。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? The Channel Islands and the Isle of Man are part of the UK.",
+      "zh": "以下說法是正確還是錯誤？海峽群島和曼島是英國的一部分。"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The Channel Islands and the Isle of Man are Crown dependencies but are not part of the United Kingdom.",
+      "zh": "海峽群島 and 曼島是皇家屬地，但並非聯合王國（英國）的一部分。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? By around AD 600, Anglo-Saxon kingdoms were established in Britain.",
+      "zh": "以下說法是正確還是錯誤？大約到公元600年，盎格魯-撒克遜王國已在不列顛建立。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "By around AD 600, Anglo-Saxon kingdoms were established in Britain, mainly in what is now England.",
+      "zh": "大約到公元600年，盎格魯-撒克遜王國已在不列顛建立，主要分佈在現今的英格蘭地區。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Lewis Hamilton is a leading figure in which sport?",
+      "zh": "劉易斯·咸美頓（Lewis Hamilton）是哪項運動的代表人物？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Lewis Hamilton is a British racing driver who has won multiple Formula One World Championship titles.",
+      "zh": "劉易斯·咸美頓（Lewis Hamilton）是英國賽車手，曾多次獲得一級方程式賽車（F1）世界冠軍頭銜。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Squash",
+          "zh": "壁球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Tennis",
+          "zh": "網球"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Motor racing",
+          "zh": "賽車"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Horse racing",
+          "zh": "賽馬"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which TWO of the following have the right to vote?",
+      "zh": "以下哪兩者有選舉權？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "UK-born adult citizens and adults who are naturalised UK citizens have the right to vote in general elections.",
+      "zh": "在英國出生的成年公民以及歸化為英國公民的成年人有權在大選中投票。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Adults who have been given a visa to study in the UK",
+          "zh": "已獲得在英國留學簽證的成年人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Adults who are naturalised citizens of the UK",
+          "zh": "已歸化為英國公民的成年人"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Adults who have been granted an indefinite right to remain in the UK",
+          "zh": "已獲得在英國無限期居留權的成年人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "UK-born adult citizens",
+          "zh": "在英國出生的成年公民"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How often is a General Election held?",
+      "zh": "大選多久舉行一次？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "General Elections must be held at least once every five years under British law.",
+      "zh": "根據英國法律，大選必須至少每五年舉行一次。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "At least every five years",
+          "zh": "至少每五年一次"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "At least every four years",
+          "zh": "至少每四年一次"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Every year",
+          "zh": "每年一次"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "At least every two years",
+          "zh": "至少每兩年一次"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who chairs debates in the House of Commons?",
+      "zh": "誰主持下議院的辯論？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Speaker is the MP chosen to chair debates in the House of Commons, keeping order and remaining politically neutral.",
+      "zh": "議長（The Speaker）是獲選主持下議院辯論的議員，負責維持秩序並保持政治中立。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Foreign Secretary",
+          "zh": "外交大臣"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Speaker",
+          "zh": "議長"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Prime Minister",
+          "zh": "首相"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The leader of the opposition",
+          "zh": "反對黨領袖"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Charles I was unwilling to reach an agreement with Parliament. Following his defeat in the Civil War, what happened to him?",
+      "zh": "查理一世不願意與議會達成協議。在內戰失敗後，他遭遇了什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Following his defeat in the Civil War, King Charles I was tried, found guilty of treason, and executed in 1649.",
+      "zh": "在內戰中被擊敗後，國王查理一世接受審判，被判犯有叛國罪，並於1649年被處決。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "He was executed",
+          "zh": "他被處決了"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "He was excommunicated.",
+          "zh": "他被開除了教籍。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "He was exonerated.",
+          "zh": "他被宣告無罪。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "He was exiled.",
+          "zh": "他被流放了。"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where were Elizabeth I's parents?",
+      "zh": "伊麗莎白一世的父母是誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Elizabeth I was the daughter of King Henry VIII and his second wife, Anne Boleyn.",
+      "zh": "伊麗莎白一世是國王亨利八世與其第二任妻子安妮·博林的女兒。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Henry VIII and Catherine of Aragon",
+          "zh": "亨利八世和阿拉貢的凱瑟琳"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry VII and Elizabeth of York",
+          "zh": "亨利七世和約克的伊麗莎白"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Henry VIII and Anne Boleyn",
+          "zh": "亨利八世和安妮·博林"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Henry VIII and Jane Seymour",
+          "zh": "亨利八世和珍·西摩"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The last successful foreign invasion of England was by which of the following?",
+      "zh": "英格蘭歷史上最後一次成功的外部入侵是由以下哪一項發動的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Norman Conquest of 1066, led by William the Conqueror, was the last successful foreign invasion of England.",
+      "zh": "1066年由征服者威廉領導的諾曼征服是英格蘭歷史上最後一次成功的外部入侵。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Romans led by Julius Caesar",
+          "zh": "由尤利烏斯·凱撒領導的羅馬人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Vikings",
+          "zh": "維京人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Romans led by Emperor Claudius",
+          "zh": "由克勞狄一世皇帝領導的羅馬人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Normans led by William",
+          "zh": "由威廉領導的諾曼人"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "died.",
+      "zh": "去世。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "This entry is a fragment of the historical statement: 'Elizabeth I came to the throne when, following a short reign, her half-sister Mary died.'",
+      "zh": "此條目是以下歷史陳述的片段：「伊麗莎白一世在其同父異母的姐姐瑪麗在位短暫時間去世後登基。」"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Elizabeth I came to the throne when, following a short reign, her half-sister",
+          "zh": "伊麗莎白一世登基，繼一個短暫的統治後，她的同父異母姐姐"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Mary died.x Who is the patron saint of Scotland?",
+      "zh": "瑪麗去世。x 誰是蘇格蘭的守護聖人？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St Andrew is the patron saint of Scotland. His feast day is celebrated on 30 November.",
+      "zh": "聖安得烈（St Andrew）是蘇格蘭的守護聖人。他的節日是在11月30日。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St Patrick",
+          "zh": "聖派翠克"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St David",
+          "zh": "聖大衛"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Andrew",
+          "zh": "聖安得烈"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "St George",
+          "zh": "聖喬治"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What event in 1851 took place at the Crystal Palace in Hyde Park and showed goods and exhibits from Britain and across the world?",
+      "zh": "1851年在海德公園水晶宮舉行、展示了來自英國及世界各地商品和展品的是什麼活動？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Great Exhibition of 1851 was held in the Crystal Palace in Hyde Park, London, to showcase innovations and industry.",
+      "zh": "1851年的萬國工業博覽會（The Great Exhibition）在倫敦海德公園的水晶宮舉行，旨在展示創新和工業成果。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Great Show",
+          "zh": "偉大的演出"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Great Exhibition",
+          "zh": "萬國工業博覽會"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Great Event",
+          "zh": "偉大的事件"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Great Occasion",
+          "zh": "偉大的盛典"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? Military training for young people is provided by The National Citizen Service.",
+      "zh": "以下說法是正確還是錯誤？國家公民服務（NCS）為年輕人提供軍事訓練。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The National Citizen Service (NCS) provides personal and social development programs for young people, not military training.",
+      "zh": "國家公民服務（NCS）為年輕人提供個人和社交能力發展項目，而不是軍事訓練。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of these is not a Gilbert and Sullivan comic opera?",
+      "zh": "以下哪一項不是吉爾伯特與沙利文的喜歌劇？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "A Midsummer Night's Dream is a play by William Shakespeare. The others are famous comic operas written by Gilbert and Sullivan.",
+      "zh": "《仲夏夜之夢》是威廉·莎士比亞的戲劇。其他幾項則是吉爾伯特與沙利文創作的著名喜歌劇。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Pirates of Penzance",
+          "zh": "彭贊斯的海盜"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Mikado",
+          "zh": "天皇"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "HMS Pinafore",
+          "zh": "皮納福號軍艦"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A Midsummer Night's Dream",
+          "zh": "仲夏夜之夢"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is correct?",
+      "zh": "以下哪項說法是正確的？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Robert Burns, the national poet of Scotland, wrote his poetry in Scots, standard English, and a mixture of both.",
+      "zh": "羅伯特·彭斯（Robert Burns）是蘇格蘭的民族詩人，他用蘇格蘭語、標準英語以及兩者的結合體創作詩歌。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Robert Burns wrote only in Scots language.",
+          "zh": "羅伯特·彭斯僅用蘇格蘭語寫作。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Robert Burns wrote in Scots, English and a combination of both",
+          "zh": "羅伯特·彭斯使用蘇格蘭語、英語以及兩者的結合體進行寫作"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "they were directly appointed by God to rule.x",
+      "zh": "他們是由上帝直接任命來統治的。x"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "This entry is a fragment of the statement: 'The Divine Right of Kings was the view held by many English monarchs that they were directly appointed by God to rule.'",
+      "zh": "此條目是以下陳述的片段：「君權神授是許多英國君主所持的觀點，即他們是由上帝直接任命來統治的。」"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Divine Right of Kings was the view held by many English monarchs that",
+          "zh": "君權神授是許多英國君主所持的觀點，即"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "they could seize lands belonging to the nobility as they wished. Which country is not represented on the Union Flag?",
+      "zh": "他們可以隨心所欲地奪取屬於貴族的土地。哪個國家沒有在聯邦國旗（米字旗）上體現？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "Wales is not represented on the Union Flag (Union Jack) because Wales was already united with England when the first flag was created in 1606.",
+      "zh": "威爾斯沒有在聯邦國旗上體現，因為在1606年設計第一面國旗時，威爾斯已經與英格蘭合併。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "England",
+          "zh": "英格蘭"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "During the reign of Henry VIII, which country of the union became formally united with England?",
+      "zh": "在亨利八世統治期間，聯盟中的哪個國家正式與英格蘭合併？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Wales became formally united with England during the reign of Henry VIII under the Laws in Wales Acts.",
+      "zh": "在亨利八世統治期間，通過《威爾斯法律法令》正式將威爾斯與英格蘭合併。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Ireland",
+          "zh": "愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The first people lived in Britain during which period?",
+      "zh": "最早的人類居住在不列顛是在哪個時期？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The first people to live in Britain did so during the Stone Age, hundreds of thousands of years ago.",
+      "zh": "最早在不列顛居住的人類是在數十萬年前的石器時代。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Bronze Age",
+          "zh": "青銅時代"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Jurassic period",
+          "zh": "侏羅紀時期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Stone Age",
+          "zh": "石器時代"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Ancient times",
+          "zh": "古代"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was King of England at the time of the Norman Invasion in 1066?",
+      "zh": "1066年諾曼人入侵時，誰是英格蘭國王？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "King Harold II was the King of England at the time of the Norman Invasion in 1066. He was killed at the Battle of Hastings.",
+      "zh": "1066年諾曼人入侵時，哈羅德二世是英格蘭國王。他在黑斯廷斯戰役中陣亡。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Hubert",
+          "zh": "休伯特"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Harold",
+          "zh": "哈羅德"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Henry",
+          "zh": "亨利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Herbert",
+          "zh": "赫伯特"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? Adult citizens of other EU states may vote in General Elections.",
+      "zh": "以下說法是正確還是錯誤？其他歐盟成員國的成年公民可以在大選中投票。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Citizens of other EU states cannot vote in General Elections in the UK, unless they are citizens of Commonwealth countries or Ireland.",
+      "zh": "其他歐盟成員國的公民不能在英國大選中投票，除非他們是英聯邦國家或愛爾蘭的公民。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? The Bill of Rights confirmed the rights of Parliament and the limits of the king's power.",
+      "zh": "以下說法是正確還是錯誤？《權利法案》確認了議會的權利以及君主權力的限制。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Bill of Rights of 1689 established the sovereignty of Parliament and limited the powers of the monarch.",
+      "zh": "1689年的《權利法案》確立了議會的主權，並限制了君主的權力。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The UK has what kind of monarchy?",
+      "zh": "英國是哪種君主制？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The UK is a constitutional monarchy. The monarch is the head of state, but the power to make and pass laws resides with Parliament.",
+      "zh": "英國是君主立憲制國家。君主是國家元首，但制定和通過法律的權力歸於議會。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Constitutional",
+          "zh": "立憲制"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Democratic",
+          "zh": "民主制"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Absolute",
+          "zh": "君主專制"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Provisional",
+          "zh": "臨時制"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where did Florence Nightingale establish the Nightingale School for Nurses in 1860?",
+      "zh": "佛羅倫斯·南丁格爾於1860年在何處創立了南丁格爾護士學校？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Florence Nightingale established the Nightingale School for Nurses at St Thomas' Hospital in London in 1860.",
+      "zh": "佛羅倫斯·南丁格爾於1860年在倫敦的聖托馬斯醫院創立了南丁格爾護士學校。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St James's University Hospital, Leeds",
+          "zh": "里茲聖詹姆斯大學醫院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Prince Philip Hospital, Llanelli",
+          "zh": "拉內利菲利普親王醫院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Addenbrooke's Hospital, Cambridge",
+          "zh": "劍橋阿登布魯克醫院"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Thomas' Hospital, London",
+          "zh": "倫敦聖托馬斯醫院"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "John Petts was a Welshman famous in which of these TWO areas of art?",
+      "zh": "約合·佩茨（John Petts）是威爾斯人，他在以下哪兩個藝術領域最為著名？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "John Petts was a Welsh artist known for his exceptional work in engraving and designing stained glass.",
+      "zh": "約翰·佩茨（John Petts）是威爾斯藝術家，以其在雕刻和彩色玻璃設計方面的傑出作品而聞名。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Painting of horses",
+          "zh": "畫馬"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Water colours",
+          "zh": "水彩畫"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Engraving",
+          "zh": "雕刻"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Stained glass",
+          "zh": "彩色玻璃"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? Norman French influenced the development of the English language as we know it today.",
+      "zh": "以下說法是正確還是錯誤？諾曼法語影響了我們今天所知的英語發展。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Norman French was spoken by the ruling class after the Norman Conquest and heavily influenced the development of the English language.",
+      "zh": "在諾曼征服後，統治階級使用諾曼法語，這深刻影響了英語語言的發展。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When was the first Union Flag created?",
+      "zh": "第一面聯邦國旗（米字旗）是在什麼時候創建的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The first Union Flag was created in 1606 during the reign of King James I, combining the flags of England and Scotland.",
+      "zh": "第一面聯邦國旗創建於1606年詹姆士一世統治期間，將英格蘭和蘇格蘭的國旗結合在一起。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1706",
+          "zh": "1706年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1506",
+          "zh": "1506年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1609",
+          "zh": "1609年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1606",
+          "zh": "1606年"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? The UK is a parliamentary democracy.",
+      "zh": "以下說法是正確還是錯誤？英國是一個議會民主制國家。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The UK is a parliamentary democracy, with Parliament as the supreme legislative authority.",
+      "zh": "英國是議會民主制國家，議會是最高立法機關。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following statements is true?",
+      "zh": "以下哪項陳述是正確的？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Magistrates' Courts deal with minor criminal offences, and the vast majority of criminal cases in England, Wales, and Northern Ireland are handled there.",
+      "zh": "地方法院（Magistrates' Court）處理輕微刑事犯罪，英格蘭、威爾斯和北愛爾蘭絕大多數的刑事案件都在地方法院審理。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A Magistrates' Court deals with minor criminal offences",
+          "zh": "地方法院處理輕微的刑事犯罪"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A Magistrates' Court deals with only the most serious criminal cases.",
+          "zh": "地方法院僅處理最嚴重的刑事案件。"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "A judiciary is responsible for which TWO of the following :",
+      "zh": "司法機構負責以下哪兩項職責："
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The judiciary is responsible for interpreting the law and ensuring fair trials. Lawmaking is done by Parliament, and arrests are made by the police.",
+      "zh": "司法機構負責解釋法律並確保審判公正。法律由議會制定，逮捕人則由警察執行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Arresting people",
+          "zh": "逮捕人"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Making sure that trials are fair",
+          "zh": "確保審判公正"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Interpreting the law",
+          "zh": "解釋法律"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Making the law",
+          "zh": "制定法律"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following countries did not help to set up the EEC?",
+      "zh": "以下哪個國家沒有參與建立歐洲經濟共同體（EEC）？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Ireland did not help to set up the EEC (established in 1957 by Belgium, France, Germany, Italy, Luxembourg, and the Netherlands). Ireland joined in 1973.",
+      "zh": "愛爾蘭沒有參與建立歐洲經濟共同體（EEC）（該組織由比利時、法國、德國、意大利、盧森堡和荷蘭於1957年創立）。愛爾蘭於1973年加入。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Luxembourg",
+          "zh": "盧森堡"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Ireland",
+          "zh": "愛爾蘭"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Belgium",
+          "zh": "比利時"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Germany",
+          "zh": "德國"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which TWO of the following are amongst the shared goals of the Commonwealth?",
+      "zh": "以下哪兩項屬於英聯邦的共同目標？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The shared goals of the Commonwealth include democracy, development, and peace.",
+      "zh": "英聯邦的共同目標包括促進民主、發展與和平。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Development",
+          "zh": "發展"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Democracy",
+          "zh": "民主"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Discrimination",
+          "zh": "歧視"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Dependency",
+          "zh": "依賴"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which TWO events happened to the church in England following the restoration of Charles II?",
+      "zh": "在查理二世復辟後，英格蘭教會發生了哪兩件大事？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Following the restoration of Charles II in 1660, the Church of England was restored as the official state church, and Puritans and Roman Catholics were barred from holding power.",
+      "zh": "在1660年查理二世復辟後，英格蘭教會重新恢復為官方教會，清教徒和羅馬天主教徒均被排除在政治權力之外。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Puritans grew in strength and number.",
+          "zh": "清教徒的實力和人數有所增長。"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Church of England was restored as the official Church",
+          "zh": "英格蘭教會恢復為官方教會"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Puritans and Roman Catholics were kept out of power",
+          "zh": "清教徒和羅馬天主教徒被排除在權力之外"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Church of England was suppressed.",
+          "zh": "英格蘭教會遭到鎮壓。"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following is not an aim of the United Nations?",
+      "zh": "以下哪一項不是聯合國（UN）的宗旨？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Promoting free trade is not an aim of the United Nations (UN). It is the primary purpose of the World Trade Organization (WTO).",
+      "zh": "促進自由貿易不是聯合國的宗旨。這是世界貿易組織（WTO）的主要宗旨。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To promote international security",
+          "zh": "促進國際安全"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To promote peace",
+          "zh": "促進和平"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To prevent war",
+          "zh": "防止戰爭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To promote free trade",
+          "zh": "促進自由貿易"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which TWO of the following are freedoms offered to citizens and permanent residents of the UK?",
+      "zh": "以下哪兩項是為英國公民和永久居民提供的自由？"
+    },
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "Fundamental freedoms in the UK include the freedom of speech and the right to participate in free and fair elections.",
+      "zh": "英國的基本自由包括言論自由以及參與自由和公正選舉的權利。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Free heating for all",
+          "zh": "全民免費供暖"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Freedom of Speech",
+          "zh": "言論自由"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Half day off work on Friday",
+          "zh": "星期五半天放假"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A right to take part in the election of a government",
+          "zh": "參與選舉政府的權利"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The First World War ended in victory for Britain and its allies. At what exact time and date in 1918 did the war end officially?",
+      "zh": "第一次世界大戰以英國及其盟國的勝利告終。這場戰爭在1918年的哪個確切時間和日期正式結束？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The armistice that ended the fighting in the First World War went into effect at 11 am on 11 November 1918.",
+      "zh": "結束第一次世界大戰戰鬥的停戰協定於1918年11月11日上午11點正式生效。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "6am on 6 June",
+          "zh": "6月6日上午6點"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "8am on 8 August",
+          "zh": "8月8日上午8點"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "10am on 10 October",
+          "zh": "10月10日上午10點"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "11am on 11 November",
+          "zh": "11月11日上午11點"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who did William the Conqueror defeat at the Battle of Hastings in 1066?",
+      "zh": "征服者威廉在1066年的黑斯廷斯戰役中擊敗了誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "William the Conqueror defeated King Harold II of England at the Battle of Hastings in 1066.",
+      "zh": "征服者威廉在1066年的黑斯廷斯戰役中擊敗了英格蘭國王哈羅德二世。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Kenneth MacAlpin",
+          "zh": "肯尼思·麥卡爾平"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Boudicca",
+          "zh": "波迪卡"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "King Cnut",
+          "zh": "克努特國王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "King Harold",
+          "zh": "哈羅德國王"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How old do you have to be to buy alcohol in the UK?",
+      "zh": "在英國您必須年滿多少歲才能購買酒精飲料？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The legal age for purchasing alcohol in the UK is 18.",
+      "zh": "在英國購買酒精飲料的法定年齡為18歲。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "21",
+          "zh": "21歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "16",
+          "zh": "16歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "18",
+          "zh": "18歲"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "20",
+          "zh": "20歲"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the name of the famous horse race held near Liverpool?",
+      "zh": "在利物浦附近舉行的著名賽馬比賽名稱是什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Grand National is a world-famous National Hunt horse race held annually at Aintree Racecourse near Liverpool.",
+      "zh": "國家大賽（Grand National）是每年在利物浦附近的安特里馬場（Aintree Racecourse）舉行的世界著名越野障礙賽馬活動。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Grand National",
+          "zh": "國家大賽"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Steeplechase",
+          "zh": "障礙賽"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Grand Chase",
+          "zh": "大追逐"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Grand Derby",
+          "zh": "大德比"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "William Shakespeare wrote a number of sonnets. What are sonnets?",
+      "zh": "威廉·莎士比亞創作了許多十四行詩。什麼是十四行詩？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Sonnets are 14-line poems with a specific structure. Shakespeare wrote 154 of them.",
+      "zh": "十四行詩（sonnet）是具有特定結構的14行詩。莎士比亞創作了154首此類詩歌。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Poems of 14 lines",
+          "zh": "14行的詩歌"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Rhyming poems",
+          "zh": "押韻詩"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Mystery plays",
+          "zh": "神秘劇"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Stories for children",
+          "zh": "兒童故事"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was James II's eldest daughter, Mary, married to?",
+      "zh": "詹姆士二世的長女瑪麗嫁給了誰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "James II's daughter, Mary, married William of Orange, who joint-ruled with her as William III and Mary II.",
+      "zh": "詹姆士二世的女兒瑪麗嫁給了奧蘭治的威廉，後來他與她共同統治英國，即威廉三世和瑪麗二世。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "She never married",
+          "zh": "她未曾結婚"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "William of Orange",
+          "zh": "奧蘭治的威廉"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The French Dauphin",
+          "zh": "法國王太子"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Duke of York",
+          "zh": "約克公爵"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is a Yorkshire pudding?",
+      "zh": "約克郡布丁是什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "A Yorkshire pudding is made of flour, eggs, and milk baked in the oven to puff up, traditionally eaten with roast meat.",
+      "zh": "約克郡布丁是用麵粉、雞蛋和牛奶調成的麵糊在烤箱中烘烤膨脹而成，傳統上與烤肉搭配食用。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Batter cooked in the oven",
+          "zh": "在烤箱中烹製的麵糊"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Meat and potato in a pastry",
+          "zh": "酥皮中的肉和土豆"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Apple and pears with custard",
+          "zh": "帶有卡士達醬的蘋果和梨"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A caramel-flavoured dessert",
+          "zh": "焦糖風味的甜點"
+        },
+        "isCorrect": false
+      }
+    ]
+  }
+]

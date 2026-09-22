@@ -1,0 +1,927 @@
+[
+  {
+    "question": "After the Act of Union, Scotland was no longer an independent country. In what TWO ways was it still separate from the rest of Great Britain?",
+    "options": [
+      {
+        "text": "It kept its Presbyterian Church",
+        "isCorrect": true
+      },
+      {
+        "text": "It kept its own army.",
+        "isCorrect": false
+      },
+      {
+        "text": "It kept its own educational system",
+        "isCorrect": true
+      },
+      {
+        "text": "Hadrian's Wall was rebuilt to secure the border.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How is the electoral register updated?",
+    "options": [
+      {
+        "text": "Eligible voters must phone their local councillor",
+        "isCorrect": false
+      },
+      {
+        "text": "Every household must request a registration form",
+        "isCorrect": false
+      },
+      {
+        "text": "Every household receives a phone call to enquire about eligible voter",
+        "isCorrect": false
+      },
+      {
+        "text": "Every household receives a registration form, which must be completed and",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "returned.x A snack made from flour, dried fruits and spices and served either hot or cold is which of the following?",
+    "options": [
+      {
+        "text": "An English muffin",
+        "isCorrect": false
+      },
+      {
+        "text": "A Welsh cake",
+        "isCorrect": true
+      },
+      {
+        "text": "A Scottish bun",
+        "isCorrect": false
+      },
+      {
+        "text": "An Irish pie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where does the UK Parliament sit?",
+    "options": [
+      {
+        "text": "The House of Lords",
+        "isCorrect": false
+      },
+      {
+        "text": "Downing Street",
+        "isCorrect": false
+      },
+      {
+        "text": "Westminster",
+        "isCorrect": true
+      },
+      {
+        "text": "Stormont",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How many people emigrated from the UK during Victoria's reign between 1853- 1913?",
+    "options": [
+      {
+        "text": "500 million",
+        "isCorrect": false
+      },
+      {
+        "text": "13 million",
+        "isCorrect": true
+      },
+      {
+        "text": "2 million",
+        "isCorrect": false
+      },
+      {
+        "text": "100,000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these is an accurate estimate of the number of casualties suffered by Britain in the First World War?",
+    "options": [
+      {
+        "text": "10 million",
+        "isCorrect": false
+      },
+      {
+        "text": "2 million",
+        "isCorrect": true
+      },
+      {
+        "text": "8 million",
+        "isCorrect": false
+      },
+      {
+        "text": "500,000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Queen Elizabeth II is the head of state for which TWO of the following?",
+    "options": [
+      {
+        "text": "The European Union",
+        "isCorrect": false
+      },
+      {
+        "text": "The United Kingdom",
+        "isCorrect": true
+      },
+      {
+        "text": "Many Commonwealth countries",
+        "isCorrect": true
+      },
+      {
+        "text": "Iceland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the common name for the Yeoman Warders at the Tower of London?",
+    "options": [
+      {
+        "text": "Beefeaters",
+        "isCorrect": true
+      },
+      {
+        "text": "Pikestaff",
+        "isCorrect": false
+      },
+      {
+        "text": "Queen's Men",
+        "isCorrect": false
+      },
+      {
+        "text": "Crown Guards",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Diwali is a religious celebration for which TWO religious groups?",
+    "options": [
+      {
+        "text": "Sikhs",
+        "isCorrect": true
+      },
+      {
+        "text": "Jews",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindus",
+        "isCorrect": true
+      },
+      {
+        "text": "Muslims",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Causing trouble whilst drinking in public can result in which TWO of the following from the police?",
+    "options": [
+      {
+        "text": "An award",
+        "isCorrect": false
+      },
+      {
+        "text": "Praise",
+        "isCorrect": false
+      },
+      {
+        "text": "A fine",
+        "isCorrect": true
+      },
+      {
+        "text": "Arrest",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      {
+        "text": "The jet engine and radar were developed in Britain in the 1950s.",
+        "isCorrect": false
+      },
+      {
+        "text": "The jet engine and radar were developed in Britain in the 1930s",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What happens at a polling station or polling place?",
+    "options": [
+      {
+        "text": "People take their driving test",
+        "isCorrect": false
+      },
+      {
+        "text": "The census is collected",
+        "isCorrect": false
+      },
+      {
+        "text": "Taxes are collected",
+        "isCorrect": false
+      },
+      {
+        "text": "People vote in elections",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Since which year has the UK had a fully democratic voting system.",
+    "options": [
+      {
+        "text": "1969",
+        "isCorrect": false
+      },
+      {
+        "text": "1918",
+        "isCorrect": false
+      },
+      {
+        "text": "1928",
+        "isCorrect": true
+      },
+      {
+        "text": "1889",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which British novelist created the fictional detective, Sherlock Holmes?",
+    "options": [
+      {
+        "text": "Sir Arthur Conan Doyle",
+        "isCorrect": true
+      },
+      {
+        "text": "Robert Louis Stevenson",
+        "isCorrect": false
+      },
+      {
+        "text": "Evelyn Waugh",
+        "isCorrect": false
+      },
+      {
+        "text": "Graham Greene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "To apply to become a permanent resident or citizen of the UK, you will need to be able to do which TWO of the following?",
+    "options": [
+      {
+        "text": "Speak more than one language",
+        "isCorrect": false
+      },
+      {
+        "text": "Speak and read Welsh",
+        "isCorrect": false
+      },
+      {
+        "text": "Speak and read English",
+        "isCorrect": true
+      },
+      {
+        "text": "Have a good understanding of life in the UK",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is New Year's Eve called in Scotland?",
+    "options": [
+      {
+        "text": "Hagmanay",
+        "isCorrect": false
+      },
+      {
+        "text": "Hogmanay",
+        "isCorrect": true
+      },
+      {
+        "text": "Hugmanay",
+        "isCorrect": false
+      },
+      {
+        "text": "Hopmanay",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Battle of Boyne is celebrated with a bank holiday in which country?",
+    "options": [
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      },
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": true
+      },
+      {
+        "text": "Wales",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where did the Boer War take place?",
+    "options": [
+      {
+        "text": "Turkey",
+        "isCorrect": false
+      },
+      {
+        "text": "England",
+        "isCorrect": false
+      },
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "South Africa",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The Chancellor of the Exchequer is responsible for which area of government policy?",
+    "options": [
+      {
+        "text": "Health",
+        "isCorrect": false
+      },
+      {
+        "text": "Immigration",
+        "isCorrect": false
+      },
+      {
+        "text": "Economy",
+        "isCorrect": true
+      },
+      {
+        "text": "Education",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "liberty.x",
+    "options": [
+      {
+        "text": "Colonists in North America were poorly-educated and uninterested in politics.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who did Henry VIII marry after the execution of Anne Boleyn?",
+    "options": [
+      {
+        "text": "Catherine Howard",
+        "isCorrect": false
+      },
+      {
+        "text": "Jane Seymour",
+        "isCorrect": true
+      },
+      {
+        "text": "Anne of Cleves",
+        "isCorrect": false
+      },
+      {
+        "text": "Catherine Parr",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What sport is played in the UEFA Champions League?",
+    "options": [
+      {
+        "text": "Cricket",
+        "isCorrect": false
+      },
+      {
+        "text": "Rugby",
+        "isCorrect": false
+      },
+      {
+        "text": "Tennis",
+        "isCorrect": false
+      },
+      {
+        "text": "Football",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who wrote musicals such as Cats, The Phantom of the Opera, and Evita?",
+    "options": [
+      {
+        "text": "Gilbert and Sullivan",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Edward Elgar",
+        "isCorrect": false
+      },
+      {
+        "text": "Andrew Lloyd Webber",
+        "isCorrect": true
+      },
+      {
+        "text": "Julian Lloyd Webber",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Ian McEwan, Hilary Mantel and Julian Barnes have all won which literary prize?",
+    "options": [
+      {
+        "text": "The Nobel Prize in Literature",
+        "isCorrect": false
+      },
+      {
+        "text": "The Man Booker Prize",
+        "isCorrect": true
+      },
+      {
+        "text": "The Mercury Prize",
+        "isCorrect": false
+      },
+      {
+        "text": "The Turner Prize",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In Crown Court, who decides the verdict of \"guilty\" or \"not guilty\"?",
+    "options": [
+      {
+        "text": "The judge",
+        "isCorrect": true
+      },
+      {
+        "text": "The jury",
+        "isCorrect": false
+      },
+      {
+        "text": "The defendant",
+        "isCorrect": false
+      },
+      {
+        "text": "The barrister",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did Julius Caesar lead the Roman invasion of Britain?",
+    "options": [
+      {
+        "text": "65 BC",
+        "isCorrect": false
+      },
+      {
+        "text": "AD 55",
+        "isCorrect": true
+      },
+      {
+        "text": "AD 75",
+        "isCorrect": false
+      },
+      {
+        "text": "55 BC",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which Anglo-Saxon poem tells of its hero's battles against monsters?",
+    "options": [
+      {
+        "text": "Deor",
+        "isCorrect": false
+      },
+      {
+        "text": "Waldere",
+        "isCorrect": false
+      },
+      {
+        "text": "The Fight at Finnsburh",
+        "isCorrect": false
+      },
+      {
+        "text": "Beowulf",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who became queen after the death of Edward VI?",
+    "options": [
+      {
+        "text": "Mary, Queen of Scots",
+        "isCorrect": false
+      },
+      {
+        "text": "His cousin Mary",
+        "isCorrect": false
+      },
+      {
+        "text": "His wife Mary",
+        "isCorrect": false
+      },
+      {
+        "text": "His half-sister Mary",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these books did Graham Greene not write?",
+    "options": [
+      {
+        "text": "Moby Dick",
+        "isCorrect": true
+      },
+      {
+        "text": "The Heart of the Matter",
+        "isCorrect": false
+      },
+      {
+        "text": "The Honorary Consul",
+        "isCorrect": false
+      },
+      {
+        "text": "Brighton Rock",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What are MEPs?",
+    "options": [
+      {
+        "text": "Modern European parliamentarians",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern English parliamentarians",
+        "isCorrect": false
+      },
+      {
+        "text": "Members of the European Parliament",
+        "isCorrect": true
+      },
+      {
+        "text": "Members of the English Parliament",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A poll card includes which TWO pieces of information?",
+    "options": [
+      {
+        "text": "The date of the election",
+        "isCorrect": true
+      },
+      {
+        "text": "Where the polling station or polling place is located",
+        "isCorrect": true
+      },
+      {
+        "text": "How much tax you should pay",
+        "isCorrect": false
+      },
+      {
+        "text": "Who you should vote for",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which annual flower show in London exhibits garden designs from around the world?",
+    "options": [
+      {
+        "text": "Kensington",
+        "isCorrect": false
+      },
+      {
+        "text": "South Bank",
+        "isCorrect": false
+      },
+      {
+        "text": "Chelsea",
+        "isCorrect": true
+      },
+      {
+        "text": "Covent Garden",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The War of the Roses was fought by the supporters of which TWO families in order to decide who should be King of England?",
+    "options": [
+      {
+        "text": "The House of Windsor",
+        "isCorrect": false
+      },
+      {
+        "text": "The House of York",
+        "isCorrect": true
+      },
+      {
+        "text": "The House of Lancaster",
+        "isCorrect": true
+      },
+      {
+        "text": "The House of Tudor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How are the local authorities funded?",
+    "options": [
+      {
+        "text": "Local authorities are unfunded",
+        "isCorrect": false
+      },
+      {
+        "text": "By taxation only",
+        "isCorrect": false
+      },
+      {
+        "text": "By central government funding and by taxation",
+        "isCorrect": true
+      },
+      {
+        "text": "By funding from central government only",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Around which structure in London is the Remembrance Day service usually held?",
+    "options": [
+      {
+        "text": "The London Eye",
+        "isCorrect": false
+      },
+      {
+        "text": "Nelson's Column in Trafalgar Square",
+        "isCorrect": false
+      },
+      {
+        "text": "The Cenotaph in Whitehall",
+        "isCorrect": true
+      },
+      {
+        "text": "The statue of Eros in Piccadilly Circus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What event is commemorated on 5 November every year?",
+    "options": [
+      {
+        "text": "The Queen's birthday",
+        "isCorrect": false
+      },
+      {
+        "text": "England's World Cup victory of 1966.",
+        "isCorrect": false
+      },
+      {
+        "text": "A plot to blow up the Houses of Parliament",
+        "isCorrect": true
+      },
+      {
+        "text": "The end of the First World War",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How old was Edward VI when he died ?",
+    "options": [
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "35",
+        "isCorrect": false
+      },
+      {
+        "text": "56",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where did people of the Bronze Age bury their dead?",
+    "options": [
+      {
+        "text": "Earth barrows",
+        "isCorrect": false
+      },
+      {
+        "text": "Round barrows",
+        "isCorrect": true
+      },
+      {
+        "text": "Burial mounds",
+        "isCorrect": false
+      },
+      {
+        "text": "Round burrows",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sake Dean Mahomet opened which establishment in George Street, London in 1810?",
+    "options": [
+      {
+        "text": "Mahomet Coffee House",
+        "isCorrect": false
+      },
+      {
+        "text": "Pakistan Curry House",
+        "isCorrect": false
+      },
+      {
+        "text": "Mahomet Shampoo Parlour",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindoostane Coffee House",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "MPs have a duty to serve and represent which of the following groups?",
+    "options": [
+      {
+        "text": "Everyone in their constituency who voted for them",
+        "isCorrect": false
+      },
+      {
+        "text": "The House of Lords",
+        "isCorrect": false
+      },
+      {
+        "text": "Their fellow MPs",
+        "isCorrect": false
+      },
+      {
+        "text": "Everyone in their constituency",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is one of the Queen's important ceremonial roles?",
+    "options": [
+      {
+        "text": "To chair debates in Parliament",
+        "isCorrect": false
+      },
+      {
+        "text": "To receive foreign ambassadors and high commissioners",
+        "isCorrect": true
+      },
+      {
+        "text": "To write laws",
+        "isCorrect": false
+      },
+      {
+        "text": "To negotiate trade agreements with other countries",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In 1649, England was declared a republic. What was it called?",
+    "options": [
+      {
+        "text": "Cromwell's Republic",
+        "isCorrect": false
+      },
+      {
+        "text": "The People's Republic",
+        "isCorrect": false
+      },
+      {
+        "text": "The Commonwealth",
+        "isCorrect": true
+      },
+      {
+        "text": "Great Britain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How often is Prime Minister's Questions held?",
+    "options": [
+      {
+        "text": "Every week while Parliament is in session",
+        "isCorrect": true
+      },
+      {
+        "text": "Every week",
+        "isCorrect": false
+      },
+      {
+        "text": "Every day",
+        "isCorrect": false
+      },
+      {
+        "text": "Every day while Parliament is in session",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which king annexed Wales to the Crown of England with the Statute of Rhuddlan?",
+    "options": [
+      {
+        "text": "Charles I",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry VIII",
+        "isCorrect": false
+      },
+      {
+        "text": "Harold",
+        "isCorrect": false
+      },
+      {
+        "text": "Edward I",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What were The Canterbury Tales?",
+    "options": [
+      {
+        "text": "A series of poems",
+        "isCorrect": true
+      },
+      {
+        "text": "A story about Canterbury Cathedral",
+        "isCorrect": false
+      },
+      {
+        "text": "A book of Christian doctrine",
+        "isCorrect": false
+      },
+      {
+        "text": "A Royal Charter",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1749 @@
+[
+  {
+    "question": {
+      "en": "What do you accept and agree to when you become a permanent resident of the UK?",
+      "zh": "當您成為英國永久居民時，您接受並同意什麼？"
+    },
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "When you become a permanent resident of the UK, you agree to respect and accept its values, principles, and traditions.",
+      "zh": "當您成為英國永久居民時，您同意尊重並接受其價值觀、原則和傳統。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Traditions of the UK",
+          "zh": "英國的傳統"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Protestant beliefs and values",
+          "zh": "新教信仰和價值觀"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The right to be tried for crimes in your country of origin",
+          "zh": "在原籍國接受犯罪審判的權利"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Catholic beliefs and values",
+          "zh": "天主教信仰和價值觀"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which Catherine was executed after being accused of taking lovers by Henry VIII?",
+      "zh": "亨利八世指控哪位凱瑟琳偷情後將其處決？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Catherine Howard was the fifth wife of Henry VIII. She was executed at the Tower of London for adultery in 1542.",
+      "zh": "凱瑟琳·霍華德（Catherine Howard）是亨利八世的第五任妻子。她於1542年因通姦罪在倫敦塔被處決。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Howard",
+          "zh": "霍華德"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Boleyn",
+          "zh": "博林"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Parr",
+          "zh": "帕爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Of Aragon",
+          "zh": "的阿拉貢"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Is the statement below TRUE or FALSE? Discrimination in the workplace is an example of criminal law.",
+      "zh": "以下陳述是正確還是錯誤？職場歧視是刑事法律的一個例子。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Discrimination in the workplace is a matter of civil law, which deals with disputes between individuals or groups, rather than criminal law.",
+      "zh": "職場歧視屬於民事法律範疇，民事法律處理個人或團體之間的糾紛，而非刑事法律。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of these is not a Christmas tradition in the UK?",
+      "zh": "以下哪項不是英國的聖誕傳統？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Having a barbeque is not a traditional Christmas custom in the UK, as Christmas is in the winter when the weather is cold.",
+      "zh": "在英國，吃燒烤並非傳統的聖誕習俗，因為聖誕節是在寒冷的冬季。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Decorating Houses and Trees",
+          "zh": "裝飾房屋和樹木"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Giving gifts",
+          "zh": "送禮物"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sending Cards",
+          "zh": "寄賀卡"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Having a Barbeque",
+          "zh": "吃燒烤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In a Crown Court, who decides what the penalty will be, in the case of a guilty verdict?",
+      "zh": "在皇家刑事法院，如果判決有罪，誰來決定刑罰？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "In a Crown Court, the jury decides whether the defendant is guilty or not, and the judge decides on the penalty.",
+      "zh": "在皇家刑事法院，陪審團決定被告是否有罪，而法官決定刑罰。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A solicitor",
+          "zh": "事務律師"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The jury",
+          "zh": "陪審團"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The judge",
+          "zh": "法官"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A police officer",
+          "zh": "警員"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When were the first professional football clubs formed?",
+      "zh": "第一批職業足球俱樂部是什麼時候成立的？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The first professional football clubs were formed in the late 19th century, and the Football League was founded in 1888.",
+      "zh": "第一批職業足球俱樂部成立於19世紀末，足球聯賽成立於1888年。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "17th Century",
+          "zh": "17世紀"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "20th Century",
+          "zh": "20世紀"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "18th Century",
+          "zh": "18世紀"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "19th Century",
+          "zh": "19世紀"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "An attempt by which group to put James II's son on the throne instead of George I was quickly defeated?",
+      "zh": "哪個團體試圖將詹姆士二世的兒子推上王位以取代喬治一世，但很快被擊敗？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "In 1715, Scottish Jacobites attempted to put James II's son on the throne, but the rebellion was quickly defeated.",
+      "zh": "1715年，蘇格蘭詹姆士黨人（Jacobites）試圖將詹姆士二世的兒子推上王位，但叛亂很快被擊敗。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "French Huguenots",
+          "zh": "法國雨格諾派"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "English Puritans",
+          "zh": "英國清教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Irish Catholics",
+          "zh": "愛爾蘭天主教徒"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Scottish Jacobites",
+          "zh": "蘇格蘭詹姆士黨人"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "In which city is the Scottish Parliament based?",
+      "zh": "蘇格蘭議會總部設在哪個城市？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The devolved Scottish Parliament is located in Edinburgh, the capital city of Scotland.",
+      "zh": "權力下放的蘇格蘭議會部位於蘇格蘭首府愛丁堡。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Cardiff",
+          "zh": "卡地夫"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sheffield",
+          "zh": "雪菲爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Edinburgh",
+          "zh": "愛丁堡"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Glasgow",
+          "zh": "格拉斯哥"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What are two responsibilities that you will have as a British citizen or permanent resident of the UK?",
+      "zh": "作為英國公民或英國永久居民，您將承擔哪兩項責任？"
+    },
+    "chapter": "The values and principles of the UK",
+    "explanation": {
+      "en": "Responsibilities of UK citizens and residents include looking after yourself and your family, and looking after the local area and environment.",
+      "zh": "英國公民和居民的責任包括照顧好自己和家人，以及愛護社區環境。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "To look after the area in which you live and the environment",
+          "zh": "愛護您居住的地區和環境"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "To look after yourself and your family",
+          "zh": "照顧好自己和家人"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "To stay in the UK forever",
+          "zh": "永遠留在英國"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "To promote work in your local community",
+          "zh": "促進您當地社區的工作"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is the Big Ben located?",
+      "zh": "大笨鐘（Big Ben）位於哪裡？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Big Ben is the nickname for the Great Bell of the clock tower at the Houses of Parliament (Palace of Westminster) in London.",
+      "zh": "大笨鐘是位於倫敦國會大廈（威斯敏斯特宮）鐘樓大銅鐘的綽號。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Buckingham Palace",
+          "zh": "白金漢宮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Tower of London",
+          "zh": "倫敦塔"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Trafalgar Square",
+          "zh": "特拉法加廣場"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Houses of the Parliament",
+          "zh": "國會大廈"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When were men and women given the right to vote at the age of 21?",
+      "zh": "男女何時被賦予在21歲投票的權利？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Equal Franchise Act of 1928 gave women the vote at the age of 21, the same age as men.",
+      "zh": "1928年的《平等選舉權法》賦予女性在21歲投票的權利，與男性相同。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1918",
+          "zh": "1918年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1903",
+          "zh": "1903年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1928",
+          "zh": "1928年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1923",
+          "zh": "1923年"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where is the UK geographically located?",
+      "zh": "英國在地理上位於哪裡？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The United Kingdom is located in the north-west of the European continent.",
+      "zh": "聯合王國位於歐洲大陸的西北部。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "South west of Europe",
+          "zh": "歐洲西南部"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "North east of Europe",
+          "zh": "歐洲東北部"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "North west of Europe",
+          "zh": "歐洲西北部"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "South east of Europe",
+          "zh": "歐洲東南部"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who is the patron Saint of Scotland?",
+      "zh": "誰是蘇格蘭的守護聖人？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "St Andrew is the patron saint of Scotland, and St Andrew's Day is celebrated on 30 November.",
+      "zh": "聖安德烈是蘇格蘭的守護聖人，每年的11月30日是聖安德烈日。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "St David",
+          "zh": "聖大衛"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Patrick",
+          "zh": "聖派翠克"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St George",
+          "zh": "聖喬治"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "St Andrew",
+          "zh": "聖安德烈"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which two houses fought in the War of the Roses?",
+      "zh": "哪兩個家族在玫瑰戰爭中交戰？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Wars of the Roses (1455-1485) were fought between the House of Lancaster (red rose) and the House of York (white rose).",
+      "zh": "玫瑰戰爭（1455-1485年）是在蘭卡斯特家族（紅玫瑰）和約克家族（白玫瑰）之間進行的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The House of Chester",
+          "zh": "切斯特家族"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The House of York",
+          "zh": "約克家族"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The House of Lancaster",
+          "zh": "蘭卡斯特家族"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The House of Newcastle",
+          "zh": "新堡家族"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The Bill of Rights of 1689 confirmed the right to vote for all adult men.",
+      "zh": "1689年的《權利法案》確認了所有成年男性的選舉權。"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "This statement is false. The Bill of Rights of 1689 limited the monarch's power and confirmed the rights of Parliament, but did not grant universal suffrage.",
+      "zh": "此陳述是錯誤的。1689年的《權利法案》限制了君主的權力並確認了議會的權利，但並未授予普選權。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the Cenotaph?",
+      "zh": "和平紀念碑（Cenotaph）是什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The Cenotaph, located in Whitehall, London, is the site of the annual Remembrance Day service and is a war memorial.",
+      "zh": "位於倫敦白廳的和平紀念碑是一座戰爭紀念碑，也是每年國殤紀念日儀式的舉辦地。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A flower",
+          "zh": "一種花"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A Christian church",
+          "zh": "一間基督教堂"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A war memorial",
+          "zh": "一座戰爭紀念碑"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "A theatre",
+          "zh": "一間劇院"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was the first female Prime Minister of the UK?",
+      "zh": "誰是英國第一位女首相？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Margaret Thatcher became the UK's first female Prime Minister in 1979 and served until 1990.",
+      "zh": "瑪格麗特·柴契爾（Margaret Thatcher）於1979年成為英國首位女首相，並任職至1990年。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Mary Stuart",
+          "zh": "瑪麗·斯圖亞特"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Theresa May",
+          "zh": "德蕾莎·梅伊"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Margaret Thatcher",
+          "zh": "瑪格麗特·柴契爾"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Florence Nightingale",
+          "zh": "佛羅倫斯·南丁格爾"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who chairs the debates at the House of Commons?",
+      "zh": "下議院的辯論由誰主持？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Speaker of the House of Commons chairs the debates and keeps order, remaining neutral.",
+      "zh": "下議院議長（The Speaker）主持辯論並維持秩序，並保持政治中立。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A bishop",
+          "zh": "主教"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Prime Minister",
+          "zh": "首相"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Speaker",
+          "zh": "議長"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The archbishop of Canterbury",
+          "zh": "坎特伯里大主教"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was the captain of the English football team that won the World Cup in 1966?",
+      "zh": "1966年贏得世界盃的英格蘭足球隊隊長是誰？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Bobby Moore was the captain of the England football team that won the FIFA World Cup in 1966.",
+      "zh": "巴比·摩爾（Bobby Moore）是1966年贏得國際足總世界盃的英格蘭足球隊隊長。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Sir Roger Bannister",
+          "zh": "羅傑·班尼斯特爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Jackie Stewart",
+          "zh": "傑奇·史都華爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Ian Botham",
+          "zh": "伊恩·博瑟姆爵士"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Bobby Moore",
+          "zh": "巴比·摩爾"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When did the English defeat the Spanish Armada?",
+      "zh": "英格蘭何時擊敗西班牙無敵艦隊？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Spanish Armada was defeated by the English navy in 1588 during the reign of Queen Elizabeth I.",
+      "zh": "1588年伊麗莎白一世女王統治期間，西班牙無敵艦隊被英格蘭海軍擊敗。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1466",
+          "zh": "1466年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1066",
+          "zh": "1066年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1254",
+          "zh": "1254年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1588",
+          "zh": "1588年"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Anyone can make a complaint about the police by writing to the Chief Constable of the police force involved.",
+      "zh": "任何人都可以通過寫信給相關警隊的警務處長（Chief Constable）來對警察提出投訴。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Complaints against the police can be made by writing to the Chief Constable of the police force, or through the Independent Office for Police Conduct.",
+      "zh": "對警察的投訴可以通過寫信給該警隊的警務處長（Chief Constable），或通過警察行為獨立辦公室進行。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the minimum age required to serve on a jury?",
+      "zh": "擔任陪審員的最低年齡要求是多少？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "To serve on a jury, you must be aged between 18 and 75 (in England, Wales, and Northern Ireland) and registered to vote.",
+      "zh": "要擔任陪審員，您必須年滿18至75歲（在英格蘭、威爾斯和北愛爾蘭），且已註冊為選民。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "16",
+          "zh": "16歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "18",
+          "zh": "18歲"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "21",
+          "zh": "21歲"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "25",
+          "zh": "25歲"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "How is a jury selected?",
+      "zh": "陪審團是如何選出的？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Jury members are chosen at random from the electoral register.",
+      "zh": "陪審團成員是從選民登記冊中隨機抽取的。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "From the NHS registration system",
+          "zh": "從國民保健署（NHS）註冊系統"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Randomly from the electoral register",
+          "zh": "從選民登記冊中隨機抽取"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Alphabetically from the telephone directory",
+          "zh": "按電話簿字母順序"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "From a postcode selection",
+          "zh": "從郵遞區號選擇"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is a bank holiday?",
+      "zh": "什麼是銀行假期（Bank Holiday）？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Bank holidays are official public holidays in the UK when banks and many other businesses are closed.",
+      "zh": "銀行假期是英國的法定公眾假期，屆時銀行和許多其他商業機構都會休息。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A public holiday when banks are open all day",
+          "zh": "銀行全天營業的公眾假期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A public holiday for people working in banks",
+          "zh": "專門給銀行員工的公眾假期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "An additional day off that every worker in the UK is entitled to",
+          "zh": "每位英國員工都有權享有的額外假期"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A public holiday when banks and many other businesses are closed for the day",
+          "zh": "銀行和許多其他商業機構都關門休息的公眾假期"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What will you be given to vote before a general election takes place?",
+      "zh": "在大選投票前，您會收到什麼？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "Before an election, registered voters are sent a poll card, which tells them where and when to vote.",
+      "zh": "在選舉前，已註冊的選民會收到一張投票卡（Poll card），上面會說明投票的地點和時間。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "A poll tax relief",
+          "zh": "民頭稅減免"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A number to queue at the polling station",
+          "zh": "在投票站排隊的號碼"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A poll card",
+          "zh": "投票卡"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "An specific time for you to vote",
+          "zh": "指定的投票時間"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+      "zh": "法律規定，在選舉前哪兩種媒體必須對所有政黨進行平衡報導，並為競爭對手提供同等時間闡述觀點？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "By law, television and radio coverage must be balanced and impartial, unlike newspapers which can support specific parties.",
+      "zh": "法律規定，電視和廣播的報導必須保持平衡與公正，這與可以支持特定政黨的報紙不同。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Television",
+          "zh": "電視"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Internet",
+          "zh": "網路"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Newspapers",
+          "zh": "報紙"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Radio",
+          "zh": "廣播"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following territories is a Crown dependency but is NOT part of the UK?",
+      "zh": "以下哪個地區是皇家屬地，但不屬於英國的一部分？"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "The Channel Islands and the Isle of Man are Crown dependencies, which are self-governing and not part of the United Kingdom.",
+      "zh": "海峽群島（Channel Islands）和曼島是皇家屬地，實行自治，不屬於聯合王國的一部分。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Northern Ireland",
+          "zh": "北愛爾蘭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Wales",
+          "zh": "威爾斯"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Channel Islands",
+          "zh": "海峽群島"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Scotland",
+          "zh": "蘇格蘭"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What did Sir Frank Whittle invent in the 1930s?",
+      "zh": "法蘭克·惠特爾爵士在1930年代發明了什麼？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Sir Frank Whittle, a British Royal Air Force officer, invented the jet engine in the 1930s.",
+      "zh": "英國皇家空軍軍官法蘭克·惠特爾爵士（Sir Frank Whittle）在1930年代發明了噴射引擎。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Radar",
+          "zh": "雷達"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Hovercraft",
+          "zh": "氣墊船"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Jet engine",
+          "zh": "噴射引擎"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Ballpoint pen",
+          "zh": "原子筆"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who wrote \"The Daffodils\"",
+      "zh": "《水仙花》（The Daffodils）是誰寫的？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "The famous poem 'The Daffodils' (often known as 'I Wandered Lonely as a Cloud') was written by the Romantic poet William Wordsworth.",
+      "zh": "著名詩作《水仙花》（通常被稱為《我孤獨地漫遊，像一朵雲》）是由浪漫主義詩人威廉·華茲華斯（William Wordsworth）所寫。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "William Blake",
+          "zh": "威廉·布萊克"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Robert Browning",
+          "zh": "羅伯特·白朗寧"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Lord Byron",
+          "zh": "拜倫勳爵"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "William Wordsworth",
+          "zh": "威廉·華茲華斯"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who was given the title of Lord Protector?",
+      "zh": "誰被授予護國公（Lord Protector）的稱號？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Oliver Cromwell was given the title of Lord Protector following the execution of King Charles I and the establishment of the republic.",
+      "zh": "在國王查理一世被處決及共和國建立後，奧利弗·克倫威爾（Oliver Cromwell）被授予護國公的稱號。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Charles I",
+          "zh": "查理一世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Charles II",
+          "zh": "查理二世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Winston Churchill",
+          "zh": "溫斯頓·邱吉爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Oliver Cromwell",
+          "zh": "奧利弗·克倫威爾"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What are the 40 days before Easter called?",
+      "zh": "復活節前的40天稱作什麼？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "Lent represents the 40 days of fasting and prayer before Easter in the Christian calendar.",
+      "zh": "在大齋期（Lent，或稱預備期、四旬期）代表基督教曆法中復活節前40天的禁食與祈禱。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Diwali",
+          "zh": "排燈節"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Lent",
+          "zh": "大齋期"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Hannukah",
+          "zh": "光明節"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Vaisakhi",
+          "zh": "豐收節"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the Home Secretary responsible for?",
+      "zh": "內政大臣（Home Secretary）負責什麼？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "The Home Secretary is a senior Cabinet minister responsible for internal affairs, including policing, national security, and immigration.",
+      "zh": "內政大臣是高級閣員，負責國內事務，包括警政、國家安全和移民事務。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Health",
+          "zh": "醫療衛生"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Defence",
+          "zh": "國防"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Education",
+          "zh": "教育"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Policing",
+          "zh": "警政"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "St Helena is a British overseas territory and it is part of the United Kingdom.",
+      "zh": "聖赫勒拿（St Helena）是英國海外領土，屬於聯合王國的一部分。"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "This statement is false. St Helena is a British overseas territory, but it is not constitutionally part of the United Kingdom.",
+      "zh": "此陳述是錯誤的。聖赫勒拿是英國海外領土，但在憲法上不屬於聯合王國的一部分。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Several Church of England bishops sit in the House of Lords.",
+      "zh": "幾位英國國教會的主教在下議院/上議院中擁有席位。"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "This statement is true. The Archbishops of Canterbury and York, the Bishops of London, Durham, and Winchester, and 21 other senior diocesan bishops sit in the House of Lords as 'Lords Spiritual'.",
+      "zh": "此陳述是正確的。坎特伯里和大主教、約克大主教、倫敦、達勒姆和溫切斯特主教，以及其他21位資深教區主教，作為「神職議員」（Lords Spiritual）在上議院中擁有席位。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When walking your dog in a public place, you must ensure:",
+      "zh": "在公共場所遛狗時，您必須確保："
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "By law, dogs in public places must wear a collar showing the name and address of the owner.",
+      "zh": "法律規定，在公共場所的狗必須佩戴項圈，上面標明主人的姓名和地址。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "That your dog does not play with other dogs",
+          "zh": "您的狗不與其他狗玩耍"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "That your dog wears a collar showing the name and address of the owner",
+          "zh": "您的狗佩戴標有主人姓名和地址的項圈"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "That your dog wears a high visibility jacket",
+          "zh": "您的狗穿著高能見度外套"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "That your dog does not bark",
+          "zh": "您的狗不吠叫"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Women over the age of 30 were given the right to vote as a result of their contribution towards the war effort. Which war was that?",
+      "zh": "由於對戰爭做出的貢獻，30歲以上的女性被賦予了投票權。那是哪場戰爭？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The contribution of women to the war effort in the First World War led to the Representation of the People Act 1918, which gave the vote to women over 30 who met certain property qualifications.",
+      "zh": "女性在第一次世界大戰中對戰爭做出的貢獻，促成了1918年《人民代表法》的通過，該法案賦予符合特定財產條件的30歲以上女性投票權。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "The Second World War",
+          "zh": "第二次世界大戰"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The Crimean War",
+          "zh": "克里米亞戰爭"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "The First World War",
+          "zh": "第一次世界大戰"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "The Civil War",
+          "zh": "內戰"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When did Ireland become a republic?",
+      "zh": "愛爾蘭何時成為共和國？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Republic of Ireland Act 1948 came into force on Easter Monday, 18 April 1949, officially declaring Ireland a republic.",
+      "zh": "《1948年愛爾蘭共和國法案》於1949年4月18日（復活節星期一）生效，正式宣布愛爾蘭為共和國。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1925",
+          "zh": "1925年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1939",
+          "zh": "1939年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1949",
+          "zh": "1949年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1927",
+          "zh": "1927年"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Where did the first farmers come from?",
+      "zh": "第一批農民來自哪裡？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The first farmers arrived in Britain about 6,000 years ago from south-east Europe, bringing agriculture to the island.",
+      "zh": "大約6,000年前，第一批農民從歐洲東南部來到不列顛，將農業帶到了這個島嶼。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "South-west Europe",
+          "zh": "歐洲西南部"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "South-east Europe",
+          "zh": "歐洲東南部"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "North-east America",
+          "zh": "北美東北部"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "North-west Asia",
+          "zh": "亞洲西北部"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "The National Anthem \"God save the queen\" can only be played in the presence of the Queen.",
+      "zh": "國歌《天佑女王》只能在女王在場時演奏。"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "This statement is false. The National Anthem is played on many public and official occasions, such as sports events, and does not require the presence of the Monarch.",
+      "zh": "此陳述是錯誤的。國歌會在許多公眾和官方場合演奏（例如體育賽事），並不需要君主在場。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Who became Prime Minister and was an inspirational leader to the British people during WWII?",
+      "zh": "在第二次世界大戰期間，誰成為首相並成為英國人民的鼓舞人心的領袖？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "Winston Churchill became Prime Minister in 1940 and led Britain through the Second World War with his inspiring speeches and leadership.",
+      "zh": "溫斯頓·邱吉爾（Winston Churchill）於1940年成為首相，並以其鼓舞人心的演講和領導力帶領英國度過第二次世界大戰。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Winston Churchill",
+          "zh": "溫斯頓·邱吉爾"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Clement Attlee",
+          "zh": "克萊門特·艾德禮"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Margaret Thatcher",
+          "zh": "瑪格麗特·柴契爾"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Sir Robert Walpole",
+          "zh": "羅伯特·沃波爾爵士"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "What is the title of the Queen's eldest son, Prince Charles?",
+      "zh": "女王長子查爾斯王子的頭銜是什麼？"
+    },
+    "chapter": "The UK government, the law and your role",
+    "explanation": {
+      "en": "As the eldest son of Queen Elizabeth II and heir apparent, Prince Charles was given the traditional title of the Prince of Wales.",
+      "zh": "作為伊麗莎白二世女王的長子和法定繼承人，查爾斯王子被授予傳統的威爾斯親王（Prince of Wales）頭銜。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Prince of Kent",
+          "zh": "肯特親王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Prince of Wales",
+          "zh": "威爾斯親王"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Prince of Hanover",
+          "zh": "漢諾威親王"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Prince of Brunswick",
+          "zh": "不倫瑞克親王"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Under which king did the Anglo-Saxon kingdoms in England unite to defeat the Vikings?",
+      "zh": "在位哪位國王統治下，英格蘭的撒克遜王國聯合起來擊敗了維京人？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "King Alfred the Great defeated the Vikings and united the Anglo-Saxon kingdoms in England under his leadership.",
+      "zh": "阿佛烈大帝（King Alfred the Great）擊敗了維京人，並在其領導下統一了英格蘭的盎格魯-撒克遜王國。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "William of Orange",
+          "zh": "奧蘭治的威廉"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "King Alfred the Great",
+          "zh": "阿佛烈大帝"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Henry VIII",
+          "zh": "亨利八世"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Robert the Bruce",
+          "zh": "羅伯特·布魯斯"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "When was the Carta Magna created?",
+      "zh": "大憲章（Magna Carta）是在何時創建的？"
+    },
+    "chapter": "A long and illustrious history",
+    "explanation": {
+      "en": "The Magna Carta (Great Charter) was created in 1215 when King John was forced by his barons to sign it, establishing that the king was subject to the law.",
+      "zh": "大憲章（Magna Carta）建於1215年，當時約翰國王被迫與貴族簽署，確立了法律高於王權的原則。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "1514",
+          "zh": "1514年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1215",
+          "zh": "1215年"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "1415",
+          "zh": "1415年"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "1314",
+          "zh": "1314年"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Northern Ireland has its own banknotes, which are valid everywhere in the UK.",
+      "zh": "北愛爾蘭擁有自己的紙幣，這些紙幣在英國各地均有效。"
+    },
+    "chapter": "What is the UK?",
+    "explanation": {
+      "en": "While Northern Irish and Scottish bank notes are valid throughout the UK, some shops and businesses may choose not to accept them.",
+      "zh": "雖然北愛爾蘭和蘇格蘭的紙幣在整個英國都是有效的，但某些商店和商家可能會選擇不接受它們。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "True",
+          "zh": "正確"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "False",
+          "zh": "錯誤"
+        },
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": {
+      "en": "Which of the following plays was written by William Shakespeare?",
+      "zh": "以下哪部劇作是由威廉·莎士比亞撰寫的？"
+    },
+    "chapter": "A modern, thriving society",
+    "explanation": {
+      "en": "William Shakespeare wrote 'A Midsummer Night's Dream'. The other options ('Pride and Prejudice' and 'Sense and Sensibility' were written by Jane Austen; 'Great Expectations' was written by Charles Dickens).",
+      "zh": "威廉·莎士比亞撰寫了《仲夏夜之夢》。其他選項中，《傲慢與偏見》和《理性與感性》是由珍·奧斯汀撰寫；《遠大前程》是由查爾斯·狄更斯撰寫。"
+    },
+    "options": [
+      {
+        "text": {
+          "en": "Pride and Prejudice",
+          "zh": "傲慢與偏見"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "A Midsummer Night's dream",
+          "zh": "仲夏夜之夢"
+        },
+        "isCorrect": true
+      },
+      {
+        "text": {
+          "en": "Sense and Sensibility",
+          "zh": "理性與感性"
+        },
+        "isCorrect": false
+      },
+      {
+        "text": {
+          "en": "Great Expectations",
+          "zh": "遠大前程"
+        },
+        "isCorrect": false
+      }
+    ]
+  }
+]

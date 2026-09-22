@@ -1,0 +1,891 @@
+[
+  {
+    "question": "Who is the head of the Church of England?",
+    "options": [
+      {
+        "text": "The Prime Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "The Archbishop of Canterbury",
+        "isCorrect": false
+      },
+      {
+        "text": "The Pope",
+        "isCorrect": false
+      },
+      {
+        "text": "The monarch",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What sort of event is the Grand National?",
+    "options": [
+      {
+        "text": "Rugby",
+        "isCorrect": false
+      },
+      {
+        "text": "Golf",
+        "isCorrect": false
+      },
+      {
+        "text": "Horse Racing",
+        "isCorrect": true
+      },
+      {
+        "text": "Tennis",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What type of literature are the Canterbury Tales?",
+    "options": [
+      {
+        "text": "Poems",
+        "isCorrect": true
+      },
+      {
+        "text": "Novels",
+        "isCorrect": false
+      },
+      {
+        "text": "Jokes",
+        "isCorrect": false
+      },
+      {
+        "text": "Fables",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When is Christmas Day?",
+    "options": [
+      {
+        "text": "24th of December",
+        "isCorrect": false
+      },
+      {
+        "text": "25th of December",
+        "isCorrect": true
+      },
+      {
+        "text": "26th of December",
+        "isCorrect": false
+      },
+      {
+        "text": "27th of December",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who supported King Charles I during the Civil War?",
+    "options": [
+      {
+        "text": "Roundheads",
+        "isCorrect": false
+      },
+      {
+        "text": "Suffragettes",
+        "isCorrect": false
+      },
+      {
+        "text": "Quakers",
+        "isCorrect": false
+      },
+      {
+        "text": "Cavaliers",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What battle is commemorated in the Bayeux Tapestry?",
+    "options": [
+      {
+        "text": "The Battle of Waterloo",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Trafalgar",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Hastings",
+        "isCorrect": true
+      },
+      {
+        "text": "The Battle of Britain",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where was Anne Boleyn, the wife of Henry VIII, executed?",
+    "options": [
+      {
+        "text": "Houses of the Parliament",
+        "isCorrect": false
+      },
+      {
+        "text": "Stonehenge",
+        "isCorrect": false
+      },
+      {
+        "text": "Tower of London",
+        "isCorrect": true
+      },
+      {
+        "text": "Whitehall",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Racial crime and smoking in public places are examples of:",
+    "options": [
+      {
+        "text": "Civil offences",
+        "isCorrect": false
+      },
+      {
+        "text": "Criminal offences",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What type of character was played by Charlie Chaplin?",
+    "options": [
+      {
+        "text": "A superhero",
+        "isCorrect": false
+      },
+      {
+        "text": "A tramp",
+        "isCorrect": true
+      },
+      {
+        "text": "A scientific genius",
+        "isCorrect": false
+      },
+      {
+        "text": "A bandit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "You have to be at least 21 years old to stand as MP.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who developed the radar?",
+    "options": [
+      {
+        "text": "John Logie Baird",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Frank Whittle",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Christopher Cockrell",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Robert Watson-Watt",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Where is the official home of the Prime Minister?",
+    "options": [
+      {
+        "text": "18 Oxford Street",
+        "isCorrect": false
+      },
+      {
+        "text": "Buckingham Palace",
+        "isCorrect": false
+      },
+      {
+        "text": "Windsor Castle",
+        "isCorrect": false
+      },
+      {
+        "text": "10 Downing Street",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When does Easter take place?",
+    "options": [
+      {
+        "text": "November or December",
+        "isCorrect": false
+      },
+      {
+        "text": "January or February",
+        "isCorrect": false
+      },
+      {
+        "text": "March or April",
+        "isCorrect": true
+      },
+      {
+        "text": "May or June",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is not a valid UK coin?",
+    "options": [
+      {
+        "text": "1p",
+        "isCorrect": false
+      },
+      {
+        "text": "5p",
+        "isCorrect": false
+      },
+      {
+        "text": "25p",
+        "isCorrect": true
+      },
+      {
+        "text": "£1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where is the Eden Project located?",
+    "options": [
+      {
+        "text": "Dorset",
+        "isCorrect": false
+      },
+      {
+        "text": "Cornwall",
+        "isCorrect": true
+      },
+      {
+        "text": "Devon",
+        "isCorrect": false
+      },
+      {
+        "text": "Somerset",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "St Helena and the Falkland Islands are part of Great Britain.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following are fundamental principles of British life?",
+    "options": [
+      {
+        "text": "Monarchy",
+        "isCorrect": false
+      },
+      {
+        "text": "The rule of law",
+        "isCorrect": true
+      },
+      {
+        "text": "Democracy",
+        "isCorrect": true
+      },
+      {
+        "text": "Join a political party",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where should you register if you want to become part of a jury?",
+    "options": [
+      {
+        "text": "The electoral register",
+        "isCorrect": true
+      },
+      {
+        "text": "Your local church",
+        "isCorrect": false
+      },
+      {
+        "text": "The NHS",
+        "isCorrect": false
+      },
+      {
+        "text": "The British Embassy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What sort of church is the Church of Scotland?",
+    "options": [
+      {
+        "text": "Catholic",
+        "isCorrect": false
+      },
+      {
+        "text": "Baptist",
+        "isCorrect": false
+      },
+      {
+        "text": "Presbyterian",
+        "isCorrect": true
+      },
+      {
+        "text": "Methodist",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where does golf come from?",
+    "options": [
+      {
+        "text": "Wales",
+        "isCorrect": false
+      },
+      {
+        "text": "Australia",
+        "isCorrect": false
+      },
+      {
+        "text": "Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When do the television and newspapers have stories that are jokes until midday?",
+    "options": [
+      {
+        "text": "Valentine's Day",
+        "isCorrect": false
+      },
+      {
+        "text": "Boxing Day",
+        "isCorrect": false
+      },
+      {
+        "text": "Halloween",
+        "isCorrect": false
+      },
+      {
+        "text": "April Fool's Day",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What king was defeated by Oliver Cromwell during the Civil War and hid in an oak tree before escaping to Europe?",
+    "options": [
+      {
+        "text": "Richard III",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles II",
+        "isCorrect": true
+      },
+      {
+        "text": "James I",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry IV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the father of Queen Elizabeth I?",
+    "options": [
+      {
+        "text": "Edward I",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry V",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry VII",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry VIII",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Complaints against the police can only be made by writing to the Police Complaints Commissioner.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who is the patron Saint of Northern Ireland?",
+    "options": [
+      {
+        "text": "St George",
+        "isCorrect": false
+      },
+      {
+        "text": "St Patrick",
+        "isCorrect": true
+      },
+      {
+        "text": "St Andrew",
+        "isCorrect": false
+      },
+      {
+        "text": "St David",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the period when new ideas about politics, philosophy and science were developed?",
+    "options": [
+      {
+        "text": "The Enlightenment",
+        "isCorrect": true
+      },
+      {
+        "text": "The Glorious Revolution",
+        "isCorrect": false
+      },
+      {
+        "text": "The Swinging Sixties",
+        "isCorrect": false
+      },
+      {
+        "text": "The Reformation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is TRUE:",
+    "options": [
+      {
+        "text": "Mary Stuart ('Mary, Queen of Scots') was a Protestant",
+        "isCorrect": false
+      },
+      {
+        "text": "Mary Stuart ('Mary, Queen of Scots') was a Catholic",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of civil law?",
+    "options": [
+      {
+        "text": "To sell tobacco products to anyone under the age of 18",
+        "isCorrect": false
+      },
+      {
+        "text": "To buy alcohol for people who are under the age of 18",
+        "isCorrect": false
+      },
+      {
+        "text": "Discrimination in the workplace",
+        "isCorrect": true
+      },
+      {
+        "text": "To carry a weapon of any kind, even if it is for self-defence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In which battle did Admiral Nelson die?",
+    "options": [
+      {
+        "text": "The Battle of Hastings",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Waterloo",
+        "isCorrect": false
+      },
+      {
+        "text": "The Battle of Trafalgar",
+        "isCorrect": true
+      },
+      {
+        "text": "The Battle of Bannockburn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "William of Orange was asked by Protestants to invade England and proclaim himself king. But, when William reached England, there was no resistance and he took over the throne. This event was later Known as:",
+    "options": [
+      {
+        "text": "The 'Glorious Revolution'",
+        "isCorrect": true
+      },
+      {
+        "text": "The Restoration",
+        "isCorrect": false
+      },
+      {
+        "text": "The 'Great Depression'",
+        "isCorrect": false
+      },
+      {
+        "text": "The 'Blitz'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What sort of charity is 'Friends of the Earth'?",
+    "options": [
+      {
+        "text": "An environmental charity",
+        "isCorrect": true
+      },
+      {
+        "text": "A medical research charity",
+        "isCorrect": false
+      },
+      {
+        "text": "A charity working with pets",
+        "isCorrect": false
+      },
+      {
+        "text": "A charity working with older people",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "If a husband forces his wife to have sex he can be charged with rape.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In which country of the British Empire did the Boer War (1899-1902) take place?",
+    "options": [
+      {
+        "text": "Netherlands",
+        "isCorrect": false
+      },
+      {
+        "text": "Falkland Islands",
+        "isCorrect": false
+      },
+      {
+        "text": "Gibraltar",
+        "isCorrect": false
+      },
+      {
+        "text": "South Africa",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following actions is known as 'canvassing'?",
+    "options": [
+      {
+        "text": "Donating blood to help people",
+        "isCorrect": false
+      },
+      {
+        "text": "Volunteering for an environmental charity",
+        "isCorrect": false
+      },
+      {
+        "text": "Caring for animals at a local rescue shelter",
+        "isCorrect": false
+      },
+      {
+        "text": "Persuading people to vote for a political party",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which novel written by JRR Tolkien was voted the country's best-loved novel in 2003?",
+    "options": [
+      {
+        "text": "Oliver Twist",
+        "isCorrect": false
+      },
+      {
+        "text": "James Bond",
+        "isCorrect": false
+      },
+      {
+        "text": "Pride and Prejudice",
+        "isCorrect": false
+      },
+      {
+        "text": "The Lord of the Rings",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who made the first coins to be minted in Britain?",
+    "options": [
+      {
+        "text": "The people of the Stone Age",
+        "isCorrect": false
+      },
+      {
+        "text": "The Anglo-saxons",
+        "isCorrect": false
+      },
+      {
+        "text": "The people of the Iron Age",
+        "isCorrect": true
+      },
+      {
+        "text": "The Romans",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who built the Tower of London?",
+    "options": [
+      {
+        "text": "William the Conqueror",
+        "isCorrect": true
+      },
+      {
+        "text": "Queen Victoria",
+        "isCorrect": false
+      },
+      {
+        "text": "Queen Elizabeth I",
+        "isCorrect": false
+      },
+      {
+        "text": "Oliver Cromwell",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "There are 15 national parks in England, Wales and Scotland. What are national parks?",
+    "options": [
+      {
+        "text": "Giant greenhouses",
+        "isCorrect": false
+      },
+      {
+        "text": "Land formations of columns made from volcanic lava",
+        "isCorrect": false
+      },
+      {
+        "text": "Areas of protected countryside",
+        "isCorrect": true
+      },
+      {
+        "text": "Medieval buildings",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Northern Ireland has its own established church.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which three territories form Great Britain?",
+    "options": [
+      {
+        "text": "Wales",
+        "isCorrect": true
+      },
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "England",
+        "isCorrect": true
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "How often are 'Prime Minister's Questions' held in the parliament?",
+    "options": [
+      {
+        "text": "Every day",
+        "isCorrect": false
+      },
+      {
+        "text": "Every week",
+        "isCorrect": true
+      },
+      {
+        "text": "Every two weeks",
+        "isCorrect": false
+      },
+      {
+        "text": "Once a month",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which king was executed in 1649?",
+    "options": [
+      {
+        "text": "James I",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles II",
+        "isCorrect": false
+      },
+      {
+        "text": "James VII",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles I",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Where was William Shakespeare born?",
+    "options": [
+      {
+        "text": "Manchester",
+        "isCorrect": false
+      },
+      {
+        "text": "Oldham",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratford-upon-Avon",
+        "isCorrect": true
+      },
+      {
+        "text": "Lincolnshire",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which two of the following are famous British Paralympians?",
+    "options": [
+      {
+        "text": "Dame Kelly Holmes",
+        "isCorrect": false
+      },
+      {
+        "text": "Baroness Tanni Grey-Thompson",
+        "isCorrect": true
+      },
+      {
+        "text": "Jayne Torvill",
+        "isCorrect": false
+      },
+      {
+        "text": "Ellie Simmonds",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who was reigning in England when English settlers first began to colonise the eastern coast of America?",
+    "options": [
+      {
+        "text": "Queen Victoria",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry VIII",
+        "isCorrect": false
+      },
+      {
+        "text": "Elizabeth I",
+        "isCorrect": true
+      },
+      {
+        "text": "Charles II",
+        "isCorrect": false
+      }
+    ]
+  }
+]

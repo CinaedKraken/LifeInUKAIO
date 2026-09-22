@@ -1,0 +1,891 @@
+[
+  {
+    "question": "What do you accept and agree to when you become a permanent resident of the UK?",
+    "options": [
+      {
+        "text": "Traditions of the UK",
+        "isCorrect": true
+      },
+      {
+        "text": "Protestant beliefs and values",
+        "isCorrect": false
+      },
+      {
+        "text": "The right to be tried for crimes in your country of origin",
+        "isCorrect": false
+      },
+      {
+        "text": "Catholic beliefs and values",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which Catherine was executed after being accused of taking lovers by Henry VIII?",
+    "options": [
+      {
+        "text": "Howard",
+        "isCorrect": true
+      },
+      {
+        "text": "Boleyn",
+        "isCorrect": false
+      },
+      {
+        "text": "Parr",
+        "isCorrect": false
+      },
+      {
+        "text": "Of Aragon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? Discrimination in the workplace is an example of criminal law.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these is not a Christmas tradition in the UK?",
+    "options": [
+      {
+        "text": "Decorating Houses and Trees",
+        "isCorrect": false
+      },
+      {
+        "text": "Giving gifts",
+        "isCorrect": false
+      },
+      {
+        "text": "Sending Cards",
+        "isCorrect": false
+      },
+      {
+        "text": "Having a Barbeque",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a Crown Court, who decides what the penalty will be, in the case of a guilty verdict?",
+    "options": [
+      {
+        "text": "A solicitor",
+        "isCorrect": false
+      },
+      {
+        "text": "The jury",
+        "isCorrect": true
+      },
+      {
+        "text": "The judge",
+        "isCorrect": false
+      },
+      {
+        "text": "A police officer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When were the first professional football clubs formed?",
+    "options": [
+      {
+        "text": "17th Century",
+        "isCorrect": false
+      },
+      {
+        "text": "20th Century",
+        "isCorrect": false
+      },
+      {
+        "text": "18th Century",
+        "isCorrect": false
+      },
+      {
+        "text": "19th Century",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "An attempt by which group to put James II's son on the throne instead of George I was quickly defeated?",
+    "options": [
+      {
+        "text": "French Huguenots",
+        "isCorrect": false
+      },
+      {
+        "text": "English Puritans",
+        "isCorrect": false
+      },
+      {
+        "text": "Irish Catholics",
+        "isCorrect": false
+      },
+      {
+        "text": "Scottish Jacobites",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In which city is the Scottish Parliament based?",
+    "options": [
+      {
+        "text": "Cardiff",
+        "isCorrect": false
+      },
+      {
+        "text": "Sheffield",
+        "isCorrect": false
+      },
+      {
+        "text": "Edinburgh",
+        "isCorrect": true
+      },
+      {
+        "text": "Glasgow",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What are two responsibilities that you will have as a British citizen or permanent resident of the UK?",
+    "options": [
+      {
+        "text": "To look after the area in which you live and the environment",
+        "isCorrect": true
+      },
+      {
+        "text": "To look after yourself and your family",
+        "isCorrect": true
+      },
+      {
+        "text": "To stay in the UK forever",
+        "isCorrect": false
+      },
+      {
+        "text": "To promote work in your local community",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where is the Big Ben located?",
+    "options": [
+      {
+        "text": "Buckingham Palace",
+        "isCorrect": false
+      },
+      {
+        "text": "The Tower of London",
+        "isCorrect": false
+      },
+      {
+        "text": "Trafalgar Square",
+        "isCorrect": false
+      },
+      {
+        "text": "The Houses of the Parliament",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When were men and women given the right to vote at the age of 21?",
+    "options": [
+      {
+        "text": "1918",
+        "isCorrect": false
+      },
+      {
+        "text": "1903",
+        "isCorrect": false
+      },
+      {
+        "text": "1928",
+        "isCorrect": true
+      },
+      {
+        "text": "1923",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where is the UK geographically located?",
+    "options": [
+      {
+        "text": "South west of Europe",
+        "isCorrect": false
+      },
+      {
+        "text": "North east of Europe",
+        "isCorrect": false
+      },
+      {
+        "text": "North west of Europe",
+        "isCorrect": true
+      },
+      {
+        "text": "South east of Europe",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who is the patron Saint of Scotland?",
+    "options": [
+      {
+        "text": "St David",
+        "isCorrect": false
+      },
+      {
+        "text": "St Patrick",
+        "isCorrect": false
+      },
+      {
+        "text": "St George",
+        "isCorrect": false
+      },
+      {
+        "text": "St Andrew",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which two houses fought in the War of the Roses?",
+    "options": [
+      {
+        "text": "The House of Chester",
+        "isCorrect": false
+      },
+      {
+        "text": "The House of York",
+        "isCorrect": true
+      },
+      {
+        "text": "The House of Lancaster",
+        "isCorrect": true
+      },
+      {
+        "text": "The House of Newcastle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Bill of Rights of 1689 confirmed the right to vote for all adult men.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is the Cenotaph?",
+    "options": [
+      {
+        "text": "A flower",
+        "isCorrect": false
+      },
+      {
+        "text": "A Christian church",
+        "isCorrect": false
+      },
+      {
+        "text": "A war memorial",
+        "isCorrect": true
+      },
+      {
+        "text": "A theatre",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": [
+      {
+        "text": "Mary Stuart",
+        "isCorrect": false
+      },
+      {
+        "text": "Theresa May",
+        "isCorrect": false
+      },
+      {
+        "text": "Margaret Thatcher",
+        "isCorrect": true
+      },
+      {
+        "text": "Florence Nightingale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who chairs the debates at the House of Commons?",
+    "options": [
+      {
+        "text": "A bishop",
+        "isCorrect": false
+      },
+      {
+        "text": "The Prime Minister",
+        "isCorrect": false
+      },
+      {
+        "text": "The Speaker",
+        "isCorrect": true
+      },
+      {
+        "text": "The archbishop of Canterbury",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who was the captain of the English football team that won the World Cup in 1966?",
+    "options": [
+      {
+        "text": "Sir Roger Bannister",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Jackie Stewart",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Ian Botham",
+        "isCorrect": false
+      },
+      {
+        "text": "Bobby Moore",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When did the English defeat the Spanish Armada?",
+    "options": [
+      {
+        "text": "1466",
+        "isCorrect": false
+      },
+      {
+        "text": "1066",
+        "isCorrect": false
+      },
+      {
+        "text": "1254",
+        "isCorrect": false
+      },
+      {
+        "text": "1588",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Anyone can make a complaint about the police by writing to the Chief Constable of the police force involved.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the minimum age required to serve on a jury?",
+    "options": [
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "text": "21",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How is a jury selected?",
+    "options": [
+      {
+        "text": "From the NHS registration system",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomly from the electoral register",
+        "isCorrect": true
+      },
+      {
+        "text": "Alphabetically from the telephone directory",
+        "isCorrect": false
+      },
+      {
+        "text": "From a postcode selection",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is a bank holiday?",
+    "options": [
+      {
+        "text": "A public holiday when banks are open all day",
+        "isCorrect": false
+      },
+      {
+        "text": "A public holiday for people working in banks",
+        "isCorrect": false
+      },
+      {
+        "text": "An additional day off that every worker in the UK is entitled to",
+        "isCorrect": false
+      },
+      {
+        "text": "A public holiday when banks and many other businesses are closed for the day",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What will you be given to vote before a general election takes place?",
+    "options": [
+      {
+        "text": "A poll tax relief",
+        "isCorrect": false
+      },
+      {
+        "text": "A number to queue at the polling station",
+        "isCorrect": false
+      },
+      {
+        "text": "A poll card",
+        "isCorrect": true
+      },
+      {
+        "text": "An specific time for you to vote",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+    "options": [
+      {
+        "text": "Television",
+        "isCorrect": true
+      },
+      {
+        "text": "Internet",
+        "isCorrect": false
+      },
+      {
+        "text": "Newspapers",
+        "isCorrect": false
+      },
+      {
+        "text": "Radio",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following territories is a Crown dependency but is NOT part of the UK?",
+    "options": [
+      {
+        "text": "Northern Ireland",
+        "isCorrect": false
+      },
+      {
+        "text": "Wales",
+        "isCorrect": false
+      },
+      {
+        "text": "The Channel Islands",
+        "isCorrect": true
+      },
+      {
+        "text": "Scotland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What did Sir Frank Whittle invent in the 1930s?",
+    "options": [
+      {
+        "text": "Radar",
+        "isCorrect": false
+      },
+      {
+        "text": "Hovercraft",
+        "isCorrect": false
+      },
+      {
+        "text": "Jet engine",
+        "isCorrect": true
+      },
+      {
+        "text": "Ballpoint pen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote \"The Daffodils\"",
+    "options": [
+      {
+        "text": "William Blake",
+        "isCorrect": false
+      },
+      {
+        "text": "Robert Browning",
+        "isCorrect": false
+      },
+      {
+        "text": "Lord Byron",
+        "isCorrect": false
+      },
+      {
+        "text": "William Wordsworth",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who was given the title of Lord Protector?",
+    "options": [
+      {
+        "text": "Charles I",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles II",
+        "isCorrect": false
+      },
+      {
+        "text": "Winston Churchill",
+        "isCorrect": false
+      },
+      {
+        "text": "Oliver Cromwell",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What are the 40 days before Easter called?",
+    "options": [
+      {
+        "text": "Diwali",
+        "isCorrect": false
+      },
+      {
+        "text": "Lent",
+        "isCorrect": true
+      },
+      {
+        "text": "Hannukah",
+        "isCorrect": false
+      },
+      {
+        "text": "Vaisakhi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the Home Secretary responsible for?",
+    "options": [
+      {
+        "text": "Health",
+        "isCorrect": false
+      },
+      {
+        "text": "Defence",
+        "isCorrect": false
+      },
+      {
+        "text": "Education",
+        "isCorrect": false
+      },
+      {
+        "text": "Policing",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "St Helena is a British overseas territory and it is part of the United Kingdom.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Several Church of England bishops sit in the House of Lords.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When walking your dog in a public place, you must ensure:",
+    "options": [
+      {
+        "text": "That your dog does not play with other dogs",
+        "isCorrect": false
+      },
+      {
+        "text": "That your dog wears a collar showing the name and address of the owner",
+        "isCorrect": true
+      },
+      {
+        "text": "That your dog wears a high visibility jacket",
+        "isCorrect": false
+      },
+      {
+        "text": "That your dog does not bark",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Women over the age of 30 were given the right to vote as a result of their contribution towards the war effort. Which war was that?",
+    "options": [
+      {
+        "text": "The Second World War",
+        "isCorrect": false
+      },
+      {
+        "text": "The Crimean War",
+        "isCorrect": false
+      },
+      {
+        "text": "The First World War",
+        "isCorrect": true
+      },
+      {
+        "text": "The Civil War",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When did Ireland become a republic?",
+    "options": [
+      {
+        "text": "1925",
+        "isCorrect": false
+      },
+      {
+        "text": "1939",
+        "isCorrect": false
+      },
+      {
+        "text": "1949",
+        "isCorrect": true
+      },
+      {
+        "text": "1927",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Where did the first farmers come from?",
+    "options": [
+      {
+        "text": "South-west Europe",
+        "isCorrect": false
+      },
+      {
+        "text": "South-east Europe",
+        "isCorrect": true
+      },
+      {
+        "text": "North-east America",
+        "isCorrect": false
+      },
+      {
+        "text": "North-west Asia",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The National Anthem \"God save the queen\" can only be played in the presence of the Queen.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Who became Prime Minister and was an inspirational leader to the British people during WWII?",
+    "options": [
+      {
+        "text": "Winston Churchill",
+        "isCorrect": true
+      },
+      {
+        "text": "Clement Attlee",
+        "isCorrect": false
+      },
+      {
+        "text": "Margaret Thatcher",
+        "isCorrect": false
+      },
+      {
+        "text": "Sir Robert Walpole",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the title of the Queen's eldest son, Prince Charles?",
+    "options": [
+      {
+        "text": "Prince of Kent",
+        "isCorrect": false
+      },
+      {
+        "text": "Prince of Wales",
+        "isCorrect": true
+      },
+      {
+        "text": "Prince of Hanover",
+        "isCorrect": false
+      },
+      {
+        "text": "Prince of Brunswick",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Under which king did the Anglo-Saxon kingdoms in England unite to defeat the Vikings?",
+    "options": [
+      {
+        "text": "William of Orange",
+        "isCorrect": false
+      },
+      {
+        "text": "King Alfred the Great",
+        "isCorrect": true
+      },
+      {
+        "text": "Henry VIII",
+        "isCorrect": false
+      },
+      {
+        "text": "Robert the Bruce",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When was the Carta Magna created?",
+    "options": [
+      {
+        "text": "1514",
+        "isCorrect": false
+      },
+      {
+        "text": "1215",
+        "isCorrect": true
+      },
+      {
+        "text": "1415",
+        "isCorrect": false
+      },
+      {
+        "text": "1314",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Northern Ireland has its own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following plays was written by William Shakespeare?",
+    "options": [
+      {
+        "text": "Pride and Prejudice",
+        "isCorrect": false
+      },
+      {
+        "text": "A Midsummer Night's dream",
+        "isCorrect": true
+      },
+      {
+        "text": "Sense and Sensibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Great Expectations",
+        "isCorrect": false
+      }
+    ]
+  }
+]
