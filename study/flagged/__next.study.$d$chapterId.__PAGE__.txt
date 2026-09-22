@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63762,["/LifeInUKAIO/_next/static/chunks/2n6eah28il8u-.js","/LifeInUKAIO/_next/static/chunks/14mrh2-p_w84d.js","/LifeInUKAIO/_next/static/chunks/2dpulxzxyja1b.js","/LifeInUKAIO/_next/static/chunks/3z-nbozq_z-_f.js"],"default"]
+3:I[97367,["/LifeInUKAIO/_next/static/chunks/2n6eah28il8u-.js","/LifeInUKAIO/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"chapterId":"flagged","chapter":{"chapterId":"flagged","title":{"en":"Flagged Difficult Points","zh":"★ flagged • 專屬難題庫"},"points":[]}}],[["$","script","script-0",{"src":"/LifeInUKAIO/_next/static/chunks/3z-nbozq_z-_f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oH0R_z40cCVPjrnRzWicJ"}
+5:null
