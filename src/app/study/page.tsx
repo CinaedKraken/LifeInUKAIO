@@ -7,7 +7,7 @@ import { useStudyContext } from "@/context/StudyContext";
 import BilingualText from "@/components/BilingualText";
 
 export default function StudyIndexPage() {
-  const { progress, isEnglish, getAllFlaggedCount } = useStudyContext();
+  const { progress, isEnglish, getAllFlaggedCount, getFlaggedCountByChapter } = useStudyContext();
 
   const flaggedCount = getAllFlaggedCount();
   const flaggedReviewed = Math.min(progress["flagged"] || 0, flaggedCount);
