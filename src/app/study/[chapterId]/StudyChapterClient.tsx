@@ -6,8 +6,15 @@ import Link from "next/link";
 import { useStudyContext } from "@/context/StudyContext";
 import StudyCard from "@/components/FocusedStudy/StudyCard";
 import StudyControls from "@/components/FocusedStudy/StudyControls";
+import { StudyChapter, StudyPoint, TranslatedText } from "@/types";
 
-export default function StudyChapterClient({ chapterId, chapter }: { chapterId: string; chapter: any }) {
+export default function StudyChapterClient({
+  chapterId,
+  chapter,
+}: {
+  chapterId: string;
+  chapter: StudyChapter | { chapterId: string; title: TranslatedText; points: StudyPoint[] };
+}) {
   const router = useRouter();
   const { progress, updateProgress, isEnglish, getAllFlaggedPoints, clearAllFlagged } = useStudyContext();
   

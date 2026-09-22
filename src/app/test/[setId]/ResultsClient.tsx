@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { MockTestSet } from "@/types";
+import { MockTestSet, Question, Option } from "@/types";
 import BilingualText from "@/components/BilingualText";
 
 interface ResultsClientProps {
@@ -16,13 +16,13 @@ export default function ResultsClient({ mockTest, answers, score }: ResultsClien
   const passed = score >= 18;
   const mistakesCount = mockTest.questions.length - score;
 
-  const isQuestionCorrect = (q: any) => {
+  const isQuestionCorrect = (q: Question) => {
     const chosen = answers[q.id];
-    const correctOpts = q.options.filter((o: any) => o.isCorrect).map((o: any) => o.id);
+    const correctOpts = q.options.filter((o: Option) => o.isCorrect).map((o: Option) => o.id);
     if (correctOpts.length === 1) {
       return chosen === correctOpts[0] || (Array.isArray(chosen) && chosen.length === 1 && chosen[0] === correctOpts[0]);
     } else {
-      return Array.isArray(chosen) && chosen.length === correctOpts.length && correctOpts.every((opt: any) => chosen.includes(opt));
+      return Array.isArray(chosen) && chosen.length === correctOpts.length && correctOpts.every((opt: string) => chosen.includes(opt));
     }
   };
 

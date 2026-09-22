@@ -14,6 +14,7 @@ export interface Question {
   question: TranslatedText;
   options: Option[];
   explanation: TranslatedText;
+  reference?: string;
 }
 
 export interface MockTestSet {
