@@ -31,7 +31,15 @@ jobs:
         run: npm ci
 
       - name: Build static site
-        run: npm run build
+        run: |
+          set -o pipefail
+          npm run build 2>&1 | tee build.log || {
+            echo "## ❌ Build Static Site Failed" >> $GITHUB_STEP_SUMMARY
+            echo '```txt' >> $GITHUB_STEP_SUMMARY
+            cat build.log >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            exit 1
+          }
 
       - name: Ensure GitHub Pages serves Next.js assets
         run: touch out/.nojekyll
