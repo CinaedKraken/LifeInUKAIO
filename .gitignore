@@ -49,4 +49,7 @@ CLAUDE.md
 # icon backups
 public/icons/backup_original/
 
+# helper scripts
+push_to_github.bat
+
 .j_os/project-link.local.md
