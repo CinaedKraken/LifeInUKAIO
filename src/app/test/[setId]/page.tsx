@@ -1,10 +1,19 @@
 import fs from "fs";
 import path from "path";
+import type { Metadata } from "next";
 import { MockTestSet } from "@/types";
 import TestEngineClient from "./TestEngineClient";
 import { notFound } from "next/navigation";
 
 export const dynamicParams = false;
+
+export async function generateMetadata(props: { params: Promise<{ setId: string }> }): Promise<Metadata> {
+  const params = await props.params;
+  return {
+    title: `Mock Exam Set ${params.setId} | Life in UK AIO`,
+    description: `Practice Life in the UK citizenship test with bilingual Mock Exam Set ${params.setId}. 24 questions, 45-minute timer, instant results.`,
+  };
+}
 
 export async function generateStaticParams() {
   try {

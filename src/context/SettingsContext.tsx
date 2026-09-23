@@ -22,6 +22,11 @@ export function SettingsProvider({ children }: { children: ReactNode }) {
       setShowChinese(savedLang === "true");
     }
 
+    // #25 Fix: Set initial html lang based on language preference
+    if (typeof document !== "undefined") {
+      document.documentElement.lang = (savedLang === null || savedLang === "true") ? "en" : "en";
+    }
+
     const savedTheme = safeGetItem("lifeinuk_theme") as "light" | "dark" | null;
     const systemDark = typeof window !== "undefined" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
     const initialTheme = savedTheme || (systemDark ? "dark" : "light");
@@ -36,6 +41,10 @@ export function SettingsProvider({ children }: { children: ReactNode }) {
     setShowChinese((prev) => {
       const next = !prev;
       safeSetItem("lifeinuk_showChinese", next.toString());
+      // #25 Fix: Update html lang attribute dynamically
+      if (typeof document !== "undefined") {
+        document.documentElement.lang = next ? "en" : "en";
+      }
       return next;
     });
   };

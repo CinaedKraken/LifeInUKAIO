@@ -1,5 +1,6 @@
 import { Question } from "@/types";
 import { safeGetItem, safeSetItem } from "./storage";
+import { isAnswerCorrect } from "./answer";
 
 export interface MistakeItem {
   questionId: string;
@@ -33,34 +34,17 @@ export function recordTestResults(
   const currentMistakes = getMistakes();
 
   mockTest.questions.forEach((q) => {
-    const userAnswer = answers[q.id.toString()];
-    const correctOptionIds = q.options.filter((o) => o.isCorrect).map((o) => o.id);
+    const userAnswer = answers[q.id];
 
-    let isCorrect = false;
-    if (userAnswer) {
-      if (Array.isArray(userAnswer)) {
-        if (
-          userAnswer.length === correctOptionIds.length &&
-          userAnswer.every((id) => correctOptionIds.includes(id))
-        ) {
-          isCorrect = true;
-        }
-      } else {
-        if (correctOptionIds.length === 1 && correctOptionIds[0] === userAnswer) {
-          isCorrect = true;
-        }
-      }
-    }
-
-    if (isCorrect) {
+    if (isAnswerCorrect(q, userAnswer)) {
       // If previously failed and now answered correctly, remove from mistakes (mastered!)
-      if (currentMistakes[q.id.toString()]) {
-        delete currentMistakes[q.id.toString()];
+      if (currentMistakes[q.id]) {
+        delete currentMistakes[q.id];
       }
     } else {
       // Add or update failed question
-      currentMistakes[q.id.toString()] = {
-        questionId: q.id.toString(),
+      currentMistakes[q.id] = {
+        questionId: q.id,
         setId: mockTest.setId,
         question: q,
         selectedAnswer: userAnswer || "",

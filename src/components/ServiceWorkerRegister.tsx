@@ -9,7 +9,6 @@ interface BeforeInstallPromptEvent extends Event {
 
 export default function ServiceWorkerRegister() {
   const [isOffline, setIsOffline] = useState(false);
-  const [canInstall, setCanInstall] = useState(false);
 
   useEffect(() => {
     // 1. Service Worker Registration
@@ -46,17 +45,13 @@ export default function ServiceWorkerRegister() {
     const handleBeforeInstallPrompt = (e: Event) => {
       e.preventDefault();
       deferredPrompt = e as BeforeInstallPromptEvent;
-      setCanInstall(true);
       window.dispatchEvent(new CustomEvent("pwa-install-available"));
     };
 
     const handleTriggerInstall = () => {
       if (deferredPrompt) {
         deferredPrompt.prompt();
-        deferredPrompt.userChoice.then((choiceResult) => {
-          if (choiceResult.outcome === "accepted") {
-            setCanInstall(false);
-          }
+        deferredPrompt.userChoice.then(() => {
           deferredPrompt = null;
         });
       }

@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { useStudyContext } from "@/context/StudyContext";
@@ -21,7 +21,9 @@ export default function StudyChapterClient({
   const [currentIndex, setCurrentIndex] = useState<number>(0);
 
   const isFlaggedChapter = chapterId === "flagged";
-  const points = isFlaggedChapter ? getAllFlaggedPoints() : (chapter?.points || []);
+  // #18 Fix: Memoize flagged points to avoid re-computing on every render
+  const flaggedPoints = useMemo(() => isFlaggedChapter ? getAllFlaggedPoints() : [], [isFlaggedChapter, getAllFlaggedPoints]);
+  const points = isFlaggedChapter ? flaggedPoints : (chapter?.points || []);
 
   useEffect(() => {
     const savedIndex = progress[chapterId] || 0;
@@ -102,7 +104,8 @@ export default function StudyChapterClient({
     <div className="max-w-3xl mx-auto px-4 py-6 w-full flex-1 flex flex-col">
       
       {/* Top Bar */}
-      <div className="sticky top-[72px] z-10 bg-[#f9fafb] py-3 -mx-4 px-4 sm:mx-0 sm:px-0 mb-6 border-b border-gray-200 sm:border-0 shadow-xs sm:shadow-none transition-colors">
+      {/* #1 Fix: Use CSS var for dark mode compatibility */}
+      <div className="sticky top-[72px] z-10 py-3 -mx-4 px-4 sm:mx-0 sm:px-0 mb-6 border-b border-gray-200 sm:border-0 shadow-xs sm:shadow-none transition-colors" style={{ backgroundColor: 'var(--background)' }}>
         <div className="flex justify-between items-center mb-3">
           <div>
             <Link href="/study" prefetch={false} className="text-blue-600 hover:text-blue-800 text-sm font-bold flex items-center gap-1 mb-1">

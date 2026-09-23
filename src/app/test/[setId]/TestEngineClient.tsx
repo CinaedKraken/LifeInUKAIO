@@ -1,13 +1,18 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import { MockTestSet, Progress } from "@/types";
+import React, { useState, useEffect, useRef, useCallback } from "react";
+import { MockTestSet } from "@/types";
 import BilingualText from "@/components/BilingualText";
 import ResultsClient from "./ResultsClient";
 import { calculateScore } from "@/utils/score";
 import { recordTestResults } from "@/utils/mistakes";
+import { useSettings } from "@/context/SettingsContext";
 
 import { safeGetItem, safeSetItem } from "@/utils/storage";
+
+interface Progress {
+  [key: string]: { score: number; passed: boolean; answers: Record<string, string | string[]> };
+}
 
 function readProgress(): Progress {
   const saved = safeGetItem("lifeinuk_progress");
@@ -26,6 +31,7 @@ function writeProgress(progress: Progress) {
 }
 
 export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }) {
+  const { showChinese } = useSettings();
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers] = useState<Record<string, string | string[]>>({});
   const [timeLeft, setTimeLeft] = useState(45 * 60); // 45 minutes
@@ -37,22 +43,8 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
   const currentQuestion = mockTest.questions[currentIdx];
   const expectedAnswersCount = currentQuestion.options.filter(o => o.isCorrect).length;
 
-  useEffect(() => {
-    if (isFinished) return;
-    const timer = setInterval(() => {
-      setTimeLeft((prev) => {
-        if (prev <= 1) {
-          clearInterval(timer);
-          finishTest();
-          return 0;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-    return () => clearInterval(timer);
-  }, [isFinished]);
-
-  const finishTest = () => {
+  // #3 Fix: Use ref to always capture latest answers in timer callback
+  const finishTest = useCallback(() => {
     const newScore = calculateScore(answers, mockTest);
     setScore(newScore);
     setIsFinished(true);
@@ -64,7 +56,27 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
 
     // Save failed questions to Mistakes Bank
     recordTestResults(mockTest, answers);
-  };
+  }, [answers, mockTest]);
+
+  const finishTestRef = useRef(finishTest);
+  useEffect(() => {
+    finishTestRef.current = finishTest;
+  }, [finishTest]);
+
+  useEffect(() => {
+    if (isFinished) return;
+    const timer = setInterval(() => {
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          clearInterval(timer);
+          finishTestRef.current();
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [isFinished]);
 
   const handleSelect = (optionId: string) => {
     setAnswers((prev) => {
@@ -102,21 +114,26 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
 
   return (
     <div className="flex flex-col flex-1">
-      {/* 
-        Fix: Overlap issue. 
-        We enforce bg-[#f9fafb] to ensure the sticky header remains totally opaque.
-      */}
-      <div className="sticky top-[72px] z-10 bg-[#f9fafb] py-4 -mx-4 px-4 sm:mx-0 sm:px-0 mb-6 border-b border-gray-200 sm:border-0 shadow-sm sm:shadow-none">
+      {/* #1 Fix: Use CSS var instead of hardcoded hex for dark mode compatibility */}
+      <div className="sticky top-[72px] z-10 py-4 -mx-4 px-4 sm:mx-0 sm:px-0 mb-6 border-b border-gray-200 sm:border-0 shadow-sm sm:shadow-none" style={{ backgroundColor: 'var(--background)' }}>
         <div className="flex justify-between items-center mb-2">
           <BilingualText text={mockTest.title} enClassName="font-bold text-gray-800 text-xl" zhClassName="text-gray-600" />
-          <div className="text-2xl font-bold text-red-700 tracking-wider font-mono bg-white px-3 py-1 rounded shadow-sm border border-red-100">
+          {/* #2,#15 Fix: Dark mode timer + role="timer" + aria-live */}
+          <div
+            role="timer"
+            aria-live="polite"
+            aria-label={showChinese ? `剩餘時間 ${formatTime(timeLeft)}` : `Time remaining ${formatTime(timeLeft)}`}
+            className="text-2xl font-bold text-red-700 tracking-wider font-mono bg-white px-3 py-1 rounded shadow-sm border border-red-100"
+          >
             {formatTime(timeLeft)}
           </div>
         </div>
         <div className="w-full bg-gray-200 h-3 rounded-full overflow-hidden">
           <div className="bg-blue-600 h-full transition-all duration-300" style={{ width: `${progressPct}%` }} />
         </div>
-        <p className="text-right text-sm text-gray-500 mt-1 font-medium">Question {currentIdx + 1} of {totalQuestions}</p>
+        <p className="text-right text-sm text-gray-500 mt-1 font-medium">
+          {showChinese ? `第 ${currentIdx + 1} 題，共 ${totalQuestions} 題` : `Question ${currentIdx + 1} of ${totalQuestions}`}
+        </p>
       </div>
 
       <div className="mb-8">
@@ -127,12 +144,13 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
         />
         {expectedAnswersCount > 1 && (
           <p className="mt-4 font-bold text-blue-700 bg-blue-50 inline-block px-4 py-2 rounded-lg">
-            Choose {expectedAnswersCount} answers
+            {showChinese ? `請選擇 ${expectedAnswersCount} 個答案` : `Choose ${expectedAnswersCount} answers`}
           </p>
         )}
       </div>
 
-      <div className="flex flex-col gap-4 flex-1 mb-8">
+      {/* #13 Fix: Add aria-label to option buttons */}
+      <div className="flex flex-col gap-4 flex-1 mb-8" role="group" aria-label={showChinese ? "答案選項" : "Answer options"}>
         {currentQuestion.options.map((opt) => {
           const currentAns = answers[currentQuestion.id];
           const isSelected = expectedAnswersCount === 1 
@@ -143,7 +161,9 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
             <button
               key={opt.id}
               onClick={() => handleSelect(opt.id)}
-              className={`w-full text-left min-h-[64px] p-4 rounded-xl border-2 transition-colors ${
+              aria-pressed={isSelected}
+              aria-label={`${showChinese ? '選項' : 'Option'} ${opt.id}: ${opt.text.en}`}
+              className={`w-full text-left min-h-[64px] p-4 rounded-xl border-2 transition-colors cursor-pointer ${
                 isSelected 
                   ? "border-blue-600 bg-blue-50" 
                   : "border-gray-300 bg-white hover:border-gray-400 hover:bg-gray-50"
@@ -151,6 +171,7 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
             >
               <BilingualText 
                 text={opt.text} 
+                as="span"
                 enClassName={`text-lg ${isSelected ? "text-blue-900 font-bold" : "text-gray-800"}`} 
                 zhClassName={`text-md mt-1 ${isSelected ? "text-blue-800 font-medium" : "text-gray-600"}`}
               />
@@ -159,34 +180,39 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
         })}
       </div>
 
+      {/* #7,#14,#26 Fix: cursor-pointer, aria-labels, bilingual labels */}
       <div className="flex justify-between mt-auto pt-6 border-t border-gray-200">
         <button
           onClick={() => setCurrentIdx((p) => Math.max(0, p - 1))}
           disabled={currentIdx === 0}
-          className="min-h-[56px] px-8 rounded-lg border border-gray-300 font-bold text-gray-700 bg-white hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed text-lg"
+          aria-label={showChinese ? "上一題" : "Previous question"}
+          className="min-h-[56px] px-8 rounded-lg border border-gray-300 font-bold text-gray-700 bg-white hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed text-lg cursor-pointer"
         >
-          Previous
+          {showChinese ? "上一題" : "Previous"}
         </button>
         {currentIdx === totalQuestions - 1 ? (
           <button
             onClick={() => setShowSubmitModal(true)}
-            className="min-h-[56px] px-8 rounded-lg bg-blue-600 font-bold text-white hover:bg-blue-700 text-lg shadow-md"
+            aria-label={showChinese ? "提交考試" : "Submit test"}
+            className="min-h-[56px] px-8 rounded-lg bg-blue-600 font-bold text-white hover:bg-blue-700 text-lg shadow-md cursor-pointer"
           >
-            Submit Test
+            {showChinese ? "提交考試" : "Submit Test"}
           </button>
         ) : (
           <button
             onClick={() => setCurrentIdx((p) => Math.min(totalQuestions - 1, p + 1))}
-            className="min-h-[56px] px-8 rounded-lg border border-transparent bg-gray-900 text-white font-bold hover:bg-gray-800 text-lg shadow-md"
+            aria-label={showChinese ? "下一題" : "Next question"}
+            className="min-h-[56px] px-8 rounded-lg border border-transparent bg-gray-900 text-white font-bold hover:bg-gray-800 text-lg shadow-md cursor-pointer"
           >
-            Next
+            {showChinese ? "下一題" : "Next"}
           </button>
         )}
       </div>
 
+      {/* #9 Fix: Modal uses transition-colors for dark mode */}
       {showSubmitModal && (
         <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60">
-          <div className="bg-white rounded-xl shadow-xl max-w-md w-full p-6 text-center animate-in fade-in zoom-in duration-200">
+          <div className="bg-white rounded-xl shadow-xl max-w-md w-full p-6 text-center transition-colors">
             <BilingualText 
               text={{ en: "Submit Test", zh: "提交考試" }} 
               enClassName="text-2xl font-bold text-gray-900" 
@@ -204,18 +230,18 @@ export default function TestEngineClient({ mockTest }: { mockTest: MockTestSet }
             <div className="flex gap-4">
               <button 
                 onClick={() => setShowSubmitModal(false)}
-                className="flex-1 min-h-[48px] rounded-lg border border-gray-300 font-bold text-gray-700 bg-white hover:bg-gray-100"
+                className="flex-1 min-h-[48px] rounded-lg border border-gray-300 font-bold text-gray-700 bg-white hover:bg-gray-100 cursor-pointer transition-colors"
               >
-                Cancel / 取消
+                {showChinese ? "取消" : "Cancel"}
               </button>
               <button 
                 onClick={() => {
                   setShowSubmitModal(false);
                   finishTest();
                 }}
-                className="flex-1 min-h-[48px] rounded-lg bg-blue-600 font-bold text-white hover:bg-blue-700 shadow-md"
+                className="flex-1 min-h-[48px] rounded-lg bg-blue-600 font-bold text-white hover:bg-blue-700 shadow-md cursor-pointer"
               >
-                Submit / 提交
+                {showChinese ? "提交" : "Submit"}
               </button>
             </div>
           </div>

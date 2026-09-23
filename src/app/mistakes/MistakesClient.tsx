@@ -191,7 +191,7 @@ export default function MistakesClient() {
 
               {/* Explanation & Chapter Reference */}
               {q.explanation && (
-                <div className="bg-amber-50/80 border border-amber-200 rounded-xl p-4 mt-2">
+                <div className="bg-amber-50/80 border border-amber-200 rounded-xl p-4 mt-2 transition-colors">
                   <div className="text-xs font-black text-amber-900 mb-1 flex items-center gap-1.5">
                     <span>💡</span>
                     <span>{showChinese ? "考點詳細解析：" : "Official Explanation:"}</span>

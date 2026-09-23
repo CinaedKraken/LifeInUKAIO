@@ -50,7 +50,7 @@ export default function Home() {
           <p className="leading-relaxed">本網站是專為準備「Life in the UK」入籍試的香港人而設的免費雙語練習平台。收錄 18 套共 444 題完整的英文及繁體中文對照題目，並附有詳細答案解析與倒計時功能。建議將此網頁「儲存至主畫面」，即可獲得如原生手機 App 般的流暢使用體驗。</p>
         </div>
       </div>
-      <DashboardClient mockTests={mockTests} />
+      <DashboardClient mockTests={mockTests.map(t => ({ setId: t.setId, title: t.title }))} />
     </div>
   );
 }

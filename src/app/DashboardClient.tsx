@@ -2,14 +2,19 @@
 
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
-import { MockTestSet, Progress } from "@/types";
+import { Progress, TranslatedText } from "@/types";
 import BilingualText from "@/components/BilingualText";
 import { safeGetItem } from "@/utils/storage";
 import { getMistakesCount } from "@/utils/mistakes";
 import { useSettings } from "@/context/SettingsContext";
 
+interface TestSetSummary {
+  setId: number;
+  title: TranslatedText;
+}
+
 interface DashboardClientProps {
-  mockTests: MockTestSet[];
+  mockTests: TestSetSummary[];
 }
 
 export default function DashboardClient({ mockTests }: DashboardClientProps) {
